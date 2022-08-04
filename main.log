@@ -1,0 +1,5124 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.8.4)  4 AUG 2022 10:20
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-01-21> (./kaobook.cls
+Document Class: kaobook 2021/08/23 v0.9.8 kaobook
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrbook.cls
+Document Class: scrbook 2021/11/13 v3.35 KOMA-Script document class (book)
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrkbase.sty
+Package: scrkbase 2021/11/13 v3.35 KOMA-Script package (KOMA-Script-dependent b
+asics and keyval usage)
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2021/11/13 v3.35 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2021/11/13 v3.35 KOMA-Script package (file load hooks)
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
+Package: scrlfile-hook 2021/11/13 v3.35 KOMA-Script package (using LaTeX hooks)
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlogo.sty
+Package: scrlogo 2021/11/13 v3.35 KOMA-Script package (logo)
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+Applying: [2021/05/01] Usage of raw or classic option list on input line 252.
+Already applied: [0000/00/00] Usage of raw or classic option list on input line
+ 368.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/tocbasic.sty
+Package: tocbasic 2021/11/13 v3.35 KOMA-Script package (handling toc-files)
+\scr@dte@tocline@numberwidth=\skip47
+\scr@dte@tocline@numbox=\box50
+)
+Package tocbasic Info: babel extension for `toc' omitted
+(tocbasic)             because of missing \bbl@set@language on input line 137.
+Class scrbook Info: File `scrsize10pt.clo' used to setup font sizes on input li
+ne 2490.
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrsize10pt.clo
+File: scrsize10pt.clo 2021/11/13 v3.35 KOMA-Script font size class option (10pt
+)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/typearea.sty
+Package: typearea 2021/11/13 v3.35 KOMA-Script package (type area)
+\ta@bcor=\skip48
+\ta@div=\count185
+Package typearea Info: You've used standard option `letterpaper'.
+(typearea)             This is correct!
+(typearea)             Internally I'm using `paper=letter'.
+(typearea)             If you'd like to set the option with \KOMAoptions,
+(typearea)             you'd have to use `paper=letter' there
+(typearea)             instead of `letterpaper', too.
+\ta@hblk=\skip49
+\ta@vblk=\skip50
+\ta@temp=\skip51
+\footheight=\skip52
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = 8
+(typearea)             BCOR = 0.0pt
+(typearea)             \paperwidth      = 597.50793pt
+(typearea)              \textwidth      = 373.44246pt
+(typearea)              DIV departure   = -4%
+(typearea)              \evensidemargin = 39.76274pt
+(typearea)              \oddsidemargin  = 39.76274pt
+(typearea)             \paperheight     = 845.04694pt
+(typearea)              \textheight     = 538.0pt
+(typearea)              \topmargin      = 0.36087pt
+(typearea)              \headheight     = 15.0pt
+(typearea)              \headsep        = 18.0pt
+(typearea)              \topskip        = 10.0pt
+(typearea)              \footskip       = 42.0pt
+(typearea)              \baselineskip   = 12.0pt
+(typearea)              on input line 1743.
+)
+\c@part=\count186
+\c@chapter=\count187
+\c@section=\count188
+\c@subsection=\count189
+\c@subsubsection=\count190
+\c@paragraph=\count191
+\c@subparagraph=\count192
+\scr@dte@chapter@maxnumwidth=\skip53
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\chapter on input line 5715.
+\scr@dte@section@maxnumwidth=\skip54
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\section on input line 5726.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\section on input line 5726.
+\scr@dte@part@maxnumwidth=\skip55
+Class scrbook Info: using compatibility default `afterindent=true'
+(scrbook)           for `\part on input line 5735.
+\scr@dte@subsection@maxnumwidth=\skip56
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\subsection on input line 5745.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\subsection on input line 5745.
+\scr@dte@subsubsection@maxnumwidth=\skip57
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\subsubsection on input line 5755.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\subsubsection on input line 5755.
+\scr@dte@paragraph@maxnumwidth=\skip58
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\paragraph on input line 5766.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\paragraph on input line 5766.
+\scr@dte@subparagraph@maxnumwidth=\skip59
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\subparagraph on input line 5776.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\subparagraph on input line 5776.
+\abovecaptionskip=\skip60
+\belowcaptionskip=\skip61
+\c@pti@nb@sid@b@x=\box51
+Package tocbasic Info: babel extension for `lof' omitted
+(tocbasic)             because of missing \bbl@set@language on input line 6962.
+
+\scr@dte@figure@maxnumwidth=\skip62
+\c@figure=\count193
+Package tocbasic Info: babel extension for `lot' omitted
+(tocbasic)             because of missing \bbl@set@language on input line 6978.
+
+\scr@dte@table@maxnumwidth=\skip63
+\c@table=\count194
+Class scrbook Info: Redefining `\numberline' on input line 7146.
+\bibindent=\dimen138
+) (./kao.sty
+Package: kao 
+
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count195
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count196
+\calc@Bcount=\count197
+\calc@Adimen=\dimen139
+\calc@Bdimen=\dimen140
+\calc@Askip=\skip64
+\calc@Bskip=\skip65
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count198
+\calc@Cskip=\skip66
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Package option `usenames' ignored on input line 218.
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+)
+(/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen141
+\ar@mcellbox=\box52
+\extrarowheight=\dimen142
+\NC@list=\toks17
+\extratabsurround=\skip67
+\backup@length=\skip68
+\ar@cellbox=\box53
+)
+\everycr=\toks18
+\minrowclearance=\skip69
+)
+\rownum=\count199
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1356.
+Package xcolor Info: Model `RGB' extended on input line 1368.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xifthen/xifthen.sty
+Package: xifthen 2015/11/05 v1.4.0 Extended ifthen features
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/ifmtarg/ifmtarg.sty
+Package: ifmtarg 2018/04/16 v1.2b check for an empty argument
+))
+(/usr/share/texlive/texmf-dist/tex/latex/options/options.sty
+Package: options 2015/03/01, Daan Leijen, Provides convenient path-value (or ke
+y-value) options
+\opt@nesting=\count266
+\opt@idx=\count267
+\opt@choiceord=\count268
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2022-01-21 L3 programming layer (loader) 
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count269
+\l__pdf_internal_box=\box54
+))
+Package: xparse 2022-01-12 L3 Experimental document command parser
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xpatch/xpatch.sty
+Package: xpatch 2020/03/25 v0.3a Extending etoolbox patching commands
+)
+(/usr/share/texlive/texmf-dist/tex/generic/xstring/xstring.sty
+(/usr/share/texlive/texmf-dist/tex/generic/xstring/xstring.tex
+\integerpart=\count270
+\decimalpart=\count271
+)
+Package: xstring 2021/07/21 v1.84 String manipulations (CT)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/afterpage.sty
+Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
+\AP@output=\toks19
+\AP@partial=\box55
+\AP@footins=\box56
+)
+(/usr/share/texlive/texmf-dist/tex/latex/imakeidx/imakeidx.sty
+Package: imakeidx 2016/10/15 v1.3e Package for typesetting indices in a synchro
+nous mode
+
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks20
+\XKV@tempa@toks=\toks21
+)
+\XKV@depth=\count272
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2021/10/28 v1.9b multicolumn formatting (FMi)
+\c@tracingmulticols=\count273
+\mult@box=\box57
+\multicol@leftmargin=\dimen143
+\c@unbalance=\count274
+\c@collectmore=\count275
+\doublecol@number=\count276
+\multicoltolerance=\count277
+\multicolpretolerance=\count278
+\full@width=\dimen144
+\page@free=\dimen145
+\premulticols=\dimen146
+\postmulticols=\dimen147
+\multicolsep=\skip70
+\multicolbaselineskip=\skip71
+\partial@page=\box58
+\last@line=\box59
+\maxbalancingoverflow=\dimen148
+\mult@rightbox=\box60
+\mult@grightbox=\box61
+\mult@firstbox=\box62
+\mult@gfirstbox=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\c@minrows=\count279
+\c@columnbadness=\count280
+\c@finalcolumnbadness=\count281
+\last@try=\dimen149
+\multicolovershoot=\dimen150
+\multicolundershoot=\dimen151
+\mult@nat@firstbox=\box100
+\colbreak@box=\box101
+\mc@col@check@num=\count282
+))
+(/usr/share/texlive/texmf-dist/tex/latex/tools/varioref.sty
+Package: varioref 2021/07/07 v1.6f package for extended references (FMi)
+\c@vrcnt=\count283
+)
+\hscale=\skip72
+\vscale=\skip73
+
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count284
+\Gm@cntv=\count285
+\c@Gm@tempcnt=\count286
+\Gm@bindingoffset=\dimen152
+\Gm@wd@mp=\dimen153
+\Gm@odd@mp=\dimen154
+\Gm@even@mp=\dimen155
+\Gm@layoutwidth=\dimen156
+\Gm@layoutheight=\dimen157
+\Gm@layouthoffset=\dimen158
+\Gm@layoutvoffset=\dimen159
+\Gm@dimlist=\toks22
+)
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlayer-scrpage.sty
+Package: scrlayer-scrpage 2021/11/13 v3.35 KOMA-Script package (end user interf
+ace for scrlayer)
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlayer.sty
+Package: scrlayer 2021/11/13 v3.35 KOMA-Script package (defining layers and pag
+e styles)
+Package scrlayer Info: Using already defined \footheight
+(scrlayer)             hoping, that this is a length and
+(scrlayer)             not only a macro on input line 136.
+Package scrlayer Info: patching LaTeX kernel macro \pagestyle on input line 216
+2.
+)
+Package scrlayer-scrpage Info: Makeing stand-alone element `pagehead' from
+(scrlayer-scrpage)             alias to `pageheadfoot' on input line 1085.
+Package scrlayer-scrpage Info: deactivating warning for font element
+(scrlayer-scrpage)             `pagefoot' on input line 1109.
+)
+Package scrlayer-scrpage Info: auto-selection of `pagestyleset=KOMA-Script'.
+\headtextwidth=\skip74
+\headmarginparsep=\skip75
+\headmarginparwidth=\skip76
+\headtotal=\skip77
+\contentwidth=\skip78
+
+(/usr/share/texlive/texmf-dist/tex/latex/ragged2e/ragged2e.sty
+Package: ragged2e 2021/12/15 v3.1 ragged2e Package
+\CenteringLeftskip=\skip79
+\RaggedLeftLeftskip=\skip80
+\RaggedRightLeftskip=\skip81
+\CenteringRightskip=\skip82
+\RaggedLeftRightskip=\skip83
+\RaggedRightRightskip=\skip84
+\CenteringParfillskip=\skip85
+\RaggedLeftParfillskip=\skip86
+\RaggedRightParfillskip=\skip87
+\JustifyingParfillskip=\skip88
+\CenteringParindent=\skip89
+\RaggedLeftParindent=\skip90
+\RaggedRightParindent=\skip91
+\JustifyingParindent=\skip92
+)
+(/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyphenat/hyphenat.sty
+Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
+\langwohyphens=\language87
+LaTeX Info: Redefining \_ on input line 43.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2021/12/10 v3.0b Micro-typographical refinements (RS)
+\MT@toks=\toks23
+\MT@count=\count287
+\MT@tempbox=\box102
+LaTeX Info: Redefining \leftprotrusion on input line 1010.
+LaTeX Info: Redefining \rightprotrusion on input line 1018.
+LaTeX Info: Redefining \textls on input line 1173.
+\MT@outer@kern=\dimen160
+LaTeX Info: Redefining \textmicrotypecontext on input line 1759.
+\MT@listname@count=\count288
+
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+File: microtype-pdftex.def 2021/12/10 v3.0b Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 897.
+LaTeX Info: Redefining \lslig on input line 897.
+\MT@outer@space=\skip93
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2021/12/10 v3.0b microtype main configuration file (RS)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/needspace/needspace.sty
+Package: needspace 2010/09/12 v1.3d reserve vertical space
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/placeins/placeins.sty
+Package: placeins 2005/04/18  v 2.2
+)
+(/usr/share/texlive/texmf-dist/tex/latex/marginnote/marginnote.sty
+Package: marginnote 2018/08/09 v1.4b non floating margin notes for LaTeX
+\c@mn@abspage=\count289
+)
+(/usr/share/texlive/texmf-dist/tex/latex/sidenotes/sidenotes.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2022-01-12 LaTeX2e option processing using LaTeX3 keys
+)
+Package: sidenotes 2016/04/21 v1.00 rich text in the margin for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen161
+\captionmargin@=\dimen162
+\captionwidth=\dimen163
+\caption@tempdima=\dimen164
+\caption@indent=\dimen165
+\caption@parindent=\dimen166
+\caption@hangindent=\dimen167
+Package caption Info: KOMA-Script document class detected.
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption-koma.sto
+File: caption-koma.sto 2020/09/21 v2.0b Adaption of the caption package to the 
+KOMA-Script document classes (AR)
+))
+\c@caption@flags=\count290
+\c@continuedfloat=\count291
+)
+(/usr/share/texlive/texmf-dist/tex/latex/changepage/changepage.sty
+Package: changepage 2009/10/20 v1.0c check page and change page layout
+\c@cp@cntr=\count292
+\cp@tempcnt=\count293
+)
+\c@sidenote=\count294
+\@sidenotes@marginfigurebox=\box103
+\@sidenotes@margintablebox=\box104
+)
+(/usr/share/texlive/texmf-dist/tex/latex/chngcntr/chngcntr.sty
+Package: chngcntr 2018/04/09 v1.1a change counter resetting
+Package chngcntr Info: \counterwithout already defined.
+(chngcntr)             Quitting chngcntr on input line 21.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/footmisc/footmisc.sty
+Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
+\FN@temptoken=\toks24
+\footnotemargin=\dimen168
+\c@pp@next@reset=\count295
+Package footmisc Info: Declaring symbol style bringhurst on input line 855.
+Package footmisc Info: Declaring symbol style chicago on input line 863.
+Package footmisc Info: Declaring symbol style wiley on input line 872.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 883.
+
+Package footmisc Info: Declaring symbol style lamport* on input line 903.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 924
+.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/footnotebackref/footnotebackref.sty
+Package: footnotebackref 2012/07/01 v1.0 Backreferences for footnotes (Holger L
+ange)
+
+(/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen169
+\Hy@linkcounter=\count296
+\Hy@pagecounter=\count297
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
+File: hyperref-langpatches.def 2021-06-07 v7.00m Hyperref: patches for babel la
+nguages
+)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count298
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count299
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen170
+
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count300
+\Field@Width=\dimen171
+\Fld@charsize=\dimen172
+Package hyperref Info: Hyper figures OFF on input line 6076.
+Package hyperref Info: Link nesting OFF on input line 6081.
+Package hyperref Info: Hyper index ON on input line 6084.
+Package hyperref Info: backreferencing OFF on input line 6091.
+Package hyperref Info: Link coloring OFF on input line 6096.
+Package hyperref Info: Link coloring with OCG OFF on input line 6101.
+Package hyperref Info: PDF/A mode OFF on input line 6106.
+LaTeX Info: Redefining \ref on input line 6146.
+LaTeX Info: Redefining \pageref on input line 6150.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count301
+\c@Item=\count302
+\c@Hfootnote=\count303
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2021-06-07 v7.00m Hyperref driver for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count304
+\c@bookmark@seq@number=\count305
+
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip94
+)
+\c@BackrefHyperFootnoteCounter=\count306
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+)
+\Gin@req@height=\dimen173
+\Gin@req@width=\dimen174
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks25
+\pgfutil@tempdima=\dimen175
+\pgfutil@tempdimb=\dimen176
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.t
+ex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box105
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
+))
+Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks26
+\pgfkeys@temptoks=\toks27
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.t
+ex
+\pgfkeys@tmptoks=\toks28
+))
+\pgf@x=\dimen177
+\pgf@y=\dimen178
+\pgf@xa=\dimen179
+\pgf@ya=\dimen180
+\pgf@xb=\dimen181
+\pgf@yb=\dimen182
+\pgf@xc=\dimen183
+\pgf@yc=\dimen184
+\pgf@xd=\dimen185
+\pgf@yd=\dimen186
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count307
+\c@pgf@countb=\count308
+\c@pgf@countc=\count309
+\c@pgf@countd=\count310
+\t@pgf@toka=\toks29
+\t@pgf@tokb=\toks30
+\t@pgf@tokc=\toks31
+\pgf@sys@id@count=\count311
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.de
+f
+File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.
+tex
+File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfsyssoftpath@smallbuffer@items=\count312
+\pgfsyssoftpath@bigbuffer@items=\count313
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.
+tex
+File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen187
+\pgfmath@count=\count314
+\pgfmath@box=\box106
+\pgfmath@toks=\toks32
+\pgfmath@stack@operand=\toks33
+\pgfmath@stack@operation=\toks34
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonomet
+ric.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.cod
+e.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison
+.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerari
+thmetics.code.tex)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count315
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.te
+x
+File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@picminx=\dimen188
+\pgf@picmaxx=\dimen189
+\pgf@picminy=\dimen190
+\pgf@picmaxy=\dimen191
+\pgf@pathminx=\dimen192
+\pgf@pathmaxx=\dimen193
+\pgf@pathminy=\dimen194
+\pgf@pathmaxy=\dimen195
+\pgf@xx=\dimen196
+\pgf@xy=\dimen197
+\pgf@yx=\dimen198
+\pgf@yy=\dimen199
+\pgf@zx=\dimen256
+\pgf@zy=\dimen257
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.
+code.tex
+File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@path@lastx=\dimen258
+\pgf@path@lasty=\dimen259
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code
+.tex
+File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@shorten@end@additional=\dimen260
+\pgf@shorten@start@additional=\dimen261
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.te
+x
+File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfpic=\box107
+\pgf@hbox=\box108
+\pgf@layerbox@main=\box109
+\pgf@picture@serial@count=\count316
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.c
+ode.tex
+File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgflinewidth=\dimen262
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformation
+s.code.tex
+File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@pt@x=\dimen263
+\pgf@pt@y=\dimen264
+\pgf@pt@temp=\dimen265
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.t
+ex
+File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing
+.code.tex
+File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.te
+x
+File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowsep=\dimen266
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@max=\dimen267
+\pgf@sys@shading@range@num=\count317
+\pgf@shadingcount=\count318
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.
+tex
+File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfexternal@startupbox=\box110
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.te
+x
+File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.c
+ode.tex
+File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.
+tex
+File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfnodeparttextbox=\box111
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65
+.sty
+Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@nodesepstart=\dimen268
+\pgf@nodesepend=\dimen269
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18
+.sty
+Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
+)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen270
+\pgffor@skip=\dimen271
+\pgffor@stack=\toks35
+\pgffor@toks=\toks36
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers
+.code.tex
+File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@plot@mark@count=\count319
+\pgfplotmarksize=\dimen272
+)
+\tikz@lastx=\dimen273
+\tikz@lasty=\dimen274
+\tikz@lastxsaved=\dimen275
+\tikz@lastysaved=\dimen276
+\tikz@lastmovetox=\dimen277
+\tikz@lastmovetoy=\dimen278
+\tikzleveldistance=\dimen279
+\tikzsiblingdistance=\dimen280
+\tikz@figbox=\box112
+\tikz@figbox@bg=\box113
+\tikz@tempbox=\box114
+\tikz@tempbox@bg=\box115
+\tikztreelevel=\count320
+\tikznumberofchildren=\count321
+\tikznumberofcurrentchild=\count322
+\tikz@fig@count=\count323
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfmatrixcurrentrow=\count324
+\pgfmatrixcurrentcolumn=\count325
+\pgf@matrix@numberofcolumns=\count326
+)
+\tikz@expandcount=\count327
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/tikzpagenodes/tikzpagenodes.sty
+Package: tikzpagenodes 2012/09/16 v1.1 Special PGF/TikZ nodes for areas of the 
+page
+
+(/usr/share/texlive/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count328
+LaTeX Info: Redefining \checkoddpage on input line 45.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen281
+\lightrulewidth=\dimen282
+\cmidrulewidth=\dimen283
+\belowrulesep=\dimen284
+\belowbottomsep=\dimen285
+\aboverulesep=\dimen286
+\abovetopsep=\dimen287
+\cmidrulesep=\dimen288
+\cmidrulekern=\dimen289
+\defaultaddspace=\dimen290
+\@cmidla=\count329
+\@cmidlb=\count330
+\@aboverulesep=\dimen291
+\@belowrulesep=\dimen292
+\@thisruleclass=\count331
+\@lastruleclass=\count332
+\@thisrulewidth=\dimen293
+)
+(/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip95
+\multirow@cntb=\count333
+\multirow@dima=\skip96
+\bigstrutjot=\dimen294
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+\c@r@tfl@t=\count334
+\rotFPtop=\skip97
+\rotFPbot=\skip98
+\rot@float@box=\box116
+\rot@mess@toks=\toks37
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count335
+\lst@gtempboxa=\box117
+\lst@token=\toks38
+\lst@length=\count336
+\lst@currlwidth=\dimen295
+\lst@column=\count337
+\lst@pos=\count338
+\lst@lostspace=\dimen296
+\lst@width=\dimen297
+\lst@newlines=\count339
+\lst@lineno=\count340
+\lst@maxwidth=\dimen298
+
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count341
+\lst@skipnumbers=\count342
+\lst@framebox=\box118
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+
+(/usr/share/texlive/texmf-dist/tex/latex/floatrow/floatrow.sty
+Package: floatrow 2008/08/02 v0.3b floatrow: float package extension
+\c@float@type=\count343
+\float@exts=\toks39
+\float@box=\box119
+\@floatcapt=\box120
+Package floatrow Info: Modified float package code loaded on input line 455.
+Package floatrow Info: Modified rotfloat package code loaded on input line 473.
+
+\FR@everyfloat=\toks40
+\flrow@foot=\insert252
+\FB@wd=\dimen299
+\FBo@wd=\dimen300
+\FBc@wd=\dimen301
+\FBo@ht=\skip99
+\FBc@ht=\skip100
+\FBf@ht=\skip101
+\FBo@max=\skip102
+\FBc@max=\skip103
+\FBf@max=\skip104
+\c@FBl@b=\count344
+\floatbox@depth=\count345
+\c@FRobj=\count346
+\c@FRsobj=\count347
+\Xhsize=\skip105
+\sXhsize=\skip106
+\Zhsize=\skip107
+\sZhsize=\skip108
+\flrow@rowbox=\box121
+\FR@Zunitlength=\dimen302
+\c@FBcnt=\count348
+\FPOScnt=\count349
+\LTleft=\skip109
+\LTright=\skip110
+\LTleft=\skip111
+\LTright=\skip112
+\flrow@types=\toks41
+)
+\kaomarginskipabove=\skip113
+\kaomarginskipbelow=\skip114
+\@sidenotes@marginlistingbox=\box122
+\mycap=\box123
+\scr@dte@lstlisting@maxnumwidth=\skip115
+
+(/usr/share/texlive/texmf-dist/tex/latex/etoc/etoc.sty
+Package: etoc 2021/09/23 v1.09e Completely customisable TOCs (JFB)
+\Etoc@toctoks=\toks42
+\c@etoc@tocid=\count350
+\c@etoc@tocdepth=\count351
+\etoc@framed@titlebox=\box124
+\etoc@framed@contentsbox=\box125
+)
+\c@margintocdepth=\count352
+\mtocshift=\skip116
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks43
+\inpenc@posthook=\toks44
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks45
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/newpx/newpxtext.sty
+Package: newpxtext 2022/01/30 v1.504(Michael Sharpe) latex and unicode latex su
+pport for TeXGyrePagellaX
+
+`newpxtext' v1.504, 2022/01/30 Text macros taking advantage of TeXGyre Pagella 
+and its extensions (msharpe)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+(/usr/share/texlive/texmf-dist/tex/latex/carlisle/scalefnt.sty)
+LaTeX Font Info:    Setting zplLF sub-encoding to TS1/0 on input line 24.
+LaTeX Font Info:    Setting zplTLF sub-encoding to TS1/0 on input line 24.
+LaTeX Font Info:    Setting zplOsF sub-encoding to TS1/0 on input line 24.
+LaTeX Font Info:    Setting zplTOsF sub-encoding to TS1/0 on input line 24.
+\zpl@cnt=\count353
+
+(/usr/share/texlive/texmf-dist/tex/latex/fontaxes/fontaxes.sty
+Package: fontaxes 2020/07/21 v1.0e Font selection axes
+LaTeX Info: Redefining \upshape on input line 29.
+LaTeX Info: Redefining \itshape on input line 31.
+LaTeX Info: Redefining \slshape on input line 33.
+LaTeX Info: Redefining \swshape on input line 35.
+LaTeX Info: Redefining \scshape on input line 37.
+LaTeX Info: Redefining \sscshape on input line 39.
+LaTeX Info: Redefining \ulcshape on input line 41.
+LaTeX Info: Redefining \textsw on input line 47.
+LaTeX Info: Redefining \textssc on input line 48.
+LaTeX Info: Redefining \textulc on input line 49.
+)
+LaTeX Info: Redefining \nustyle on input line 254.
+LaTeX Info: Redefining \textsu on input line 492.
+LaTeX Info: Redefining \oldstylenums on input line 581.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/newpx/newpxmath.sty
+Package: newpxmath 2021/12/04 v1.5
+
+`newpxmath' v1.5, 2021/12/04 Math macros based on pxfonts (msharpe)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2021/10/15 v2.17l AMS math features
+\@mathmargin=\skip117
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks46
+\ex@=\dimen303
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen304
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2021/08/26 v2.02 operator names
+)
+\inf@bad=\count354
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count355
+\leftroot@=\count356
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count357
+\DOTSCASE@=\count358
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box126
+\strutbox@=\box127
+\big@size=\dimen305
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count359
+\c@MaxMatrixCols=\count360
+\dotsspace@=\muskip17
+\c@parentequation=\count361
+\dspbrk@lvl=\count362
+\tag@help=\toks47
+\row@=\count363
+\column@=\count364
+\maxfields@=\count365
+\andhelp@=\toks48
+\eqnshift@=\dimen306
+\alignsep@=\dimen307
+\tagshift@=\dimen308
+\tagwidth@=\dimen309
+\totwidth@=\dimen310
+\lineht@=\dimen311
+\@envbody=\toks49
+\multlinegap=\skip118
+\multlinetaggap=\skip119
+\mathdisplay@stack=\toks50
+LaTeX Info: Redefining \[ on input line 2938.
+LaTeX Info: Redefining \] on input line 2939.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/kastrup/binhex.tex)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/centernot.sty
+Package: centernot 2016/05/16 v1.4 Centers the not symbol horizontally (HO)
+)
+\px@tA=\toks51
+\px@tB=\toks52
+\px@su=\read3
+\px@Isdigit=\count366
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 211.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/zplTLF/m/n on input line 211.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/zplTLF/m/n on input line 211.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/zplTLF/m/n --> OT1/zplTLF/b/n on input line 212.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 215.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> T1/qhv/m/n on input line 215.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> T1/qhv/m/n on input line 215.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 216.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/zplTLF/m/it on input line 216.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/zplTLF/m/it on input line 216.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 217.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> T1/npxtt/m/n on input line 217.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> T1/npxtt/m/n on input line 217.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 219.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/zplTLF/b/n on input line 219.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/zplTLF/b/n on input line 219.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/zplTLF/m/it --> OT1/zplTLF/b/it on input line 220.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  T1/qhv/m/n --> T1/qhv/b/n on input line 222.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  T1/npxtt/m/n --> T1/npxtt/b/n on input line 223.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 234.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/npxmi/m/it on input line 234.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/npxmi/m/it on input line 234.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/npxmi/m/it --> OML/npxmi/b/it on input line 235.
+\symlettersA=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `lettersA' in version `bold'
+(Font)                  U/npxmia/m/it --> U/npxmia/b/it on input line 253.
+LaTeX Font Info:    Redeclaring math alphabet \mathfrak on input line 255.
+Now handling font encoding LMS ...
+... no UTF-8 mapping file for font encoding LMS
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 263.
+LaTeX Font Info:    Encoding `OMS' has changed to `LMS' for symbol font
+(Font)              `symbols' in the math version `normal' on input line 263.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> LMS/npxsy/m/n on input line 263.
+LaTeX Font Info:    Encoding `OMS' has changed to `LMS' for symbol font
+(Font)              `symbols' in the math version `bold' on input line 263.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> LMS/npxsy/m/n on input line 263.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  LMS/npxsy/m/n --> LMS/npxsy/b/n on input line 264.
+\symAMSm=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `AMSm' in version `bold'
+(Font)                  U/npxsym/m/n --> U/npxsym/b/n on input line 284.
+\symsymbolsC=\mathgroup8
+LaTeX Font Info:    Overwriting symbol font `symbolsC' in version `bold'
+(Font)                  U/npxsyc/m/n --> U/npxsyc/b/n on input line 306.
+Now handling font encoding LMX ...
+... no UTF-8 mapping file for font encoding LMX
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 326.
+LaTeX Font Info:    Encoding `OMX' has changed to `LMX' for symbol font
+(Font)              `largesymbols' in the math version `normal' on input line 3
+26.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> LMX/npxexx/m/n on input line 326.
+LaTeX Font Info:    Encoding `OMX' has changed to `LMX' for symbol font
+(Font)              `largesymbols' in the math version `bold' on input line 326
+.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> LMX/npxexx/m/n on input line 326.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  LMX/npxexx/m/n --> LMX/npxexx/b/n on input line 327.
+\symlargesymbolsPXA=\mathgroup9
+LaTeX Font Info:    Overwriting symbol font `largesymbolsPXA' in version `bold'
+
+(Font)                  U/npxexa/m/n --> U/npxexa/b/n on input line 334.
+\px@cntz=\count367
+\px@IsAlNum=\count368
+\px@sbptoks=\toks53
+LaTeX Font Info:    Redeclaring math delimiter \lfloor on input line 489.
+LaTeX Font Info:    Redeclaring math delimiter \rfloor on input line 490.
+LaTeX Font Info:    Redeclaring math delimiter \lceil on input line 491.
+LaTeX Font Info:    Redeclaring math delimiter \rceil on input line 492.
+LaTeX Font Info:    Redeclaring math delimiter \lbrace on input line 493.
+LaTeX Font Info:    Redeclaring math delimiter \rbrace on input line 494.
+LaTeX Font Info:    Redeclaring math delimiter \langle on input line 495.
+LaTeX Font Info:    Redeclaring math delimiter \rangle on input line 497.
+LaTeX Font Info:    Redeclaring math delimiter \arrowvert on input line 501.
+LaTeX Font Info:    Redeclaring math delimiter \vert on input line 502.
+LaTeX Font Info:    Redeclaring math symbol \parallel on input line 503.
+LaTeX Font Info:    Redeclaring math delimiter \Arrowvert on input line 504.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 544.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 545.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 546.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 547.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 548.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 549.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 550.
+LaTeX Font Info:    Redeclaring math accent \check on input line 551.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 555.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 556.
+LaTeX Font Info:    Redeclaring math accent \vec on input line 1598.
+LaTeX Info: Redefining \Bbbk on input line 2175.
+LaTeX Info: Redefining \not on input line 2457.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/bera/beramono.sty
+Package: beramono 2004/01/31 (WaS)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/mathalpha/mathalfa.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/mathalpha/mathalpha.sty
+Package: mathalpha 2021/11/18 - 1.143mathalpha (License LPPL) Michael Sharpe
+
+`mathalpha' v1.143, 2021/11/18, a renaming of mathalfa (msharpe)
+LaTeX Font Info:    Redeclaring math alphabet \mathcal on input line 554.
+LaTeX Font Info:    Overwriting math alphabet `\mathcal' in version `bold'
+(Font)                  U/BOONDOX-calo/m/n --> U/BOONDOX-calo/b/n on input line
+ 556.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/morewrites/morewrites.sty
+(/usr/share/texlive/texmf-dist/tex/latex/morewrites/primargs.sty
+Package: primargs 2018/12/29 Parsing arguments of primitives
+)
+Package: morewrites 2018/12/29 Always room for a new write
+\g__morewrites_later_int=\count369
+\l__morewrites_user_int=\count370
+\g__morewrites_iow=\write4
+\g__morewrites_ior=\read4
+\g__morewrites_group_level_int=\count371
+\g__morewrites_shipout_box=\box128
+\l__morewrites_collect_next_int=\count372
+\g__morewrites_alloc_write_int=\count373
+)
+(/usr/share/texlive/texmf-dist/tex/latex/bookmark/bookmark.sty
+Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
+File: bkm-pdftex.def 2020-11-06 v1.29 bookmark driver for pdfTeX (HO)
+\BKM@id=\count374
+))
+Package hyperref Info: Option `unicode' set `true' on input line 1115.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 1115.
+Package hyperref Info: Option `breaklinks' set `true' on input line 1115.
+Package hyperref Info: Option `colorlinks' set `true' on input line 1115.
+
+(/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip120
+\enit@outerparindent=\dimen312
+\enit@toks=\toks54
+\enit@inbox=\box129
+\enit@count@id=\count375
+\enitdp@description=\count376
+)
+(/usr/share/texlive/texmf-dist/tex/latex/mdframed/mdframed.sty
+Package: mdframed 2013/07/01 1.9b: mdframed
+
+(/usr/share/texlive/texmf-dist/tex/latex/zref/zref-abspage.sty
+Package: zref-abspage 2020-07-03 v2.32 Module abspage for zref (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/zref/zref-base.sty
+Package: zref-base 2020-07-03 v2.32 Module base for zref (HO)
+Package zref Info: New property list: main on input line 764.
+Package zref Info: New property: default on input line 765.
+Package zref Info: New property: page on input line 766.
+)
+\c@abspage=\count377
+Package zref Info: New property: abspage on input line 66.
+)
+\mdf@templength=\skip121
+\c@mdf@globalstyle@cnt=\count378
+\mdf@skipabove@length=\skip122
+\mdf@skipbelow@length=\skip123
+\mdf@leftmargin@length=\skip124
+\mdf@rightmargin@length=\skip125
+\mdf@innerleftmargin@length=\skip126
+\mdf@innerrightmargin@length=\skip127
+\mdf@innertopmargin@length=\skip128
+\mdf@innerbottommargin@length=\skip129
+\mdf@splittopskip@length=\skip130
+\mdf@splitbottomskip@length=\skip131
+\mdf@outermargin@length=\skip132
+\mdf@innermargin@length=\skip133
+\mdf@linewidth@length=\skip134
+\mdf@innerlinewidth@length=\skip135
+\mdf@middlelinewidth@length=\skip136
+\mdf@outerlinewidth@length=\skip137
+\mdf@roundcorner@length=\skip138
+\mdf@footenotedistance@length=\skip139
+\mdf@userdefinedwidth@length=\skip140
+\mdf@needspace@length=\skip141
+\mdf@frametitleaboveskip@length=\skip142
+\mdf@frametitlebelowskip@length=\skip143
+\mdf@frametitlerulewidth@length=\skip144
+\mdf@frametitleleftmargin@length=\skip145
+\mdf@frametitlerightmargin@length=\skip146
+\mdf@shadowsize@length=\skip147
+\mdf@extratopheight@length=\skip148
+\mdf@subtitleabovelinewidth@length=\skip149
+\mdf@subtitlebelowlinewidth@length=\skip150
+\mdf@subtitleaboveskip@length=\skip151
+\mdf@subtitlebelowskip@length=\skip152
+\mdf@subtitleinneraboveskip@length=\skip153
+\mdf@subtitleinnerbelowskip@length=\skip154
+\mdf@subsubtitleabovelinewidth@length=\skip155
+\mdf@subsubtitlebelowlinewidth@length=\skip156
+\mdf@subsubtitleaboveskip@length=\skip157
+\mdf@subsubtitlebelowskip@length=\skip158
+\mdf@subsubtitleinneraboveskip@length=\skip159
+\mdf@subsubtitleinnerbelowskip@length=\skip160
+
+(/usr/share/texlive/texmf-dist/tex/latex/mdframed/md-frame-1.mdf
+File: md-frame-1.mdf 2013/07/01\ 1.9b: md-frame-1
+)
+\mdf@frametitlebox=\box130
+\mdf@footnotebox=\box131
+\mdf@splitbox@one=\box132
+\mdf@splitbox@two=\box133
+\mdf@splitbox@save=\box134
+\mdfsplitboxwidth=\skip161
+\mdfsplitboxtotalwidth=\skip162
+\mdfsplitboxheight=\skip163
+\mdfsplitboxdepth=\skip164
+\mdfsplitboxtotalheight=\skip165
+\mdfframetitleboxwidth=\skip166
+\mdfframetitleboxtotalwidth=\skip167
+\mdfframetitleboxheight=\skip168
+\mdfframetitleboxdepth=\skip169
+\mdfframetitleboxtotalheight=\skip170
+\mdffootnoteboxwidth=\skip171
+\mdffootnoteboxtotalwidth=\skip172
+\mdffootnoteboxheight=\skip173
+\mdffootnoteboxdepth=\skip174
+\mdffootnoteboxtotalheight=\skip175
+\mdftotallinewidth=\skip176
+\mdfboundingboxwidth=\skip177
+\mdfboundingboxtotalwidth=\skip178
+\mdfboundingboxheight=\skip179
+\mdfboundingboxdepth=\skip180
+\mdfboundingboxtotalheight=\skip181
+\mdf@freevspace@length=\skip182
+\mdf@horizontalwidthofbox@length=\skip183
+\mdf@verticalmarginwhole@length=\skip184
+\mdf@horizontalspaceofbox=\skip185
+\mdfsubtitleheight=\skip186
+\mdfsubsubtitleheight=\skip187
+\c@mdfcountframes=\count379
+
+****** mdframed patching \endmdf@trivlist
+
+****** -- success******
+
+\mdf@envdepth=\count380
+\c@mdf@env@i=\count381
+\c@mdf@env@ii=\count382
+\c@mdf@zref@counter=\count383
+Package zref Info: New property: mdf@pagevalue on input line 895.
+)
+\c@kaocounter=\count384
+Package tocbasic Info: babel extension for `loi' omitted
+(tocbasic)             because of missing \bbl@set@language on input line 1277.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2022/01/29 v0.5u Insert pages of external PDF documents (AM)
+
+(/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
+\ESO@tempdima=\dimen313
+\ESO@tempdimb=\dimen314
+)
+\AM@pagewidth=\dimen315
+\AM@pageheight=\dimen316
+\AM@fboxrule=\dimen317
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2022/01/29 v0.5u Pdfpages driver for pdfTeX (AM)
+)
+\pdfpages@includegraphics@status=\count385
+\AM@pagebox=\box135
+\AM@global@opts=\toks55
+\AM@pagecnt=\count386
+\AM@toc@title=\toks56
+\c@AM@survey=\count387
+\AM@templatesizebox=\box136
+)
+(/usr/share/texlive/texmf-dist/tex/latex/subfiles/subfiles.sty
+Package: subfiles 2020/11/14 v2.2 Multi-file projects (package)
+
+(/usr/share/texlive/texmf-dist/tex/latex/import/import.sty
+Package: import 2020/04/01  v 6.2
+))
+(/usr/share/texlive/texmf-dist/tex/latex/todonotes/todonotes.sty
+Package: todonotes 2021/06/04 v1.1.5 Todonotes source and documentation.
+Package: todonotes 2021/06/04
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+\c@@todonotes@numberoftodonotes=\count388
+)
+(/usr/share/texlive/texmf-dist/tex/latex/algorithm2e/algorithm2e.sty
+Package: algorithm2e 2017/07/18 v5.2 algorithms environments
+\c@AlgoLine=\count389
+\algocf@hangindent=\skip188
+
+(/usr/share/texlive/texmf-dist/tex/latex/relsize/relsize.sty
+Package: relsize 2013/03/29 ver 4.1
+)
+\skiptotal=\skip189
+\skiplinenumber=\skip190
+\skiprule=\skip191
+\skiphlne=\skip192
+\skiptext=\skip193
+\skiplength=\skip194
+\algomargin=\skip195
+\skipalgocfslide=\skip196
+\algowidth=\dimen318
+\inoutsize=\dimen319
+\inoutindent=\dimen320
+\interspacetitleruled=\dimen321
+\interspacealgoruled=\dimen322
+\interspacetitleboxruled=\dimen323
+\algocf@ruledwidth=\skip197
+\algocf@inoutbox=\box137
+\algocf@inputbox=\box138
+\AlCapSkip=\skip198
+\AlCapHSkip=\skip199
+\algoskipindent=\skip256
+\algocf@nlbox=\box139
+\algocf@hangingbox=\box140
+\algocf@untilbox=\box141
+\algocf@skipuntil=\skip257
+\algocf@capbox=\box142
+\algocf@lcaptionbox=\skip258
+\algoheightruledefault=\skip259
+\algoheightrule=\skip260
+\algotitleheightruledefault=\skip261
+\algotitleheightrule=\skip262
+\c@algocfline=\count390
+\c@algocfproc=\count391
+\c@algocf=\count392
+\algocf@algoframe=\box143
+\algocf@algobox=\box144
+)
+(/usr/share/texlive/texmf-dist/tex/latex/ccicons/ccicons.sty
+Package: ccicons 2017/10/30 v1.6 LaTeX support for Creative Commons icons
+)
+(/usr/share/texlive/texmf-dist/tex/latex/metalogo/metalogo.sty
+Package: metalogo 2010/05/29 v0.12 Extended TeX logo macros
+\xl@everylogo=\toks57
+\xl@@everylogo=\toks58
+LaTeX Info: Redefining \TeX on input line 193.
+LaTeX Info: Redefining \LaTeX on input line 202.
+LaTeX Info: Redefining \LaTeXe on input line 219.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/glossaries/base/glossaries.sty
+Package: glossaries 2021/11/01 v4.49 (NLCT)
+
+(/usr/share/texlive/texmf-dist/tex/latex/mfirstuc/mfirstuc.sty
+Package: mfirstuc 2021/10/15 v2.07 (NLCT)
+\@glsmfirst=\toks59
+\@glsmrest=\toks60
+)
+(/usr/share/texlive/texmf-dist/tex/latex/textcase/textcase.sty
+Package: textcase 2019/09/14 v1.00 Text only upper/lower case changing (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xfor/xfor.sty
+Package: xfor 2009/02/05 v1.05 (NLCT)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/datatool/datatool-base.sty
+Package: datatool-base 2019/09/27 v2.32 (NLCT)
+
+(/usr/share/texlive/texmf-dist/tex/latex/substr/substr.sty
+Package: substr 2009/10/20 v1.2 Handle substrings
+\c@su@anzahl=\count393
+)
+(/usr/share/texlive/texmf-dist/tex/latex/datatool/datatool-fp.sty
+Package: datatool-fp 2019/09/27 v2.32 (NLCT)
+
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp.sty
+Package: fp 1995/04/02
+
+`Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich
+(/usr/share/texlive/texmf-dist/tex/latex/fp/defpattern.sty
+Package: defpattern 1994/10/12
+\actioncount=\count394
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-basic.sty
+Package: fp-basic 1996/05/13
+\FP@xs=\count395
+\FP@xia=\count396
+\FP@xib=\count397
+\FP@xfa=\count398
+\FP@xfb=\count399
+\FP@rega=\count400
+\FP@regb=\count401
+\FP@regs=\count402
+\FP@times=\count403
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-addons.sty
+Package: fp-addons 1995/03/15
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-snap.sty
+Package: fp-snap 1995/04/05
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-exp.sty
+Package: fp-exp 1995/04/03
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-trigo.sty
+Package: fp-trigo 1995/04/14
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-pas.sty
+Package: fp-pas 1994/08/29
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-random.sty
+Package: fp-random 1995/02/23
+\FPseed=\count404
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-eqn.sty
+Package: fp-eqn 1995/04/03
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-upn.sty
+Package: fp-upn 1996/10/21
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fp/fp-eval.sty
+Package: fp-eval 1995/04/03
+)))
+\@dtl@toks=\toks61
+\@dtl@tmpcount=\count405
+\dtl@tmplength=\skip263
+\dtl@sortresult=\count406
+\@dtl@numgrpsepcount=\count407
+\@dtl@datatype=\count408
+\dtl@codeA=\count409
+\dtl@codeB=\count410
+\@dtl@foreach@level=\count411
+)
+(/usr/share/texlive/texmf-dist/tex/latex/glossaries/base/glossaries-compatible-
+307.sty
+Package: glossaries-compatible-307 2021/11/01 v4.49 (NLCT)
+)
+\gls@level=\count412
+\@gls@tmpb=\toks62
+\gls@tmplen=\skip264
+\glskeylisttok=\toks63
+\glslabeltok=\toks64
+\glsshorttok=\toks65
+\glslongtok=\toks66
+
+(/usr/share/texlive/texmf-dist/tex/latex/glossaries/styles/glossary-hypernav.st
+y
+Package: glossary-hypernav 2021/11/01 v4.49 (NLCT)
+) (/usr/share/texlive/texmf-dist/tex/latex/glossaries/styles/glossary-list.sty
+Package: glossary-list 2021/11/01 v4.49 (NLCT)
+\glslistdottedwidth=\skip265
+) (/usr/share/texlive/texmf-dist/tex/latex/glossaries/styles/glossary-long.sty
+Package: glossary-long 2021/11/01 v4.49 (NLCT)
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
+\LTleft=\skip266
+\LTright=\skip267
+\LTpre=\skip268
+\LTpost=\skip269
+\LTchunksize=\count413
+\LTcapwidth=\dimen324
+\LT@head=\box145
+\LT@firsthead=\box146
+\LT@foot=\box147
+\LT@lastfoot=\box148
+\LT@gbox=\box149
+\LT@cols=\count414
+\LT@rows=\count415
+\c@LT@tables=\count416
+\c@LT@chunks=\count417
+\LT@p@ftn=\toks67
+)
+Class scrbook Info: longtable captions redefined on input line 43.
+\glsdescwidth=\skip270
+\glspagelistwidth=\skip271
+)
+(/usr/share/texlive/texmf-dist/tex/latex/glossaries/styles/glossary-super.sty
+Package: glossary-super 2021/11/01 v4.49 (NLCT)
+
+(/usr/share/texlive/texmf-dist/tex/latex/supertabular/supertabular.sty
+Package: supertabular 2020/02/02 v4.1g the supertabular environment
+\c@tracingst=\count418
+\ST@wd=\dimen325
+\ST@rightskip=\skip272
+\ST@leftskip=\skip273
+\ST@parfillskip=\skip274
+\ST@pageleft=\dimen326
+\ST@headht=\dimen327
+\ST@tailht=\dimen328
+\ST@pagesofar=\dimen329
+\ST@pboxht=\dimen330
+\ST@lineht=\dimen331
+\ST@prevht=\dimen332
+\ST@toadd=\dimen333
+\ST@dimen=\dimen334
+\ST@pbox=\box150
+))
+(/usr/share/texlive/texmf-dist/tex/latex/glossaries/styles/glossary-tree.sty
+Package: glossary-tree 2021/11/01 v4.49 (NLCT)
+\glstreeindent=\skip275
+))
+(/usr/share/texlive/texmf-dist/tex/latex/nomencl/nomencl.sty
+Package: nomencl 2021/11/10 v5.6 Nomenclature package
+Package tocbasic Info: babel extension for `nlo' omitted
+(tocbasic)             because of missing \bbl@set@language on input line 187.
+Package tocbasic Info: babel extension for `nls' omitted
+(tocbasic)             because of missing \bbl@set@language on input line 188.
+\nomlabelwidth=\dimen335
+\nom@tempdim=\dimen336
+\nomitemsep=\skip276
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2022/01/26 3.70 The Babel package
+\babel@savecnt=\count419
+\U@D=\dimen337
+\l@unhyphenated=\language88
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read5
+\bbl@dirlevel=\count420
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language77). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language77). Reported on input line 108.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.sty
+Package: csquotes 2021-02-22 v5.2l context-sensitive quotations (JAW)
+\csq@reset=\count421
+\csq@gtype=\count422
+\csq@glevel=\count423
+\csq@qlevel=\count424
+\csq@maxlvl=\count425
+\csq@tshold=\count426
+\csq@ltx@everypar=\toks68
+
+(/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.def
+File: csquotes.def 2021-02-22 v5.2l csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+
+(/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.cfg
+File: csquotes.cfg 
+)
+Package csquotes Info: Redefining alias 'english' -> 'english/british'.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/blindtext/blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+\c@blindtext=\count427
+\c@Blindtext=\count428
+\c@blind@countparstart=\count429
+\blind@countxx=\count430
+\blindtext@numBlindtext=\count431
+\blind@countyy=\count432
+\c@blindlist=\count433
+\c@blindlistlevel=\count434
+\c@blindlist@level=\count435
+\blind@listitem=\count436
+\c@blind@listcount=\count437
+\c@blind@levelcount=\count438
+\blind@mathformula=\count439
+\blind@Mathformula=\count440
+\c@blind@randomcount=\count441
+\c@blind@randommax=\count442
+\c@blind@pangramcount=\count443
+\c@blind@pangrammax=\count444
+)
+(./kaobiblio.sty
+Package: kaobiblio 
+ (/usr/share/texlive/texmf-dist/tex/latex/bigfoot/perpage.sty
+Package: perpage 2014/10/25 2.0 Reset/sort counters per page
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/iflang.sty
+Package: iflang 2018/01/21 v1.7 Checks for the current language (HO)
+Package iflang Info: Naming convention for patterns: babel.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2022/02/02 v3.17 programmable bibliographies (PK/MW)
+
+(/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count445
+
+(/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+\c@tabx@nest=\count446
+\c@listtotal=\count447
+\c@listcount=\count448
+\c@liststart=\count449
+\c@liststop=\count450
+\c@citecount=\count451
+\c@citetotal=\count452
+\c@multicitecount=\count453
+\c@multicitetotal=\count454
+\c@instcount=\count455
+\c@maxnames=\count456
+\c@minnames=\count457
+\c@maxitems=\count458
+\c@minitems=\count459
+\c@citecounter=\count460
+\c@maxcitecounter=\count461
+\c@savedcitecounter=\count462
+\c@uniquelist=\count463
+\c@uniquename=\count464
+\c@refsection=\count465
+\c@refsegment=\count466
+\c@maxextratitle=\count467
+\c@maxextratitleyear=\count468
+\c@maxextraname=\count469
+\c@maxextradate=\count470
+\c@maxextraalpha=\count471
+\c@abbrvpenalty=\count472
+\c@highnamepenalty=\count473
+\c@lownamepenalty=\count474
+\c@maxparens=\count475
+\c@parenlevel=\count476
+\blx@tempcnta=\count477
+\blx@tempcntb=\count478
+\blx@tempcntc=\count479
+\c@blx@maxsection=\count480
+\c@blx@maxsegment@0=\count481
+\blx@notetype=\count482
+\blx@parenlevel@text=\count483
+\blx@parenlevel@foot=\count484
+\c@blx@sectionciteorder@0=\count485
+\blx@entrysetcounter=\count486
+\blx@biblioinstance=\count487
+\labelnumberwidth=\skip277
+\labelalphawidth=\skip278
+\biblabelsep=\skip279
+\bibitemsep=\skip280
+\bibnamesep=\skip281
+\bibinitsep=\skip282
+\bibparsep=\skip283
+\bibhang=\skip284
+\blx@bcfin=\read6
+\blx@bcfout=\write19
+\blx@langwohyphens=\language89
+\c@mincomprange=\count488
+\c@maxcomprange=\count489
+\c@mincompwidth=\count490
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def
+File: blx-dm.def 2022/02/02 v3.17 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex citestyle data model...
+Package biblatex Info: ... file 'numeric-comp.dbx' not found.
+Package biblatex Info: Trying to load biblatex bibstyle data model...
+Package biblatex Info: ... file 'numeric.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count491
+\c@savedafterword=\count492
+\c@annotator=\count493
+\c@savedannotator=\count494
+\c@author=\count495
+\c@savedauthor=\count496
+\c@bookauthor=\count497
+\c@savedbookauthor=\count498
+\c@commentator=\count499
+\c@savedcommentator=\count500
+\c@editor=\count501
+\c@savededitor=\count502
+\c@editora=\count503
+\c@savededitora=\count504
+\c@editorb=\count505
+\c@savededitorb=\count506
+\c@editorc=\count507
+\c@savededitorc=\count508
+\c@foreword=\count509
+\c@savedforeword=\count510
+\c@holder=\count511
+\c@savedholder=\count512
+\c@introduction=\count513
+\c@savedintroduction=\count514
+\c@namea=\count515
+\c@savednamea=\count516
+\c@nameb=\count517
+\c@savednameb=\count518
+\c@namec=\count519
+\c@savednamec=\count520
+\c@translator=\count521
+\c@savedtranslator=\count522
+\c@shortauthor=\count523
+\c@savedshortauthor=\count524
+\c@shorteditor=\count525
+\c@savedshorteditor=\count526
+\c@labelname=\count527
+\c@savedlabelname=\count528
+\c@institution=\count529
+\c@savedinstitution=\count530
+\c@lista=\count531
+\c@savedlista=\count532
+\c@listb=\count533
+\c@savedlistb=\count534
+\c@listc=\count535
+\c@savedlistc=\count536
+\c@listd=\count537
+\c@savedlistd=\count538
+\c@liste=\count539
+\c@savedliste=\count540
+\c@listf=\count541
+\c@savedlistf=\count542
+\c@location=\count543
+\c@savedlocation=\count544
+\c@organization=\count545
+\c@savedorganization=\count546
+\c@origlocation=\count547
+\c@savedoriglocation=\count548
+\c@origpublisher=\count549
+\c@savedorigpublisher=\count550
+\c@publisher=\count551
+\c@savedpublisher=\count552
+\c@language=\count553
+\c@savedlanguage=\count554
+\c@origlanguage=\count555
+\c@savedoriglanguage=\count556
+\c@pageref=\count557
+\c@savedpageref=\count558
+\shorthandwidth=\skip285
+\shortjournalwidth=\skip286
+\shortserieswidth=\skip287
+\shorttitlewidth=\skip288
+\shortauthorwidth=\skip289
+\shorteditorwidth=\skip290
+\locallabelnumberwidth=\skip291
+\locallabelalphawidth=\skip292
+\localshorthandwidth=\skip293
+\localshortjournalwidth=\skip294
+\localshortserieswidth=\skip295
+\localshorttitlewidth=\skip296
+\localshortauthorwidth=\skip297
+\localshorteditorwidth=\skip298
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2022/02/02 v3.17 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def
+File: biblatex.def 2022/02/02 v3.17 biblatex compatibility (PK/MW)
+\c@textcitecount=\count559
+\c@textcitetotal=\count560
+\c@textcitemaxnames=\count561
+\c@biburlbigbreakpenalty=\count562
+\c@biburlbreakpenalty=\count563
+\c@biburlnumpenalty=\count564
+\c@biburlucpenalty=\count565
+\c@biburllcpenalty=\count566
+\biburlbigskip=\muskip18
+\biburlnumskip=\muskip19
+\biburlucskip=\muskip20
+\biburllcskip=\muskip21
+\c@smartand=\count567
+)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
+File: numeric.bbx 2022/02/02 v3.17 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2022/02/02 v3.17 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count568
+\c@bbx:relatedtotal=\count569
+))
+Package biblatex Info: Trying to load citation style 'numeric-comp'...
+Package biblatex Info: ... file 'numeric-comp.cbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx
+File: numeric-comp.cbx 2022/02/02 v3.17 biblatex citation style (PK/MW)
+\c@cbx@tempcnta=\count570
+\c@cbx@tempcntb=\count571
+\c@cbx@tempcntc=\count572
+\c@cbx@tempcntd=\count573
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Document encoding is UTF8 ....
+Package biblatex Info: ... and expl3
+(biblatex)             2022-01-21 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
+Package: blx-case-expl3 2022/02/02 v3.17 expl3 case changing code for biblatex
+))
+Package biblatex Info: Redefining '\fullcite' on input line 412.
+)
+(./kaotheorems.sty
+Package: kaotheorems 
+ (/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks69
+\thm@bodyfont=\toks70
+\thm@headfont=\toks71
+\thm@notefont=\toks72
+\thm@headpunct=\toks73
+\thm@preskip=\skip299
+\thm@postskip=\skip300
+\thm@headsep=\skip301
+\dth@everypar=\toks74
+LaTeX Info: Redefining \textsquare on input line 427.
+)
+Class scrbook Info: amsthm's \deferred@thm@head patched.
+
+(/usr/share/texlive/texmf-dist/tex/latex/thmtools/thmtools.sty
+Package: thmtools 2020/08/01 v0.72
+\thmt@toks=\toks75
+\c@thmt@dummyctr=\count574
+
+(/usr/share/texlive/texmf-dist/tex/latex/thmtools/thm-patch.sty
+Package: thm-patch 2020/08/01 v0.72
+
+(/usr/share/texlive/texmf-dist/tex/latex/thmtools/parseargs.sty
+Package: parseargs 2020/08/01 v0.72
+\@parsespec=\toks76
+))
+(/usr/share/texlive/texmf-dist/tex/latex/thmtools/thm-kv.sty
+Package: thm-kv 2020/08/01 v0.72
+Package thm-kv Info: Theorem names will be uppercased on input line 42.
+Package thm-kv Info: kvsetkeys patch (v1.16 or later) on input line 158.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/thmtools/thm-autoref.sty
+Package: thm-autoref 2020/08/01 v0.72
+
+(/usr/share/texlive/texmf-dist/tex/latex/thmtools/aliasctr.sty
+Package: aliasctr 2020/08/01 v0.72
+))
+(/usr/share/texlive/texmf-dist/tex/latex/thmtools/thm-listof.sty
+Package: thm-listof 2020/08/01 v0.72
+)
+(/usr/share/texlive/texmf-dist/tex/latex/thmtools/thm-restate.sty
+Package: thm-restate 2020/08/01 v0.72
+)
+(/usr/share/texlive/texmf-dist/tex/latex/thmtools/thm-amsthm.sty
+Package: thm-amsthm 2020/08/01 v0.72
+\thmt@style@headstyle=\toks77
+))
+Package thmtools Info: Automatically pulling in `thmdef-mdframed' on input line
+ 159.
+
+(/usr/share/texlive/texmf-dist/tex/latex/thmtools/thmdef-mdframed.sty
+Package: thmdef-mdframed 2020/08/01 v0.72
+)
+\c@theorem=\count575
+\c@definition=\count576
+\c@assumption=\count577
+\c@remark=\count578
+\c@example=\count579
+\c@exercise=\count580
+)
+(./kaorefs.sty
+Package: kaorefs 
+ (/usr/share/texlive/texmf-dist/tex/latex/cleveref/cleveref.sty
+Package: cleveref 2018/03/27 v0.21.4 Intelligent cross-referencing
+Package cleveref Info: `hyperref' support loaded on input line 2370.
+LaTeX Info: Redefining \cref on input line 2370.
+LaTeX Info: Redefining \Cref on input line 2370.
+LaTeX Info: Redefining \crefrange on input line 2370.
+LaTeX Info: Redefining \Crefrange on input line 2370.
+LaTeX Info: Redefining \cpageref on input line 2370.
+LaTeX Info: Redefining \Cpageref on input line 2370.
+LaTeX Info: Redefining \cpagerefrange on input line 2370.
+LaTeX Info: Redefining \Cpagerefrange on input line 2370.
+LaTeX Info: Redefining \labelcref on input line 2370.
+LaTeX Info: Redefining \labelcpageref on input line 2370.
+Package cleveref Info: `varioref' support loaded on input line 2605.
+Package cleveref Info: `cleveref' supersedes `varioref's \labelformatcommand on
+ input line 2605.
+LaTeX Info: Redefining \vref on input line 2605.
+LaTeX Info: Redefining \Vref on input line 2605.
+LaTeX Info: Redefining \vrefrange on input line 2605.
+LaTeX Info: Redefining \fullref on input line 2605.
+Package cleveref Info: `amsthm' support loaded on input line 3026.
+Package cleveref Info: `listings' support loaded on input line 3131.
+Package cleveref Info: `algorithm2e' support loaded on input line 3147.
+Package cleveref Info: always capitalise cross-reference names on input line 78
+25.
+Package cleveref Info: include cross-reference names in hyperlinks on input lin
+e 7836.
+Package cleveref Info: always capitalise cross-reference names on input line 78
+52.
+Package cleveref Info: include cross-reference names in hyperlinks on input lin
+e 7852.
+Package cleveref Info: no abbreviation of names on input line 7852.
+))
+\main@idxfile=\write20
+\openout4 = `main.idx'.
+
+Writing index file main.idx
+\glswrite=\write21
+\glo@main@file=\write22
+\openout4 = `main.glo'.
+
+Package glossaries Info: Writing glossary file main.glo on input line 68.
+(./glossary.tex)
+\@nomenclaturefile=\write23
+\openout4 = `main.nlo'.
+
+Package nomencl Info: Writing nomenclature file main.nlo on input line 71.
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrhack.sty
+Package: scrhack 2021/11/13 v3.35 KOMA-Script package (hacking other packages)
+Package scrhack Info: hyperref hack deactivated because of
+(scrhack)             detection of hyperref version, that doesn't
+(scrhack)             need that hack, on input line 162.
+Package scrhack Info: option `float' deactivated on input line 171.
+Package scrhack Info: loading floatrow hack on input line 171.
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/floatrow.hak
+File: floatrow.hak 2021/11/13 v3.35 KOMA-Script scrhack part (hacking package f
+loatrow)
+Package scrhack Info: redefining \DeclareNewFloatType on input line 150.
+Package scrhack Info: redefining \listof on input line 150.
+Package scrhack Info: undefining \float@addtolists on input line 150.
+)
+Package scrhack Info: loading listings hack on input line 185.
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/listings.hak
+File: listings.hak 2021/11/13 v3.35 KOMA-Script scrhack part (hacking package l
+istings)
+Package tocbasic Info: setting babel extension for `lol' on input line 143.
+Package scrhack Info: redefining \lstlistoflistings on input line 143.
+)
+Package scrhack Info: loading nomencl hack on input line 192.
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/nomencl.hak
+File: nomencl.hak 2021/11/13 v3.35 KOMA-Script scrhack part (hacking package no
+mencl)
+Package scrhack Info: only `tocbasic' loaded for `nomencl' on input line 79.
+)
+Package scrhack Info: loading setspace hack on input line 199.
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/setspace.hak
+File: setspace.hak 2021/11/13 v3.35 KOMA-Script scrhack part (hacking package s
+etspace)
+))
+LaTeX Font Info:    Trying to load font information for T1+zplLF on input line 
+78.
+
+(/usr/share/texlive/texmf-dist/tex/latex/newpx/t1zpllf.fd
+File: t1zpllf.fd 2021/05/25 v1.0 font definition file for T1/zpl/LF
+)
+LaTeX Font Info:    Font shape `T1/zplLF/m/n' will be
+(Font)              scaled to size 9.70001pt on input line 78.
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... found 'babel' package.
+Package csquotes Info: Adjusting default style.
+Package csquotes Info: Redefining alias 'default' -> 'english'.
+ (./main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/npxmi/m/it on input line 78.
+LaTeX Font Info:    Trying to load font information for OML+npxmi on input line
+ 78.
+
+(/usr/share/texlive/texmf-dist/tex/latex/newpx/omlnpxmi.fd
+File: omlnpxmi.fd 2013/03/21 Fontinst v1.933 font definitions for OML/npxmi.
+)
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for U/npxexa/m/n on input line 78.
+LaTeX Font Info:    Trying to load font information for U+npxexa on input line 
+78.
+
+(/usr/share/texlive/texmf-dist/tex/latex/newpx/unpxexa.fd
+File: unpxexa.fd 2013/03/24 Fontinst v1.933 font definitions for U/npxexa.
+)
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for LMS/npxsy/m/n on input line 78.
+LaTeX Font Info:    Trying to load font information for LMS+npxsy on input line
+ 78.
+
+(/usr/share/texlive/texmf-dist/tex/latex/newpx/lmsnpxsy.fd
+File: lmsnpxsy.fd 2016/07/04 Fontinst v1.933 font definitions for LMS/npxsy.
+)
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for LMX/npxexx/m/n on input line 78.
+LaTeX Font Info:    Trying to load font information for LMX+npxexx on input lin
+e 78.
+
+(/usr/share/texlive/texmf-dist/tex/latex/newpx/lmxnpxexx.fd
+File: lmxnpxexx.fd 2016/07/04 Fontinst v1.933 font definitions for LMX/npxexx.
+)
+LaTeX Font Info:    ... okay on input line 78.
+Package scrbase Info: activating english \contentsname on input line 78.
+Package scrbase Info: activating english \listfigurename on input line 78.
+Package scrbase Info: activating english \listtablename on input line 78.
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count581
+\scratchdimen=\dimen338
+\scratchbox=\box151
+\nofMPsegments=\count582
+\nofMParguments=\count583
+\everyMPshowfont=\toks78
+\MPscratchCnt=\count584
+\MPscratchDim=\dimen339
+\MPnumerator=\count585
+\makeMPintoPDFobject=\count586
+\everyMPtoPDFconversion=\toks79
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(92.13661pt, 429.9646pt, 92.13661pt)
+* v-part:(T,H,B)=(95.22006pt, 555.44232pt, 142.83011pt)
+* \paperwidth=614.23782pt
+* \paperheight=793.4925pt
+* \textwidth=429.9646pt
+* \textheight=555.44232pt
+* \oddsidemargin=19.86662pt
+* \evensidemargin=19.86662pt
+* \topmargin=-10.04993pt
+* \headheight=15.0pt
+* \headsep=29.38861pt
+* \topskip=10.0pt
+* \footskip=42.0pt
+* \marginparwidth=74.68849pt
+* \marginparsep=12.8401pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.53856pt, 312.9688pt, 228.73047pt)
+* v-part:(T,H,B)=(73.20433pt, 647.08383pt, 73.20433pt)
+* \paperwidth=614.23782pt
+* \paperheight=793.4925pt
+* \textwidth=312.9688pt
+* \textheight=647.08383pt
+* \oddsidemargin=0.26857pt
+* \evensidemargin=0.26857pt
+* \topmargin=-43.45427pt
+* \headheight=15.0pt
+* \headsep=29.38861pt
+* \topskip=10.0pt
+* \footskip=42.0pt
+* \marginparwidth=139.51971pt
+* \marginparsep=18.13463pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Info: Redefining \microtypecontext on input line 78.
+Package microtype Info: Applying patch `item' on input line 78.
+Package microtype Info: Applying patch `toc' on input line 78.
+Package microtype Info: Applying patch `eqnum' on input line 78.
+Package microtype Info: Applying patch `footnote' on input line 78.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `alltext-nott'.
+LaTeX Info: Redefining \showhyphens on input line 78.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `zplLF' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: changepage package is loaded.
+\caption@adjustwidth@hsize=\dimen340
+\caption@adjustwidth@linewidth=\dimen341
+Package caption Info: float package is loaded.
+Package caption Info: floatrow package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: longtable package is loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2020/05/30 v1.4b longtable captions (AR)
+)
+Package caption Info: Fixing longtable code of `floatrow' package.
+Package caption Info: rotating package is loaded.
+Package caption Info: supertabular package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\@sidenotes@extrawidth=\skip302
+Package hyperref Info: Link coloring ON on input line 78.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count587
+LaTeX Info: Redefining \Ref on input line 520.
+)
+LaTeX Info: Redefining \ref on input line 78.
+LaTeX Info: Redefining \pageref on input line 78.
+LaTeX Info: Redefining \nameref on input line 78.
+LaTeX Info: Redefining \Ref on input line 78.
+\c@lstlisting=\count588
+
+(/usr/share/texlive/texmf-dist/tex/latex/floatrow/fr-longtable.sty
+Package: fr-longtable 2007/11/28 v0.1b (beta) floatrow: additions for longtable
+
+\flrow@LT@lasthead=\box152
+\flrow@LT@prelastfoot=\box153
+\c@FBLTpage=\count589
+)
+\Etoc@tf=\read7
+\c@mv@tabular=\count590
+\c@mv@boldtabular=\count591
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package scrhack Info: loading lscape hack on input line 77.
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/lscape.hak
+File: lscape.hak 2021/11/13 v3.35 KOMA-Script scrhack part (hacking package lsc
+ape)
+Package scrhack Info: \landscape patched to make \textheight change optional on
+ input line 90.
+\scrh@LT@textheight=\skip303
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2022/02/02 v3.17 biblatex localization (PK/MW)
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+\openout4 = `main.bcf'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'main.bbl' not found.
+
+No file main.bbl.
+Package biblatex Info: Reference section=0 on input line 78.
+Package biblatex Info: Reference segment=0 on input line 78.
+Package scrhack Info: undefining \float@addtolists on input line 78.
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.53856pt, 469.1607pt, 72.53856pt)
+* v-part:(T,H,B)=(73.20433pt, 647.08383pt, 73.20433pt)
+* \paperwidth=614.23782pt
+* \paperheight=793.4925pt
+* \textwidth=469.1607pt
+* \textheight=647.08383pt
+* \oddsidemargin=0.26857pt
+* \evensidemargin=0.26857pt
+* \topmargin=-43.45427pt
+* \headheight=15.0pt
+* \headsep=29.38861pt
+* \topskip=10.0pt
+* \footskip=42.0pt
+* \marginparwidth=0.0pt
+* \marginparsep=0.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Trying to load font information for T1+qhv on input line 16
+4.
+(/usr/share/texmf/tex/latex/tex-gyre/t1qhv.fd
+File: t1qhv.fd 2009/09/25 v1.2 font definition file for T1/qhv
+)
+LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
+(Font)              scaled to size 9.02084pt on input line 164.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `qhv' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
+(Font)              scaled to size 9.02084pt on input line 164.
+LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
+(Font)              scaled to size 18.70923pt on input line 164.
+LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
+(Font)              scaled to size 10.82501pt on input line 164.
+LaTeX Font Info:    Font shape `T1/zplLF/m/n' will be
+(Font)              scaled to size 13.968pt on input line 164.
+LaTeX Font Info:    Trying to load font information for OT1+zplTLF on input lin
+e 164.
+
+(/usr/share/texlive/texmf-dist/tex/latex/newpx/ot1zpltlf.fd
+File: ot1zpltlf.fd 2021/05/25 v1.0 font definition file for OT1/zpl/TLF
+)
+LaTeX Font Info:    Font shape `OT1/zplTLF/m/n' will be
+(Font)              scaled to size 13.968pt on input line 164.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `zplTLF' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Font shape `OT1/zplTLF/m/n' will be
+(Font)              scaled to size 10.18501pt on input line 164.
+LaTeX Font Info:    Font shape `OT1/zplTLF/m/n' will be
+(Font)              scaled to size 7.663pt on input line 164.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 164
+.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 164
+.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+LaTeX Font Info:    Trying to load font information for U+npxmia on input line 
+164.
+
+(/usr/share/texlive/texmf-dist/tex/latex/newpx/unpxmia.fd
+File: unpxmia.fd 2013/03/24 Fontinst v1.933 font definitions for U/npxmia.
+)
+LaTeX Font Info:    Trying to load font information for U+npxsym on input line 
+164.
+
+(/usr/share/texlive/texmf-dist/tex/latex/newpx/unpxsym.fd
+File: unpxsym.fd 2015/03/21 Fontinst v1.933 font definitions for U/npxsym.
+)
+LaTeX Font Info:    Trying to load font information for U+npxsyc on input line 
+164.
+
+(/usr/share/texlive/texmf-dist/tex/latex/newpx/unpxsyc.fd
+File: unpxsyc.fd 2013/03/24 Fontinst v1.933 font definitions for U/npxsyc.
+)
+
+Class scrbook Warning: non empty \uppertitleback ignored by \maketitle
+(scrbook)              in `twoside=false' mode on input line 164.
+
+
+Class scrbook Warning: non empty \lowertitleback ignored by \maketitle
+(scrbook)              in `twoside=false' mode on input line 164.
+
+\openout4 = `main.mw'.
+
+[1
+
+
+
+
+
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./main.mw)
+\openout4 = `main.mw'.
+
+\openout4 = `main.xdy'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.xdy'.
+
+\openout4 = `main.mw'.
+
+ [2
+
+]
+(./main.mw)
+\openout4 = `main.mw'.
+
+ (./chapters/preface.tex
+LaTeX Font Info:    Font shape `T1/zplLF/m/n' will be
+(Font)              scaled to size 20.11783pt on input line 1.
+LaTeX Font Info:    Font shape `T1/zplLF/b/n' will be
+(Font)              scaled to size 20.11783pt on input line 1.
+LaTeX Font Info:    Font shape `OT1/zplTLF/m/n' will be
+(Font)              scaled to size 9.70001pt on input line 4.
+LaTeX Font Info:    Font shape `OT1/zplTLF/m/n' will be
+(Font)              scaled to size 7.08101pt on input line 4.
+LaTeX Font Info:    Font shape `OT1/zplTLF/m/n' will be
+(Font)              scaled to size 5.335pt on input line 4.
+LaTeX Font Info:    Font shape `T1/zplLF/m/n' will be
+(Font)              scaled to size 7.08101pt on input line 4.
+LaTeX Font Info:    Font shape `T1/zplLF/m/n' will be
+(Font)              scaled to size 8.73001pt on input line 13.
+LaTeX Font Info:    Font shape `OT1/zplTLF/m/n' will be
+(Font)              scaled to size 8.73001pt on input line 13.
+LaTeX Font Info:    Font shape `T1/zplLF/m/it' will be
+(Font)              scaled to size 9.70001pt on input line 37.
+)
+\tf@toc=\write24
+\openout4 = `main.toc'.
+
+LaTeX Font Info:    Font shape `T1/zplLF/m/sl' will be
+(Font)              scaled to size 9.70001pt on input line 188.
+\openout4 = `main.mw'.
+
+ [3
+
+
+
+
+] (./main.mw)
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+Package tocbasic Info: character protrusion at toc deactivated on input line 18
+8.
+LaTeX Font Info:    Font shape `T1/zplLF/b/n' will be
+(Font)              scaled to size 9.70001pt on input line 188.
+LaTeX Font Info:    Font shape `T1/zplLF/m/n' will be
+(Font)              scaled to size 11.64001pt on input line 188.
+LaTeX Font Info:    Font shape `T1/zplLF/m/sc' will be
+(Font)              scaled to size 11.64001pt on input line 188.
+Package microtype Info: Character `029' is missing
+(microtype)             in font `T1/zplLF/m/sc/12'.
+(microtype)             Ignoring protrusion settings for this character.
+LaTeX Font Info:    Font shape `T1/zplLF/b/sc' will be
+(Font)              scaled to size 11.64001pt on input line 188.
+Package microtype Info: Character `029' is missing
+(microtype)             in font `T1/zplLF/b/sc/12'.
+(microtype)             Ignoring protrusion settings for this character.
+LaTeX Font Info:    Trying to load font information for T1+fvm on input line 18
+8.
+
+(/usr/share/texlive/texmf-dist/tex/latex/bera/t1fvm.fd
+File: t1fvm.fd 2004/09/07 scalable font definitions for T1/fvm.
+)
+LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
+(Font)              scaled to size 8.50006pt on input line 188.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `fvm' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+\openout4 = `main.mw'.
+
+ [4
+
+
+] (./main.mw)
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+
+[5] (./main.mw)
+\openout4 = `main.mw'.
+
+Package tocbasic Info: character protrusion at lof deactivated on input line 18
+9.
+ (./main.lof)
+\tf@lof=\write25
+\openout4 = `main.lof'.
+
+Package tocbasic Info: character protrusion at lot deactivated on input line 19
+6.
+ (./main.lot)
+\tf@lot=\write26
+\openout4 = `main.lot'.
+
+Package tocbasic Info: character protrusion at lol deactivated on input line 19
+8.
+ (./main.lol)
+\tf@lol=\write27
+\openout4 = `main.lol'.
+
+\openout4 = `main.mw'.
+
+ [6
+
+
+] (./main.mw)
+\openout4 = `main.mw'.
+
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.53856pt, 312.9688pt, 228.73047pt)
+* v-part:(T,H,B)=(73.20433pt, 647.08383pt, 73.20433pt)
+* \paperwidth=614.23782pt
+* \paperheight=793.4925pt
+* \textwidth=312.9688pt
+* \textheight=647.08383pt
+* \oddsidemargin=0.26857pt
+* \evensidemargin=0.26857pt
+* \topmargin=-43.45427pt
+* \headheight=15.0pt
+* \headsep=29.38861pt
+* \topskip=10.0pt
+* \footskip=42.0pt
+* \marginparwidth=139.51971pt
+* \marginparsep=18.13463pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+(./chapters/introduction.tex
+chapter 1.
+LaTeX Font Info:    Font shape `T1/zplLF/b/n' will be
+(Font)              scaled to size 13.968pt on input line 2.
+LaTeX Font Info:    Font shape `T1/zplLF/b/n' will be
+(Font)              scaled to size 8.73001pt on input line 2.
+Package marginnote Info: Margin note 7.1 is on absolute page 7 on input line 2.
+
+Package marginnote Info: right page because not two side mode on input line 2.
+Package marginnote Info: xpos seems to be 72.53856pt on input line 2.
+LaTeX Font Info:    Font shape `T1/zplLF/m/n' will be
+(Font)              scaled to size 7.76001pt on input line 2.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
+ [][][][]\T1/zplLF/b/n/9 (+20) What This Class Does Not 
+ []
+
+LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
+(Font)              scaled to size 12.99pt on input line 6.
+\openout4 = `main.mw'.
+
+[1
+
+
+
+
+] (./main.mw)
+\openout4 = `main.mw'.
+
+Package marginnote Info: Margin note 8.1 is on absolute page 8 on input line 68
+.
+Package marginnote Info: right page because not two side mode on input line 68.
+
+Package marginnote Info: xpos seems to be 384.84192pt on input line 68.
+Package marginnote Info: Margin note 8.2 is on absolute page 8 on input line 78
+.
+Package marginnote Info: right page because not two side mode on input line 78.
+
+Package marginnote Info: xpos seems to be 184.63737pt on input line 78.
+<images//monalisa.jpg, id=288, 403.5075pt x 601.24625pt>
+File: images//monalisa.jpg Graphic file (type jpg)
+<use images//monalisa.jpg>
+Package pdftex.def Info: images//monalisa.jpg  used on input line 99.
+(pdftex.def)             Requested size: 139.51808pt x 207.88889pt.
+LaTeX Font Info:    Font shape `T1/zplLF/b/n' will be
+(Font)              scaled to size 7.76001pt on input line 101.
+LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
+(Font)              scaled to size 6.80005pt on input line 101.
+LaTeX Font Info:    Font shape `OT1/zplTLF/m/n' will be
+(Font)              scaled to size 7.76001pt on input line 101.
+LaTeX Font Info:    Font shape `OT1/zplTLF/m/n' will be
+(Font)              scaled to size 6.01399pt on input line 101.
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--101
+[][]$\T1/fvm/m/n/8 https : / / commons . wikimedia . org /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--101
+\T1/fvm/m/n/8 wiki / File : Mona _ Lisa ,[] _by _ Leonardo _
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--101
+\T1/fvm/m/n/8 da _ Vinci ,[] _from _ C2RMF _ retouched .
+ []
+
+Package marginnote Info: Margin note 8.3 is on absolute page 8 on input line 10
+3.
+Package marginnote Info: right page because not two side mode on input line 103
+.
+Package marginnote Info: xpos seems to be 72.53856pt on input line 103.
+
+LaTeX Warning: Marginpar on page 2 moved.
+
+\openout4 = `main.mw'.
+
+[2 <./images//monalisa.jpg>] (./main.mw)
+\openout4 = `main.mw'.
+
+Package marginnote Info: Margin note 9.1 is on absolute page 9 on input line 14
+1.
+Package marginnote Info: right page because not two side mode on input line 141
+.
+Package marginnote Info: xpos seems to be 72.53856pt on input line 141.
+
+Overfull \hbox (82.27487pt too wide) in paragraph at lines 152--165
+\T1/zplLF/m/n/10 (-20) way, you may find it use-ful to draw in-spi-ra-tion from
+ the \T1/fvm/m/n/10 ./examples/documentation/main.tex
+ []
+
+LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
+(Font)              scaled to size 7.65005pt on input line 169.
+)
+\openout4 = `main.mw'.
+
+ [3] (./main.mw)
+\openout4 = `main.mw'.
+
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.53856pt, 469.1607pt, 72.53856pt)
+* v-part:(T,H,B)=(73.20433pt, 647.08383pt, 73.20433pt)
+* \paperwidth=614.23782pt
+* \paperheight=793.4925pt
+* \textwidth=469.1607pt
+* \textheight=647.08383pt
+* \oddsidemargin=0.26857pt
+* \evensidemargin=0.26857pt
+* \topmargin=-43.45427pt
+* \headheight=15.0pt
+* \headsep=29.38861pt
+* \topskip=10.0pt
+* \footskip=42.0pt
+* \marginparwidth=0.0pt
+* \marginparsep=0.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+part without number
+LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
+(Font)              scaled to size 22.44386pt on input line 212.
+LaTeX Font Info:    Font shape `T1/zplLF/m/n' will be
+(Font)              scaled to size 24.13362pt on input line 212.
+LaTeX Font Info:    Font shape `T1/zplLF/m/sc' will be
+(Font)              scaled to size 24.13362pt on input line 212.
+Package microtype Info: Character `029' is missing
+(microtype)             in font `T1/zplLF/m/sc/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+LaTeX Font Info:    Font shape `T1/zplLF/b/sc' will be
+(Font)              scaled to size 24.13362pt on input line 212.
+Package microtype Info: Character `029' is missing
+(microtype)             in font `T1/zplLF/b/sc/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+\openout4 = `main.mw'.
+
+[4
+
+
+
+] (./main.mw)
+\openout4 = `main.mw'.
+
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.53856pt, 312.9688pt, 228.73047pt)
+* v-part:(T,H,B)=(73.20433pt, 647.08383pt, 73.20433pt)
+* \paperwidth=614.23782pt
+* \paperheight=793.4925pt
+* \textwidth=312.9688pt
+* \textheight=647.08383pt
+* \oddsidemargin=0.26857pt
+* \evensidemargin=0.26857pt
+* \topmargin=-43.45427pt
+* \headheight=15.0pt
+* \headsep=29.38861pt
+* \topskip=10.0pt
+* \footskip=42.0pt
+* \marginparwidth=139.51971pt
+* \marginparsep=18.13463pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+ (./chapters/options.tex
+chapter 2.
+Package marginnote Info: Margin note 11.1 is on absolute page 11 on input line 
+2.
+Package marginnote Info: right page because not two side mode on input line 2.
+Package marginnote Info: xpos seems to be 72.53856pt on input line 2.
+LaTeX Font Info:    Font shape `T1/fvm/b/n' will be
+(Font)              scaled to size 7.65005pt on input line 2.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
+ [][][][]\T1/zplLF/b/n/9 (+20) Other Things Worth Know- 
+ []
+
+LaTeX Font Info:    Font shape `T1/fvm/b/n' will be
+(Font)              scaled to size 12.24008pt on input line 11.
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--16
+[][]$\T1/fvm/m/n/8 https : / / ctan . org / pkg / koma-[]script ?
+ []
+
+Package marginnote Info: Margin note 11.2 is on absolute page 11 on input line 
+24.
+Package marginnote Info: right page because not two side mode on input line 24.
+
+Package marginnote Info: xpos seems to be 160.00255pt on input line 24.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 39.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 46.
+\openout4 = `main.mw'.
+
+[5
+
+
+
+] (./main.mw)
+\openout4 = `main.mw'.
+
+Package marginnote Info: Margin note 12.1 is on absolute page 12 on input line 
+103.
+Package marginnote Info: right page because not two side mode on input line 103
+.
+Package marginnote Info: xpos seems to be 327.27837pt on input line 103.
+Package marginnote Info: Margin note 12.2 is on absolute page 12 on input line 
+113.
+Package marginnote Info: right page because not two side mode on input line 113
+.
+Package marginnote Info: xpos seems to be 242.77866pt on input line 113.
+) (./chapters/textnotes.tex
+\openout4 = `main.mw'.
+
+ [6] (./main.mw)
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+ [7] (./main.mw)
+\openout4 = `main.mw'.
+
+
+chapter 3.
+Package marginnote Info: Margin note 14.1 is on absolute page 14 on input line 
+2.
+Package marginnote Info: right page because not two side mode on input line 2.
+Package marginnote Info: xpos seems to be 72.53856pt on input line 2.
+Package marginnote Info: Margin note 14.2 is on absolute page 14 on input line 
+51.
+Package marginnote Info: right page because not two side mode on input line 51.
+
+Package marginnote Info: xpos seems to be 313.56299pt on input line 51.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 58.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 63.
+
+Overfull \hbox (10.44135pt too wide) in paragraph at lines 65--79
+[]\T1/zplLF/m/n/10 (-20) We load the pack-ages \T1/fvm/m/n/10 marginnote\T1/zpl
+LF/m/n/10 (-20) , \T1/fvm/m/n/10 marginfix \T1/zplLF/m/n/10 (-20) and \T1/fvm/m
+/n/10 placeins\T1/zplLF/m/n/10 (-20) . Since \T1/fvm/m/n/10 sidenotes
+ []
+
+
+Overfull \hbox (102.6768pt too wide) in paragraph at lines 65--79
+\T1/zplLF/m/n/10 (-20) Side- and margin- notes are shifted slightly up-wards (\
+T1/fvm/m/n/10 \renewcommand{\marginnotevadjust}{3pt}\T1/zplLF/m/n/10 (-20) )
+ []
+
+\openout4 = `main.mw'.
+
+[8
+
+
+] (./main.mw)
+\openout4 = `main.mw'.
+
+LaTeX Font Info:    Trying to load font information for TS1+zplLF on input line
+ 90.
+ (/usr/share/texlive/texmf-dist/tex/latex/newpx/ts1zpllf.fd
+File: ts1zpllf.fd 2021/11/24 v1.0 fd file for TS1/zplLF
+)
+LaTeX Font Info:    Font shape `TS1/zplLF/m/n' will be
+(Font)              scaled to size 7.08101pt on input line 90.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `zplLF' (encoding: TS1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Font shape `T1/zplLF/m/n' will be
+(Font)              scaled to size 6.01399pt on input line 90.
+LaTeX Font Info:    Font shape `TS1/zplLF/m/n' will be
+(Font)              scaled to size 6.01399pt on input line 90.
+\openout4 = `main.mw'.
+
+
+[9] (./main.mw)
+\openout4 = `main.mw'.
+
+Package marginnote Info: Margin note 16.1 is on absolute page 16 on input line 
+142.
+Package marginnote Info: right page because not two side mode on input line 142
+.
+Package marginnote Info: xpos seems to be 403.64198pt on input line 142.
+ (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+Package marginnote Info: Margin note 16.2 is on absolute page 16 on input line 
+147.
+Package marginnote Info: right page because not two side mode on input line 147
+.
+Package marginnote Info: xpos seems to be 72.53856pt on input line 147.
+
+LaTeX Warning: Marginpar on page 10 moved.
+
+) (./chapters/figsntabs.tex
+\openout4 = `main.mw'.
+
+ [10] (./main.mw)
+\openout4 = `main.mw'.
+
+
+chapter 4.
+<images//seaside.jpeg, id=429, 1283.79625pt x 553.06625pt>
+File: images//seaside.jpeg Graphic file (type jpg)
+<use images//seaside.jpeg>
+Package pdftex.def Info: images//seaside.jpeg  used on input line 4.
+(pdftex.def)             Requested size: 614.25629pt x 285.52852pt.
+
+Overfull \hbox (228.74893pt too wide) in paragraph at lines 4--4
+[]| [] 
+ []
+
+Package marginnote Info: Margin note 17.1 is on absolute page 17 on input line 
+4.
+Package marginnote Info: right page because not two side mode on input line 4.
+Package marginnote Info: xpos seems to be 72.53856pt on input line 4.
+pdfTeX warning (ext4): destination with the same identifier (name{Hfootnote.1})
+ has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.7 ....wikimedia.org/w/index.php?curid=68724647}}
+                                                  
+File: images//monalisa.jpg Graphic file (type jpg)
+<use images//monalisa.jpg>
+Package pdftex.def Info: images//monalisa.jpg  used on input line 27.
+(pdftex.def)             Requested size: 140.8357pt x 209.85217pt.
+Package marginnote Info: Margin note 17.2 is on absolute page 17 on input line 
+40.
+Package marginnote Info: right page because not two side mode on input line 40.
+
+Package marginnote Info: xpos seems to be 72.53856pt on input line 40.
+LaTeX Font Info:    Font shape `T1/zplLF/m/n' will be
+(Font)              scaled to size 6.79001pt on input line 41.
+LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
+(Font)              scaled to size 5.95004pt on input line 41.
+\openout4 = `main.mw'.
+
+ [11
+
+
+ <./images//seaside.jpeg>] (./main.mw)
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+ [12] (./main.mw)
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+ [13] (./main.mw)
+\openout4 = `main.mw'.
+
+Package marginnote Info: Margin note 20.1 is on absolute page 20 on input line 
+86.
+Package marginnote Info: right page because not two side mode on input line 86.
+
+Package marginnote Info: xpos seems to be 72.53856pt on input line 86.
+
+
+LaTeX Warning: Marginpar on page 14 moved.
+
+
+LaTeX Warning: Marginpar on page 14 moved.
+
+Package hyperref Info: bookmark level for unknown todo defaults to 0 on input l
+ine 127.
+File: images//seaside.jpeg Graphic file (type jpg)
+<use images//seaside.jpeg>
+Package pdftex.def Info: images//seaside.jpeg  used on input line 137.
+(pdftex.def)             Requested size: 470.6092pt x 202.74095pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+Package marginnote Info: Margin note 20.2 is on absolute page 20 on input line 
+159.
+Package marginnote Info: right page because not two side mode on input line 159
+.
+Package marginnote Info: xpos seems to be 72.53856pt on input line 159.
+\openout4 = `main.mw'.
+
+[14
+
+] (./main.mw)
+\openout4 = `main.mw'.
+
+Package marginnote Info: Margin note 21.1 is on absolute page 21 on input line 
+193.
+Package marginnote Info: right page because not two side mode on input line 193
+.
+Package marginnote Info: xpos seems to be 72.53856pt on input line 193.
+\openout4 = `main.mw'.
+
+ [15] (./main.mw)
+\openout4 = `main.mw'.
+
+Package marginnote Info: Margin note 22.1 is on absolute page 22 on input line 
+220.
+Package marginnote Info: right page because not two side mode on input line 220
+.
+Package marginnote Info: xpos seems to be 72.53856pt on input line 220.
+) (./chapters/references.tex
+\openout4 = `main.mw'.
+
+ [16] (./main.mw)
+\openout4 = `main.mw'.
+
+
+chapter 5.
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+
+LaTeX Warning: Citation 'Visscher2008' on page 17 undefined on input line 9.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+
+LaTeX Warning: Citation 'James2013' on page 17 undefined on input line 9.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+
+LaTeX Warning: Citation 'Visscher2008' on page 17 undefined on input line 9.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+
+LaTeX Warning: Citation 'James2013' on page 17 undefined on input line 9.
+
+Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 15.
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+
+LaTeX Warning: Citation 'James2013' on page 17 undefined on input line 15.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+
+LaTeX Warning: Citation 'James2013' on page 17 undefined on input line 15.
+
+Package marginnote Info: Margin note 23.1 is on absolute page 23 on input line 
+26.
+Package marginnote Info: right page because not two side mode on input line 26.
+
+Package marginnote Info: xpos seems to be 375.73764pt on input line 26.
+LaTeX Font Info:    Font shape `T1/zplLF/m/it' will be
+(Font)              scaled to size 7.76001pt on input line 43.
+
+Overfull \hbox (13.64139pt too wide) in paragraph at lines 28--44
+[]\T1/zplLF/m/n/10 (-20) If you want to use \T1/fvm/m/n/10 bibtex \T1/zplLF/m/n
+/10 (-20) in-stead of \T1/fvm/m/n/10 biblatex\T1/zplLF/m/n/10 (-20) , pass the 
+op-tion \T1/fvm/m/n/10 backend=bibtex
+ []
+
+Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 62.
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+
+LaTeX Warning: Citation 'Battle2014' on page 17 undefined on input line 62.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+
+LaTeX Warning: Citation 'Battle2014' on page 17 undefined on input line 62.
+
+Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 77.
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+
+LaTeX Warning: Citation 'Zou2005' on page 17 undefined on input line 77.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+
+LaTeX Warning: Citation 'Zou2005' on page 17 undefined on input line 77.
+
+\openout4 = `main.mw'.
+
+[17
+
+
+] (./main.mw)
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+Package marginnote Info: Margin note 24.1 is on absolute page 24 on input line 
+147.
+Package marginnote Info: right page because not two side mode on input line 147
+.
+Package marginnote Info: xpos seems to be 72.53856pt on input line 147.
+\openout4 = `main.mw'.
+
+ [18] (./main.mw)
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+Package marginnote Info: Margin note 25.1 is on absolute page 25 on input line 
+178.
+Package marginnote Info: right page because not two side mode on input line 178
+.
+Package marginnote Info: xpos seems to be 72.53856pt on input line 178.
+\openout4 = `main.mw'.
+
+ [19] (./main.mw)
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+ [20] (./main.mw)
+\openout4 = `main.mw'.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+))
+\openout4 = `main.mw'.
+
+ [21]
+(./main.mw)
+\openout4 = `main.mw'.
+
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.53856pt, 469.1607pt, 72.53856pt)
+* v-part:(T,H,B)=(73.20433pt, 647.08383pt, 73.20433pt)
+* \paperwidth=614.23782pt
+* \paperheight=793.4925pt
+* \textwidth=469.1607pt
+* \textheight=647.08383pt
+* \oddsidemargin=0.26857pt
+* \evensidemargin=0.26857pt
+* \topmargin=-43.45427pt
+* \headheight=15.0pt
+* \headsep=29.38861pt
+* \topskip=10.0pt
+* \footskip=42.0pt
+* \marginparwidth=0.0pt
+* \marginparsep=0.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+part without number
+\openout4 = `main.mw'.
+
+[22
+
+
+
+] (./main.mw)
+\openout4 = `main.mw'.
+
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.53856pt, 312.9688pt, 228.73047pt)
+* v-part:(T,H,B)=(73.20433pt, 647.08383pt, 73.20433pt)
+* \paperwidth=614.23782pt
+* \paperheight=793.4925pt
+* \textwidth=312.9688pt
+* \textheight=647.08383pt
+* \oddsidemargin=0.26857pt
+* \evensidemargin=0.26857pt
+* \topmargin=-43.45427pt
+* \headheight=15.0pt
+* \headsep=29.38861pt
+* \topskip=10.0pt
+* \footskip=42.0pt
+* \marginparwidth=139.51971pt
+* \marginparsep=18.13463pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+ (./chapters/layout.tex
+chapter 6.
+File: images//seaside.jpeg Graphic file (type jpg)
+<use images//seaside.jpeg>
+Package pdftex.def Info: images//seaside.jpeg  used on input line 3.
+(pdftex.def)             Requested size: 614.25629pt x 242.85199pt.
+
+Overfull \hbox (228.74893pt too wide) in paragraph at lines 3--3
+[]| [] 
+ []
+
+Package marginnote Info: Margin note 29.1 is on absolute page 29 on input line 
+3.
+Package marginnote Info: right page because not two side mode on input line 3.
+Package marginnote Info: xpos seems to be 72.53856pt on input line 3.
+Package marginnote Info: Margin note 29.2 is on absolute page 29 on input line 
+17.
+Package marginnote Info: right page because not two side mode on input line 17.
+
+Package marginnote Info: xpos seems to be 167.26958pt on input line 17.
+\openout4 = `main.mw'.
+
+[23
+
+
+
+] (./main.mw)
+\openout4 = `main.mw'.
+
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 85.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 90.
+\openout4 = `main.mw'.
+
+ [24] (./main.mw)
+\openout4 = `main.mw'.
+
+Package marginnote Info: Margin note 31.1 is on absolute page 31 on input line 
+154.
+Package marginnote Info: right page because not two side mode on input line 154
+.
+Package marginnote Info: xpos seems to be 299.72437pt on input line 154.
+
+Overfull \hbox (31.01817pt too wide) in paragraph at lines 172--189
+[][] 
+ []
+
+Package marginnote Info: Margin note 31.2 is on absolute page 31 on input line 
+189.
+Package marginnote Info: right page because not two side mode on input line 189
+.
+Package marginnote Info: xpos seems to be 72.53856pt on input line 189.
+
+LaTeX Warning: Marginpar on page 25 moved.
+
+\openout4 = `main.mw'.
+
+[25] (./main.mw)
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+ [26] (./main.mw)
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+
+
+LaTeX Warning: Citation 'James2013' on page 27 undefined on input line 319.
+
+LaTeX Font Info:    Font shape `T1/zplLF/b/it' will be
+(Font)              scaled to size 9.70001pt on input line 337.
+\openout4 = `main.mw'.
+
+[27] (./main.mw)
+\openout4 = `main.mw'.
+
+) (./chapters/mathematics.tex
+\openout4 = `main.mw'.
+
+ [28] (./main.mw)
+\openout4 = `main.mw'.
+
+
+chapter 7.
+Package marginnote Info: Margin note 35.1 is on absolute page 35 on input line 
+3.
+Package marginnote Info: right page because not two side mode on input line 3.
+Package marginnote Info: xpos seems to be 72.53856pt on input line 3.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 18.
+Package hyperref Info: bookmark level for unknown definition defaults to 0 on i
+nput line 18.
+LaTeX Font Info:    Font shape `T1/zplLF/m/it' will be
+(Font)              scaled to size 7.08101pt on input line 21.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 30.
+Package hyperref Info: bookmark level for unknown theorem defaults to 0 on inpu
+t line 30.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 36.
+Package hyperref Info: bookmark level for unknown proposition defaults to 0 on 
+input line 36.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 45.
+Package hyperref Info: bookmark level for unknown lemma defaults to 0 on input 
+line 45.
+LaTeX Font Info:    Font shape `T1/zplLF/m/it' will be
+(Font)              scaled to size 6.01399pt on input line 45.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 56.
+Package hyperref Info: bookmark level for unknown corollary defaults to 0 on in
+put line 56.
+\openout4 = `main.mw'.
+
+[29
+
+
+] (./main.mw)
+\openout4 = `main.mw'.
+
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 67.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 83.
+Package hyperref Info: bookmark level for unknown example defaults to 0 on inpu
+t line 83.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 90.
+Package hyperref Info: bookmark level for unknown remark defaults to 0 on input
+ line 90.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 101.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 109.
+Package hyperref Info: bookmark level for unknown exercise defaults to 0 on inp
+ut line 109.
+LaTeX Font Info:    Font shape `T1/zplLF/m/n' will be
+(Font)              scaled to size 10.18501pt on input line 134.
+Package marginnote Info: Margin note 36.1 is on absolute page 37 on input line 
+134.
+Package marginnote Info: right page because not two side mode on input line 134
+.
+Package marginnote Info: xpos seems to be 305.05054pt on input line 134.
+\openout4 = `main.mw'.
+
+ [30] (./main.mw)
+\openout4 = `main.mw'.
+
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 141.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 143.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 148.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 150.
+Package marginnote Info: Margin note 37.1 is on absolute page 37 on input line 
+163.
+Package marginnote Info: right page because not two side mode on input line 163
+.
+Package marginnote Info: xpos seems to be 72.53856pt on input line 163.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 163.
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 163.
+Package mdframed Info: mdframed inside a box 
+ mdframed uses option nobreak mdframed on input line 163.
+)
+\openout4 = `main.mw'.
+
+ [31] (./main.mw)
+\openout4 = `main.mw'.
+
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.53856pt, 469.1607pt, 72.53856pt)
+* v-part:(T,H,B)=(73.20433pt, 647.08383pt, 73.20433pt)
+* \paperwidth=614.23782pt
+* \paperheight=793.4925pt
+* \textwidth=469.1607pt
+* \textheight=647.08383pt
+* \oddsidemargin=0.26857pt
+* \evensidemargin=0.26857pt
+* \topmargin=-43.45427pt
+* \headheight=15.0pt
+* \headsep=29.38861pt
+* \topskip=10.0pt
+* \footskip=42.0pt
+* \marginparwidth=0.0pt
+* \marginparsep=0.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+part without number
+\openout4 = `main.mw'.
+
+[32
+
+
+
+] (./main.mw)
+\openout4 = `main.mw'.
+
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.53856pt, 312.9688pt, 228.73047pt)
+* v-part:(T,H,B)=(73.20433pt, 647.08383pt, 73.20433pt)
+* \paperwidth=614.23782pt
+* \paperheight=793.4925pt
+* \textwidth=312.9688pt
+* \textheight=647.08383pt
+* \oddsidemargin=0.26857pt
+* \evensidemargin=0.26857pt
+* \topmargin=-43.45427pt
+* \headheight=15.0pt
+* \headsep=29.38861pt
+* \topskip=10.0pt
+* \footskip=42.0pt
+* \marginparwidth=139.51971pt
+* \marginparsep=18.13463pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+ (./chapters/appendix.tex
+chapter A.
+LaTeX Font Info:    Font shape `T1/zplLF/b/n' will be
+(Font)              scaled to size 11.64001pt on input line 3.
+\openout4 = `main.mw'.
+
+[33
+
+
+
+] (./main.mw)
+\openout4 = `main.mw'.
+
+LaTeX Font Info:    Font shape `TS1/zplLF/m/n' will be
+(Font)              scaled to size 9.70001pt on input line 3.
+\openout4 = `main.mw'.
+
+ [34] (./main.mw)
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+ [35] (./main.mw)
+\openout4 = `main.mw'.
+
+
+chapter B.
+Package marginnote Info: Margin note 42.1 is on absolute page 42 on input line 
+6.
+Package marginnote Info: right page because not two side mode on input line 6.
+Package marginnote Info: xpos seems to be 72.53856pt on input line 6.
+LaTeX Font Info:    Font shape `T1/zplLF/m/n' will be
+(Font)              scaled to size 4.85pt on input line 10.
+LaTeX Font Info:    Font shape `T1/zplLF/m/n' will be
+(Font)              scaled to size 16.76161pt on input line 24.
+\openout4 = `main.mw'.
+
+[36
+
+
+] (./main.mw)
+\openout4 = `main.mw'.
+
+LaTeX Font Info:    Font shape `T1/qhv/m/it' will be
+(Font)              scaled to size 9.02084pt on input line 41.
+
+
+LaTeX Font Warning: Font shape `T1/qhv/m/sl' in size <10> not available
+(Font)              Font shape `T1/qhv/m/it' tried instead on input line 43.
+
+LaTeX Font Info:    Font shape `T1/qhv/m/it' will be
+(Font)              scaled to size 9.02084pt on input line 43.
+LaTeX Font Info:    Font shape `T1/qhv/m/sc' will be
+(Font)              scaled to size 9.02084pt on input line 45.
+Package microtype Info: Character `029' is missing
+(microtype)             in font `T1/qhv/m/sc/10'.
+(microtype)             Ignoring protrusion settings for this character.
+
+Overfull \hbox (19.38347pt too wide) in paragraph at lines 48--48
+[]\T1/fvm/m/n/10 Hello, here is some text without a meaning. This text should s
+how
+ []
+
+
+Overfull \hbox (24.5005pt too wide) in paragraph at lines 48--48
+\T1/fvm/m/n/10 what a printed text will look like at this place. If you read th
+is
+ []
+
+
+Overfull \hbox (29.36253pt too wide) in paragraph at lines 48--48
+\T1/fvm/m/n/10 text, you will get no information. Really? Is there no informati
+on?
+ []
+
+
+Overfull \hbox (4.28737pt too wide) in paragraph at lines 48--48
+\T1/fvm/m/n/10 Is there a difference between this text and some nonsense like
+ []
+
+
+Overfull \hbox (2.74886pt too wide) in paragraph at lines 48--48
+\T1/fvm/m/n/10 ``Huardest gefburn''? Kjift -- not at all! A blind text like thi
+s
+ []
+
+
+Overfull \hbox (4.28737pt too wide) in paragraph at lines 48--48
+\T1/fvm/m/n/10 gives you information about the selected font, how the letters
+ []
+
+
+Overfull \hbox (29.87254pt too wide) in paragraph at lines 48--48
+\T1/fvm/m/n/10 are written and an impression of the look. This text should cont
+ain
+ []
+
+
+Overfull \hbox (4.28737pt too wide) in paragraph at lines 48--48
+\T1/fvm/m/n/10 all letters of the alphabet and it should be written in of the
+ []
+
+
+Overfull \hbox (14.52144pt too wide) in paragraph at lines 48--48
+\T1/fvm/m/n/10 original language. There is no need for special content, but the
+
+ []
+
+LaTeX Font Info:    Font shape `T1/fvm/b/n' will be
+(Font)              scaled to size 8.50006pt on input line 51.
+LaTeX Font Info:    Font shape `T1/fvm/m/it' in size <10> not available
+(Font)              Font shape `T1/fvm/m/sl' tried instead on input line 55.
+LaTeX Font Info:    Font shape `T1/fvm/m/sl' will be
+(Font)              scaled to size 8.50006pt on input line 55.
+
+LaTeX Font Warning: Font shape `T1/fvm/m/sc' undefined
+(Font)              using `T1/fvm/m/n' instead on input line 59.
+
+LaTeX Font Info:    Font shape `T1/zplLF/m/sc' will be
+(Font)              scaled to size 9.70001pt on input line 73.
+Package microtype Info: Character `029' is missing
+(microtype)             in font `T1/zplLF/m/sc/10'.
+(microtype)             Ignoring protrusion settings for this character.
+)
+\openout4 = `main.mw'.
+
+ [37] (./main.mw)
+\openout4 = `main.mw'.
+
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.53856pt, 469.1607pt, 72.53856pt)
+* v-part:(T,H,B)=(73.20433pt, 647.08383pt, 73.20433pt)
+* \paperwidth=614.23782pt
+* \paperheight=793.4925pt
+* \textwidth=469.1607pt
+* \textheight=647.08383pt
+* \oddsidemargin=0.26857pt
+* \evensidemargin=0.26857pt
+* \topmargin=-43.45427pt
+* \headheight=15.0pt
+* \headsep=29.38861pt
+* \topskip=10.0pt
+* \footskip=42.0pt
+* \marginparwidth=0.0pt
+* \marginparsep=0.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+chapter C.
+
+Overfull \hbox (41.39653pt too wide) in paragraph at lines 237--237
+[][] 
+ []
+
+\openout4 = `main.mw'.
+
+[38
+
+
+
+] (./main.mw)
+\openout4 = `main.mw'.
+
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.53856pt, 469.1607pt, 72.53856pt)
+* v-part:(T,H,B)=(73.20433pt, 647.08383pt, 73.20433pt)
+* \paperwidth=614.23782pt
+* \paperheight=793.4925pt
+* \textwidth=469.1607pt
+* \textheight=647.08383pt
+* \oddsidemargin=0.26857pt
+* \evensidemargin=0.26857pt
+* \topmargin=-43.45427pt
+* \headheight=15.0pt
+* \headsep=29.38861pt
+* \topskip=10.0pt
+* \footskip=42.0pt
+* \marginparwidth=0.0pt
+* \marginparsep=0.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+
+LaTeX Warning: Empty bibliography on input line 252.
+
+No file main.nls.
+
+Underfull \hbox (badness 10000) in paragraph at lines 275--276
+
+ []
+
+LaTeX Font Info:    Font shape `T1/zplLF/m/it' will be
+(Font)              scaled to size 8.73001pt on input line 282.
+No file main.gls.
+\openout4 = `main.mw'.
+
+[39
+
+
+
+] (./main.mw)
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.idx'.
+
+runsystem(makeindex main.idx)...executed safely (allowed).
+
+ (./main.ind)
+\openout4 = `main.mw'.
+
+ [40
+
+
+
+
+] (./main.mw)
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+ (./main.aux
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were undefined references.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                main
+(biblatex)                and rerun LaTeX afterwards.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.bcf'.
+
+Package logreq Info: Writing requests to 'main.run.xml'.
+\openout1 = `main.run.xml'.
+
+\openout4 = `main.glo'.
+
+\openout4 = `main.nlo'.
+
+\openout4 = `main.toc'.
+
+\openout4 = `main.lof'.
+
+\openout4 = `main.lot'.
+
+\openout4 = `main.lol'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 59396 strings out of 478287
+ 1166648 string characters out of 5849290
+ 2521474 words of memory out of 5000000
+ 75696 multiletter control sequences out of 15000+600000
+ 659905 words of font info for 369 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 133i,20n,159p,10600b,2406s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{glo:tocLabel} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{glo:fpsLabel} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{glo:computer} has been referenced but does not exis
+t, replaced by a fixed one
+
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-lf-pc.enc}{/usr/sha
+re/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texmf/fonts/enc/d
+vips/tex-gyre/q-ec-sc.enc}{/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ec.enc}{
+/usr/share/texlive/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}{/usr/share
+/texlive/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-lf.enc}{/usr/share/texlive/tex
+mf-dist/fonts/enc/dvips/newpx/zpl_OsF.enc}{/usr/share/texlive/texmf-dist/fonts/
+enc/dvips/newtx/ntx-ecth-tlf.enc}</usr/share/texlive/texmf-dist/fonts/type1/pub
+lic/newpx/NewPXMI.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newpx/N
+ewPXMI_gnu.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/bera/fvmb8a.pf
+b></usr/share/texlive/texmf-dist/fonts/type1/public/bera/fvmr8a.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/bera/fvmro8a.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/newpx/pxmiaX.pfb></usr/share/texlive/texmf-dist/font
+s/type1/public/newpx/pxsys.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qh
+vb.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qhvr.pfb></usr/share/texmf
+/fonts/type1/public/tex-gyre/qhvri.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/public/newtx/txexs.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txf
+onts/txsya.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newpx/zplb.pfb
+></usr/share/texlive/texmf-dist/fonts/type1/public/newpx/zplbi.pfb></usr/share/
+texlive/texmf-dist/fonts/type1/public/newpx/zplr.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/public/newpx/zplri.pfb>
+Output written on main.pdf (46 pages, 672306 bytes).
+PDF statistics:
+ 1260 PDF objects out of 1440 (max. 8388607)
+ 1160 compressed objects within 12 object streams
+ 400 named destinations out of 1000 (max. 500000)
+ 97207 words of extra memory for PDF output out of 106986 (max. 10000000)
+
