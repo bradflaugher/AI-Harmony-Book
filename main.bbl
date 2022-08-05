@@ -16,5 +16,50 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{Andreu2021}{article}{}
+      \name{author}{2}{}{%
+        {{hash=1a222849f90783a95a8b71b0bbf05da4}{%
+           family={Andreu},
+           familyi={A\bibinitperiod},
+           given={Abraham},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d8f390acc5052f778c1237dab5a4ef9c}{%
+           family={Moynihan},
+           familyi={M\bibinitperiod},
+           given={Qayyah},
+           giveni={Q\bibinitperiod}}}%
+      }
+      \strng{namehash}{7124b33ef7e24b9870390f594dcb696c}
+      \strng{fullhash}{7124b33ef7e24b9870390f594dcb696c}
+      \strng{bibnamehash}{7124b33ef7e24b9870390f594dcb696c}
+      \strng{authorbibnamehash}{7124b33ef7e24b9870390f594dcb696c}
+      \strng{authornamehash}{7124b33ef7e24b9870390f594dcb696c}
+      \strng{authorfullhash}{7124b33ef7e24b9870390f594dcb696c}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{24}
+      \field{journaltitle}{Business Insider}
+      \field{month}{9}
+      \field{title}{Humans won't be able to control a superintelligent AI, according to a study}
+      \field{urlday}{24}
+      \field{urlmonth}{9}
+      \field{urlyear}{2021}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.businessinsider.com/mankind-will-not-be-able-to-control-artificial-intelligence-according-to-study
+      \endverb
+      \verb{url}
+      \verb https://www.businessinsider.com/mankind-will-not-be-able-to-control-artificial-intelligence-according-to-study
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
 

@@ -13,32 +13,11 @@
 \contentsline {part}{\nonumberline Data}{3}{part*.10}%
 \contentsline {part}{\nonumberline Classifiers}{4}{part*.12}%
 \contentsline {part}{\nonumberline Transformers}{5}{part*.14}%
-\contentsline {part}{\nonumberline Appendix}{6}{part*.16}%
-\contentsline {chapter}{\numberline {A}Heading on Level\xspace 0 (chapter)}{7}{appendix.A}%
-\contentsline {section}{\numberline {A.1}Heading on Level\xspace 1 (section)}{7}{section.A.1}%
-\contentsline {mtocsection}{\numberline {A.1}Heading on Level\xspace 1 (section)}{7}{section.A.1}%
-\contentsline {subsection}{\numberline {A.1.1}Heading on Level\xspace 2 (subsection)}{7}{subsection.A.1.1}%
-\contentsline {mtocsubsection}{\numberline {A.1.1}Heading on Level\xspace 2 (subsection)}{7}{subsection.A.1.1}%
-\contentsline {subsubsection}{\nonumberline Heading on Level\xspace 3 (subsubsection)}{7}{subsubsection*.18}%
-\contentsline {paragraph}{\nonumberline Heading on Level\xspace 4 (paragraph)}{8}{paragraph*.20}%
-\contentsline {section}{\numberline {A.2}Lists}{8}{section.A.2}%
-\contentsline {mtocsection}{\numberline {A.2}Lists}{8}{section.A.2}%
-\contentsline {subsection}{\numberline {A.2.1}Example for list\xspace (itemize)}{8}{subsection.A.2.1}%
-\contentsline {mtocsubsection}{\numberline {A.2.1}Example for list\xspace (itemize)}{8}{subsection.A.2.1}%
-\contentsline {subsubsection}{\nonumberline Example for list\xspace (4*itemize)}{8}{subsubsection*.22}%
-\contentsline {subsection}{\numberline {A.2.2}Example for list\xspace (enumerate)}{8}{subsection.A.2.2}%
-\contentsline {mtocsubsection}{\numberline {A.2.2}Example for list\xspace (enumerate)}{8}{subsection.A.2.2}%
-\contentsline {subsubsection}{\nonumberline Example for list\xspace (4*enumerate)}{9}{subsubsection*.24}%
-\contentsline {subsection}{\numberline {A.2.3}Example for list\xspace (description)}{9}{subsection.A.2.3}%
-\contentsline {mtocsubsection}{\numberline {A.2.3}Example for list\xspace (description)}{9}{subsection.A.2.3}%
-\contentsline {subsubsection}{\nonumberline Example for list\xspace (4*description)}{9}{subsubsection*.26}%
-\contentsline {chapter}{\numberline {B}Fonts Testing}{10}{appendix.B}%
+\contentsline {part}{\nonumberline Ensembles}{6}{part*.16}%
+\contentsline {part}{\nonumberline Appendix}{7}{part*.18}%
+\contentsline {chapter}{\numberline {A}Poetry Test}{8}{appendix.A}%
 \etoc@startlocaltoc {4}
 \etoc@startlocaltoc {5}
-\contentsline {section}{\numberline {B.1}Font Sizes}{10}{section.B.1}%
-\contentsline {mtocsection}{\numberline {B.1}Font Sizes}{10}{section.B.1}%
-\contentsline {section}{\numberline {B.2}Font Families}{10}{section.B.2}%
-\contentsline {mtocsection}{\numberline {B.2}Font Families}{10}{section.B.2}%
-\contentsline {chapter}{\numberline {C}Test}{12}{appendix.C}%
-\contentsline {chapter}{\nonumberline Notation}{13}{chapter*.27}%
-\contentsline {chapter}{Alphabetical Index}{14}{section*.28}%
+\contentsline {chapter}{\nonumberline Bibliography}{9}{chapter*.19}%
+\contentsline {chapter}{\nonumberline Notation}{10}{chapter*.20}%
+\contentsline {chapter}{Alphabetical Index}{11}{section*.21}%
