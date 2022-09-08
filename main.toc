@@ -9,15 +9,16 @@
 \contentsline {mtocsection}{\numberline {1.1}The Main Ideas}{1}{section.1.1}%
 \contentsline {section}{\numberline {1.2}What This Class Does}{1}{section.1.2}%
 \contentsline {mtocsection}{\numberline {1.2}What This Class Does}{1}{section.1.2}%
-\contentsline {part}{\nonumberline History}{2}{part*.8}%
-\contentsline {part}{\nonumberline Data}{3}{part*.10}%
-\contentsline {part}{\nonumberline Classifiers}{4}{part*.12}%
-\contentsline {part}{\nonumberline Transformers}{5}{part*.14}%
-\contentsline {part}{\nonumberline Ensembles}{6}{part*.16}%
-\contentsline {part}{\nonumberline Appendix}{7}{part*.18}%
-\contentsline {chapter}{\numberline {A}Poetry Test}{8}{appendix.A}%
+\contentsline {part}{\nonumberline Codified Human Understanding}{2}{part*.8}%
+\contentsline {part}{\nonumberline How Machines Understand Data}{3}{part*.10}%
+\contentsline {part}{\nonumberline Who makes the call?}{4}{part*.12}%
+\contentsline {part}{\nonumberline Classifying Data}{5}{part*.14}%
+\contentsline {part}{\nonumberline Transforming Data}{6}{part*.16}%
+\contentsline {part}{\nonumberline Ensembles and Chaos}{7}{part*.18}%
+\contentsline {part}{\nonumberline Appendix}{8}{part*.20}%
+\contentsline {chapter}{\numberline {A}Poetry Test}{9}{appendix.A}%
 \etoc@startlocaltoc {4}
 \etoc@startlocaltoc {5}
-\contentsline {chapter}{\nonumberline Bibliography}{9}{chapter*.19}%
-\contentsline {chapter}{\nonumberline Notation}{10}{chapter*.20}%
-\contentsline {chapter}{Alphabetical Index}{11}{section*.21}%
+\contentsline {chapter}{\nonumberline Bibliography}{10}{chapter*.21}%
+\contentsline {chapter}{\nonumberline Notation}{11}{chapter*.22}%
+\contentsline {chapter}{Alphabetical Index}{12}{section*.23}%

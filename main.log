@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.8.4)  5 AUG 2022 09:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.8.4)  8 SEP 2022 11:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2443,42 +2443,42 @@ Package scrhack Info: undefining \float@addtolists on input line 78.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Trying to load font information for T1+qhv on input line 16
-4.
+LaTeX Font Info:    Trying to load font information for T1+qhv on input line 17
+0.
 (/usr/share/texmf/tex/latex/tex-gyre/t1qhv.fd
 File: t1qhv.fd 2009/09/25 v1.2 font definition file for T1/qhv
 )
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
-(Font)              scaled to size 9.02084pt on input line 164.
+(Font)              scaled to size 9.02084pt on input line 170.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `qhv' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
-(Font)              scaled to size 9.02084pt on input line 164.
+(Font)              scaled to size 9.02084pt on input line 170.
 LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
-(Font)              scaled to size 18.70923pt on input line 164.
+(Font)              scaled to size 18.70923pt on input line 170.
 LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
-(Font)              scaled to size 10.82501pt on input line 164.
+(Font)              scaled to size 10.82501pt on input line 170.
 LaTeX Font Info:    Font shape `T1/zplLF/m/n' will be
-(Font)              scaled to size 13.968pt on input line 164.
+(Font)              scaled to size 13.968pt on input line 170.
 LaTeX Font Info:    Trying to load font information for OT1+zplTLF on input lin
-e 164.
+e 170.
 
 (/usr/share/texlive/texmf-dist/tex/latex/newpx/ot1zpltlf.fd
 File: ot1zpltlf.fd 2021/05/25 v1.0 font definition file for OT1/zpl/TLF
 )
 LaTeX Font Info:    Font shape `OT1/zplTLF/m/n' will be
-(Font)              scaled to size 13.968pt on input line 164.
+(Font)              scaled to size 13.968pt on input line 170.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `zplTLF' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `OT1/zplTLF/m/n' will be
-(Font)              scaled to size 10.18501pt on input line 164.
+(Font)              scaled to size 10.18501pt on input line 170.
 LaTeX Font Info:    Font shape `OT1/zplTLF/m/n' will be
-(Font)              scaled to size 7.663pt on input line 164.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 164
+(Font)              scaled to size 7.663pt on input line 170.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 170
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
@@ -2487,7 +2487,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 164
+LaTeX Font Info:    Trying to load font information for U+msb on input line 170
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -2497,30 +2497,30 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Trying to load font information for U+npxmia on input line 
-164.
+170.
 
 (/usr/share/texlive/texmf-dist/tex/latex/newpx/unpxmia.fd
 File: unpxmia.fd 2013/03/24 Fontinst v1.933 font definitions for U/npxmia.
 )
 LaTeX Font Info:    Trying to load font information for U+npxsym on input line 
-164.
+170.
 
 (/usr/share/texlive/texmf-dist/tex/latex/newpx/unpxsym.fd
 File: unpxsym.fd 2015/03/21 Fontinst v1.933 font definitions for U/npxsym.
 )
 LaTeX Font Info:    Trying to load font information for U+npxsyc on input line 
-164.
+170.
 
 (/usr/share/texlive/texmf-dist/tex/latex/newpx/unpxsyc.fd
 File: unpxsyc.fd 2013/03/24 Fontinst v1.933 font definitions for U/npxsyc.
 )
 
 Class scrbook Warning: non empty \uppertitleback ignored by \maketitle
-(scrbook)              in `twoside=false' mode on input line 164.
+(scrbook)              in `twoside=false' mode on input line 170.
 
 
 Class scrbook Warning: non empty \lowertitleback ignored by \maketitle
-(scrbook)              in `twoside=false' mode on input line 164.
+(scrbook)              in `twoside=false' mode on input line 170.
 
 \openout4 = `main.mw'.
 
@@ -3022,7 +3022,7 @@ LaTeX Font Info:    Font shape `T1/zplLF/m/it' will be
 \openout4 = `main.toc'.
 
 LaTeX Font Info:    Font shape `T1/zplLF/m/sl' will be
-(Font)              scaled to size 9.70001pt on input line 188.
+(Font)              scaled to size 9.70001pt on input line 194.
 \openout4 = `main.mw'.
 
  [3
@@ -3037,19 +3037,19 @@ LaTeX Font Info:    Font shape `T1/zplLF/m/sl' will be
 
 \openout4 = `main.mw'.
 
-Package tocbasic Info: character protrusion at toc deactivated on input line 18
-8.
+Package tocbasic Info: character protrusion at toc deactivated on input line 19
+4.
 LaTeX Font Info:    Font shape `T1/zplLF/b/n' will be
-(Font)              scaled to size 9.70001pt on input line 188.
+(Font)              scaled to size 9.70001pt on input line 194.
 LaTeX Font Info:    Font shape `T1/zplLF/m/n' will be
-(Font)              scaled to size 11.64001pt on input line 188.
+(Font)              scaled to size 11.64001pt on input line 194.
 LaTeX Font Info:    Font shape `T1/zplLF/m/sc' will be
-(Font)              scaled to size 11.64001pt on input line 188.
+(Font)              scaled to size 11.64001pt on input line 194.
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/zplLF/m/sc/12'.
 (microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    Font shape `T1/zplLF/b/sc' will be
-(Font)              scaled to size 11.64001pt on input line 188.
+(Font)              scaled to size 11.64001pt on input line 194.
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/zplLF/b/sc/12'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -3061,21 +3061,21 @@ Package microtype Info: Character `029' is missing
 ] (./main.mw)
 \openout4 = `main.mw'.
 
-Package tocbasic Info: character protrusion at lof deactivated on input line 18
-9.
+Package tocbasic Info: character protrusion at lof deactivated on input line 19
+5.
 
 (./main.lof)
 \tf@lof=\write25
 \openout4 = `main.lof'.
 
-Package tocbasic Info: character protrusion at lot deactivated on input line 19
-6.
+Package tocbasic Info: character protrusion at lot deactivated on input line 20
+2.
  (./main.lot)
 \tf@lot=\write26
 \openout4 = `main.lot'.
 
-Package tocbasic Info: character protrusion at lol deactivated on input line 19
-8.
+Package tocbasic Info: character protrusion at lol deactivated on input line 20
+4.
  (./main.lol)
 \tf@lol=\write27
 \openout4 = `main.lol'.
@@ -3148,7 +3148,7 @@ LaTeX Warning: Reference `sec:intro' on page 1 undefined on input line 14.
 
 Package hyperref Warning: Suppressing link with empty target on input line 14.
 
-<images//monalisa.jpg, id=97, 403.5075pt x 601.24625pt>
+<images//monalisa.jpg, id=100, 403.5075pt x 601.24625pt>
 File: images//monalisa.jpg Graphic file (type jpg)
 <use images//monalisa.jpg>
 Package pdftex.def Info: images//monalisa.jpg  used on input line 22.
@@ -3209,7 +3209,7 @@ LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
 \openout4 = `main.mw'.
 
 Package marginnote Info: Using workaround for absolute page number on input lin
-e 211.
+e 217.
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: custom
@@ -3245,16 +3245,16 @@ e 211.
 
 part without number
 LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
-(Font)              scaled to size 22.44386pt on input line 212.
+(Font)              scaled to size 22.44386pt on input line 218.
 LaTeX Font Info:    Font shape `T1/zplLF/m/n' will be
-(Font)              scaled to size 24.13362pt on input line 212.
+(Font)              scaled to size 24.13362pt on input line 218.
 LaTeX Font Info:    Font shape `T1/zplLF/m/sc' will be
-(Font)              scaled to size 24.13362pt on input line 212.
+(Font)              scaled to size 24.13362pt on input line 218.
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/zplLF/m/sc/24.88'.
 (microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    Font shape `T1/zplLF/b/sc' will be
-(Font)              scaled to size 24.13362pt on input line 212.
+(Font)              scaled to size 24.13362pt on input line 218.
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/zplLF/b/sc/24.88'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -3679,9 +3679,85 @@ part without number
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.53856pt, 469.1607pt, 72.53856pt)
+* v-part:(T,H,B)=(73.20433pt, 647.08383pt, 73.20433pt)
+* \paperwidth=614.23782pt
+* \paperheight=793.4925pt
+* \textwidth=469.1607pt
+* \textheight=647.08383pt
+* \oddsidemargin=0.26857pt
+* \evensidemargin=0.26857pt
+* \topmargin=-43.45427pt
+* \headheight=15.0pt
+* \headsep=29.38861pt
+* \topskip=10.0pt
+* \footskip=42.0pt
+* \marginparwidth=0.0pt
+* \marginparsep=0.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+part without number
+\openout4 = `main.mw'.
+
+[8
+
+
+
+
+] (./main.mw)
+\openout4 = `main.mw'.
+
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.53856pt, 312.9688pt, 228.73047pt)
+* v-part:(T,H,B)=(73.20433pt, 647.08383pt, 73.20433pt)
+* \paperwidth=614.23782pt
+* \paperheight=793.4925pt
+* \textwidth=312.9688pt
+* \textheight=647.08383pt
+* \oddsidemargin=0.26857pt
+* \evensidemargin=0.26857pt
+* \topmargin=-43.45427pt
+* \headheight=15.0pt
+* \headsep=29.38861pt
+* \topskip=10.0pt
+* \footskip=42.0pt
+* \marginparwidth=139.51971pt
+* \marginparsep=18.13463pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
  (./chapters/appendix.tex
 chapter A.
-Package marginnote Info: Margin note 14.1 is on absolute page 14 on input line 
+Package marginnote Info: Margin note 15.1 is on absolute page 15 on input line 
 3.
 Package marginnote Info: right page because not two side mode on input line 3.
 Package marginnote Info: xpos seems to be 72.53856pt on input line 3.
@@ -3714,7 +3790,7 @@ LaTeX Font Info:    Font shape `T1/zplLF/m/it' will be
 )
 \openout4 = `main.mw'.
 
- [8
+ [9
 
 
 
@@ -3758,7 +3834,7 @@ chapter without number
 (./main.nls
 \openout4 = `main.mw'.
 
- [9
+ [10
 
 
 
@@ -3778,7 +3854,7 @@ chapter without number
 ) (./main.gls)
 \openout4 = `main.mw'.
 
- [10
+ [11
 
 
 ] (./main.mw)
@@ -3792,7 +3868,7 @@ runsystem(makeindex main.idx)...executed safely (allowed).
 \openout4 = `main.mw'.
 
 
-[11
+[12
 
 
 
@@ -3961,14 +4037,13 @@ runsystem(makeindex main.idx)...executed safely (allowed).
 
 \openout4 = `main.mw'.
 
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
 )
 
 LaTeX Warning: There were undefined references.
-
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                main
-(biblatex)                and rerun LaTeX afterwards.
 
 \openout4 = `main.mw'.
 
@@ -3993,11 +4068,11 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 57638 strings out of 478287
- 1137604 string characters out of 5849290
- 2278739 words of memory out of 5000000
- 74618 multiletter control sequences out of 15000+600000
- 595444 words of font info for 214 fonts, out of 8000000 for 9000
+ 57646 strings out of 478287
+ 1137690 string characters out of 5849290
+ 2278848 words of memory out of 5000000
+ 74619 multiletter control sequences out of 15000+600000
+ 595567 words of font info for 215 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  133i,17n,159p,10596b,2646s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texliv
@@ -4009,10 +4084,10 @@ b></usr/share/texlive/texmf-dist/fonts/type1/public/bera/fvmr8a.pfb></usr/share
 s/type1/public/txfonts/txsya.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
 lic/newpx/zplb.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newpx/zplr
 .pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newpx/zplri.pfb>
-Output written on main.pdf (16 pages, 228737 bytes).
+Output written on main.pdf (17 pages, 233643 bytes).
 PDF statistics:
- 274 PDF objects out of 1000 (max. 8388607)
- 237 compressed objects within 3 object streams
- 55 named destinations out of 1000 (max. 500000)
- 59538 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 285 PDF objects out of 1000 (max. 8388607)
+ 247 compressed objects within 3 object streams
+ 58 named destinations out of 1000 (max. 500000)
+ 59546 words of extra memory for PDF output out of 61914 (max. 10000000)
 
