@@ -59,6 +59,41 @@
       \verb https://www.businessinsider.com/mankind-will-not-be-able-to-control-artificial-intelligence-according-to-study
       \endverb
     \endentry
+    \entry{Christian2020}{book}{}
+      \name{author}{1}{}{%
+        {{hash=ffd9bbb22f19f527ef2083421a5dfb09}{%
+           family={Christian},
+           familyi={C\bibinitperiod},
+           given={Brian},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {W. W. Norton {\&} Company}%
+      }
+      \strng{namehash}{ffd9bbb22f19f527ef2083421a5dfb09}
+      \strng{fullhash}{ffd9bbb22f19f527ef2083421a5dfb09}
+      \strng{bibnamehash}{ffd9bbb22f19f527ef2083421a5dfb09}
+      \strng{authorbibnamehash}{ffd9bbb22f19f527ef2083421a5dfb09}
+      \strng{authornamehash}{ffd9bbb22f19f527ef2083421a5dfb09}
+      \strng{authorfullhash}{ffd9bbb22f19f527ef2083421a5dfb09}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-0-39363582-9}
+      \field{month}{10}
+      \field{title}{{The Alignment Problem: Machine Learning and Human Values}}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://www.amazon.com/Alignment-Problem-Machine-Learning-Values/dp/0393635821
+      \endverb
+      \verb{url}
+      \verb https://www.amazon.com/Alignment-Problem-Machine-Learning-Values/dp/0393635821
+      \endverb
+    \endentry
   \enddatalist
 \endrefsection
 \endinput
