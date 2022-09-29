@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.8.4)  21 SEP 2022 10:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.8.4)  29 SEP 2022 13:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3022,6 +3022,14 @@ Class scrbook Warning: non empty \lowertitleback ignored by \maketitle
 
 \openout4 = `main.mw'.
 
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
  [2
 
 ]
@@ -3033,20 +3041,28 @@ LaTeX Font Info:    Font shape `T1/zplLF/m/n' will be
 (Font)              scaled to size 20.11783pt on input line 1.
 LaTeX Font Info:    Font shape `T1/zplLF/b/n' will be
 (Font)              scaled to size 20.11783pt on input line 1.
-LaTeX Font Info:    Font shape `OT1/zplTLF/m/n' will be
-(Font)              scaled to size 9.70001pt on input line 4.
-LaTeX Font Info:    Font shape `OT1/zplTLF/m/n' will be
-(Font)              scaled to size 7.08101pt on input line 4.
-LaTeX Font Info:    Font shape `OT1/zplTLF/m/n' will be
-(Font)              scaled to size 5.335pt on input line 4.
-LaTeX Font Info:    Font shape `T1/zplLF/m/n' will be
-(Font)              scaled to size 7.08101pt on input line 4.
-LaTeX Font Info:    Font shape `T1/zplLF/m/n' will be
-(Font)              scaled to size 8.73001pt on input line 13.
-LaTeX Font Info:    Font shape `OT1/zplTLF/m/n' will be
-(Font)              scaled to size 8.73001pt on input line 13.
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
 LaTeX Font Info:    Font shape `T1/zplLF/m/it' will be
-(Font)              scaled to size 9.70001pt on input line 37.
+(Font)              scaled to size 9.70001pt on input line 18.
 )
 \tf@toc=\write24
 \openout4 = `main.toc'.
@@ -3083,6 +3099,12 @@ LaTeX Font Info:    Font shape `T1/zplLF/b/sc' will be
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/zplLF/b/sc/12'.
 (microtype)             Ignoring protrusion settings for this character.
+LaTeX Font Info:    Font shape `OT1/zplTLF/m/n' will be
+(Font)              scaled to size 9.70001pt on input line 194.
+LaTeX Font Info:    Font shape `OT1/zplTLF/m/n' will be
+(Font)              scaled to size 7.08101pt on input line 194.
+LaTeX Font Info:    Font shape `OT1/zplTLF/m/n' will be
+(Font)              scaled to size 5.335pt on input line 194.
 \openout4 = `main.mw'.
 
  [4
@@ -3295,52 +3317,66 @@ LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
 \openout4 = `main.mw'.
 
 LaTeX Font Info:    Font shape `T1/zplLF/m/it' will be
-(Font)              scaled to size 7.76001pt on input line 17.
+(Font)              scaled to size 7.76001pt on input line 15.
+LaTeX Font Info:    Font shape `T1/zplLF/m/n' will be
+(Font)              scaled to size 7.08101pt on input line 18.
 
 LaTeX Warning: Marginpar on page 2 moved.
 
-<images//monalisa.jpg, id=188, 403.5075pt x 601.24625pt>
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+<images//monalisa.jpg, id=201, 403.5075pt x 601.24625pt>
 File: images//monalisa.jpg Graphic file (type jpg)
 <use images//monalisa.jpg>
-Package pdftex.def Info: images//monalisa.jpg  used on input line 34.
+Package pdftex.def Info: images//monalisa.jpg  used on input line 36.
 (pdftex.def)             Requested size: 139.51808pt x 207.88889pt.
 LaTeX Font Info:    Font shape `T1/zplLF/b/n' will be
-(Font)              scaled to size 7.76001pt on input line 36.
-LaTeX Font Info:    Trying to load font information for T1+fvm on input line 36
+(Font)              scaled to size 7.76001pt on input line 38.
+LaTeX Font Info:    Trying to load font information for T1+fvm on input line 38
 .
 (/usr/share/texlive/texmf-dist/tex/latex/bera/t1fvm.fd
 File: t1fvm.fd 2004/09/07 scalable font definitions for T1/fvm.
 )
 LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
-(Font)              scaled to size 6.80005pt on input line 36.
+(Font)              scaled to size 6.80005pt on input line 38.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `fvm' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `OT1/zplTLF/m/n' will be
-(Font)              scaled to size 7.76001pt on input line 36.
+(Font)              scaled to size 7.76001pt on input line 38.
 LaTeX Font Info:    Font shape `OT1/zplTLF/m/n' will be
-(Font)              scaled to size 6.01399pt on input line 36.
+(Font)              scaled to size 6.01399pt on input line 38.
 
-Underfull \hbox (badness 10000) in paragraph at lines 36--36
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
 [][]$\T1/fvm/m/n/8 https : / / commons . wikimedia . org /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 36--36
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
 \T1/fvm/m/n/8 wiki / File : Mona _ Lisa ,[] _by _ Leonardo _
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 36--36
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
 \T1/fvm/m/n/8 da _ Vinci ,[] _from _ C2RMF _ retouched .
  []
 
-Package marginnote Info: Margin note 8.2 is on absolute page 8 on input line 38
+Package marginnote Info: Margin note 8.2 is on absolute page 8 on input line 40
 .
-Package marginnote Info: right page because not two side mode on input line 38.
+Package marginnote Info: right page because not two side mode on input line 40.
 
-Package marginnote Info: xpos seems to be 72.53856pt on input line 38.
+Package marginnote Info: xpos seems to be 72.53856pt on input line 40.
 
 LaTeX Warning: Marginpar on page 2 moved.
 
@@ -3460,6 +3496,8 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 8.
 
 \openout4 = `main.mw'.
 
+LaTeX Font Info:    Font shape `T1/zplLF/m/n' will be
+(Font)              scaled to size 8.73001pt on input line 18.
 LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
 (Font)              scaled to size 7.65005pt on input line 18.
 LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
@@ -3481,6 +3519,22 @@ Package marginnote Info: Margin note 11.1 is on absolute page 11 on input line
 Package marginnote Info: right page because not two side mode on input line 2.
 Package marginnote Info: xpos seems to be 72.53856pt on input line 2.
 Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 14.
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
@@ -3838,6 +3892,50 @@ runsystem(makeindex main.idx)...executed safely (allowed).
 
 
 ] (./main.mw)
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
@@ -4336,11 +4434,11 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 57783 strings out of 478287
- 1139785 string characters out of 5849290
- 2283936 words of memory out of 5000000
- 74669 multiletter control sequences out of 15000+600000
- 596830 words of font info for 226 fonts, out of 8000000 for 9000
+ 57873 strings out of 478287
+ 1142341 string characters out of 5849290
+ 2284752 words of memory out of 5000000
+ 74737 multiletter control sequences out of 15000+600000
+ 592731 words of font info for 220 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  133i,17n,159p,10596b,2656s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texliv
@@ -4349,13 +4447,13 @@ ist/fonts/enc/dvips/newtx/ntx-ec-lf.enc}{/usr/share/texmf/fonts/enc/dvips/tex-g
 yre/q-ec.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/newpx/NewPXMI.pf
 b></usr/share/texlive/texmf-dist/fonts/type1/public/bera/fvmr8a.pfb></usr/share
 /texmf/fonts/type1/public/tex-gyre/qhvb.pfb></usr/share/texlive/texmf-dist/font
-s/type1/public/txfonts/txsya.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
-lic/newpx/zplb.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newpx/zplr
-.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newpx/zplri.pfb>
-Output written on main.pdf (20 pages, 250078 bytes).
+s/type1/public/newpx/zplb.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
+/newpx/zplr.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newpx/zplri.p
+fb>
+Output written on main.pdf (20 pages, 252996 bytes).
 PDF statistics:
- 560 PDF objects out of 1000 (max. 8388607)
- 516 compressed objects within 6 object streams
- 102 named destinations out of 1000 (max. 500000)
- 59746 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 593 PDF objects out of 1000 (max. 8388607)
+ 551 compressed objects within 6 object streams
+ 113 named destinations out of 1000 (max. 500000)
+ 59234 words of extra memory for PDF output out of 61914 (max. 10000000)
 

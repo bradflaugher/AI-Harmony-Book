@@ -19,6 +19,83 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global}
+    \entry{vonNeumann2012}{book}{}
+      \name{author}{2}{}{%
+        {{hash=f8744afb2b8eb53c5804cbac615dbad1}{%
+           family={Neumann},
+           familyi={N\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           prefix={von},
+           prefixi={v\bibinitperiod}}}%
+        {{hash=0adc9b7df5d54aca253a97676a4f9ee3}{%
+           family={Kurzweil},
+           familyi={K\bibinitperiod},
+           given={Ray},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New Haven, CT, USA}%
+      }
+      \list{publisher}{1}{%
+        {Yale University Press}%
+      }
+      \strng{namehash}{328c7345224d254bcdb9d343edfe2bd7}
+      \strng{fullhash}{328c7345224d254bcdb9d343edfe2bd7}
+      \strng{bibnamehash}{328c7345224d254bcdb9d343edfe2bd7}
+      \strng{authorbibnamehash}{328c7345224d254bcdb9d343edfe2bd7}
+      \strng{authornamehash}{328c7345224d254bcdb9d343edfe2bd7}
+      \strng{authorfullhash}{328c7345224d254bcdb9d343edfe2bd7}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-0-30018111-1}
+      \field{month}{8}
+      \field{title}{{The Computer and the Brain (The Silliman Memorial Lectures Series)}}
+      \field{year}{2012}
+      \verb{urlraw}
+      \verb https://www.amazon.com/Computer-Brain-Silliman-Memorial-Lectures/dp/0300181116
+      \endverb
+      \verb{url}
+      \verb https://www.amazon.com/Computer-Brain-Silliman-Memorial-Lectures/dp/0300181116
+      \endverb
+    \endentry
+    \entry{Papert1993}{book}{}
+      \name{author}{1}{}{%
+        {{hash=78c6d8177f6952ca46f1847c06a5da51}{%
+           family={Papert},
+           familyi={P\bibinitperiod},
+           given={Seymour\bibnamedelima A.},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {Basic Books}%
+      }
+      \strng{namehash}{78c6d8177f6952ca46f1847c06a5da51}
+      \strng{fullhash}{78c6d8177f6952ca46f1847c06a5da51}
+      \strng{bibnamehash}{78c6d8177f6952ca46f1847c06a5da51}
+      \strng{authorbibnamehash}{78c6d8177f6952ca46f1847c06a5da51}
+      \strng{authornamehash}{78c6d8177f6952ca46f1847c06a5da51}
+      \strng{authorfullhash}{78c6d8177f6952ca46f1847c06a5da51}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-0-46504674-4}
+      \field{month}{8}
+      \field{title}{{Mindstorms: Children, Computers, And Powerful Ideas}}
+      \field{year}{1993}
+      \verb{urlraw}
+      \verb https://www.amazon.com/Mindstorms-Children-Computers-Powerful-Ideas/dp/0465046746
+      \endverb
+      \verb{url}
+      \verb https://www.amazon.com/Mindstorms-Children-Computers-Powerful-Ideas/dp/0465046746
+      \endverb
+    \endentry
     \entry{Andreu2021}{article}{}
       \name{author}{2}{}{%
         {{hash=1a222849f90783a95a8b71b0bbf05da4}{%
@@ -38,8 +115,8 @@
       \strng{authorbibnamehash}{7124b33ef7e24b9870390f594dcb696c}
       \strng{authornamehash}{7124b33ef7e24b9870390f594dcb696c}
       \strng{authorfullhash}{7124b33ef7e24b9870390f594dcb696c}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{day}{24}
@@ -58,6 +135,71 @@
       \verb{url}
       \verb https://www.businessinsider.com/mankind-will-not-be-able-to-control-artificial-intelligence-according-to-study
       \endverb
+    \endentry
+    \entry{Erdi2019}{book}{}
+      \name{author}{1}{}{%
+        {{hash=00f9951fa233fe3bf0b068825d51e676}{%
+           family={{\ifmmode\acute{E}\elseÉ\fi}rdi},
+           familyi={É\bibinitperiod},
+           given={P{\ifmmode\acute{e}\elseé\fi}ter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oxford, England, UK}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{00f9951fa233fe3bf0b068825d51e676}
+      \strng{fullhash}{00f9951fa233fe3bf0b068825d51e676}
+      \strng{bibnamehash}{00f9951fa233fe3bf0b068825d51e676}
+      \strng{authorbibnamehash}{00f9951fa233fe3bf0b068825d51e676}
+      \strng{authornamehash}{00f9951fa233fe3bf0b068825d51e676}
+      \strng{authorfullhash}{00f9951fa233fe3bf0b068825d51e676}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-0-19093546-7}
+      \field{month}{10}
+      \field{title}{{Ranking: The Unwritten Rules of the Social Game We All Play}}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://www.amazon.com/Ranking-Unwritten-Rules-Social-Game/dp/0190935464
+      \endverb
+      \verb{url}
+      \verb https://www.amazon.com/Ranking-Unwritten-Rules-Social-Game/dp/0190935464
+      \endverb
+    \endentry
+    \entry{Bostrom2014}{book}{}
+      \name{author}{1}{}{%
+        {{hash=892acb64b0a9f67cbe51c2705c652a49}{%
+           family={Bostrom},
+           familyi={B\bibinitperiod},
+           given={Nick},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {USA}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press, Inc.}%
+      }
+      \strng{namehash}{892acb64b0a9f67cbe51c2705c652a49}
+      \strng{fullhash}{892acb64b0a9f67cbe51c2705c652a49}
+      \strng{bibnamehash}{892acb64b0a9f67cbe51c2705c652a49}
+      \strng{authorbibnamehash}{892acb64b0a9f67cbe51c2705c652a49}
+      \strng{authornamehash}{892acb64b0a9f67cbe51c2705c652a49}
+      \strng{authorfullhash}{892acb64b0a9f67cbe51c2705c652a49}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Superintelligence asks the questions: What happens when machines surpass humans in general intelligence? Will artificial agents save or destroy us? Nick Bostrom lays the foundation for understanding the future of humanity and intelligent life. The human brain has some capabilities that the brains of other animals lack. It is to these distinctive capabilities that our species owes its dominant position. If machine brains surpassed human brains in general intelligence, then this new superintelligence could become extremely powerful - possibly beyond our control. As the fate of the gorillas now depends more on humans than on the species itself, so would the fate of humankind depend on the actions of the machine superintelligence. But we have one advantage: we get to make the first move. Will it be possible to construct a seed Artificial Intelligence, to engineer initial conditions so as to make an intelligence explosion survivable? How could one achieve a controlled detonation? This profoundly ambitious and original book breaks down a vast track of difficult intellectual terrain. After an utterly engrossing journey that takes us to the frontiers of thinking about the human condition and the future of intelligent life, we find in Nick Bostrom's work nothing less than a reconceptualization of the essential task of our time.}
+      \field{edition}{1st}
+      \field{isbn}{0199678111}
+      \field{title}{Superintelligence: Paths, Dangers, Strategies}
+      \field{year}{2014}
     \endentry
     \entry{Christian2020}{book}{}
       \name{author}{1}{}{%
@@ -79,8 +221,8 @@
       \strng{authorbibnamehash}{ffd9bbb22f19f527ef2083421a5dfb09}
       \strng{authornamehash}{ffd9bbb22f19f527ef2083421a5dfb09}
       \strng{authorfullhash}{ffd9bbb22f19f527ef2083421a5dfb09}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{978-0-39363582-9}
@@ -92,6 +234,244 @@
       \endverb
       \verb{url}
       \verb https://www.amazon.com/Alignment-Problem-Machine-Learning-Values/dp/0393635821
+      \endverb
+    \endentry
+    \entry{Blackman2022Jul}{book}{}
+      \name{author}{1}{}{%
+        {{hash=a7d335811b8bedf76324b13953ec7d65}{%
+           family={Blackman},
+           familyi={B\bibinitperiod},
+           given={Reid},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Harvard Business Review Press}%
+      }
+      \strng{namehash}{a7d335811b8bedf76324b13953ec7d65}
+      \strng{fullhash}{a7d335811b8bedf76324b13953ec7d65}
+      \strng{bibnamehash}{a7d335811b8bedf76324b13953ec7d65}
+      \strng{authorbibnamehash}{a7d335811b8bedf76324b13953ec7d65}
+      \strng{authornamehash}{a7d335811b8bedf76324b13953ec7d65}
+      \strng{authorfullhash}{a7d335811b8bedf76324b13953ec7d65}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-1-64782281-1}
+      \field{month}{7}
+      \field{title}{{Ethical Machines: Your Concise Guide to Totally Unbiased, Transparent, and Respectful AI}}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.amazon.com/Ethical-Machines-Unbiased-Transparent-Respectful/dp/1647822815
+      \endverb
+      \verb{url}
+      \verb https://www.amazon.com/Ethical-Machines-Unbiased-Transparent-Respectful/dp/1647822815
+      \endverb
+    \endentry
+    \entry{Douthat2002}{article}{}
+      \name{author}{1}{}{%
+        {{hash=c3e1f50c81349f67ed09b43e388c8b3f}{%
+           family={Douthat},
+           familyi={D\bibinitperiod},
+           given={Ross},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{c3e1f50c81349f67ed09b43e388c8b3f}
+      \strng{fullhash}{c3e1f50c81349f67ed09b43e388c8b3f}
+      \strng{bibnamehash}{c3e1f50c81349f67ed09b43e388c8b3f}
+      \strng{authorbibnamehash}{c3e1f50c81349f67ed09b43e388c8b3f}
+      \strng{authornamehash}{c3e1f50c81349f67ed09b43e388c8b3f}
+      \strng{authorfullhash}{c3e1f50c81349f67ed09b43e388c8b3f}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{30}
+      \field{journaltitle}{The New York Times}
+      \field{month}{7}
+      \field{title}{Can We Resist the Age of the Algorithm?}
+      \field{urlday}{30}
+      \field{urlmonth}{7}
+      \field{urlyear}{2022}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.nytimes.com/2022/07/30/opinion/algorithm-innovation-decadence.html
+      \endverb
+      \verb{url}
+      \verb https://www.nytimes.com/2022/07/30/opinion/algorithm-innovation-decadence.html
+      \endverb
+    \endentry
+    \entry{MacAskill2022}{article}{}
+      \name{author}{1}{}{%
+        {{hash=28922ab867623f6ca25a4e0f13850307}{%
+           family={MacAskill2022},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{28922ab867623f6ca25a4e0f13850307}
+      \strng{fullhash}{28922ab867623f6ca25a4e0f13850307}
+      \strng{bibnamehash}{28922ab867623f6ca25a4e0f13850307}
+      \strng{authorbibnamehash}{28922ab867623f6ca25a4e0f13850307}
+      \strng{authornamehash}{28922ab867623f6ca25a4e0f13850307}
+      \strng{authorfullhash}{28922ab867623f6ca25a4e0f13850307}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{5}
+      \field{journaltitle}{The New York Times}
+      \field{month}{8}
+      \field{title}{The Case for Longtermism}
+      \field{urlday}{5}
+      \field{urlmonth}{8}
+      \field{urlyear}{2021}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.nytimes.com/2022/08/05/opinion/the-case-for-longtermism.html
+      \endverb
+      \verb{url}
+      \verb https://www.nytimes.com/2022/08/05/opinion/the-case-for-longtermism.html
+      \endverb
+    \endentry
+    \entry{Metz2022Sep}{article}{}
+      \name{author}{1}{}{%
+        {{hash=933ed9cdf5d86f8ed4df1bbbca747d53}{%
+           family={Metz},
+           familyi={M\bibinitperiod},
+           given={Cade},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The New York Times Company}%
+      }
+      \strng{namehash}{933ed9cdf5d86f8ed4df1bbbca747d53}
+      \strng{fullhash}{933ed9cdf5d86f8ed4df1bbbca747d53}
+      \strng{bibnamehash}{933ed9cdf5d86f8ed4df1bbbca747d53}
+      \strng{authorbibnamehash}{933ed9cdf5d86f8ed4df1bbbca747d53}
+      \strng{authornamehash}{933ed9cdf5d86f8ed4df1bbbca747d53}
+      \strng{authorfullhash}{933ed9cdf5d86f8ed4df1bbbca747d53}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0362-4331}
+      \field{journaltitle}{N.Y. Times}
+      \field{month}{9}
+      \field{title}{{The Long Road to Driverless Trucks}}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.nytimes.com/2022/09/28/business/driverless-trucks-highways.html
+      \endverb
+      \verb{url}
+      \verb https://www.nytimes.com/2022/09/28/business/driverless-trucks-highways.html
+      \endverb
+    \endentry
+    \entry{Metz2022Sep2}{article}{}
+      \name{author}{1}{}{%
+        {{hash=933ed9cdf5d86f8ed4df1bbbca747d53}{%
+           family={Metz},
+           familyi={M\bibinitperiod},
+           given={Cade},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The New York Times Company}%
+      }
+      \strng{namehash}{933ed9cdf5d86f8ed4df1bbbca747d53}
+      \strng{fullhash}{933ed9cdf5d86f8ed4df1bbbca747d53}
+      \strng{bibnamehash}{933ed9cdf5d86f8ed4df1bbbca747d53}
+      \strng{authorbibnamehash}{933ed9cdf5d86f8ed4df1bbbca747d53}
+      \strng{authornamehash}{933ed9cdf5d86f8ed4df1bbbca747d53}
+      \strng{authorfullhash}{933ed9cdf5d86f8ed4df1bbbca747d53}
+      \field{extraname}{2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0362-4331}
+      \field{journaltitle}{N.Y. Times}
+      \field{month}{9}
+      \field{title}{{Stuck on the Streets of San Francisco in a Driverless Car}}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.nytimes.com/2022/09/28/technology/driverless-cars-san-francisco.html
+      \endverb
+      \verb{url}
+      \verb https://www.nytimes.com/2022/09/28/technology/driverless-cars-san-francisco.html
+      \endverb
+    \endentry
+    \entry{Oneil2017}{book}{}
+      \name{author}{1}{}{%
+        {{hash=2d9e8c54407ca5f4ae5ce79112bcffdf}{%
+           family={O'Neil},
+           familyi={O\bibinitperiod},
+           given={Cathy},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {Crown}%
+      }
+      \strng{namehash}{2d9e8c54407ca5f4ae5ce79112bcffdf}
+      \strng{fullhash}{2d9e8c54407ca5f4ae5ce79112bcffdf}
+      \strng{bibnamehash}{2d9e8c54407ca5f4ae5ce79112bcffdf}
+      \strng{authorbibnamehash}{2d9e8c54407ca5f4ae5ce79112bcffdf}
+      \strng{authornamehash}{2d9e8c54407ca5f4ae5ce79112bcffdf}
+      \strng{authorfullhash}{2d9e8c54407ca5f4ae5ce79112bcffdf}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-0-55341883-5}
+      \field{month}{9}
+      \field{title}{{Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy}}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb https://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality/dp/0553418815
+      \endverb
+      \verb{url}
+      \verb https://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality/dp/0553418815
+      \endverb
+    \endentry
+    \entry{Perez2019}{book}{}
+      \name{author}{1}{}{%
+        {{hash=c2304b8d35cd3a13718d9162914a91dd}{%
+           family={Perez},
+           familyi={P\bibinitperiod},
+           given={Caroline\bibnamedelima Criado},
+           giveni={C\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {Abrams Press}%
+      }
+      \strng{namehash}{c2304b8d35cd3a13718d9162914a91dd}
+      \strng{fullhash}{c2304b8d35cd3a13718d9162914a91dd}
+      \strng{bibnamehash}{c2304b8d35cd3a13718d9162914a91dd}
+      \strng{authorbibnamehash}{c2304b8d35cd3a13718d9162914a91dd}
+      \strng{authornamehash}{c2304b8d35cd3a13718d9162914a91dd}
+      \strng{authorfullhash}{c2304b8d35cd3a13718d9162914a91dd}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-1-41972907-2}
+      \field{month}{3}
+      \field{title}{{Invisible Women: Data Bias in a World Designed for Men}}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://www.amazon.com/Invisible-Women-Data-World-Designed/dp/1419729071
+      \endverb
+      \verb{url}
+      \verb https://www.amazon.com/Invisible-Women-Data-World-Designed/dp/1419729071
       \endverb
     \endentry
   \enddatalist
