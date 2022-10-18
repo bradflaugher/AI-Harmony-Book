@@ -2,7 +2,7 @@
 \babel@toc {english}{}\relax
 \contentsline {chapter}{Preface}{iii}{chapter*.1}%
 \contentsline {chapter}{\nonumberline Contents}{iv}{chapter*.2}%
-\contentsline {part}{\nonumberline History: the slow march away from algorithms}{1}{part*.7}%
+\contentsline {part}{\nonumberline History: the slow march away from algorithms towards layered statistical representations}{1}{part*.7}%
 \contentsline {chapter}{\numberline {1}Ages of Understanding}{2}{chapter.1}%
 \etoc@startlocaltoc {2}
 \etoc@startlocaltoc {3}
@@ -10,73 +10,72 @@
 \contentsline {mtocsection}{\numberline {1.1}(1500-Today) Algorithms: Codified Human Understanding}{2}{section.1.1}%
 \contentsline {section}{\numberline {1.2}(1980-Today) Machine Learning: Data-Derived Insights}{2}{section.1.2}%
 \contentsline {mtocsection}{\numberline {1.2}(1980-Today) Machine Learning: Data-Derived Insights}{2}{section.1.2}%
-\contentsline {part}{\nonumberline Deep Learning Concepts: layered statistical representations}{3}{part*.10}%
-\contentsline {chapter}{\numberline {2}How Models Read Data}{4}{chapter.2}%
+\contentsline {chapter}{\numberline {2}How Models Read Data}{3}{chapter.2}%
 \etoc@startlocaltoc {4}
 \etoc@startlocaltoc {5}
-\contentsline {section}{\numberline {2.1}Numerical Data}{4}{section.2.1}%
-\contentsline {mtocsection}{\numberline {2.1}Numerical Data}{4}{section.2.1}%
-\contentsline {section}{\numberline {2.2}Words}{4}{section.2.2}%
-\contentsline {mtocsection}{\numberline {2.2}Words}{4}{section.2.2}%
-\contentsline {section}{\numberline {2.3}Sounds}{4}{section.2.3}%
-\contentsline {mtocsection}{\numberline {2.3}Sounds}{4}{section.2.3}%
-\contentsline {section}{\numberline {2.4}Images}{4}{section.2.4}%
-\contentsline {mtocsection}{\numberline {2.4}Images}{4}{section.2.4}%
-\contentsline {section}{\numberline {2.5}Video}{4}{section.2.5}%
-\contentsline {mtocsection}{\numberline {2.5}Video}{4}{section.2.5}%
-\contentsline {section}{\numberline {2.6}Mixed Datasets}{4}{section.2.6}%
-\contentsline {mtocsection}{\numberline {2.6}Mixed Datasets}{4}{section.2.6}%
-\contentsline {chapter}{\numberline {3}Learning Methods}{5}{chapter.3}%
+\contentsline {section}{\numberline {2.1}Numerical Data}{3}{section.2.1}%
+\contentsline {mtocsection}{\numberline {2.1}Numerical Data}{3}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Words}{3}{section.2.2}%
+\contentsline {mtocsection}{\numberline {2.2}Words}{3}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Sounds}{3}{section.2.3}%
+\contentsline {mtocsection}{\numberline {2.3}Sounds}{3}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Images}{3}{section.2.4}%
+\contentsline {mtocsection}{\numberline {2.4}Images}{3}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Video}{3}{section.2.5}%
+\contentsline {mtocsection}{\numberline {2.5}Video}{3}{section.2.5}%
+\contentsline {section}{\numberline {2.6}Mixed Datasets}{3}{section.2.6}%
+\contentsline {mtocsection}{\numberline {2.6}Mixed Datasets}{3}{section.2.6}%
+\contentsline {chapter}{\numberline {3}Learning Methods}{4}{chapter.3}%
 \etoc@startlocaltoc {6}
 \etoc@startlocaltoc {7}
-\contentsline {section}{\numberline {3.1}Unsupervised}{5}{section.3.1}%
-\contentsline {mtocsection}{\numberline {3.1}Unsupervised}{5}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Supervised}{5}{section.3.2}%
-\contentsline {mtocsection}{\numberline {3.2}Supervised}{5}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Reinforcement}{5}{section.3.3}%
-\contentsline {mtocsection}{\numberline {3.3}Reinforcement}{5}{section.3.3}%
-\contentsline {section}{\numberline {3.4}Domain Transfer}{5}{section.3.4}%
-\contentsline {mtocsection}{\numberline {3.4}Domain Transfer}{5}{section.3.4}%
-\contentsline {section}{\numberline {3.5}Notes on Ethics}{5}{section.3.5}%
-\contentsline {mtocsection}{\numberline {3.5}Notes on Ethics}{5}{section.3.5}%
-\contentsline {part}{\nonumberline The Chaotic Black Box: statistical inference with a billion or so parameters}{6}{part*.12}%
-\contentsline {chapter}{\numberline {4}Classifiers}{7}{chapter.4}%
+\contentsline {section}{\numberline {3.1}Unsupervised}{4}{section.3.1}%
+\contentsline {mtocsection}{\numberline {3.1}Unsupervised}{4}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Supervised}{4}{section.3.2}%
+\contentsline {mtocsection}{\numberline {3.2}Supervised}{4}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Reinforcement}{4}{section.3.3}%
+\contentsline {mtocsection}{\numberline {3.3}Reinforcement}{4}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Domain Transfer}{4}{section.3.4}%
+\contentsline {mtocsection}{\numberline {3.4}Domain Transfer}{4}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Notes on Ethics}{4}{section.3.5}%
+\contentsline {mtocsection}{\numberline {3.5}Notes on Ethics}{4}{section.3.5}%
+\contentsline {part}{\nonumberline The Chaotic Prediction Machine: statistical inference with a billion or so parameters}{5}{part*.10}%
+\contentsline {chapter}{\numberline {4}Classifiers}{6}{chapter.4}%
 \etoc@startlocaltoc {8}
 \etoc@startlocaltoc {9}
-\contentsline {section}{\numberline {4.1}Recommenders}{7}{section.4.1}%
-\contentsline {mtocsection}{\numberline {4.1}Recommenders}{7}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Facial Recognition}{7}{section.4.2}%
-\contentsline {mtocsection}{\numberline {4.2}Facial Recognition}{7}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Sentiment}{7}{section.4.3}%
-\contentsline {mtocsection}{\numberline {4.3}Sentiment}{7}{section.4.3}%
-\contentsline {section}{\numberline {4.4}Hate Speech}{7}{section.4.4}%
-\contentsline {mtocsection}{\numberline {4.4}Hate Speech}{7}{section.4.4}%
-\contentsline {section}{\numberline {4.5}The Ethics of Classification}{7}{section.4.5}%
-\contentsline {mtocsection}{\numberline {4.5}The Ethics of Classification}{7}{section.4.5}%
-\contentsline {chapter}{\numberline {5}Transformers}{8}{chapter.5}%
+\contentsline {section}{\numberline {4.1}Recommenders}{6}{section.4.1}%
+\contentsline {mtocsection}{\numberline {4.1}Recommenders}{6}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Facial Recognition}{6}{section.4.2}%
+\contentsline {mtocsection}{\numberline {4.2}Facial Recognition}{6}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Sentiment}{6}{section.4.3}%
+\contentsline {mtocsection}{\numberline {4.3}Sentiment}{6}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Hate Speech}{6}{section.4.4}%
+\contentsline {mtocsection}{\numberline {4.4}Hate Speech}{6}{section.4.4}%
+\contentsline {section}{\numberline {4.5}The Ethics of Classification}{6}{section.4.5}%
+\contentsline {mtocsection}{\numberline {4.5}The Ethics of Classification}{6}{section.4.5}%
+\contentsline {chapter}{\numberline {5}Transformers}{7}{chapter.5}%
 \etoc@startlocaltoc {10}
 \etoc@startlocaltoc {11}
-\contentsline {section}{\numberline {5.1}Style Transfer}{8}{section.5.1}%
-\contentsline {mtocsection}{\numberline {5.1}Style Transfer}{8}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Translation}{8}{section.5.2}%
-\contentsline {mtocsection}{\numberline {5.2}Translation}{8}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Text Generation}{8}{section.5.3}%
-\contentsline {mtocsection}{\numberline {5.3}Text Generation}{8}{section.5.3}%
-\contentsline {section}{\numberline {5.4}Image Generation and Stable Diffusion}{8}{section.5.4}%
-\contentsline {mtocsection}{\numberline {5.4}Image Generation and Stable Diffusion}{8}{section.5.4}%
-\contentsline {section}{\numberline {5.5}The Ethics of Transforming}{8}{section.5.5}%
-\contentsline {mtocsection}{\numberline {5.5}The Ethics of Transforming}{8}{section.5.5}%
-\contentsline {chapter}{\numberline {6}Ensembles and Mathematical Chaos}{9}{chapter.6}%
+\contentsline {section}{\numberline {5.1}Style Transfer}{7}{section.5.1}%
+\contentsline {mtocsection}{\numberline {5.1}Style Transfer}{7}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Translation}{7}{section.5.2}%
+\contentsline {mtocsection}{\numberline {5.2}Translation}{7}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Text Generation}{7}{section.5.3}%
+\contentsline {mtocsection}{\numberline {5.3}Text Generation}{7}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Image Generation and Stable Diffusion}{7}{section.5.4}%
+\contentsline {mtocsection}{\numberline {5.4}Image Generation and Stable Diffusion}{7}{section.5.4}%
+\contentsline {section}{\numberline {5.5}The Ethics of Transforming}{7}{section.5.5}%
+\contentsline {mtocsection}{\numberline {5.5}The Ethics of Transforming}{7}{section.5.5}%
+\contentsline {chapter}{\numberline {6}Ensembles and Mathematical Chaos}{8}{chapter.6}%
 \etoc@startlocaltoc {12}
 \etoc@startlocaltoc {13}
-\contentsline {section}{\numberline {6.1}Interacting Layers of Statistical Understanding}{9}{section.6.1}%
-\contentsline {mtocsection}{\numberline {6.1}Interacting Layers of Statistical Understanding}{9}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Useful Chaos}{9}{section.6.2}%
-\contentsline {mtocsection}{\numberline {6.2}Useful Chaos}{9}{section.6.2}%
-\contentsline {part}{\nonumberline Appendix}{10}{part*.14}%
-\contentsline {chapter}{\numberline {A}Poetry Test}{11}{appendix.A}%
+\contentsline {section}{\numberline {6.1}Interacting Layers of Statistical Understanding}{8}{section.6.1}%
+\contentsline {mtocsection}{\numberline {6.1}Interacting Layers of Statistical Understanding}{8}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Useful Chaos}{8}{section.6.2}%
+\contentsline {mtocsection}{\numberline {6.2}Useful Chaos}{8}{section.6.2}%
+\contentsline {part}{\nonumberline Appendix}{9}{part*.12}%
+\contentsline {chapter}{\numberline {A}Poetry Test}{10}{appendix.A}%
 \etoc@startlocaltoc {14}
 \etoc@startlocaltoc {15}
-\contentsline {chapter}{\nonumberline Bibliography}{12}{chapter*.15}%
-\contentsline {chapter}{\nonumberline Notation}{13}{chapter*.16}%
-\contentsline {chapter}{Alphabetical Index}{14}{section*.17}%
+\contentsline {chapter}{\nonumberline Bibliography}{11}{chapter*.13}%
+\contentsline {chapter}{\nonumberline Notation}{12}{chapter*.14}%
+\contentsline {chapter}{Alphabetical Index}{13}{section*.15}%

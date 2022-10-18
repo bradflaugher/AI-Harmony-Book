@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.8.4)  29 SEP 2022 13:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.8.4)  18 OCT 2022 08:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3335,6 +3335,10 @@ LaTeX Warning: Marginpar on page 2 moved.
 
 \openout4 = `main.mw'.
 
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
 <images//monalisa.jpg, id=201, 403.5075pt x 601.24625pt>
 File: images//monalisa.jpg Graphic file (type jpg)
 <use images//monalisa.jpg>
@@ -3380,7 +3384,7 @@ Package marginnote Info: xpos seems to be 72.53856pt on input line 40.
 
 LaTeX Warning: Marginpar on page 2 moved.
 
-)
+) (./chapters/data_types.tex
 \openout4 = `main.mw'.
 
  [2
@@ -3390,85 +3394,10 @@ LaTeX Warning: Marginpar on page 2 moved.
  <./images//monalisa.jpg>] (./main.mw)
 \openout4 = `main.mw'.
 
-*geometry* verbose mode - [ newgeometry ] result:
-* driver: pdftex
-* paper: custom
-* layout: <same size as paper>
-* layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: 
-* h-part:(L,W,R)=(72.53856pt, 469.1607pt, 72.53856pt)
-* v-part:(T,H,B)=(73.20433pt, 647.08383pt, 73.20433pt)
-* \paperwidth=614.23782pt
-* \paperheight=793.4925pt
-* \textwidth=469.1607pt
-* \textheight=647.08383pt
-* \oddsidemargin=0.26857pt
-* \evensidemargin=0.26857pt
-* \topmargin=-43.45427pt
-* \headheight=15.0pt
-* \headsep=29.38861pt
-* \topskip=10.0pt
-* \footskip=42.0pt
-* \marginparwidth=0.0pt
-* \marginparsep=0.0pt
-* \columnsep=10.0pt
-* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
-* \hoffset=0.0pt
-* \voffset=0.0pt
-* \mag=1000
-* \@twocolumnfalse
-* \@twosidefalse
-* \@mparswitchfalse
-* \@reversemarginfalse
-* (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-
-part without number
-\openout4 = `main.mw'.
-
-[3
-
-
-
-] (./main.mw)
-\openout4 = `main.mw'.
-
-*geometry* verbose mode - [ newgeometry ] result:
-* driver: pdftex
-* paper: custom
-* layout: <same size as paper>
-* layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: 
-* h-part:(L,W,R)=(72.53856pt, 312.9688pt, 228.73047pt)
-* v-part:(T,H,B)=(73.20433pt, 647.08383pt, 73.20433pt)
-* \paperwidth=614.23782pt
-* \paperheight=793.4925pt
-* \textwidth=312.9688pt
-* \textheight=647.08383pt
-* \oddsidemargin=0.26857pt
-* \evensidemargin=0.26857pt
-* \topmargin=-43.45427pt
-* \headheight=15.0pt
-* \headsep=29.38861pt
-* \topskip=10.0pt
-* \footskip=42.0pt
-* \marginparwidth=139.51971pt
-* \marginparsep=18.13463pt
-* \columnsep=10.0pt
-* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
-* \hoffset=0.0pt
-* \voffset=0.0pt
-* \mag=1000
-* \@twocolumnfalse
-* \@twosidefalse
-* \@mparswitchfalse
-* \@reversemarginfalse
-* (1in=72.27pt=25.4mm, 1cm=28.453pt)
-
- (./chapters/data_types.tex
 chapter 2.
-Package marginnote Info: Margin note 10.1 is on absolute page 10 on input line 
-2.
+Package marginnote Info: Margin note 9.1 is on absolute page 9 on input line 2.
+
 Package marginnote Info: right page because not two side mode on input line 2.
 Package marginnote Info: xpos seems to be 72.53856pt on input line 2.
 Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 8.
@@ -3505,8 +3434,7 @@ LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
 ) (./chapters/learning_types.tex
 \openout4 = `main.mw'.
 
- [4
-
+ [3
 
 
 ] (./main.mw)
@@ -3514,7 +3442,7 @@ LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
 
 
 chapter 3.
-Package marginnote Info: Margin note 11.1 is on absolute page 11 on input line 
+Package marginnote Info: Margin note 10.1 is on absolute page 10 on input line 
 2.
 Package marginnote Info: right page because not two side mode on input line 2.
 Package marginnote Info: xpos seems to be 72.53856pt on input line 2.
@@ -3562,7 +3490,7 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 14.
 )
 \openout4 = `main.mw'.
 
- [5
+ [4
 
 
 ] (./main.mw)
@@ -3604,7 +3532,7 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 14.
 part without number
 \openout4 = `main.mw'.
 
-[6
+[5
 
 
 
@@ -3645,14 +3573,14 @@ part without number
 
  (./chapters/classifiers.tex
 chapter 4.
-Package marginnote Info: Margin note 13.1 is on absolute page 13 on input line 
+Package marginnote Info: Margin note 12.1 is on absolute page 12 on input line 
 2.
 Package marginnote Info: right page because not two side mode on input line 2.
 Package marginnote Info: xpos seems to be 72.53856pt on input line 2.
 ) (./chapters/transformers.tex
 \openout4 = `main.mw'.
 
- [7
+ [6
 
 
 
@@ -3661,7 +3589,7 @@ Package marginnote Info: xpos seems to be 72.53856pt on input line 2.
 
 
 chapter 5.
-Package marginnote Info: Margin note 14.1 is on absolute page 14 on input line 
+Package marginnote Info: Margin note 13.1 is on absolute page 13 on input line 
 2.
 Package marginnote Info: right page because not two side mode on input line 2.
 Package marginnote Info: xpos seems to be 72.53856pt on input line 2.
@@ -3673,7 +3601,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--2
 ) (./chapters/ensembles_and_chaos.tex
 \openout4 = `main.mw'.
 
- [8
+ [7
 
 
 ] (./main.mw)
@@ -3681,7 +3609,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--2
 
 
 chapter 6.
-Package marginnote Info: Margin note 15.1 is on absolute page 15 on input line 
+Package marginnote Info: Margin note 14.1 is on absolute page 14 on input line 
 2.
 Package marginnote Info: right page because not two side mode on input line 2.
 Package marginnote Info: xpos seems to be 72.53856pt on input line 2.
@@ -3693,7 +3621,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--2
 )
 \openout4 = `main.mw'.
 
- [9
+ [8
 
 
 ] (./main.mw)
@@ -3735,7 +3663,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--2
 part without number
 \openout4 = `main.mw'.
 
-[10
+[9
 
 
 
@@ -3776,7 +3704,7 @@ part without number
 
  (./chapters/appendix.tex
 chapter A.
-Package marginnote Info: Margin note 17.1 is on absolute page 17 on input line 
+Package marginnote Info: Margin note 16.1 is on absolute page 16 on input line 
 3.
 Package marginnote Info: right page because not two side mode on input line 3.
 Package marginnote Info: xpos seems to be 72.53856pt on input line 3.
@@ -3808,7 +3736,7 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 6.
 )
 \openout4 = `main.mw'.
 
- [11
+ [10
 
 
 
@@ -3849,10 +3777,15 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 6.
 
 
 chapter without number
+LaTeX Font Info:    Font shape `T1/zplLF/m/sc' will be
+(Font)              scaled to size 9.70001pt on input line 253.
+Package microtype Info: Character `029' is missing
+(microtype)             in font `T1/zplLF/m/sc/10'.
+(microtype)             Ignoring protrusion settings for this character.
 (./main.nls
 \openout4 = `main.mw'.
 
- [12
+ [11
 
 
 
@@ -3872,7 +3805,7 @@ chapter without number
 ) (./main.gls)
 \openout4 = `main.mw'.
 
- [13
+ [12
 
 
 ] (./main.mw)
@@ -3886,12 +3819,16 @@ runsystem(makeindex main.idx)...executed safely (allowed).
 \openout4 = `main.mw'.
 
 
-[14
+[13
 
 
 
 
 ] (./main.mw)
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
@@ -4395,10 +4332,6 @@ runsystem(makeindex main.idx)...executed safely (allowed).
 
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
 )
 
 LaTeX Warning: There were undefined references.
@@ -4434,15 +4367,15 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 57873 strings out of 478287
- 1142341 string characters out of 5849290
- 2284752 words of memory out of 5000000
- 74737 multiletter control sequences out of 15000+600000
- 592731 words of font info for 220 fonts, out of 8000000 for 9000
+ 57884 strings out of 478287
+ 1142722 string characters out of 5849290
+ 2284784 words of memory out of 5000000
+ 74748 multiletter control sequences out of 15000+600000
+ 596213 words of font info for 223 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  133i,17n,159p,10596b,2656s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texliv
-e/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-lf-pc.enc}{/usr/share/texlive/texmf-d
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-lf-pc.enc}{/usr/s
+hare/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texlive/texmf-d
 ist/fonts/enc/dvips/newtx/ntx-ec-lf.enc}{/usr/share/texmf/fonts/enc/dvips/tex-g
 yre/q-ec.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/newpx/NewPXMI.pf
 b></usr/share/texlive/texmf-dist/fonts/type1/public/bera/fvmr8a.pfb></usr/share
@@ -4450,10 +4383,10 @@ b></usr/share/texlive/texmf-dist/fonts/type1/public/bera/fvmr8a.pfb></usr/share
 s/type1/public/newpx/zplb.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
 /newpx/zplr.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newpx/zplri.p
 fb>
-Output written on main.pdf (20 pages, 252996 bytes).
+Output written on main.pdf (19 pages, 255092 bytes).
 PDF statistics:
- 593 PDF objects out of 1000 (max. 8388607)
- 551 compressed objects within 6 object streams
- 113 named destinations out of 1000 (max. 500000)
- 59234 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 591 PDF objects out of 1000 (max. 8388607)
+ 549 compressed objects within 6 object streams
+ 111 named destinations out of 1000 (max. 500000)
+ 61274 words of extra memory for PDF output out of 61914 (max. 10000000)
 

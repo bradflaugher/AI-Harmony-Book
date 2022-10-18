@@ -404,6 +404,40 @@
       \verb https://www.nytimes.com/2022/09/28/technology/driverless-cars-san-francisco.html
       \endverb
     \endentry
+    \entry{Aytekin}{article}{}
+      \name{author}{1}{}{%
+        {{hash=9ffa9e48bcc6106e9734fda11e8878b4}{%
+           family={Aytekin},
+           familyi={A\bibinitperiod},
+           given={Caglar},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{9ffa9e48bcc6106e9734fda11e8878b4}
+      \strng{fullhash}{9ffa9e48bcc6106e9734fda11e8878b4}
+      \strng{bibnamehash}{9ffa9e48bcc6106e9734fda11e8878b4}
+      \strng{authorbibnamehash}{9ffa9e48bcc6106e9734fda11e8878b4}
+      \strng{authornamehash}{9ffa9e48bcc6106e9734fda11e8878b4}
+      \strng{authorfullhash}{9ffa9e48bcc6106e9734fda11e8878b4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Neural Networks are Decision Trees}
+      \field{year}{2022}
+      \verb{doi}
+      \verb 10.48550/ARXIV.2210.05189
+      \endverb
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/2210.05189
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/2210.05189
+      \endverb
+      \keyw{Machine Learning (cs.LG),FOS: Computer and information sciences,FOS: Computer and information sciences}
+    \endentry
     \entry{Oneil2017}{book}{}
       \name{author}{1}{}{%
         {{hash=2d9e8c54407ca5f4ae5ce79112bcffdf}{%
@@ -424,8 +458,8 @@
       \strng{authorbibnamehash}{2d9e8c54407ca5f4ae5ce79112bcffdf}
       \strng{authornamehash}{2d9e8c54407ca5f4ae5ce79112bcffdf}
       \strng{authorfullhash}{2d9e8c54407ca5f4ae5ce79112bcffdf}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{978-0-55341883-5}
@@ -459,8 +493,8 @@
       \strng{authorbibnamehash}{c2304b8d35cd3a13718d9162914a91dd}
       \strng{authornamehash}{c2304b8d35cd3a13718d9162914a91dd}
       \strng{authorfullhash}{c2304b8d35cd3a13718d9162914a91dd}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{978-1-41972907-2}
