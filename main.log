@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.8.4)  18 OCT 2022 08:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.8.4)  31 OCT 2022 11:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2196,6 +2196,18 @@ LaTeX Warning: Label `ch:intro' multiply defined.
 
 LaTeX Warning: Label `ch:intro@cref' multiply defined.
 
+
+LaTeX Warning: Label `ch:intro' multiply defined.
+
+
+LaTeX Warning: Label `ch:intro@cref' multiply defined.
+
+
+LaTeX Warning: Label `ch:intro' multiply defined.
+
+
+LaTeX Warning: Label `ch:intro@cref' multiply defined.
+
 )
 \openout1 = `main.aux'.
 
@@ -2473,42 +2485,42 @@ Package scrhack Info: undefining \float@addtolists on input line 78.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Trying to load font information for T1+qhv on input line 17
-0.
+LaTeX Font Info:    Trying to load font information for T1+qhv on input line 16
+4.
 (/usr/share/texmf/tex/latex/tex-gyre/t1qhv.fd
 File: t1qhv.fd 2009/09/25 v1.2 font definition file for T1/qhv
 )
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
-(Font)              scaled to size 9.02084pt on input line 170.
+(Font)              scaled to size 9.02084pt on input line 164.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `qhv' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
-(Font)              scaled to size 9.02084pt on input line 170.
+(Font)              scaled to size 9.02084pt on input line 164.
 LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
-(Font)              scaled to size 18.70923pt on input line 170.
+(Font)              scaled to size 18.70923pt on input line 164.
 LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
-(Font)              scaled to size 10.82501pt on input line 170.
+(Font)              scaled to size 10.82501pt on input line 164.
 LaTeX Font Info:    Font shape `T1/zplLF/m/n' will be
-(Font)              scaled to size 13.968pt on input line 170.
+(Font)              scaled to size 13.968pt on input line 164.
 LaTeX Font Info:    Trying to load font information for OT1+zplTLF on input lin
-e 170.
+e 164.
 
 (/usr/share/texlive/texmf-dist/tex/latex/newpx/ot1zpltlf.fd
 File: ot1zpltlf.fd 2021/05/25 v1.0 font definition file for OT1/zpl/TLF
 )
 LaTeX Font Info:    Font shape `OT1/zplTLF/m/n' will be
-(Font)              scaled to size 13.968pt on input line 170.
+(Font)              scaled to size 13.968pt on input line 164.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `zplTLF' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `OT1/zplTLF/m/n' will be
-(Font)              scaled to size 10.18501pt on input line 170.
+(Font)              scaled to size 10.18501pt on input line 164.
 LaTeX Font Info:    Font shape `OT1/zplTLF/m/n' will be
-(Font)              scaled to size 7.663pt on input line 170.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 170
+(Font)              scaled to size 7.663pt on input line 164.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 164
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
@@ -2517,7 +2529,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 170
+LaTeX Font Info:    Trying to load font information for U+msb on input line 164
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -2527,30 +2539,30 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Trying to load font information for U+npxmia on input line 
-170.
+164.
 
 (/usr/share/texlive/texmf-dist/tex/latex/newpx/unpxmia.fd
 File: unpxmia.fd 2013/03/24 Fontinst v1.933 font definitions for U/npxmia.
 )
 LaTeX Font Info:    Trying to load font information for U+npxsym on input line 
-170.
+164.
 
 (/usr/share/texlive/texmf-dist/tex/latex/newpx/unpxsym.fd
 File: unpxsym.fd 2015/03/21 Fontinst v1.933 font definitions for U/npxsym.
 )
 LaTeX Font Info:    Trying to load font information for U+npxsyc on input line 
-170.
+164.
 
 (/usr/share/texlive/texmf-dist/tex/latex/newpx/unpxsyc.fd
 File: unpxsyc.fd 2013/03/24 Fontinst v1.933 font definitions for U/npxsyc.
 )
 
 Class scrbook Warning: non empty \uppertitleback ignored by \maketitle
-(scrbook)              in `twoside=false' mode on input line 170.
+(scrbook)              in `twoside=false' mode on input line 164.
 
 
 Class scrbook Warning: non empty \lowertitleback ignored by \maketitle
-(scrbook)              in `twoside=false' mode on input line 170.
+(scrbook)              in `twoside=false' mode on input line 164.
 
 \openout4 = `main.mw'.
 
@@ -3026,10 +3038,6 @@ Class scrbook Warning: non empty \lowertitleback ignored by \maketitle
 
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
  [2
 
 ]
@@ -3068,7 +3076,7 @@ LaTeX Font Info:    Font shape `T1/zplLF/m/it' will be
 \openout4 = `main.toc'.
 
 LaTeX Font Info:    Font shape `T1/zplLF/m/sl' will be
-(Font)              scaled to size 9.70001pt on input line 194.
+(Font)              scaled to size 9.70001pt on input line 188.
 \openout4 = `main.mw'.
 
  [3
@@ -3083,28 +3091,28 @@ LaTeX Font Info:    Font shape `T1/zplLF/m/sl' will be
 
 \openout4 = `main.mw'.
 
-Package tocbasic Info: character protrusion at toc deactivated on input line 19
-4.
+Package tocbasic Info: character protrusion at toc deactivated on input line 18
+8.
 LaTeX Font Info:    Font shape `T1/zplLF/b/n' will be
-(Font)              scaled to size 9.70001pt on input line 194.
+(Font)              scaled to size 9.70001pt on input line 188.
 LaTeX Font Info:    Font shape `T1/zplLF/m/n' will be
-(Font)              scaled to size 11.64001pt on input line 194.
+(Font)              scaled to size 11.64001pt on input line 188.
 LaTeX Font Info:    Font shape `T1/zplLF/m/sc' will be
-(Font)              scaled to size 11.64001pt on input line 194.
+(Font)              scaled to size 11.64001pt on input line 188.
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/zplLF/m/sc/12'.
 (microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    Font shape `T1/zplLF/b/sc' will be
-(Font)              scaled to size 11.64001pt on input line 194.
+(Font)              scaled to size 11.64001pt on input line 188.
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/zplLF/b/sc/12'.
 (microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    Font shape `OT1/zplTLF/m/n' will be
-(Font)              scaled to size 9.70001pt on input line 194.
+(Font)              scaled to size 9.70001pt on input line 188.
 LaTeX Font Info:    Font shape `OT1/zplTLF/m/n' will be
-(Font)              scaled to size 7.08101pt on input line 194.
+(Font)              scaled to size 7.08101pt on input line 188.
 LaTeX Font Info:    Font shape `OT1/zplTLF/m/n' will be
-(Font)              scaled to size 5.335pt on input line 194.
+(Font)              scaled to size 5.335pt on input line 188.
 \openout4 = `main.mw'.
 
  [4
@@ -3113,33 +3121,28 @@ LaTeX Font Info:    Font shape `OT1/zplTLF/m/n' will be
 ] (./main.mw)
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
+Package tocbasic Info: character protrusion at lof deactivated on input line 18
+9.
 
- [5]
-(./main.mw)
-\openout4 = `main.mw'.
-
-Package tocbasic Info: character protrusion at lof deactivated on input line 19
-5.
- (./main.lof)
+(./main.lof)
 \tf@lof=\write25
 \openout4 = `main.lof'.
 
-Package tocbasic Info: character protrusion at lot deactivated on input line 20
-2.
+Package tocbasic Info: character protrusion at lot deactivated on input line 19
+6.
  (./main.lot)
 \tf@lot=\write26
 \openout4 = `main.lot'.
 
-Package tocbasic Info: character protrusion at lol deactivated on input line 20
-4.
+Package tocbasic Info: character protrusion at lol deactivated on input line 19
+8.
  (./main.lol)
 \tf@lol=\write27
 \openout4 = `main.lol'.
 
 \openout4 = `main.mw'.
 
- [6
+ [5
 
 
 ] (./main.mw)
@@ -3212,16 +3215,16 @@ Package tocbasic Info: character protrusion at lol deactivated on input line 20
 
 part without number
 LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
-(Font)              scaled to size 22.44386pt on input line 216.
+(Font)              scaled to size 22.44386pt on input line 210.
 LaTeX Font Info:    Font shape `T1/zplLF/m/n' will be
-(Font)              scaled to size 24.13362pt on input line 216.
+(Font)              scaled to size 24.13362pt on input line 210.
 LaTeX Font Info:    Font shape `T1/zplLF/m/sc' will be
-(Font)              scaled to size 24.13362pt on input line 216.
+(Font)              scaled to size 24.13362pt on input line 210.
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/zplLF/m/sc/24.88'.
 (microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    Font shape `T1/zplLF/b/sc' will be
-(Font)              scaled to size 24.13362pt on input line 216.
+(Font)              scaled to size 24.13362pt on input line 210.
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/zplLF/b/sc/24.88'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -3236,6 +3239,8 @@ Package microtype Info: Character `029' is missing
 ] (./main.mw)
 \openout4 = `main.mw'.
 
+Package marginnote Info: Using workaround for absolute page number on input lin
+e 210.
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: custom
@@ -3282,12 +3287,7 @@ LaTeX Font Info:    Font shape `T1/zplLF/m/n' will be
 (Font)              scaled to size 7.76001pt on input line 2.
 
 Underfull \hbox (badness 10000) in paragraph at lines 2--2
- [][][][]\T1/zplLF/b/n/9 (+20) (1500-Today) Al-go-rithms: 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
- [][][][]\T1/zplLF/b/n/9 (+20) (1980-Today) Ma-chine Learn- 
+ [][][][]\T1/zplLF/b/n/9 (+20) Machine Learn-ing: Data- 
  []
 
 LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
@@ -3339,7 +3339,7 @@ LaTeX Warning: Marginpar on page 2 moved.
 
 \openout4 = `main.mw'.
 
-<images//monalisa.jpg, id=201, 403.5075pt x 601.24625pt>
+<images//monalisa.jpg, id=149, 403.5075pt x 601.24625pt>
 File: images//monalisa.jpg Graphic file (type jpg)
 <use images//monalisa.jpg>
 Package pdftex.def Info: images//monalisa.jpg  used on input line 36.
@@ -3400,7 +3400,7 @@ Package marginnote Info: Margin note 9.1 is on absolute page 9 on input line 2.
 
 Package marginnote Info: right page because not two side mode on input line 2.
 Package marginnote Info: xpos seems to be 72.53856pt on input line 2.
-Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 8.
+Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 7.
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
@@ -3426,11 +3426,11 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 8.
 \openout4 = `main.mw'.
 
 LaTeX Font Info:    Font shape `T1/zplLF/m/n' will be
-(Font)              scaled to size 8.73001pt on input line 18.
+(Font)              scaled to size 8.73001pt on input line 10.
 LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
-(Font)              scaled to size 7.65005pt on input line 18.
+(Font)              scaled to size 7.65005pt on input line 10.
 LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
-(Font)              scaled to size 8.50006pt on input line 24.
+(Font)              scaled to size 8.50006pt on input line 16.
 ) (./chapters/learning_types.tex
 \openout4 = `main.mw'.
 
@@ -3446,7 +3446,32 @@ Package marginnote Info: Margin note 10.1 is on absolute page 10 on input line
 2.
 Package marginnote Info: right page because not two side mode on input line 2.
 Package marginnote Info: xpos seems to be 72.53856pt on input line 2.
-Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 14.
+Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 8.
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 10.
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
@@ -3487,10 +3512,40 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 14.
 
 \openout4 = `main.mw'.
 
-)
+) (./chapters/classifiers.tex
 \openout4 = `main.mw'.
 
  [4
+
+
+] (./main.mw)
+\openout4 = `main.mw'.
+
+
+chapter 4.
+Package marginnote Info: Margin note 11.1 is on absolute page 11 on input line 
+2.
+Package marginnote Info: right page because not two side mode on input line 2.
+Package marginnote Info: xpos seems to be 72.53856pt on input line 2.
+) (./chapters/transformers.tex
+\openout4 = `main.mw'.
+
+ [5
+
+
+] (./main.mw)
+\openout4 = `main.mw'.
+
+
+chapter 5.
+Package marginnote Info: Margin note 12.1 is on absolute page 12 on input line 
+2.
+Package marginnote Info: right page because not two side mode on input line 2.
+Package marginnote Info: xpos seems to be 72.53856pt on input line 2.
+)
+\openout4 = `main.mw'.
+
+ [6
 
 
 ] (./main.mw)
@@ -3532,7 +3587,7 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 14.
 part without number
 \openout4 = `main.mw'.
 
-[5
+[7
 
 
 
@@ -3571,43 +3626,7 @@ part without number
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
- (./chapters/classifiers.tex
-chapter 4.
-Package marginnote Info: Margin note 12.1 is on absolute page 12 on input line 
-2.
-Package marginnote Info: right page because not two side mode on input line 2.
-Package marginnote Info: xpos seems to be 72.53856pt on input line 2.
-) (./chapters/transformers.tex
-\openout4 = `main.mw'.
-
- [6
-
-
-
-] (./main.mw)
-\openout4 = `main.mw'.
-
-
-chapter 5.
-Package marginnote Info: Margin note 13.1 is on absolute page 13 on input line 
-2.
-Package marginnote Info: right page because not two side mode on input line 2.
-Package marginnote Info: xpos seems to be 72.53856pt on input line 2.
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
- [][][][]\T1/zplLF/b/n/9 (+12) Image Gen-er-a-tion and Sta-ble 
- []
-
-) (./chapters/ensembles_and_chaos.tex
-\openout4 = `main.mw'.
-
- [7
-
-
-] (./main.mw)
-\openout4 = `main.mw'.
-
-
+ (./chapters/ensembles_and_chaos.tex
 chapter 6.
 Package marginnote Info: Margin note 14.1 is on absolute page 14 on input line 
 2.
@@ -3618,10 +3637,106 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--2
  [][][][]\T1/zplLF/b/n/9 (+20) Interacting Lay-ers of Sta-tis-ti- 
  []
 
-)
+) (./chapters/ethics_and_errors.tex
 \openout4 = `main.mw'.
 
  [8
+
+
+
+] (./main.mw)
+\openout4 = `main.mw'.
+
+
+chapter 7.
+Package marginnote Info: Margin note 15.1 is on absolute page 15 on input line 
+2.
+Package marginnote Info: right page because not two side mode on input line 2.
+Package marginnote Info: xpos seems to be 72.53856pt on input line 2.
+) (./chapters/flavors_of_disruption.tex
+\openout4 = `main.mw'.
+
+ [9
+
+
+] (./main.mw)
+\openout4 = `main.mw'.
+
+
+chapter 8.
+Package marginnote Info: Margin note 16.1 is on absolute page 16 on input line 
+2.
+Package marginnote Info: right page because not two side mode on input line 2.
+Package marginnote Info: xpos seems to be 72.53856pt on input line 2.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
+ [][][][]\T1/zplLF/b/n/9 (+20) Can Mod-els bring In-cre- 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
+ \T1/zplLF/b/n/9 (+20) men-tal or Rev-o-lu-tion-ary 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
+ [][][][]\T1/zplLF/b/n/9 (+20) What should gov-ern-ments 
+ []
+
+Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 8.
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 10.
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+)
+\openout4 = `main.mw'.
+
+ [10
 
 
 ] (./main.mw)
@@ -3663,7 +3778,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--2
 part without number
 \openout4 = `main.mw'.
 
-[9
+[11
 
 
 
@@ -3704,7 +3819,7 @@ part without number
 
  (./chapters/appendix.tex
 chapter A.
-Package marginnote Info: Margin note 16.1 is on absolute page 16 on input line 
+Package marginnote Info: Margin note 18.1 is on absolute page 18 on input line 
 3.
 Package marginnote Info: right page because not two side mode on input line 3.
 Package marginnote Info: xpos seems to be 72.53856pt on input line 3.
@@ -3736,7 +3851,7 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 6.
 )
 \openout4 = `main.mw'.
 
- [10
+ [12
 
 
 
@@ -3778,14 +3893,14 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 6.
 
 chapter without number
 LaTeX Font Info:    Font shape `T1/zplLF/m/sc' will be
-(Font)              scaled to size 9.70001pt on input line 253.
+(Font)              scaled to size 9.70001pt on input line 247.
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/zplLF/m/sc/10'.
 (microtype)             Ignoring protrusion settings for this character.
 (./main.nls
 \openout4 = `main.mw'.
 
- [11
+ [13
 
 
 
@@ -3805,7 +3920,7 @@ Package microtype Info: Character `029' is missing
 ) (./main.gls)
 \openout4 = `main.mw'.
 
- [12
+ [14
 
 
 ] (./main.mw)
@@ -3819,12 +3934,20 @@ runsystem(makeindex main.idx)...executed safely (allowed).
 \openout4 = `main.mw'.
 
 
-[13
+[15
 
 
 
 
 ] (./main.mw)
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
@@ -4252,86 +4375,6 @@ runsystem(makeindex main.idx)...executed safely (allowed).
 
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
 )
 
 LaTeX Warning: There were undefined references.
@@ -4367,11 +4410,11 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 57884 strings out of 478287
- 1142722 string characters out of 5849290
- 2284784 words of memory out of 5000000
- 74748 multiletter control sequences out of 15000+600000
- 596213 words of font info for 223 fonts, out of 8000000 for 9000
+ 57906 strings out of 478287
+ 1143588 string characters out of 5849290
+ 2283605 words of memory out of 5000000
+ 74763 multiletter control sequences out of 15000+600000
+ 596650 words of font info for 226 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  133i,17n,159p,10596b,2656s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-lf-pc.enc}{/usr/s
@@ -4383,10 +4426,10 @@ b></usr/share/texlive/texmf-dist/fonts/type1/public/bera/fvmr8a.pfb></usr/share
 s/type1/public/newpx/zplb.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
 /newpx/zplr.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newpx/zplri.p
 fb>
-Output written on main.pdf (19 pages, 255092 bytes).
+Output written on main.pdf (20 pages, 253386 bytes).
 PDF statistics:
- 591 PDF objects out of 1000 (max. 8388607)
- 549 compressed objects within 6 object streams
- 111 named destinations out of 1000 (max. 500000)
- 61274 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 474 PDF objects out of 1000 (max. 8388607)
+ 432 compressed objects within 5 object streams
+ 104 named destinations out of 1000 (max. 500000)
+ 61162 words of extra memory for PDF output out of 61914 (max. 10000000)
 

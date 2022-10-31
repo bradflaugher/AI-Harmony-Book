@@ -61,41 +61,6 @@
       \verb https://www.amazon.com/Computer-Brain-Silliman-Memorial-Lectures/dp/0300181116
       \endverb
     \endentry
-    \entry{Papert1993}{book}{}
-      \name{author}{1}{}{%
-        {{hash=78c6d8177f6952ca46f1847c06a5da51}{%
-           family={Papert},
-           familyi={P\bibinitperiod},
-           given={Seymour\bibnamedelima A.},
-           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {New York, NY, USA}%
-      }
-      \list{publisher}{1}{%
-        {Basic Books}%
-      }
-      \strng{namehash}{78c6d8177f6952ca46f1847c06a5da51}
-      \strng{fullhash}{78c6d8177f6952ca46f1847c06a5da51}
-      \strng{bibnamehash}{78c6d8177f6952ca46f1847c06a5da51}
-      \strng{authorbibnamehash}{78c6d8177f6952ca46f1847c06a5da51}
-      \strng{authornamehash}{78c6d8177f6952ca46f1847c06a5da51}
-      \strng{authorfullhash}{78c6d8177f6952ca46f1847c06a5da51}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{isbn}{978-0-46504674-4}
-      \field{month}{8}
-      \field{title}{{Mindstorms: Children, Computers, And Powerful Ideas}}
-      \field{year}{1993}
-      \verb{urlraw}
-      \verb https://www.amazon.com/Mindstorms-Children-Computers-Powerful-Ideas/dp/0465046746
-      \endverb
-      \verb{url}
-      \verb https://www.amazon.com/Mindstorms-Children-Computers-Powerful-Ideas/dp/0465046746
-      \endverb
-    \endentry
     \entry{Andreu2021}{article}{}
       \name{author}{2}{}{%
         {{hash=1a222849f90783a95a8b71b0bbf05da4}{%
@@ -115,8 +80,8 @@
       \strng{authorbibnamehash}{7124b33ef7e24b9870390f594dcb696c}
       \strng{authornamehash}{7124b33ef7e24b9870390f594dcb696c}
       \strng{authorfullhash}{7124b33ef7e24b9870390f594dcb696c}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{day}{24}
@@ -156,8 +121,8 @@
       \strng{authorbibnamehash}{00f9951fa233fe3bf0b068825d51e676}
       \strng{authornamehash}{00f9951fa233fe3bf0b068825d51e676}
       \strng{authorfullhash}{00f9951fa233fe3bf0b068825d51e676}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{978-0-19093546-7}
@@ -191,8 +156,8 @@
       \strng{authorbibnamehash}{892acb64b0a9f67cbe51c2705c652a49}
       \strng{authornamehash}{892acb64b0a9f67cbe51c2705c652a49}
       \strng{authorfullhash}{892acb64b0a9f67cbe51c2705c652a49}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Superintelligence asks the questions: What happens when machines surpass humans in general intelligence? Will artificial agents save or destroy us? Nick Bostrom lays the foundation for understanding the future of humanity and intelligent life. The human brain has some capabilities that the brains of other animals lack. It is to these distinctive capabilities that our species owes its dominant position. If machine brains surpassed human brains in general intelligence, then this new superintelligence could become extremely powerful - possibly beyond our control. As the fate of the gorillas now depends more on humans than on the species itself, so would the fate of humankind depend on the actions of the machine superintelligence. But we have one advantage: we get to make the first move. Will it be possible to construct a seed Artificial Intelligence, to engineer initial conditions so as to make an intelligence explosion survivable? How could one achieve a controlled detonation? This profoundly ambitious and original book breaks down a vast track of difficult intellectual terrain. After an utterly engrossing journey that takes us to the frontiers of thinking about the human condition and the future of intelligent life, we find in Nick Bostrom's work nothing less than a reconceptualization of the essential task of our time.}
@@ -221,8 +186,8 @@
       \strng{authorbibnamehash}{ffd9bbb22f19f527ef2083421a5dfb09}
       \strng{authornamehash}{ffd9bbb22f19f527ef2083421a5dfb09}
       \strng{authorfullhash}{ffd9bbb22f19f527ef2083421a5dfb09}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{978-0-39363582-9}
@@ -253,8 +218,8 @@
       \strng{authorbibnamehash}{a7d335811b8bedf76324b13953ec7d65}
       \strng{authornamehash}{a7d335811b8bedf76324b13953ec7d65}
       \strng{authorfullhash}{a7d335811b8bedf76324b13953ec7d65}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{978-1-64782281-1}
@@ -282,8 +247,8 @@
       \strng{authorbibnamehash}{c3e1f50c81349f67ed09b43e388c8b3f}
       \strng{authornamehash}{c3e1f50c81349f67ed09b43e388c8b3f}
       \strng{authorfullhash}{c3e1f50c81349f67ed09b43e388c8b3f}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{day}{30}
@@ -438,6 +403,41 @@
       \endverb
       \keyw{Machine Learning (cs.LG),FOS: Computer and information sciences,FOS: Computer and information sciences}
     \endentry
+    \entry{McCullough1992}{book}{}
+      \name{author}{1}{}{%
+        {{hash=cbb9a28693ad2cbdbe013dc69cb12822}{%
+           family={McCullough},
+           familyi={M\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Riverside, NJ, USA}%
+      }
+      \list{publisher}{1}{%
+        {Simon {\&} Schuster}%
+      }
+      \strng{namehash}{cbb9a28693ad2cbdbe013dc69cb12822}
+      \strng{fullhash}{cbb9a28693ad2cbdbe013dc69cb12822}
+      \strng{bibnamehash}{cbb9a28693ad2cbdbe013dc69cb12822}
+      \strng{authorbibnamehash}{cbb9a28693ad2cbdbe013dc69cb12822}
+      \strng{authornamehash}{cbb9a28693ad2cbdbe013dc69cb12822}
+      \strng{authorfullhash}{cbb9a28693ad2cbdbe013dc69cb12822}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-0-67145654-2}
+      \field{month}{6}
+      \field{title}{{Truman}}
+      \field{year}{1992}
+      \verb{urlraw}
+      \verb https://www.amazon.com/Truman-David-McCullough/dp/0671456547
+      \endverb
+      \verb{url}
+      \verb https://www.amazon.com/Truman-David-McCullough/dp/0671456547
+      \endverb
+    \endentry
     \entry{Oneil2017}{book}{}
       \name{author}{1}{}{%
         {{hash=2d9e8c54407ca5f4ae5ce79112bcffdf}{%
@@ -506,6 +506,70 @@
       \endverb
       \verb{url}
       \verb https://www.amazon.com/Invisible-Women-Data-World-Designed/dp/1419729071
+      \endverb
+    \endentry
+    \entry{KrohnTED}{misc}{}
+      \list{publisher}{1}{%
+        {Jon Krohn}%
+      }
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Jon Krohn}
+      \field{month}{10}
+      \field{note}{[Online; accessed 18. Oct. 2022]}
+      \field{title}{{Jon Krohn}}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.jonkrohn.com/posts/2022/10/7/tedx-talk-how-neuroscience-inspires-ai-breakthroughs-that-will-change-the-world
+      \endverb
+      \verb{url}
+      \verb https://www.jonkrohn.com/posts/2022/10/7/tedx-talk-how-neuroscience-inspires-ai-breakthroughs-that-will-change-the-world
+      \endverb
+    \endentry
+    \entry{Keynes2012}{book}{}
+      \name{author}{3}{}{%
+        {{hash=612862f6008b8bea8cd4a13783af9a93}{%
+           family={Keynes},
+           familyi={K\bibinitperiod},
+           given={John\bibnamedelima Maynard},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=44f500c5174ad6be05f416e74da90025}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={Elizabeth},
+           giveni={E\bibinitperiod}}}%
+        {{hash=e6d0e2eb96ead00e650d7b4a2dc95289}{%
+           family={Moggridge},
+           familyi={M\bibinitperiod},
+           given={Donald},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, England, UK}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{69963cad7c718592b5a5632ef6e80e49}
+      \strng{fullhash}{69963cad7c718592b5a5632ef6e80e49}
+      \strng{bibnamehash}{69963cad7c718592b5a5632ef6e80e49}
+      \strng{authorbibnamehash}{69963cad7c718592b5a5632ef6e80e49}
+      \strng{authornamehash}{69963cad7c718592b5a5632ef6e80e49}
+      \strng{authorfullhash}{69963cad7c718592b5a5632ef6e80e49}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-1-10765506-5}
+      \field{month}{12}
+      \field{title}{{The Collected Writings of John Maynard Keynes (Volume 5)}}
+      \field{year}{2012}
+      \verb{urlraw}
+      \verb https://www.amazon.com/Collected-Writings-John-Maynard-Keynes/dp/1107655064
+      \endverb
+      \verb{url}
+      \verb https://www.amazon.com/Collected-Writings-John-Maynard-Keynes/dp/1107655064
       \endverb
     \endentry
   \enddatalist

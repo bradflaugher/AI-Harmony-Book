@@ -82,8 +82,8 @@
 %----------------------------------------------------------------------------------------
 
 
-\title[ A billion or so parameters. ]{ A billion or so parameters. }
-\subtitle{ The risks and opportunites of deriving knowledge from deep machine learning models. }
+\title[ Full Self-Driving, Skynet and other AI Myths ]{ Full Self-Driving Skynet and Other AI Myths }
+\subtitle{ The realities of decision making with deep machine learning models }
 
 \author[Brad Flaugher]{Brad Flaugher}
 
@@ -152,12 +152,6 @@
 \dedication{
 	We have now accumulated sufficient evidence to see that whatever language the central nervous system is using, it is characterized by less logical and arithmetical depth than what we are normally used to.\\
 	-- John von Neumann \cite{vonNeumann2012}
-	\newline
-	\newline
-	\newline
-	Children can learn to use computers in a masterful way, and ... learning to use computers can change the way they learn everything else.\\
-	-- Seymour A. Papert \cite{Papert1993}
-	\newline
 }
 
 %----------------------------------------------------------------------------------------
@@ -213,22 +207,22 @@
 \setchapterstyle{kao} % Choose the default chapter heading style
 
 \pagelayout{wide} % No margins
-\addpart{History: the slow march away from algorithms towards layered statistical representations} % The slow drift away from algorithms
+\addpart{Understanding modern AI} % The slow drift away from algorithms
 \pagelayout{margin} % Restore margins
 
 \input{chapters/history.tex} % Deep Blue Brute Force, Machine Translation, Economic Models. 
 \input{chapters/data_types.tex} 
 \input{chapters/learning_types.tex} 
-
-\pagelayout{wide} % No margins
-\addpart{The Chaotic Prediction Machine: statistical inference with a billion or so parameters} 
-\pagelayout{margin} % Restore margins
-
 \input{chapters/classifiers.tex} 
-
 \input{chapters/transformers.tex} 
 
+\pagelayout{wide} % No margins
+\addpart{The Chaotic Prediction Machine} 
+\pagelayout{margin} % Restore margins
+
 \input{chapters/ensembles_and_chaos.tex} 
+\input{chapters/ethics_and_errors.tex} 
+\input{chapters/flavors_of_disruption.tex} 
 
 \appendix % From here onwards, chapters are numbered with letters, as is the appendix convention
 \pagelayout{wide} % No margins
