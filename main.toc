@@ -2,54 +2,40 @@
 \babel@toc {english}{}\relax
 \contentsline {chapter}{Preface}{iii}{chapter*.1}%
 \contentsline {chapter}{\nonumberline Contents}{iv}{chapter*.2}%
-\contentsline {part}{\nonumberline Understanding modern AI}{1}{part*.7}%
-\contentsline {chapter}{\numberline {1}Is it an Algorithm or Machine Learning?}{2}{chapter.1}%
+\contentsline {chapter}{\numberline {1}Playing chess in 1997}{1}{chapter.1}%
 \etoc@startlocaltoc {2}
 \etoc@startlocaltoc {3}
-\contentsline {section}{\numberline {1.1}Algorithms: Codified Human Understanding}{2}{section.1.1}%
-\contentsline {mtocsection}{\numberline {1.1}Algorithms: Codified Human Understanding}{2}{section.1.1}%
-\contentsline {section}{\numberline {1.2}Machine Learning: Data-Derived Insights}{2}{section.1.2}%
-\contentsline {mtocsection}{\numberline {1.2}Machine Learning: Data-Derived Insights}{2}{section.1.2}%
-\contentsline {chapter}{\numberline {2}How Data is Represented}{3}{chapter.2}%
+\contentsline {chapter}{\numberline {2}Self-driving with statistics}{2}{chapter.2}%
 \etoc@startlocaltoc {4}
 \etoc@startlocaltoc {5}
-\contentsline {chapter}{\numberline {3}Machine Learning Methods}{4}{chapter.3}%
+\contentsline {chapter}{\numberline {3}A Shakespearean comedy of numbers}{3}{chapter.3}%
 \etoc@startlocaltoc {6}
 \etoc@startlocaltoc {7}
-\contentsline {chapter}{\numberline {4}Classifiers}{5}{chapter.4}%
+\contentsline {chapter}{\numberline {4}Derivative artworks of the future?}{4}{chapter.4}%
 \etoc@startlocaltoc {8}
 \etoc@startlocaltoc {9}
-\contentsline {chapter}{\numberline {5}Transformers}{6}{chapter.5}%
+\contentsline {chapter}{\numberline {5}The data is the hardest part}{5}{chapter.5}%
 \etoc@startlocaltoc {10}
 \etoc@startlocaltoc {11}
-\contentsline {part}{\nonumberline The Chaotic Prediction Machine}{7}{part*.10}%
-\contentsline {chapter}{\numberline {6}Transparent, but impossible to understand}{8}{chapter.6}%
+\contentsline {chapter}{\numberline {6}The police and Big Tech are profiling me!}{6}{chapter.6}%
 \etoc@startlocaltoc {12}
 \etoc@startlocaltoc {13}
-\contentsline {section}{\numberline {6.1}Interacting Layers of Statistical Understanding}{8}{section.6.1}%
-\contentsline {mtocsection}{\numberline {6.1}Interacting Layers of Statistical Understanding}{8}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Useful Chaos}{8}{section.6.2}%
-\contentsline {mtocsection}{\numberline {6.2}Useful Chaos}{8}{section.6.2}%
-\contentsline {chapter}{\numberline {7}Ethics and Errors}{9}{chapter.7}%
+\contentsline {chapter}{\numberline {7}The useful chaos of spaghetti code}{7}{chapter.7}%
 \etoc@startlocaltoc {14}
 \etoc@startlocaltoc {15}
-\contentsline {chapter}{\numberline {8}Revolutionary for some, mildly helpful for most}{10}{chapter.8}%
+\contentsline {chapter}{\numberline {8}Self-stabilizing concept drift}{8}{chapter.8}%
 \etoc@startlocaltoc {16}
 \etoc@startlocaltoc {17}
-\contentsline {section}{\numberline {8.1}Can Models bring Incremental or Revolutionary Change?}{10}{section.8.1}%
-\contentsline {mtocsection}{\numberline {8.1}Can Models bring Incremental or Revolutionary Change?}{10}{section.8.1}%
-\contentsline {section}{\numberline {8.2}Who is affected the most?}{10}{section.8.2}%
-\contentsline {mtocsection}{\numberline {8.2}Who is affected the most?}{10}{section.8.2}%
-\contentsline {section}{\numberline {8.3}What should individuals do?}{10}{section.8.3}%
-\contentsline {mtocsection}{\numberline {8.3}What should individuals do?}{10}{section.8.3}%
-\contentsline {section}{\numberline {8.4}What should governments do?}{10}{section.8.4}%
-\contentsline {mtocsection}{\numberline {8.4}What should governments do?}{10}{section.8.4}%
-\contentsline {section}{\numberline {8.5}What should businesses do?}{10}{section.8.5}%
-\contentsline {mtocsection}{\numberline {8.5}What should businesses do?}{10}{section.8.5}%
-\contentsline {part}{\nonumberline Appendix}{11}{part*.12}%
-\contentsline {chapter}{\numberline {A}Poetry Test}{12}{appendix.A}%
+\contentsline {chapter}{\numberline {9}My horse drives itself, thanks}{9}{chapter.9}%
 \etoc@startlocaltoc {18}
 \etoc@startlocaltoc {19}
-\contentsline {chapter}{\nonumberline Bibliography}{13}{chapter*.13}%
-\contentsline {chapter}{\nonumberline Notation}{14}{chapter*.14}%
-\contentsline {chapter}{Alphabetical Index}{15}{section*.15}%
+\contentsline {chapter}{\numberline {10}Skynet: did you try unplugging it?}{10}{chapter.10}%
+\etoc@startlocaltoc {20}
+\etoc@startlocaltoc {21}
+\contentsline {part}{\nonumberline Appendix}{11}{part*.8}%
+\contentsline {chapter}{\numberline {A}????}{12}{appendix.A}%
+\etoc@startlocaltoc {22}
+\etoc@startlocaltoc {23}
+\contentsline {chapter}{\nonumberline Bibliography}{13}{chapter*.9}%
+\contentsline {chapter}{\nonumberline Notation}{14}{chapter*.10}%
+\contentsline {chapter}{Alphabetical Index}{15}{section*.11}%

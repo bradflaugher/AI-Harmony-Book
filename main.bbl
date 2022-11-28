@@ -403,6 +403,30 @@
       \endverb
       \keyw{Machine Learning (cs.LG),FOS: Computer and information sciences,FOS: Computer and information sciences}
     \endentry
+    \entry{hawkins_2022}{book}{}
+      \name{author}{1}{}{%
+        {{hash=ae942e35d736eab568a4727899116694}{%
+           family={Hawkins},
+           familyi={H\bibinitperiod},
+           given={Jeff},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Basic Books}%
+      }
+      \strng{namehash}{ae942e35d736eab568a4727899116694}
+      \strng{fullhash}{ae942e35d736eab568a4727899116694}
+      \strng{bibnamehash}{ae942e35d736eab568a4727899116694}
+      \strng{authorbibnamehash}{ae942e35d736eab568a4727899116694}
+      \strng{authornamehash}{ae942e35d736eab568a4727899116694}
+      \strng{authorfullhash}{ae942e35d736eab568a4727899116694}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A thousand brains: A new theory of intelligence}
+      \field{year}{2022}
+    \endentry
     \entry{McCullough1992}{book}{}
       \name{author}{1}{}{%
         {{hash=cbb9a28693ad2cbdbe013dc69cb12822}{%
@@ -512,8 +536,8 @@
       \list{publisher}{1}{%
         {Jon Krohn}%
       }
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Jon Krohn}
       \field{month}{10}
