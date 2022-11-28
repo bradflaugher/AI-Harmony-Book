@@ -233,6 +233,40 @@
       \verb https://www.amazon.com/Ethical-Machines-Unbiased-Transparent-Respectful/dp/1647822815
       \endverb
     \endentry
+    \entry{rich_2009}{book}{}
+      \name{author}{3}{}{%
+        {{hash=e389dd88f21ba5a95ae310205644f1ba}{%
+           family={Rich},
+           familyi={R\bibinitperiod},
+           given={Elaine},
+           giveni={E\bibinitperiod}}}%
+        {{hash=49fbfd99532ca0bf67fc21d5b6c1328a}{%
+           family={Knight},
+           familyi={K\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod}}}%
+        {{hash=c10970f428ea9c509f8a81ba7878caa9}{%
+           family={Nair},
+           familyi={N\bibinitperiod},
+           given={Shivashankar\bibnamedelima B.},
+           giveni={S\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Tata McGraw-Hill}%
+      }
+      \strng{namehash}{3f6a8cef9eeda200eefb4693bbfc9f41}
+      \strng{fullhash}{3f6a8cef9eeda200eefb4693bbfc9f41}
+      \strng{bibnamehash}{3f6a8cef9eeda200eefb4693bbfc9f41}
+      \strng{authorbibnamehash}{3f6a8cef9eeda200eefb4693bbfc9f41}
+      \strng{authornamehash}{3f6a8cef9eeda200eefb4693bbfc9f41}
+      \strng{authorfullhash}{3f6a8cef9eeda200eefb4693bbfc9f41}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Artificial Intelligence}
+      \field{year}{2009}
+    \endentry
     \entry{Douthat2002}{article}{}
       \name{author}{1}{}{%
         {{hash=c3e1f50c81349f67ed09b43e388c8b3f}{%
@@ -247,8 +281,8 @@
       \strng{authorbibnamehash}{c3e1f50c81349f67ed09b43e388c8b3f}
       \strng{authornamehash}{c3e1f50c81349f67ed09b43e388c8b3f}
       \strng{authorfullhash}{c3e1f50c81349f67ed09b43e388c8b3f}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{day}{30}
@@ -319,8 +353,8 @@
       \strng{authornamehash}{933ed9cdf5d86f8ed4df1bbbca747d53}
       \strng{authorfullhash}{933ed9cdf5d86f8ed4df1bbbca747d53}
       \field{extraname}{1}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{0362-4331}
@@ -353,8 +387,8 @@
       \strng{authornamehash}{933ed9cdf5d86f8ed4df1bbbca747d53}
       \strng{authorfullhash}{933ed9cdf5d86f8ed4df1bbbca747d53}
       \field{extraname}{2}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{0362-4331}
@@ -386,8 +420,8 @@
       \strng{authorbibnamehash}{9ffa9e48bcc6106e9734fda11e8878b4}
       \strng{authornamehash}{9ffa9e48bcc6106e9734fda11e8878b4}
       \strng{authorfullhash}{9ffa9e48bcc6106e9734fda11e8878b4}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Neural Networks are Decision Trees}
@@ -447,8 +481,8 @@
       \strng{authorbibnamehash}{cbb9a28693ad2cbdbe013dc69cb12822}
       \strng{authornamehash}{cbb9a28693ad2cbdbe013dc69cb12822}
       \strng{authorfullhash}{cbb9a28693ad2cbdbe013dc69cb12822}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{978-0-67145654-2}
@@ -482,8 +516,8 @@
       \strng{authorbibnamehash}{2d9e8c54407ca5f4ae5ce79112bcffdf}
       \strng{authornamehash}{2d9e8c54407ca5f4ae5ce79112bcffdf}
       \strng{authorfullhash}{2d9e8c54407ca5f4ae5ce79112bcffdf}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{978-0-55341883-5}
@@ -517,8 +551,8 @@
       \strng{authorbibnamehash}{c2304b8d35cd3a13718d9162914a91dd}
       \strng{authornamehash}{c2304b8d35cd3a13718d9162914a91dd}
       \strng{authorfullhash}{c2304b8d35cd3a13718d9162914a91dd}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{978-1-41972907-2}
@@ -581,8 +615,8 @@
       \strng{authorbibnamehash}{69963cad7c718592b5a5632ef6e80e49}
       \strng{authornamehash}{69963cad7c718592b5a5632ef6e80e49}
       \strng{authorfullhash}{69963cad7c718592b5a5632ef6e80e49}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{978-1-10765506-5}

@@ -2,16 +2,54 @@
 \chapter{Playing chess in 1997}
 \labch{intro}
 
-AI is a shitty term
+\section{My baby computer}
 
-We tried a lot of things, teaching computers explicit grammar and explicit rules
+If you woke up as a computer science student in 1984, maybe you grabbed the latest textbook from Dr Elaine Rich on artificial intelligence\sidecite{rich_2009} \sidenote{the book is now in its third edition and unlikely to be updated as Dr. Rich as retired \href{https://www.cs.utexas.edu/~ear/}{utexas.edu}} you would have certain ideas about how to teach computers how to do things. 
 
-IMO, this was not AI, this was codified human understanding.
+Like young parents \sidenote{including your author} maybe you thought the best way to teach your (digital) offspring how to learn was to start with the basics, the way you did as a kid. Say dada! Then let's teach you what a verb and a noun are, then maybe we will be able to translate english to french one day, right? In between lessons let me teach you how to play chess, but to do that let me teach you how the pieces move, and then let me beat you a couple hundred times before bedtime. 
 
-In code, that understanding might look like this.... %(TODO GET CODIFIED LANGUAGE PROCESSOR)
+\section{say "Hello, World!", little computer}
+
+Noam Chomsky \sidenote{\href{https://en.wikipedia.org/wiki/Noam_Chomsky}{wikipedia.org}} says that lanugage evolves over time, but may have an underlying universal structure or something \sidenote{find a citation, dude}. For us English speakers, or especially anyone who has learned English as a second language you'll have many examples of special cases, irregular verbs, bad english and former street slang that became good and proper over time \sidenote{for a weekly dose of language nerdery go here https://www.economist.com/johnson}. For programmers this is a nightmare, how can we codify human knowledge in a timely fashion? If we tried to write the rules of the english language in code (which many have tried to do) the rules themselves might change before we were finished writing them.
+
+Folks have tried this and it's been tough going for them, notable projects include...
+
+\section{Codified human knowledge}
+
+When we "teach" a computer to perform a task by explicitly writing down all of the rules of that task, we are really codifying human understanding.\sidenote{Programming this way makes some software development totally boring, I almost switched my major in college to math after considering what a life would look like manually writing rules for handling "edge cases" for the rest of my natural life.} When we codify human understanding we write down every rule that we know explicitly. For small tasks we can do this with 100 percent accuracy, and only minor headache on the part of the sofware developer. 
+
+For example, let's write a boring function to tell you the number of days for a given month. 
+
+\begin{lstlisting}[style=kaolstplain,linewidth=1.5\textwidth]
+def get_days(month):
+	if month in ["Jan"]:
+		return 31
+	elif month in ["Feb"]
+		if leap_year:
+			return 29
+		else:
+			return 28
+	elif month in ["Nov"]:
+		return 30
+	else:
+		throw exception "I don't understand"
+\end{lstlisting}
+
+You can see how annoying programming this stuff is alreday, what about numerical months and other shit...?
+
+\section{Deep Blue brutally defeats Gary Kasparov}
+
+This was a win, but it did so by brute force, this is cute and a fine way to solve a chess problem, most of life is not like chess... so most problems are ill-suited to be explicitly coded in this manner, we need something else.
+
+\section{Meanwhile at the Post Office}
+
+\sidenote{check out Yann LeCun domonstrating a convolutional neural network here\href{https://www.youtube.com/watch?v=FwFduRA_L6Q}{youtube.com}}
+
+
+\section{Artificial Intelligence vs Programmer Intelligence vs Data Intelligence}
+
+
 
 TODO talk about this book \sidecite{Douthat2002}
 
-\href{https://bradflaugher.com}{bradflaugher.com}.  
-\sidenote{Snarky sidenote!} 
 
