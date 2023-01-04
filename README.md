@@ -14,4 +14,4 @@ run ```sh makebook.sh``` to compile
 * Novel Go Openings New Go-playing trick defeats world-class Go AI—but loses to human amateurs – Ars Technica ((From Reid) Undersampling problem,Novelty Problem
 --Reinforcement Learning tho... so theoretically no undersampling. although reinforcement is just generating your own samples!))
 * The GPT-3 Architecture, on a Napkin https://dugas.ch/artificial_curiosity/GPT_architecture.html
-
+* Spaghetti code as a metaphor for AI explainability
