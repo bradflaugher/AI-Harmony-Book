@@ -267,41 +267,6 @@
       \field{title}{Artificial Intelligence}
       \field{year}{2009}
     \endentry
-    \entry{Douthat2002}{article}{}
-      \name{author}{1}{}{%
-        {{hash=c3e1f50c81349f67ed09b43e388c8b3f}{%
-           family={Douthat},
-           familyi={D\bibinitperiod},
-           given={Ross},
-           giveni={R\bibinitperiod}}}%
-      }
-      \strng{namehash}{c3e1f50c81349f67ed09b43e388c8b3f}
-      \strng{fullhash}{c3e1f50c81349f67ed09b43e388c8b3f}
-      \strng{bibnamehash}{c3e1f50c81349f67ed09b43e388c8b3f}
-      \strng{authorbibnamehash}{c3e1f50c81349f67ed09b43e388c8b3f}
-      \strng{authornamehash}{c3e1f50c81349f67ed09b43e388c8b3f}
-      \strng{authorfullhash}{c3e1f50c81349f67ed09b43e388c8b3f}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{day}{30}
-      \field{journaltitle}{The New York Times}
-      \field{month}{7}
-      \field{title}{Can We Resist the Age of the Algorithm?}
-      \field{urlday}{30}
-      \field{urlmonth}{7}
-      \field{urlyear}{2022}
-      \field{year}{2022}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \verb{urlraw}
-      \verb https://www.nytimes.com/2022/07/30/opinion/algorithm-innovation-decadence.html
-      \endverb
-      \verb{url}
-      \verb https://www.nytimes.com/2022/07/30/opinion/algorithm-innovation-decadence.html
-      \endverb
-    \endentry
     \entry{MacAskill2022}{article}{}
       \name{author}{1}{}{%
         {{hash=28922ab867623f6ca25a4e0f13850307}{%
@@ -353,8 +318,8 @@
       \strng{authornamehash}{933ed9cdf5d86f8ed4df1bbbca747d53}
       \strng{authorfullhash}{933ed9cdf5d86f8ed4df1bbbca747d53}
       \field{extraname}{1}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{0362-4331}
@@ -387,8 +352,8 @@
       \strng{authornamehash}{933ed9cdf5d86f8ed4df1bbbca747d53}
       \strng{authorfullhash}{933ed9cdf5d86f8ed4df1bbbca747d53}
       \field{extraname}{2}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{0362-4331}
@@ -420,8 +385,8 @@
       \strng{authorbibnamehash}{9ffa9e48bcc6106e9734fda11e8878b4}
       \strng{authornamehash}{9ffa9e48bcc6106e9734fda11e8878b4}
       \strng{authorfullhash}{9ffa9e48bcc6106e9734fda11e8878b4}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Neural Networks are Decision Trees}
@@ -481,8 +446,8 @@
       \strng{authorbibnamehash}{cbb9a28693ad2cbdbe013dc69cb12822}
       \strng{authornamehash}{cbb9a28693ad2cbdbe013dc69cb12822}
       \strng{authorfullhash}{cbb9a28693ad2cbdbe013dc69cb12822}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{978-0-67145654-2}
@@ -516,8 +481,8 @@
       \strng{authorbibnamehash}{2d9e8c54407ca5f4ae5ce79112bcffdf}
       \strng{authornamehash}{2d9e8c54407ca5f4ae5ce79112bcffdf}
       \strng{authorfullhash}{2d9e8c54407ca5f4ae5ce79112bcffdf}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{978-0-55341883-5}
@@ -551,8 +516,8 @@
       \strng{authorbibnamehash}{c2304b8d35cd3a13718d9162914a91dd}
       \strng{authornamehash}{c2304b8d35cd3a13718d9162914a91dd}
       \strng{authorfullhash}{c2304b8d35cd3a13718d9162914a91dd}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{978-1-41972907-2}
@@ -565,6 +530,30 @@
       \verb{url}
       \verb https://www.amazon.com/Invisible-Women-Data-World-Designed/dp/1419729071
       \endverb
+    \endentry
+    \entry{mansharamani_2020}{book}{}
+      \name{author}{1}{}{%
+        {{hash=3bf7f8aebb363db6c9b75651ad07d9c6}{%
+           family={Mansharamani},
+           familyi={M\bibinitperiod},
+           given={Vikram},
+           giveni={V\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Harvard Business Review Press}%
+      }
+      \strng{namehash}{3bf7f8aebb363db6c9b75651ad07d9c6}
+      \strng{fullhash}{3bf7f8aebb363db6c9b75651ad07d9c6}
+      \strng{bibnamehash}{3bf7f8aebb363db6c9b75651ad07d9c6}
+      \strng{authorbibnamehash}{3bf7f8aebb363db6c9b75651ad07d9c6}
+      \strng{authornamehash}{3bf7f8aebb363db6c9b75651ad07d9c6}
+      \strng{authorfullhash}{3bf7f8aebb363db6c9b75651ad07d9c6}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Think for yourself: Restoring common sense in an age of experts and artificial intelligence}
+      \field{year}{2020}
     \endentry
     \entry{KrohnTED}{misc}{}
       \list{publisher}{1}{%

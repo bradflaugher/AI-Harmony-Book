@@ -2,17 +2,28 @@
 \chapter{Playing chess in 1997}
 \labch{intro}
 
-\section{My baby computer}
+\section{"Textbook" AI in 1997}
 
-If you woke up as a computer science student in 1984, maybe you grabbed the latest textbook from Dr Elaine Rich on artificial intelligence\sidecite{rich_2009} \sidenote{the book is now in its third edition and unlikely to be updated as Dr. Rich as retired \href{https://www.cs.utexas.edu/~ear/}{utexas.edu}} you would have certain ideas about how to teach computers how to do things. 
+Dr. Elaine Rich's textbook on Artificial Intelligence, published in the 1980s, was a groundbreaking work that helped to establish many of the foundational concepts and techniques in the field of AI. However, the rapid advancements in AI over the past few decades have led to many of the chapters in this textbook becoming obsolete.
 
-Like young parents \sidenote{including your author} maybe you thought the best way to teach your (digital) offspring how to learn was to start with the basics, the way you did as a kid. Say dada! Then let's teach you what a verb and a noun are, then maybe we will be able to translate english to french one day, right? In between lessons let me teach you how to play chess, but to do that let me teach you how the pieces move, and then let me beat you a couple hundred times before bedtime. 
+One of the main reasons for this is the prevalence of deep learning, big data, and large-scale statistical models in modern AI. These techniques have largely replaced the symbolic, rule-based approach to AI that was emphasized in the textbook, making many of the chapters on knowledge representation and expert systems less relevant.
 
-\section{say "Hello, World!", little computer}
+Additionally, the explosion of data and the availability of powerful computing resources have made it possible to apply machine learning techniques at a scale that was previously unimaginable. This has led to the development of highly effective machine learning models that can handle complex tasks such as image and speech recognition with a high degree of accuracy, making many of the chapters on simpler machine learning techniques such as decision trees\sidenote{Although mathematically, \href{https://arxiv.org/abs/2210.05189}{Neural Networks are Decision Trees}} and linear regression less relevant. \sidecite{rich_2009} \sidenote{the book is now in its third edition and unlikely to be updated as Dr. Rich as retired \href{https://www.cs.utexas.edu/~ear/}{utexas.edu}}
 
-Noam Chomsky \sidenote{\href{https://en.wikipedia.org/wiki/Noam_Chomsky}{wikipedia.org}} says that lanugage evolves over time, but may have an underlying universal structure or something \sidenote{find a citation, dude}. For us English speakers, or especially anyone who has learned English as a second language you'll have many examples of special cases, irregular verbs, bad english and former street slang that became good and proper over time \sidenote{for a weekly dose of language nerdery go here https://www.economist.com/johnson}. For programmers this is a nightmare, how can we codify human knowledge in a timely fashion? If we tried to write the rules of the english language in code (which many have tried to do) the rules themselves might change before we were finished writing them.
 
-Folks have tried this and it's been tough going for them, notable projects include...
+We'll discuss this history and a few examples from the "early days" of AI to help us understand where we are headed.
+
+\section{Teaching computers to translate}
+
+Noam Chomsky is a linguist and philosopher who has made significant contributions to the field of linguistics with his theory of universal grammar. Chomsky believes that all human languages share a common underlying structure, and that this structure is innate to humans. He proposes that this innate structure is the result of a "language acquisition device" present in the human brain, which allows us to learn and produce language. Chomsky also argues that the structure of language is largely independent of its content, and that the ability to produce and understand language is a fundamental aspect of human nature. His theory has been influential in the field of linguistics and has sparked much debate and research on the nature of language and its relationship to the human mind.
+
+For English speakers or anyone who has learned English as a second language you'll have many examples of special cases, irregular verbs, bad english and former street slang that became good and proper over time. For programmers this is a nightmare, how can we codify human knowledge in a timely fashion? If we tried to write the rules of the english language in code (which many have tried to do) the rules themselves might change before we were finished writing them.
+
+Explicitly translating languages through code is a difficult task because it requires a thorough understanding of the grammar, vocabulary, and syntax of both languages, as well as the nuances and subtleties of their respective cultures\sidenote{For programmers this is a nightmare, how can we codify human knowledge in a timely fashion? If we tried to write the rules of the english language in code (which many have tried to do) the rules themselves might change before we were finished writing them.}. Simply coding rules for how to translate words or phrases from one language to another is not sufficient, as there are often multiple valid translations for a given phrase depending on the context in which it is used.
+
+A more effective approach to translation is to use statistical techniques that rely on a large corpus of translated data, such as Canadian laws. This type of data-driven approach involves training a machine learning model on a large dataset of translations, allowing it to learn the patterns and relationships between the languages. The model can then use this knowledge to make educated translations of new phrases or sentences, taking into account the context in which they are used.
+
+While this approach is not perfect, it has proven to be highly effective in machine translation and can produce accurate translations even for languages that are very different from each other. The use of a large dataset of translations also allows the model to learn from the mistakes and variations present in real-world translations, further improving its accuracy.
 
 \section{Codified human knowledge}
 
@@ -21,34 +32,67 @@ When we "teach" a computer to perform a task by explicitly writing down all of t
 For example, let's write a boring function to tell you the number of days for a given month. 
 
 \begin{lstlisting}[style=kaolstplain,linewidth=1.5\textwidth]
-def get_days(month):
-	if month in ["Jan"]:
-		return 31
-	elif month in ["Feb"]
-		if leap_year:
-			return 29
-		else:
-			return 28
-	elif month in ["Nov"]:
-		return 30
-	else:
-		throw exception "I don't understand"
+def days_in_month(year, month):
+  if month in [1, 3, 5, 7, 8, 10, 12]:
+    return 31
+  elif month in [4, 6, 9, 11]:
+    return 30
+  elif month == 2:
+    if (year % 4 == 0 and year % 100 != 0) or year % 400 == 0:
+      return 29
+    else:
+      return 28
+  else:
+    return "Invalid month"
+
 \end{lstlisting}
 
-You can see how annoying programming this stuff is alreday, what about numerical months and other shit...?
+Writing code can be a tedious and repetitive task, especially when it comes to debugging and testing. It can be especially frustrating when you're working on a large project and you're trying to track down a specific bug that's causing the program to crash. Testing code can also be boring, as it often involves running the same tests over and over again to ensure that the code is working correctly.
 
-\section{Deep Blue brutally defeats Gary Kasparov}
+Additionally, writing code can be boring because it requires a lot of concentration and focus. It can be easy to get lost in the details and lose track of time, especially if you're working on a complex problem. It can also be challenging to come up with creative solutions to problems, and it can be frustrating when your code doesn't work as expected.
 
-This was a win, but it did so by brute force, this is cute and a fine way to solve a chess problem, most of life is not like chess... so most problems are ill-suited to be explicitly coded in this manner, we need something else.
+While writing and testing code can be rewarding and fulfilling, it can also be a tedious and boring process. It requires a lot of patience, persistence, and attention to detail, and it can be easy to get frustrated and lose motivation. However, with practice and perseverance, it is possible to overcome these challenges and find enjoyment in the process of writing and testing code.
 
-\section{Meanwhile at the Post Office}
+AI has traditionally operated by explicitly codifying human knowledge into machine-readable formats by doing the boring job of coding. This approach, which I'm calling "codified human knowledge" relies on humans to carefully structure and organize information in a way that can be understood by the AI system. The AI system then uses this structured knowledge to make decisions and perform tasks.
 
-\sidenote{check out Yann LeCun domonstrating a convolutional neural network here\href{https://www.youtube.com/watch?v=FwFduRA_L6Q}{youtube.com}}
+However, recent advances in AI have largely ignored the knowledge representation problem and instead have focused on using statistical techniques and neural networks to automatically learn patterns and relationships in data. This approach, known as "deep learning," involves training large neural networks on vast amounts of data, allowing the AI system to make educated classifications and transformations of data without explicit human guidance.
 
+Deep learning has proven to be highly effective in a variety of applications, such as image and speech recognition, and has contributed to the rapid progress we have seen in AI in recent years. However, the reliance on large amounts of data and the lack of transparency in these models can make it difficult to understand how they are making decisions, which can be a concern in certain applications (hence the title of this book).
 
-\section{Artificial Intelligence vs Programmer Intelligence vs Data Intelligence}
+\section{Deep Blue's Brute Force Victory}
 
+Deep Blue was a revolutionary computer developed by IBM that was specifically designed to play chess at the highest level. It was programmed with a vast database of chess knowledge and was able to analyze millions of positions per second.
 
-TODO talk about this book \sidecite{Douthat2002}
+Garry Kasparov was the reigning world chess champion at the time, and he was considered to be one of the greatest players in history. He had never lost a match to a computer before, and he was confident that he would be able to defeat Deep Blue.
+
+However, things did not go as Kasparov had expected. Deep Blue was able to analyze the positions on the board with incredible speed and accuracy, and it was able to come up with highly sophisticated strategies that Kasparov had never seen before.
+
+Despite Kasparov's best efforts, he was no match for the sheer brute force of Deep Blue's computational power. In the end, Deep Blue emerged victorious, defeating Kasparov in a historic match that changed the world of chess forever.
+
+Deep Blue was a turning point in the development of AI, but Deep Blue's methods (namely calculating every possible outcome of a Chess game to determine the best move) was not suitable for many of the world's problems. It turns out that Chess is fun, but the world is not like chess. The "real" future of AI was being developed elsewhere, using statistics and a toy model of the brain to solve a very practical problem for banks.
+
+\section{Meanwhile at the bank}
+
+It was the early 1990s and Yann LeCun was a researcher at Bell Labs in New Jersey. At the time, the process of reading and processing checks was a tedious and time-consuming task that was done manually by bank employees. LeCun saw the potential for using artificial intelligence to automate this process, and he began experimenting with using convolutional neural networks (CNNs) to recognize patterns in images of checks.
+
+At the time, CNNs were a relatively new type of neural network that had been developed in the 1980s for image recognition tasks. They were inspired by the structure of the human visual system, and were able to process images in a way that was similar to how the human brain does.
+
+LeCun's work was groundbreaking, and he was able to achieve impressive results using CNNs to process checks. By 1993, he had developed a system that was able to read and process checks with a high degree of accuracy, significantly reducing the amount of time and effort that was required to process checks manually.
+
+LeCun's work on using CNNs for check processing was a major milestone in the field of artificial intelligence, and it laid the foundation for the development of many other applications of CNNs in the years that followed. Today, CNNs are widely used in a variety of applications, including facial recognition, image classification, and natural language processing. \sidenote{check out Yann LeCun domonstrating a convolutional neural network in 1993 at \href{https://www.youtube.com/watch?v=FwFduRA_L6Q}{youtube.com}}
+
+\section{Programmer intelligence, data intelligence and artificial intelligence}
+
+I think it's useful to separate the actors in the AI problem-space into three groups. The data, the programmer and the machine learning (or AI) together they make the programs that we use every day, and for the rest of this book I'll try and separate the discussion of the smarts of each to help us better understand the world. \sidenote{I'll also repeatedly encourage you to use the words "algorithm" and "artificial intelligence" sparingly. They'll confuse your thinking, I promise.}
+
+Programmer intelligence refers to the ability of a human programmer to design, write, and debug computer programs. This type of intelligence involves problem-solving skills, logical thinking, and the ability to learn and adapt to new programming languages and technologies. Most books don't talk about programmer intelligence and use the even more vague word "Algorithm" to describe both the programmer's output and the AI that might contibute to decision making, which can lead to misunderstanding.
+
+Artificial intelligence is a terrible term. It generally refers to the ability of a machine or computer system to perform tasks that would normally require human intelligence, such as learning, problem-solving, and decision-making. Artificial intelligence systems can be trained to perform a wide range of tasks, from simple tasks like recognizing patterns in data to more complex tasks like understanding and generating natural language. Becuase the term is so broad I'll avoid it, and instead talk about machine learning and deep learning instead. \sidenote{In case I am confusing you, I think that Deep Blue was made with "Programmer Intelligence" or "Codified Human Knowledge" where Yann LeCun's Check OCR is "Machine Learning" with some "Data Intelligence" baked in.}
+
+Data intelligence \sidenote{I'm making this phrase up, my point is that there is information in the data that might not be successfully extracted by a given AI (or a human-programmer).} refers to the ability to extract meaningful insights and knowledge from large datasets. This involves using statistical and analytical methods to discover patterns and trends in data, and using this information to inform business decisions or solve problems. Data intelligence requires a combination of programming skills and statistical and analytical expertise.
+
+Overall, while all three types of intelligence are important in the field of computer science, they involve different skill sets and focus on different aspects of problem-solving and decision-making. Programmer intelligence is essential for designing and implementing computer programs, machine learning is focused on statistically mimicing human-like output in machines, and data intelligence involves using data to inform decision-making and solve problems.
+
+By framing intelligence in this way we can chip away at the AI myths that abound and think about what is really happening. Programmers use data to make AI, there are many places where things can go awry, and many layers of misunderstanding that can get baked into AI products.
 
 
