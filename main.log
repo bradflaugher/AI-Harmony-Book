@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.8.4)  5 JAN 2023 12:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.8.4)  5 JAN 2023 12:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3211,7 +3211,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--2
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 2--2
- [][][][]\T1/zplLF/b/n/9 (+20) Deep Blue's Brute Force 
+ [][][][]\T1/zplLF/b/n/9 (+20) Deep Blue's brute force 
  []
 
 
@@ -3271,12 +3271,16 @@ LaTeX Warning: Marginpar on page 1 moved.
 \openout4 = `main.mw'.
 
 Package marginnote Info: Using workaround for absolute page number on input lin
-e 22.
+e 21.
+
+
+LaTeX Warning: Marginpar on page 2 moved.
+
 LaTeX Font Info:    Font shape `T1/zplLF/m/n' will be
 (Font)              scaled to size 8.73001pt on input line 34.
 LaTeX Font Info:    Trying to load font information for T1+fvm on input line 34
 .
- (/usr/share/texlive/texmf-dist/tex/latex/bera/t1fvm.fd
+(/usr/share/texlive/texmf-dist/tex/latex/bera/t1fvm.fd
 File: t1fvm.fd 2004/09/07 scalable font definitions for T1/fvm.
 )
 LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
@@ -3287,13 +3291,13 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             See the microtype manual for details.
 \openout4 = `main.mw'.
 
-
-[2] (./main.mw)
+ [2] (./main.mw)
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
 
- [3] (./main.mw)
+
+[3] (./main.mw)
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
@@ -3341,7 +3345,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 16--16
 
 LaTeX Warning: Marginpar on page 6 moved.
 
-<images//monalisa.jpg, id=205, 403.5075pt x 601.24625pt>
+<images//monalisa.jpg, id=206, 403.5075pt x 601.24625pt>
 File: images//monalisa.jpg Graphic file (type jpg)
 <use images//monalisa.jpg>
 Package pdftex.def Info: images//monalisa.jpg  used on input line 19.
@@ -4393,11 +4397,11 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 58040 strings out of 478287
- 1146327 string characters out of 5849290
- 2352492 words of memory out of 5000000
+ 58043 strings out of 478287
+ 1146377 string characters out of 5849290
+ 2353492 words of memory out of 5000000
  74798 multiletter control sequences out of 15000+600000
- 600187 words of font info for 255 fonts, out of 8000000 for 9000
+ 600310 words of font info for 256 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  133i,19n,159p,10596b,2656s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-lf-pc.enc}{/usr/s
@@ -4409,10 +4413,10 @@ hare/texlive/texmf-dist/fonts/type1/public/bera/fvmr8a.pfb></usr/share/texmf/fo
 nts/type1/public/tex-gyre/qhvb.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
 ublic/newpx/zplb.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newpx/zp
 lr.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newpx/zplri.pfb>
-Output written on main.pdf (24 pages, 275924 bytes).
+Output written on main.pdf (24 pages, 275881 bytes).
 PDF statistics:
- 515 PDF objects out of 1000 (max. 8388607)
- 468 compressed objects within 5 object streams
- 131 named destinations out of 1000 (max. 500000)
+ 516 PDF objects out of 1000 (max. 8388607)
+ 469 compressed objects within 5 object streams
+ 132 named destinations out of 1000 (max. 500000)
  61146 words of extra memory for PDF output out of 61914 (max. 10000000)
 

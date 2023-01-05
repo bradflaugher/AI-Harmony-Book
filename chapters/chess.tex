@@ -11,7 +11,7 @@ One of the main reasons for this is the prevalence of deep learning, big data, a
 Additionally, the explosion of data and the availability of powerful computing resources have made it possible to apply machine learning techniques at a scale that was previously unimaginable. This has led to the development of highly effective machine learning models that can handle complex tasks such as image and speech recognition with a high degree of accuracy, making many of the chapters on simpler machine learning techniques such as decision trees\sidenote{Although mathematically, \href{https://arxiv.org/abs/2210.05189}{Neural Networks are Decision Trees}} and linear regression less relevant. \sidecite{rich_2009} \sidenote{the book is now in its third edition and unlikely to be updated as Dr. Rich as retired \href{https://www.cs.utexas.edu/~ear/}{utexas.edu}}
 
 
-We'll discuss this history and a few examples from the "early days" of AI to help us understand where we are headed.
+We'll discuss this history and a few examples from the "early days" of AI to help us understand where we are headed. We'll start with machine translation, then discuss chess and finally neural networks, which will be the focus of the rest of this book.
 
 \section{Teaching computers to translate}
 
@@ -19,9 +19,9 @@ Noam Chomsky is a linguist and philosopher who has made significant contribution
 
 For English speakers or anyone who has learned English as a second language you'll have many examples of special cases, irregular verbs, bad english and former street slang that became good and proper over time. For programmers this is a nightmare, how can we codify human knowledge in a timely fashion? If we tried to write the rules of the english language in code (which many have tried to do) the rules themselves might change before we were finished writing them.
 
-Explicitly translating languages through code is a difficult task because it requires a thorough understanding of the grammar, vocabulary, and syntax of both languages, as well as the nuances and subtleties of their respective cultures\sidenote{For programmers this is a nightmare, how can we codify human knowledge in a timely fashion? If we tried to write the rules of the english language in code (which many have tried to do) the rules themselves might change before we were finished writing them.}. Simply coding rules for how to translate words or phrases from one language to another is not sufficient, as there are often multiple valid translations for a given phrase depending on the context in which it is used.
+Explicitly translating languages through code is a difficult task because it requires a thorough understanding of the grammar, vocabulary, and syntax of both languages, as well as the nuances and subtleties of their respective cultures\sidenote{For programmers this is a nightmare, how can we codify human knowledge in a timely fashion? If we tried to write the rules of the English language in code (which many have tried to do) the rules themselves might change before we were finished writing them.}. Simply coding rules for how to translate words or phrases from one language to another is not sufficient, as there are often multiple valid translations for a given phrase depending on the context in which it is used.
 
-A more effective approach to translation is to use statistical techniques that rely on a large corpus of translated data, such as Canadian laws. This type of data-driven approach involves training a machine learning model on a large dataset of translations, allowing it to learn the patterns and relationships between the languages. The model can then use this knowledge to make educated translations of new phrases or sentences, taking into account the context in which they are used.
+A more effective approach to translation is to use statistical techniques that rely on a large corpus of translated data, such as Canadian laws\sidenote{They're in French AND English, which is useful data that we can use to correllate phrases and transform English to French and vice-versa.}. This type of data-driven approach involves training a machine learning model on a large dataset of translations, allowing it to learn the patterns and relationships between the languages. The model can then use this knowledge to make educated translations of new phrases or sentences, taking into account the context in which they are used.
 
 While this approach is not perfect, it has proven to be highly effective in machine translation and can produce accurate translations even for languages that are very different from each other. The use of a large dataset of translations also allows the model to learn from the mistakes and variations present in real-world translations, further improving its accuracy.
 
@@ -59,7 +59,7 @@ However, recent advances in AI have largely ignored the knowledge representation
 
 Deep learning has proven to be highly effective in a variety of applications, such as image and speech recognition, and has contributed to the rapid progress we have seen in AI in recent years. However, the reliance on large amounts of data and the lack of transparency in these models can make it difficult to understand how they are making decisions, which can be a concern in certain applications (hence the title of this book).
 
-\section{Deep Blue's Brute Force Victory}
+\section{Deep Blue's brute force victory}
 
 Deep Blue was a revolutionary computer developed by IBM that was specifically designed to play chess at the highest level. It was programmed with a vast database of chess knowledge and was able to analyze millions of positions per second.
 

@@ -11,8 +11,8 @@
 \contentsline {mtocsection}{\numberline {1.2}Teaching computers to translate}{1}{section.1.2}%
 \contentsline {section}{\numberline {1.3}Codified human knowledge}{2}{section.1.3}%
 \contentsline {mtocsection}{\numberline {1.3}Codified human knowledge}{2}{section.1.3}%
-\contentsline {section}{\numberline {1.4}Deep Blue's Brute Force Victory}{3}{section.1.4}%
-\contentsline {mtocsection}{\numberline {1.4}Deep Blue's Brute Force Victory}{3}{section.1.4}%
+\contentsline {section}{\numberline {1.4}Deep Blue's brute force victory}{3}{section.1.4}%
+\contentsline {mtocsection}{\numberline {1.4}Deep Blue's brute force victory}{3}{section.1.4}%
 \contentsline {section}{\numberline {1.5}Meanwhile at the bank}{4}{section.1.5}%
 \contentsline {mtocsection}{\numberline {1.5}Meanwhile at the bank}{4}{section.1.5}%
 \contentsline {section}{\numberline {1.6}Programmer intelligence, data intelligence and artificial intelligence}{4}{section.1.6}%
