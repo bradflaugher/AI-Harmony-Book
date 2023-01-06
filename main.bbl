@@ -61,178 +61,6 @@
       \verb https://www.amazon.com/Computer-Brain-Silliman-Memorial-Lectures/dp/0300181116
       \endverb
     \endentry
-    \entry{Andreu2021}{article}{}
-      \name{author}{2}{}{%
-        {{hash=1a222849f90783a95a8b71b0bbf05da4}{%
-           family={Andreu},
-           familyi={A\bibinitperiod},
-           given={Abraham},
-           giveni={A\bibinitperiod}}}%
-        {{hash=d8f390acc5052f778c1237dab5a4ef9c}{%
-           family={Moynihan},
-           familyi={M\bibinitperiod},
-           given={Qayyah},
-           giveni={Q\bibinitperiod}}}%
-      }
-      \strng{namehash}{7124b33ef7e24b9870390f594dcb696c}
-      \strng{fullhash}{7124b33ef7e24b9870390f594dcb696c}
-      \strng{bibnamehash}{7124b33ef7e24b9870390f594dcb696c}
-      \strng{authorbibnamehash}{7124b33ef7e24b9870390f594dcb696c}
-      \strng{authornamehash}{7124b33ef7e24b9870390f594dcb696c}
-      \strng{authorfullhash}{7124b33ef7e24b9870390f594dcb696c}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{day}{24}
-      \field{journaltitle}{Business Insider}
-      \field{month}{9}
-      \field{title}{Humans won't be able to control a superintelligent AI, according to a study}
-      \field{urlday}{24}
-      \field{urlmonth}{9}
-      \field{urlyear}{2021}
-      \field{year}{2021}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \verb{urlraw}
-      \verb https://www.businessinsider.com/mankind-will-not-be-able-to-control-artificial-intelligence-according-to-study
-      \endverb
-      \verb{url}
-      \verb https://www.businessinsider.com/mankind-will-not-be-able-to-control-artificial-intelligence-according-to-study
-      \endverb
-    \endentry
-    \entry{Erdi2019}{book}{}
-      \name{author}{1}{}{%
-        {{hash=00f9951fa233fe3bf0b068825d51e676}{%
-           family={{\ifmmode\acute{E}\elseÉ\fi}rdi},
-           familyi={É\bibinitperiod},
-           given={P{\ifmmode\acute{e}\elseé\fi}ter},
-           giveni={P\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Oxford, England, UK}%
-      }
-      \list{publisher}{1}{%
-        {Oxford University Press}%
-      }
-      \strng{namehash}{00f9951fa233fe3bf0b068825d51e676}
-      \strng{fullhash}{00f9951fa233fe3bf0b068825d51e676}
-      \strng{bibnamehash}{00f9951fa233fe3bf0b068825d51e676}
-      \strng{authorbibnamehash}{00f9951fa233fe3bf0b068825d51e676}
-      \strng{authornamehash}{00f9951fa233fe3bf0b068825d51e676}
-      \strng{authorfullhash}{00f9951fa233fe3bf0b068825d51e676}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{isbn}{978-0-19093546-7}
-      \field{month}{10}
-      \field{title}{{Ranking: The Unwritten Rules of the Social Game We All Play}}
-      \field{year}{2019}
-      \verb{urlraw}
-      \verb https://www.amazon.com/Ranking-Unwritten-Rules-Social-Game/dp/0190935464
-      \endverb
-      \verb{url}
-      \verb https://www.amazon.com/Ranking-Unwritten-Rules-Social-Game/dp/0190935464
-      \endverb
-    \endentry
-    \entry{Bostrom2014}{book}{}
-      \name{author}{1}{}{%
-        {{hash=892acb64b0a9f67cbe51c2705c652a49}{%
-           family={Bostrom},
-           familyi={B\bibinitperiod},
-           given={Nick},
-           giveni={N\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {USA}%
-      }
-      \list{publisher}{1}{%
-        {Oxford University Press, Inc.}%
-      }
-      \strng{namehash}{892acb64b0a9f67cbe51c2705c652a49}
-      \strng{fullhash}{892acb64b0a9f67cbe51c2705c652a49}
-      \strng{bibnamehash}{892acb64b0a9f67cbe51c2705c652a49}
-      \strng{authorbibnamehash}{892acb64b0a9f67cbe51c2705c652a49}
-      \strng{authornamehash}{892acb64b0a9f67cbe51c2705c652a49}
-      \strng{authorfullhash}{892acb64b0a9f67cbe51c2705c652a49}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Superintelligence asks the questions: What happens when machines surpass humans in general intelligence? Will artificial agents save or destroy us? Nick Bostrom lays the foundation for understanding the future of humanity and intelligent life. The human brain has some capabilities that the brains of other animals lack. It is to these distinctive capabilities that our species owes its dominant position. If machine brains surpassed human brains in general intelligence, then this new superintelligence could become extremely powerful - possibly beyond our control. As the fate of the gorillas now depends more on humans than on the species itself, so would the fate of humankind depend on the actions of the machine superintelligence. But we have one advantage: we get to make the first move. Will it be possible to construct a seed Artificial Intelligence, to engineer initial conditions so as to make an intelligence explosion survivable? How could one achieve a controlled detonation? This profoundly ambitious and original book breaks down a vast track of difficult intellectual terrain. After an utterly engrossing journey that takes us to the frontiers of thinking about the human condition and the future of intelligent life, we find in Nick Bostrom's work nothing less than a reconceptualization of the essential task of our time.}
-      \field{edition}{1st}
-      \field{isbn}{0199678111}
-      \field{title}{Superintelligence: Paths, Dangers, Strategies}
-      \field{year}{2014}
-    \endentry
-    \entry{Christian2020}{book}{}
-      \name{author}{1}{}{%
-        {{hash=ffd9bbb22f19f527ef2083421a5dfb09}{%
-           family={Christian},
-           familyi={C\bibinitperiod},
-           given={Brian},
-           giveni={B\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {New York, NY, USA}%
-      }
-      \list{publisher}{1}{%
-        {W. W. Norton {\&} Company}%
-      }
-      \strng{namehash}{ffd9bbb22f19f527ef2083421a5dfb09}
-      \strng{fullhash}{ffd9bbb22f19f527ef2083421a5dfb09}
-      \strng{bibnamehash}{ffd9bbb22f19f527ef2083421a5dfb09}
-      \strng{authorbibnamehash}{ffd9bbb22f19f527ef2083421a5dfb09}
-      \strng{authornamehash}{ffd9bbb22f19f527ef2083421a5dfb09}
-      \strng{authorfullhash}{ffd9bbb22f19f527ef2083421a5dfb09}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{isbn}{978-0-39363582-9}
-      \field{month}{10}
-      \field{title}{{The Alignment Problem: Machine Learning and Human Values}}
-      \field{year}{2020}
-      \verb{urlraw}
-      \verb https://www.amazon.com/Alignment-Problem-Machine-Learning-Values/dp/0393635821
-      \endverb
-      \verb{url}
-      \verb https://www.amazon.com/Alignment-Problem-Machine-Learning-Values/dp/0393635821
-      \endverb
-    \endentry
-    \entry{Blackman2022Jul}{book}{}
-      \name{author}{1}{}{%
-        {{hash=a7d335811b8bedf76324b13953ec7d65}{%
-           family={Blackman},
-           familyi={B\bibinitperiod},
-           given={Reid},
-           giveni={R\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Harvard Business Review Press}%
-      }
-      \strng{namehash}{a7d335811b8bedf76324b13953ec7d65}
-      \strng{fullhash}{a7d335811b8bedf76324b13953ec7d65}
-      \strng{bibnamehash}{a7d335811b8bedf76324b13953ec7d65}
-      \strng{authorbibnamehash}{a7d335811b8bedf76324b13953ec7d65}
-      \strng{authornamehash}{a7d335811b8bedf76324b13953ec7d65}
-      \strng{authorfullhash}{a7d335811b8bedf76324b13953ec7d65}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{isbn}{978-1-64782281-1}
-      \field{month}{7}
-      \field{title}{{Ethical Machines: Your Concise Guide to Totally Unbiased, Transparent, and Respectful AI}}
-      \field{year}{2022}
-      \verb{urlraw}
-      \verb https://www.amazon.com/Ethical-Machines-Unbiased-Transparent-Respectful/dp/1647822815
-      \endverb
-      \verb{url}
-      \verb https://www.amazon.com/Ethical-Machines-Unbiased-Transparent-Respectful/dp/1647822815
-      \endverb
-    \endentry
     \entry{rich_2009}{book}{}
       \name{author}{3}{}{%
         {{hash=e389dd88f21ba5a95ae310205644f1ba}{%
@@ -260,8 +88,8 @@
       \strng{authorbibnamehash}{3f6a8cef9eeda200eefb4693bbfc9f41}
       \strng{authornamehash}{3f6a8cef9eeda200eefb4693bbfc9f41}
       \strng{authorfullhash}{3f6a8cef9eeda200eefb4693bbfc9f41}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Artificial Intelligence}
@@ -279,8 +107,8 @@
       \strng{authorbibnamehash}{28922ab867623f6ca25a4e0f13850307}
       \strng{authornamehash}{28922ab867623f6ca25a4e0f13850307}
       \strng{authorfullhash}{28922ab867623f6ca25a4e0f13850307}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{day}{5}
@@ -318,8 +146,8 @@
       \strng{authornamehash}{933ed9cdf5d86f8ed4df1bbbca747d53}
       \strng{authorfullhash}{933ed9cdf5d86f8ed4df1bbbca747d53}
       \field{extraname}{1}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{0362-4331}
@@ -402,6 +230,46 @@
       \endverb
       \keyw{Machine Learning (cs.LG),FOS: Computer and information sciences,FOS: Computer and information sciences}
     \endentry
+    \entry{Andreu2021}{article}{}
+      \name{author}{2}{}{%
+        {{hash=1a222849f90783a95a8b71b0bbf05da4}{%
+           family={Andreu},
+           familyi={A\bibinitperiod},
+           given={Abraham},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d8f390acc5052f778c1237dab5a4ef9c}{%
+           family={Moynihan},
+           familyi={M\bibinitperiod},
+           given={Qayyah},
+           giveni={Q\bibinitperiod}}}%
+      }
+      \strng{namehash}{7124b33ef7e24b9870390f594dcb696c}
+      \strng{fullhash}{7124b33ef7e24b9870390f594dcb696c}
+      \strng{bibnamehash}{7124b33ef7e24b9870390f594dcb696c}
+      \strng{authorbibnamehash}{7124b33ef7e24b9870390f594dcb696c}
+      \strng{authornamehash}{7124b33ef7e24b9870390f594dcb696c}
+      \strng{authorfullhash}{7124b33ef7e24b9870390f594dcb696c}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{24}
+      \field{journaltitle}{Business Insider}
+      \field{month}{9}
+      \field{title}{Humans won't be able to control a superintelligent AI, according to a study}
+      \field{urlday}{24}
+      \field{urlmonth}{9}
+      \field{urlyear}{2021}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.businessinsider.com/mankind-will-not-be-able-to-control-artificial-intelligence-according-to-study
+      \endverb
+      \verb{url}
+      \verb https://www.businessinsider.com/mankind-will-not-be-able-to-control-artificial-intelligence-according-to-study
+      \endverb
+    \endentry
     \entry{hawkins_2022}{book}{}
       \name{author}{1}{}{%
         {{hash=ae942e35d736eab568a4727899116694}{%
@@ -419,8 +287,8 @@
       \strng{authorbibnamehash}{ae942e35d736eab568a4727899116694}
       \strng{authornamehash}{ae942e35d736eab568a4727899116694}
       \strng{authorfullhash}{ae942e35d736eab568a4727899116694}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{A thousand brains: A new theory of intelligence}
@@ -446,8 +314,8 @@
       \strng{authorbibnamehash}{cbb9a28693ad2cbdbe013dc69cb12822}
       \strng{authornamehash}{cbb9a28693ad2cbdbe013dc69cb12822}
       \strng{authorfullhash}{cbb9a28693ad2cbdbe013dc69cb12822}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{978-0-67145654-2}
@@ -459,6 +327,41 @@
       \endverb
       \verb{url}
       \verb https://www.amazon.com/Truman-David-McCullough/dp/0671456547
+      \endverb
+    \endentry
+    \entry{Christian2020}{book}{}
+      \name{author}{1}{}{%
+        {{hash=ffd9bbb22f19f527ef2083421a5dfb09}{%
+           family={Christian},
+           familyi={C\bibinitperiod},
+           given={Brian},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {W. W. Norton {\&} Company}%
+      }
+      \strng{namehash}{ffd9bbb22f19f527ef2083421a5dfb09}
+      \strng{fullhash}{ffd9bbb22f19f527ef2083421a5dfb09}
+      \strng{bibnamehash}{ffd9bbb22f19f527ef2083421a5dfb09}
+      \strng{authorbibnamehash}{ffd9bbb22f19f527ef2083421a5dfb09}
+      \strng{authornamehash}{ffd9bbb22f19f527ef2083421a5dfb09}
+      \strng{authorfullhash}{ffd9bbb22f19f527ef2083421a5dfb09}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-0-39363582-9}
+      \field{month}{10}
+      \field{title}{{The Alignment Problem: Machine Learning and Human Values}}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://www.amazon.com/Alignment-Problem-Machine-Learning-Values/dp/0393635821
+      \endverb
+      \verb{url}
+      \verb https://www.amazon.com/Alignment-Problem-Machine-Learning-Values/dp/0393635821
       \endverb
     \endentry
     \entry{Oneil2017}{book}{}
@@ -531,6 +434,38 @@
       \verb https://www.amazon.com/Invisible-Women-Data-World-Designed/dp/1419729071
       \endverb
     \endentry
+    \entry{Blackman2022Jul}{book}{}
+      \name{author}{1}{}{%
+        {{hash=a7d335811b8bedf76324b13953ec7d65}{%
+           family={Blackman},
+           familyi={B\bibinitperiod},
+           given={Reid},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Harvard Business Review Press}%
+      }
+      \strng{namehash}{a7d335811b8bedf76324b13953ec7d65}
+      \strng{fullhash}{a7d335811b8bedf76324b13953ec7d65}
+      \strng{bibnamehash}{a7d335811b8bedf76324b13953ec7d65}
+      \strng{authorbibnamehash}{a7d335811b8bedf76324b13953ec7d65}
+      \strng{authornamehash}{a7d335811b8bedf76324b13953ec7d65}
+      \strng{authorfullhash}{a7d335811b8bedf76324b13953ec7d65}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-1-64782281-1}
+      \field{month}{7}
+      \field{title}{{Ethical Machines: Your Concise Guide to Totally Unbiased, Transparent, and Respectful AI}}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.amazon.com/Ethical-Machines-Unbiased-Transparent-Respectful/dp/1647822815
+      \endverb
+      \verb{url}
+      \verb https://www.amazon.com/Ethical-Machines-Unbiased-Transparent-Respectful/dp/1647822815
+      \endverb
+    \endentry
     \entry{mansharamani_2020}{book}{}
       \name{author}{1}{}{%
         {{hash=3bf7f8aebb363db6c9b75651ad07d9c6}{%
@@ -548,8 +483,8 @@
       \strng{authorbibnamehash}{3bf7f8aebb363db6c9b75651ad07d9c6}
       \strng{authornamehash}{3bf7f8aebb363db6c9b75651ad07d9c6}
       \strng{authorfullhash}{3bf7f8aebb363db6c9b75651ad07d9c6}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Think for yourself: Restoring common sense in an age of experts and artificial intelligence}
@@ -604,8 +539,8 @@
       \strng{authorbibnamehash}{69963cad7c718592b5a5632ef6e80e49}
       \strng{authornamehash}{69963cad7c718592b5a5632ef6e80e49}
       \strng{authorfullhash}{69963cad7c718592b5a5632ef6e80e49}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{978-1-10765506-5}
