@@ -82,8 +82,8 @@
 %----------------------------------------------------------------------------------------
 
 
-\title[ Full Self-Driving, Skynet and other Artificial Intelligence Myths ]{ Full Self-Driving Skynet, and Other Artificial Intelligence Myths }
-\subtitle{ The realities of decision making with deep machine learning models }
+\title[ Full Self-Driving, Skynet and other Artificial Intelligence Myths ]{ Full Self-Driving, Skynet and Other Artificial Intelligence Myths }
+\subtitle{ Modern decision making with deep machine learning models }
 
 \author[Brad Flaugher]{Brad Flaugher}
 
@@ -186,16 +186,16 @@
 
 \tableofcontents % Output the table of contents
 
-\listoffigures % Output the list of figures
+% \listoffigures % Output the list of figures
 
 % Comment both of the following lines to have the LOF and the LOT on 
 % different pages
-\let\cleardoublepage\bigskip
-\let\clearpage\bigskip
+% \let\cleardoublepage\bigskip
+% \let\clearpage\bigskip
 
-\listoftables % Output the list of tables
+% \listoftables % Output the list of tables
 
-\listoflstlistings % Output the list of listings
+% \listoflstlistings % Output the list of listings
 
 \endgroup
 
@@ -217,14 +217,6 @@
 \input{chapters/my_horse.tex} 
 \input{chapters/skynet.tex}
 
-\appendix % From here onwards, chapters are numbered with letters, as is the appendix convention
-\pagelayout{wide} % No margins
-\addpart{Appendix}
-\pagelayout{margin} % Restore margins
-
-\input{chapters/appendix.tex}
- 
-
 %----------------------------------------------------------------------------------------
 
 \backmatter % Denotes the end of the main document content
@@ -238,37 +230,6 @@
 
 \defbibnote{bibnote}{Here are the references in citation order.\par\bigskip} % Prepend this text to the bibliography
 \printbibliography[heading=bibintoc, title=Bibliography, prenote=bibnote] % Add the bibliography heading to the ToC, set the title of the bibliography and output the bibliography note
-
-%----------------------------------------------------------------------------------------
-%	NOMENCLATURE
-%----------------------------------------------------------------------------------------
-
-% The nomenclature needs to be compiled on the command line with 'makeindex main.nlo -s nomencl.ist -o main.nls' from the template directory
-
-\nomenclature{$c$}{Speed of light in a vacuum inertial frame}
-\nomenclature{$h$}{Planck constant}
-
-\renewcommand{\nomname}{Notation} % Rename the default 'Nomenclature'
-\renewcommand{\nompreamble}{The next list describes several symbols that will be later used within the body of the document.} % Prepend this text to the nomenclature
-
-\printnomenclature % Output the nomenclature
-
-%----------------------------------------------------------------------------------------
-%	GLOSSARY
-%----------------------------------------------------------------------------------------
-
-% The glossary needs to be compiled on the command line with 'makeglossaries main' from the template directory
-
-\setglossarystyle{listgroup} % Set the style of the glossary (see https://en.wikibooks.org/wiki/LaTeX/Glossary for a reference)
-\printglossary[title=Special Terms, toctitle=List of Terms] % Output the glossary, 'title' is the chapter heading for the glossary, toctitle is the table of contents heading
-
-%----------------------------------------------------------------------------------------
-%	INDEX
-%----------------------------------------------------------------------------------------
-
-% The index needs to be compiled on the command line with 'makeindex main' from the template directory
-
-\printindex % Output the index
 
 %----------------------------------------------------------------------------------------
 %	BACK COVER
