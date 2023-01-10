@@ -1,15 +1,18 @@
 [0] Config.pm:307> INFO - This is Biber 2.17
 [0] Config.pm:310> INFO - Logfile is 'main.blg'
-[40] biber:340> INFO - === Mon Jan  9, 2023, 13:15:51
+[41] biber:340> INFO - === Tue Jan 10, 2023, 09:15:57
 [49] Biber.pm:418> INFO - Reading 'main.bcf'
-[87] Biber.pm:972> INFO - Found 9 citekeys in bib section 0
-[95] Biber.pm:4383> INFO - Processing section 0
-[101] Biber.pm:4574> INFO - Looking for bibtex file 'main.bib' for section 0
-[102] bibtex.pm:1713> INFO - LaTeX decoding ...
-[113] bibtex.pm:1518> INFO - Found BibTeX data source 'main.bib'
-[160] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[160] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[160] Biber.pm:4203> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
-[160] Biber.pm:4209> INFO - No sort tailoring available for locale 'en-US'
-[165] bbl.pm:654> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[168] bbl.pm:757> INFO - Output to main.bbl
+[89] Biber.pm:972> INFO - Found 11 citekeys in bib section 0
+[96] Biber.pm:4383> INFO - Processing section 0
+[102] Biber.pm:4574> INFO - Looking for bibtex file 'main.bib' for section 0
+[103] bibtex.pm:1713> INFO - LaTeX decoding ...
+[116] bibtex.pm:1518> INFO - Found BibTeX data source 'main.bib'
+[167] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[167] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[167] Biber.pm:4203> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[167] Biber.pm:4209> INFO - No sort tailoring available for locale 'en-US'
+[173] bbl.pm:654> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[176] bbl.pm:757> INFO - Output to main.bbl
+[176] Biber.pm:130> WARN - legacy month field 'Jan' in entry 'welsh_2023' is not an integer - this will probably not sort properly.
+[176] Biber.pm:130> WARN - legacy month field 'Jan' in entry 'marcus_2023' is not an integer - this will probably not sort properly.
+[176] Biber.pm:132> INFO - WARNINGS: 2

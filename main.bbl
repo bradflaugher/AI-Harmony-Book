@@ -61,6 +61,35 @@
       \verb https://www.amazon.com/Computer-Brain-Silliman-Memorial-Lectures/dp/0300181116
       \endverb
     \endentry
+    \entry{welsh_2023}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=076cf707817a3f8501c3ecc48b1b2268}{%
+           family={Welsh},
+           familyi={W\bibinitperiod},
+           given={Matt},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{076cf707817a3f8501c3ecc48b1b2268}
+      \strng{fullhash}{076cf707817a3f8501c3ecc48b1b2268}
+      \strng{bibnamehash}{076cf707817a3f8501c3ecc48b1b2268}
+      \strng{authorbibnamehash}{076cf707817a3f8501c3ecc48b1b2268}
+      \strng{authornamehash}{076cf707817a3f8501c3ecc48b1b2268}
+      \strng{authorfullhash}{076cf707817a3f8501c3ecc48b1b2268}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ACM}
+      \field{month}{1}
+      \field{title}{The end of programming}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://cacm.acm.org/magazines/2023/1/267976-the-end-of-programming/fulltext
+      \endverb
+      \verb{url}
+      \verb https://cacm.acm.org/magazines/2023/1/267976-the-end-of-programming/fulltext
+      \endverb
+    \endentry
     \entry{rich_2009}{book}{}
       \name{author}{3}{}{%
         {{hash=e389dd88f21ba5a95ae310205644f1ba}{%
@@ -88,8 +117,8 @@
       \strng{authorbibnamehash}{3f6a8cef9eeda200eefb4693bbfc9f41}
       \strng{authornamehash}{3f6a8cef9eeda200eefb4693bbfc9f41}
       \strng{authorfullhash}{3f6a8cef9eeda200eefb4693bbfc9f41}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Artificial Intelligence}
@@ -112,8 +141,8 @@
       \strng{authorbibnamehash}{ae942e35d736eab568a4727899116694}
       \strng{authornamehash}{ae942e35d736eab568a4727899116694}
       \strng{authorfullhash}{ae942e35d736eab568a4727899116694}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{A thousand brains: A new theory of intelligence}
@@ -136,8 +165,8 @@
       \strng{authorbibnamehash}{5836fc1fa037e340c8b5591da3207608}
       \strng{authornamehash}{5836fc1fa037e340c8b5591da3207608}
       \strng{authorfullhash}{5836fc1fa037e340c8b5591da3207608}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Deep learning with python, second edition}
@@ -237,6 +266,35 @@
       \field{title}{Think for yourself: Restoring common sense in an age of experts and artificial intelligence}
       \field{year}{2020}
     \endentry
+    \entry{marcus_2023}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=199868cb9a5ee49454615e31ec8cc1ae}{%
+           family={Marcus},
+           familyi={M\bibinitperiod},
+           given={Gary},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{199868cb9a5ee49454615e31ec8cc1ae}
+      \strng{fullhash}{199868cb9a5ee49454615e31ec8cc1ae}
+      \strng{bibnamehash}{199868cb9a5ee49454615e31ec8cc1ae}
+      \strng{authorbibnamehash}{199868cb9a5ee49454615e31ec8cc1ae}
+      \strng{authornamehash}{199868cb9a5ee49454615e31ec8cc1ae}
+      \strng{authorfullhash}{199868cb9a5ee49454615e31ec8cc1ae}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ACM}
+      \field{month}{1}
+      \field{title}{Is chatgpt really a 'code red' for google search?}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://cacm.acm.org/blogs/blog-cacm/268376-is-chatgpt-really-a-code-red-for-google-search/fulltext
+      \endverb
+      \verb{url}
+      \verb https://cacm.acm.org/blogs/blog-cacm/268376-is-chatgpt-really-a-code-red-for-google-search/fulltext
+      \endverb
+    \endentry
     \entry{Keynes2012}{book}{}
       \name{author}{3}{}{%
         {{hash=612862f6008b8bea8cd4a13783af9a93}{%
@@ -267,8 +325,8 @@
       \strng{authorbibnamehash}{69963cad7c718592b5a5632ef6e80e49}
       \strng{authornamehash}{69963cad7c718592b5a5632ef6e80e49}
       \strng{authorfullhash}{69963cad7c718592b5a5632ef6e80e49}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{978-1-10765506-5}
@@ -286,8 +344,8 @@
       \list{publisher}{1}{%
         {Jon Krohn}%
       }
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Jon Krohn}
       \field{month}{10}

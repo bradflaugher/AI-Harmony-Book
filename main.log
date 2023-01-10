@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.8.4)  9 JAN 2023 13:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.8.4)  10 JAN 2023 09:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3223,10 +3223,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--2
  [][][][]\T1/zplLF/b/n/9 (+20) From Ex-plicit Rules to a 
  []
 
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
 LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
-(Font)              scaled to size 12.99pt on input line 6.
+(Font)              scaled to size 12.99pt on input line 8.
 LaTeX Font Info:    Font shape `T1/zplLF/m/n' will be
-(Font)              scaled to size 7.08101pt on input line 11.
+(Font)              scaled to size 7.08101pt on input line 13.
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
@@ -3252,7 +3256,7 @@ LaTeX Font Info:    Font shape `T1/zplLF/m/n' will be
 \openout4 = `main.mw'.
 
 LaTeX Font Info:    Font shape `T1/zplLF/m/it' will be
-(Font)              scaled to size 7.76001pt on input line 11.
+(Font)              scaled to size 7.76001pt on input line 13.
 
 LaTeX Warning: Marginpar on page 1 moved.
 
@@ -3282,14 +3286,14 @@ e 21.
 LaTeX Warning: Marginpar on page 2 moved.
 
 LaTeX Font Info:    Font shape `T1/zplLF/m/n' will be
-(Font)              scaled to size 8.73001pt on input line 34.
-LaTeX Font Info:    Trying to load font information for T1+fvm on input line 34
+(Font)              scaled to size 8.73001pt on input line 36.
+LaTeX Font Info:    Trying to load font information for T1+fvm on input line 36
 .
 (/usr/share/texlive/texmf-dist/tex/latex/bera/t1fvm.fd
 File: t1fvm.fd 2004/09/07 scalable font definitions for T1/fvm.
 )
 LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
-(Font)              scaled to size 7.65005pt on input line 34.
+(Font)              scaled to size 7.65005pt on input line 36.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `fvm' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
@@ -3299,74 +3303,74 @@ Package microtype Info: Loading generic protrusion settings for font family
  [2] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//bored_programmer.jpg, id=316, 770.88pt x 770.88pt>
+<images//bored_programmer.jpg, id=304, 770.88pt x 770.88pt>
 File: images//bored_programmer.jpg Graphic file (type jpg)
 <use images//bored_programmer.jpg>
-Package pdftex.def Info: images//bored_programmer.jpg  used on input line 56.
+Package pdftex.def Info: images//bored_programmer.jpg  used on input line 58.
 (pdftex.def)             Requested size: 139.51698pt x 139.51698pt.
 LaTeX Font Info:    Font shape `T1/zplLF/b/n' will be
-(Font)              scaled to size 7.76001pt on input line 57.
+(Font)              scaled to size 7.76001pt on input line 59.
 Package marginnote Info: Margin note 11.1 is on absolute page 11 on input line 
-59.
-Package marginnote Info: right page because not two side mode on input line 59.
+61.
+Package marginnote Info: right page because not two side mode on input line 61.
 
-Package marginnote Info: xpos seems to be 72.53856pt on input line 59.
+Package marginnote Info: xpos seems to be 72.53856pt on input line 61.
 
 
 LaTeX Warning: Marginpar on page 3 moved.
 
-<images//kasparov_fire.jpg, id=317, 770.88pt x 770.88pt>
+\openout4 = `main.mw'.
+
+[3 <./images//bored_programmer.jpg>] (./main.mw)
+\openout4 = `main.mw'.
+
+<images//kasparov_fire.jpg, id=327, 770.88pt x 770.88pt>
 File: images//kasparov_fire.jpg Graphic file (type jpg)
 <use images//kasparov_fire.jpg>
-Package pdftex.def Info: images//kasparov_fire.jpg  used on input line 72.
+Package pdftex.def Info: images//kasparov_fire.jpg  used on input line 78.
 (pdftex.def)             Requested size: 139.51698pt x 139.51698pt.
-Package marginnote Info: Margin note 11.2 is on absolute page 11 on input line 
-75.
-Package marginnote Info: right page because not two side mode on input line 75.
+Package marginnote Info: Margin note 12.1 is on absolute page 12 on input line 
+81.
+Package marginnote Info: right page because not two side mode on input line 81.
 
-Package marginnote Info: xpos seems to be 72.53856pt on input line 75.
+Package marginnote Info: xpos seems to be 72.53856pt on input line 81.
 
-LaTeX Warning: Marginpar on page 3 moved.
 
-\openout4 = `main.mw'.
-
-[3 <./images//bored_programmer.jpg> <./images//kasparov_fire.jpg>] (./main.mw)
-\openout4 = `main.mw'.
-
+LaTeX Warning: Marginpar on page 4 moved.
 
 
 LaTeX Warning: Marginpar on page 4 moved.
 
 \openout4 = `main.mw'.
 
-[4] (./main.mw)
+[4 <./images//kasparov_fire.jpg>] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//programmers_strike.png, id=335, 1122.1925pt x 1094.0875pt>
+<images//programmers_strike.png, id=341, 1122.1925pt x 1094.0875pt>
 File: images//programmers_strike.png Graphic file (type png)
 <use images//programmers_strike.png>
-Package pdftex.def Info: images//programmers_strike.png  used on input line 106
+Package pdftex.def Info: images//programmers_strike.png  used on input line 104
 .
 (pdftex.def)             Requested size: 139.50317pt x 136.00935pt.
 Package marginnote Info: Margin note 13.1 is on absolute page 13 on input line 
-109.
-Package marginnote Info: right page because not two side mode on input line 109
+107.
+Package marginnote Info: right page because not two side mode on input line 107
 .
-Package marginnote Info: xpos seems to be 72.53856pt on input line 109.
+Package marginnote Info: xpos seems to be 72.53856pt on input line 107.
 
 
 LaTeX Warning: Marginpar on page 5 moved.
 
-<images//blackbox.jpg, id=336, 770.88pt x 770.88pt>
+<images//blackbox.jpg, id=342, 770.88pt x 770.88pt>
 File: images//blackbox.jpg Graphic file (type jpg)
 <use images//blackbox.jpg>
-Package pdftex.def Info: images//blackbox.jpg  used on input line 122.
+Package pdftex.def Info: images//blackbox.jpg  used on input line 120.
 (pdftex.def)             Requested size: 139.51698pt x 139.51698pt.
 Package marginnote Info: Margin note 13.2 is on absolute page 13 on input line 
-125.
-Package marginnote Info: right page because not two side mode on input line 125
+123.
+Package marginnote Info: right page because not two side mode on input line 123
 .
-Package marginnote Info: xpos seems to be 72.53856pt on input line 125.
+Package marginnote Info: xpos seems to be 72.53856pt on input line 123.
 
 LaTeX Warning: Marginpar on page 5 moved.
 
@@ -3646,18 +3650,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--2
  [][][][]\T1/zplLF/b/n/9 (+20) Use Crit-i-cal Think-ing to 
  []
 
-) (./chapters/chapter7.tex
 \openout4 = `main.mw'.
 
- [12
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+[12
 
 
 ] (./main.mw)
 \openout4 = `main.mw'.
 
+) (./chapters/chapter7.tex
+\openout4 = `main.mw'.
+
+ [13] (./main.mw)
+\openout4 = `main.mw'.
+
 
 chapter 7.
-Package marginnote Info: Margin note 21.1 is on absolute page 21 on input line 
+Package marginnote Info: Margin note 22.1 is on absolute page 22 on input line 
 2.
 Package marginnote Info: right page because not two side mode on input line 2.
 Package marginnote Info: xpos seems to be 72.53856pt on input line 2.
@@ -3698,7 +3711,7 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 15.
 ) (./chapters/chapter8.tex
 \openout4 = `main.mw'.
 
- [13
+ [14
 
 
 ] (./main.mw)
@@ -3706,7 +3719,7 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 15.
 
 
 chapter 8.
-Package marginnote Info: Margin note 22.1 is on absolute page 22 on input line 
+Package marginnote Info: Margin note 23.1 is on absolute page 23 on input line 
 2.
 Package marginnote Info: right page because not two side mode on input line 2.
 Package marginnote Info: xpos seems to be 72.53856pt on input line 2.
@@ -3722,7 +3735,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--2
 ) (./chapters/chapter9.tex
 \openout4 = `main.mw'.
 
- [14
+ [15
 
 
 ] (./main.mw)
@@ -3730,14 +3743,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--2
 
 
 chapter 9.
-Package marginnote Info: Margin note 23.1 is on absolute page 23 on input line 
+Package marginnote Info: Margin note 24.1 is on absolute page 24 on input line 
 2.
 Package marginnote Info: right page because not two side mode on input line 2.
 Package marginnote Info: xpos seems to be 72.53856pt on input line 2.
 )
 \openout4 = `main.mw'.
 
- [15
+ [16
 
 
 ] (./main.mw)
@@ -3791,13 +3804,21 @@ This document will not have a glossary.
 
 \openout4 = `main.mw'.
 
-[16
+[17
 
 
 
 
 
 ] (./main.mw)
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
@@ -4399,7 +4420,15 @@ This document will not have a glossary.
 
 )
 
+LaTeX Warning: There were undefined references.
+
+
 LaTeX Warning: There were multiply-defined labels.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                main
+(biblatex)                and rerun LaTeX afterwards.
 
 \openout4 = `main.mw'.
 
@@ -4420,11 +4449,11 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 57915 strings out of 478287
- 1143078 string characters out of 5849290
- 2359460 words of memory out of 5000000
- 74696 multiletter control sequences out of 15000+600000
- 568049 words of font info for 219 fonts, out of 8000000 for 9000
+ 57945 strings out of 478287
+ 1143727 string characters out of 5849290
+ 2359609 words of memory out of 5000000
+ 74712 multiletter control sequences out of 15000+600000
+ 568466 words of font info for 222 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  133i,20n,159p,10596b,2656s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-lf-pc.enc}{/usr/s
@@ -4436,10 +4465,10 @@ re/texmf/fonts/type1/public/tex-gyre/qhvb.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/public/newpx/zplb.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
 ic/newpx/zplr.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newpx/zplri
 .pfb>
-Output written on main.pdf (22 pages, 3666641 bytes).
+Output written on main.pdf (23 pages, 3671734 bytes).
 PDF statistics:
- 879 PDF objects out of 1000 (max. 8388607)
- 824 compressed objects within 9 object streams
- 146 named destinations out of 1000 (max. 500000)
+ 899 PDF objects out of 1000 (max. 8388607)
+ 843 compressed objects within 9 object streams
+ 152 named destinations out of 1000 (max. 500000)
  45645 words of extra memory for PDF output out of 51595 (max. 10000000)
 
