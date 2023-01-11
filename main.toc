@@ -19,6 +19,8 @@
 \contentsline {mtocsection}{\numberline {1.6}Less Programmer Intelligence and more Data Intelligence}{5}{section.1.6}%
 \contentsline {section}{\numberline {1.7}From Explicit Rules to a Black Box, and Beyond}{5}{section.1.7}%
 \contentsline {mtocsection}{\numberline {1.7}From Explicit Rules to a Black Box, and Beyond}{5}{section.1.7}%
+\contentsline {section}{\numberline {1.8}Key Takeaways}{6}{section.1.8}%
+\contentsline {mtocsection}{\numberline {1.8}Key Takeaways}{6}{section.1.8}%
 \contentsline {chapter}{\numberline {2}The Regression Theory of Everything}{7}{chapter.2}%
 \etoc@startlocaltoc {4}
 \etoc@startlocaltoc {5}
