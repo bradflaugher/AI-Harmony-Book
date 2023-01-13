@@ -148,6 +148,40 @@
       \field{title}{A thousand brains: A new theory of intelligence}
       \field{year}{2022}
     \endentry
+    \entry{Aytekin}{article}{}
+      \name{author}{1}{}{%
+        {{hash=9ffa9e48bcc6106e9734fda11e8878b4}{%
+           family={Aytekin},
+           familyi={A\bibinitperiod},
+           given={Caglar},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{9ffa9e48bcc6106e9734fda11e8878b4}
+      \strng{fullhash}{9ffa9e48bcc6106e9734fda11e8878b4}
+      \strng{bibnamehash}{9ffa9e48bcc6106e9734fda11e8878b4}
+      \strng{authorbibnamehash}{9ffa9e48bcc6106e9734fda11e8878b4}
+      \strng{authornamehash}{9ffa9e48bcc6106e9734fda11e8878b4}
+      \strng{authorfullhash}{9ffa9e48bcc6106e9734fda11e8878b4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Neural Networks are Decision Trees}
+      \field{year}{2022}
+      \verb{doi}
+      \verb 10.48550/ARXIV.2210.05189
+      \endverb
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/2210.05189
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/2210.05189
+      \endverb
+      \keyw{Machine Learning (cs.LG),FOS: Computer and information sciences,FOS: Computer and information sciences}
+    \endentry
     \entry{chollet_2022}{book}{}
       \name{author}{1}{}{%
         {{hash=5836fc1fa037e340c8b5591da3207608}{%
@@ -192,8 +226,8 @@
       \strng{authorbibnamehash}{cbb9a28693ad2cbdbe013dc69cb12822}
       \strng{authornamehash}{cbb9a28693ad2cbdbe013dc69cb12822}
       \strng{authorfullhash}{cbb9a28693ad2cbdbe013dc69cb12822}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{978-0-67145654-2}
@@ -227,8 +261,8 @@
       \strng{authorbibnamehash}{ffd9bbb22f19f527ef2083421a5dfb09}
       \strng{authornamehash}{ffd9bbb22f19f527ef2083421a5dfb09}
       \strng{authorfullhash}{ffd9bbb22f19f527ef2083421a5dfb09}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{978-0-39363582-9}
@@ -280,8 +314,8 @@
       \strng{authorbibnamehash}{199868cb9a5ee49454615e31ec8cc1ae}
       \strng{authornamehash}{199868cb9a5ee49454615e31ec8cc1ae}
       \strng{authorfullhash}{199868cb9a5ee49454615e31ec8cc1ae}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{ACM}
