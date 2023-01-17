@@ -1,5 +1,9 @@
 # AI Demystifying business book
 
+## Install
+
+```sudo apt install texlive-full```
+
 ## Compiling
 
 run ```sh makebook.sh``` to compile
