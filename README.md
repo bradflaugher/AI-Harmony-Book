@@ -1,12 +1,15 @@
 # AI Demystifying business book
 
-## Install
+## Dockerized bookmaker
 
-```sudo apt install texlive-full```
+* install docker
+* ```cd``` to project folder
+* ```sh rundocker.sh```
 
-## Compiling
+## Running locally
 
-run ```sh makebook.sh``` to compile
+* install texlive on ubuntu with ```sudo apt install texlive-full```
+* run ```sh makebook.sh``` to compile
 
 ## Cover
 
