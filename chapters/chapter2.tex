@@ -2,7 +2,7 @@
 \chapter{The Regression Theory of Everything}
 \labch{intro}
 
-\textit{"AI Scientists disagree as to whether these language networks posess true knowledge or are just mimicking humans by remembering the statistics of millions of words. I don't believe any kind of deep learning network will achieve the goal of AGI [Artificial General Intelligence] if the network doesn't model the world the way the brain does. Deep learning networks work well, but not because they solved the knowledge representation problem. They work well because they avoided it completely, relying on statistics and lots of data instead. How deep learning networks work is clever, their performance impressive, and they are commercially valuable. I am only pointing out that they don't possess knowledge and, therefore, are not on the path to having the ability of a five-year-old child."} Jeff Hawkins, 2022 \cite{hawkins_2022}
+\textit{"AI Scientists disagree as to whether these language networks posess true knowledge or are just mimicking humans by remembering the statistics of millions of words. I don't believe any kind of deep learning network will achieve the goal of AGI [Artificial General Intelligence] if the network doesn't model the world the way the brain does. Deep learning networks work well, but not because they solved the knowledge representation problem. They work well because they avoided it completely, relying on statistics and lots of data instead. How deep learning networks work is clever, their performance impressive, and they are commercially valuable. I am only pointing out that they don't possess knowledge and, therefore, are not on the path to having the ability of a five-year-old child."} Jeff Hawkins, 2022 \cite{hawkins2022}
 
 \section{Let's Avoid Knowledge Representation!}
 
@@ -210,42 +210,84 @@ Non-trainable params: 2,944
 _________________________________________________________________
 \end{lstlisting}
 
-When a neural network has millions of trainable parameters and deep layers of neurons, it can be difficult to explain to a human what each of those parameters represents or how they contribute to the overall function of the network. This is because the interactions between the different layers and neurons can be complex and non-linear, making it challenging to understand the specific role of each parameter. Additionally, many of the parameters are used to model complex interactions between the inputs and outputs, making it difficult to understand their specific function. Furthermore, in deep neural networks, the high number of layers can lead to high level of abstraction, meaning that the individual neurons and their weights have little interpretability.
+When a neural network has millions of trainable parameters and deep layers of neurons\sidenote{IN CASE YOU ARE WONDERING THE BRAIN HAS 86 BILLION, CITE ECONOMIST}, it can be difficult to explain to a human what each of those parameters represents or how they contribute to the overall function of the network. This is because the interactions between the different layers and neurons can be complex and non-linear, making it challenging to understand the specific role of each parameter. The parameters  model complex interactions between the inputs, making it difficult to understand their specific function. Furthermore, in deep neural networks, the high number of layers can lead to high level of abstraction, meaning that the individual neurons and their weights have little interpretability.
 
-Additionally, when a neural network has millions of interacting parameters, it can lead to mathematical chaos \sidenote{\href{https://en.wikipedia.org/wiki/Chaos_theory}{Mathematical chaos} is a real thing! Mathematical chaos refers to the behavior of certain dynamic systems that are highly sensitive to initial conditions. This sensitivity leads to seemingly random and unpredictable behavior, even though the underlying equations governing the system are deterministic (meaning they are transparent and known to us).}, which is a phenomenon where small changes in the initial conditions of the network can lead to vastly different outputs. This is because the interactions between the large number of parameters can create non-linear relationships that are sensitive to small changes. This can make it difficult to predict the behavior of the network, as small changes in the input or the parameters can lead to unexpected and seemingly random outputs. Additionally, the large number of parameters can make the network more prone to overfitting, where the network is able to memorize the training data but is not able to generalize to new data. This can further exacerbate the problem of chaotic behavior, as the network may produce unpredictable results on new, unseen data.
+When a neural network has millions of interacting parameters, it can lead to mathematical chaos \sidenote{\href{https://en.wikipedia.org/wiki/Chaos_theory}{Mathematical chaos} is a real thing! Mathematical chaos refers to the behavior of certain dynamic systems that are highly sensitive to initial conditions. This sensitivity leads to seemingly random and unpredictable behavior, even though the underlying equations governing the system are deterministic (meaning they are transparent and known to us).}, which is a phenomenon where small changes in the initial conditions of the network can lead to vastly different outputs. This is because the interactions between the large number of parameters can create non-linear relationships that are sensitive to small changes. This can make it difficult to predict the behavior of the network, as small changes in the input or the parameters can lead to unexpected and seemingly random outputs.\sidenote{Chaotic outputs in a large deterministic system are OK in many domains, and there are controls that can be put in place to keep AI "safe" but deep learning by itself will not produce those controls.}
 
 \section{Multicolinearity and the End of Science}
 
 Data science is a horrible term because it implies that data scientists are scientists and that the work they do is scientific when in reality data scientists are not scientists and the work they do is not scientific. Data scientists use mathematics, statistics, and computer science to analyze data, but it is not scientific in the traditional sense. Data scientists do not use the scientific method and do not conduct experiments or develop theories. Data science is more akin to engineering or data analytics than actual scientific research.
 
-The main goal of a scientist is to gain knowledge and understanding of the natural world through research, experimentation, and data analysis. Scientists make models of the world to test and explain. So-called data scientists make models too but a model with layers of interacting parameters, trained under chaotic conditions is almost impossible to explain. Multicolinearity is just one issue, but deep learning techniques are practically incompatible with the scientific method. With deep learning methods it can be difficult to determine which variable had the most impact on the outcome of the model. Coefficients of the model to be unstable and unreliable, which can make it difficult to explain the model in a meaningful way.
+The main goal of a scientist is to gain knowledge and understanding of the natural world through research, experimentation, and data analysis. Scientists make models of the world to test and explain. So-called data scientists make models too but a model with layers of interacting parameters, trained under chaotic conditions is almost impossible to explain. Multicolinearity is just one issue, but deep learning techniques are practically incompatible with the scientific method. With deep learning methods it can be difficult to determine which variable had the most impact on the outcome of the model. Coefficients of the model to be unstable and unreliable, which can make it difficult to explain the model in a meaningful way. 
+
 Explaining the inner-workings of a neural network with millions of interacting parameters is difficult for many reasons. Most of the complexity is due to the number of parameters, which can make it difficult to understand how the model works and why it makes certain decisions. The interactions between the parameters are often non-linear and can be difficult to understand, as the model can be sensitive to small changes in the parameters\sidenote{leading to mathematical chaos}. This can make it difficult to explain why the model is making certain decisions, as the interactions between the parameters are not always clear.
 
 \section{Let's Test Some Random Inputs! Feature Importance and Explainability}
 
-Data scientists use randomized or averaged inputs to a model to test the feature importance of a deep learning neural network. This type of testing is done to determine which features are most influential in the overall output of the network. This is done by randomly or averaging the input values for each feature and then running the model to see how the output is affected. For example, if a neural network is used to detect objects in an image, the data scientist may randomize the color of the objects to see how the model’s accuracy is affected. If the accuracy drops significantly, they can infer that color is an important feature in the network.
+With a huge complex system of neurons that combine inputs in novel ways, it becomes vary hard to understand which inputs are the most important for the system as a whole. To better understand deep learining models, data scientists use randomized or averaged inputs to a model to test the feature importance of a deep learning neural network. This type of testing is done to determine which features are most influential in the overall output of the network. This is done by randomly or averaging the input values for each feature and then running the model to see how the output is affected. For example, if a neural network is used to detect objects in an image, the data scientist may randomize the color of the objects to see how the model’s accuracy is affected. If the accuracy drops significantly, they can infer that color is an important feature in the network.
 
 Randomized or averaged inputs to a model can also be used to determine if a particular feature is necessary for the network to function correctly. For example, if the output of the network is not as accurate when a particular feature is randomized or averaged, then the data scientist can infer that this feature is important for the network’s performance. By using this method, data scientists can gain insights into which features are important and which can be removed from the model to improve performance.
 
-\section{Modern AI is still a Deterministic power tool} 
-
-Modern Artificial Intelligence and a Mikita drill are two complex but ultimately deterministic systems. Though they are both complex and require a user to understand how to use them, the user input ultimately decides the output.
-
-Modern AI is a complex system of algorithms, data, and analytics that can be used to solve complex problems. AI systems can learn from data, identify patterns, and make predictions about the future. AI systems are typically used to automate and assist human decision making. AI systems are programmed with specific objectives and goals, and the user input decides the output. For example, an AI system could be programmed to solve a mathematical problem and the user input would determine the parameters of the problem and the output would be the solution.
-
-A Mikita drill is also a complex deterministic system. The user input is limited to the type of drill bit, the speed of the drill, and the direction of the drill. The output is determined by these inputs, as the drill will only drill in the direction and speed determined by the user. The user also has to choose the correct drill bit to ensure the drill can do the job correctly and safely.
-
-Overall, both modern AI and a Mikita drill are complex but ultimately deterministic systems. The user input, however limited it may be, ultimately controls the output of the system. Both systems require a user to understand how to use them and to make the correct input to get the desired output.
-
-Creative ways to use a drill.
-\begin{itemize}
-\item What you point it at
-\item The bits you use
-\item The pace and speed of your finger on the trigger
-\item The amount of pressure you put on the drill and the wall
-\end{itemize}
-
-
 \section{The Universal Machine Learning Workflow}
 
-The Universal Machine Learning Workflow by Francois Chollet is an article that outlines an efficient process for building and deploying machine learning models. Chollet outlines a workflow involving eight steps: data preparation, feature engineering, model selection, hyperparameter tuning, model evaluation, model deployment, model maintenance, and model monitoring. Each step is discussed in detail and Chollet provides guidance on how to optimize each process. He also emphasizes the importance of using the right tools and techniques when developing machine learning models. Overall, Chollet's article provides a comprehensive overview of the machine learning workflow and is an excellent resource for those looking to develop machine learning models. It also provides insights into how to optimize the process, ensuring that models are both efficient and accurate. \sidecite{chollet_2022}
+The Universal Machine Learning Workflow\sidecite{chollet2022} is an important chapter in a technical guide for data scientists  by the author of the most popular machine learning framework in the world\sidenote{It's called TensorFlow and was one of the most popular and \href{https://survey.stackoverflow.co/2022/\#most-popular-technologies-misc-tech}{"Most Loved"} Technologies of 2022} that outlines the \textit{Universal} workflow for machine learning projects. I think this chapter should be understood by everyone using, investing in and creating machine learning models. 
+
+Before Chollet gets into the details of model building, he chooses to begin with a note on ethics: 
+
+\textit{"You may sometimes be offered ethically dubious projects, such as “building an AI that rates the trustworthiness of someone from a picture of their face.” First of all, the validity of the project is in doubt: it isn’t clear why trustworthiness would be reflected on someone’s face. Second, such a task opens the door to all kinds of ethical problems. Collecting a dataset for this task would amount to recording the biases and prejudices of the people who label the pictures. The models you would train on such data would merely encode these same biases into a black-box algorithm that would give them a thin veneer of legitimacy. In a largely tech-illiterate society like ours, “the AI algorithm said this person cannot be trusted” strangely appears to carry more weight and objectivity than “John Smith said this person cannot be trusted,” despite the former being a learned approximation of the latter. Your model would be laundering and operationalizing at scale the worst aspects of human judgement, with negative effects on the lives of real people.}
+
+\textit{Technology is never neutral. If your work has any impact on the world, this impact has a moral direction: technical choices are also ethical choices. Always be deliberate about the values you want your work to support."}\cite{chollet2022}
+
+Chollet uses the outline below to explain the \textit{Universal} workflow. I'll summarize the workflow and my own notes for a nontechnical audience here:
+\begin{enumerate}
+    \item Define the Task 
+    \begin{enumerate}
+        \item Collect a Dataset \sidenote{This is often the hardest part. Data is often labeled by hand or stolen from another domain. See \href{https://en.wikipedia.org/wiki/Transfer_learning}{Transfer Learning (Wikipedia)}}
+        \item Understand Your Data \sidenote{This is easier said than done, and requires the Machine Learning Engineer to understand the domain that they are modeling in.}
+        \item Choose a Measure of Success \sidenote{Accuracy isn't everything! We might prefer a less accurate model that avoids false-positives in some scenarios.} 
+    \end{enumerate}
+    \item Develop a Model
+    \begin{enumerate}
+        \item Prepare the Data \sidenote{This is discussed in section 2.3 above, everything gets turned into numbers.}
+        \item Choose an Evaluation Protocol
+        \item Beat a Baseline \sidenote{Does your model predict better than a totally random model and/or coin-flip?}
+        \item Develop a model that overfits \sidenote{Make your model overfit to the data! Then back off.}
+        \item Regularize and Tune Your Model
+    \end{enumerate}
+    \item Deploy the Model
+    \begin{enumerate}
+        \item Explain Your Work to Your Stakeholders and Set Expectations
+\sidenote{This is almost never done. And as Chollet explains this is both difficult and requires mutual understanding and domain knowledge from the part of "the business" and the Machine Learning Engineer.}
+        \item Ship an Inference Model
+        \item Monitor Your Model in the Wild
+        \item Maintain Your Model
+    \end{enumerate}
+\end{enumerate}
+
+Of all of the steps in the workflow, "Defining The Task" and "Explaining The Work To Shareholders and Setting Expectations" are where the most miscommunication occurs. 
+
+In defining the task, machine learning engineers are often given impossible problems to solve, and because they want to keep paying their mortgage they solve another related problem instead and allow stakeholders to jump to their own conclusions. By clearly understanding what a model is predicting and how the data is collected some of this misunderstanding can be avoided.
+
+I will discuss Large Language Models later, but they all do the same thing. They predict the next words in a sentence, just like the keyboard on your iPhone. They come up with amazing text but by fundamentally understanding what they are predicting you gain insight into their limitations. They are also all trained on the text publicly available on the internet, this includes scientific sources, but also fan-fiction and anime, so the idea that a model trained ot this data could be relied on to predict anything truthful is preposterous. 
+
+Many models work like magic and many users assume models are predicting the future, when they are really correllating based on their past data. Even simple models of creditworthiness might have as similar problem. While building a creditworthiness model for a bank, due to lack of data a machine learning engineer might \sidenote{On purpose or inadvertently. }create a model that predicts whether someone is a smoker instead of whether they are creditworthy. Because smoking and poverty are correllated, maybe the model "works", but it doesn't do what stakeholders think it does. 
+
+Setting expectations is another hellscape of misaligned incentives. Good machine learning engineers and data scientists are supposed to educate and advise stakeholders about the limitations of their own models. Read Chollet's advice on this topic below:
+
+\textit{Success and customer trust are about consistently meeting or exceeding people’s expectations. The actual system you deliver is only half of that picture; the other half is setting appropriate expectations before launch.}
+
+\textit{\textbf{The expectations of non-specialists towards AI systems are often unrealistic. For example, they might expect that the system “understands” its task and is capable of exercising human-like common sense in the context of the task. To address this, you should consider showing some examples of the failure modes of your model (for instance, show what incorrectly classified samples look like, especially those for which the misclassification seems surprising).}} \sidenote{Make sure you show your boss and your investors how shitty your model can be!} \sidenote{The CEO of OpenAI wrote this and still raised ten billion dollars: \textit{"ChatGPT is incredibly limited, but good enough at some things to create a misleading impression of greatness. it's a mistake to be relying on it for anything important right now. it’s a preview of progress; we have lots of work to do on robustness and truthfulness."}}
+
+\textit{They might also expect human-level performance, especially for processes that were previously handled by people. Most machine learning models, because they are (imperfectly) trained to approximate human-generated labels, do not nearly get there. You should clearly convey model performance expectations. Avoid using abstract statements like “The model has 98 percent accuracy” (which most people mentally round up to 100 percent), and prefer talking, for instance, about false negative rates and false positive rates. You could say, “With these settings, the fraud detection model would have a 5 percent false negative rate and a 2.5 percent false positive rate. Every day, an average of 200 valid transactions would be flagged as fraudulent and sent for manual review, and an average of 14 fraudulent transactions would be missed. An average of 266 fraudulent transactions would be correctly caught.” Clearly relate the model’s performance metrics to business goals.}
+
+
+\textit{You should also make sure to discuss with stakeholders the choice of key launch parameters—for instance, the probability threshold at which a transaction should be flagged (different thresholds will produce different false negative and false positive rates). Such decisions involve trade-offs that can only be handled with a deep understanding of the business context.}\cite{chollet2022} 
+
+One does not need to be a psychologist to understand that these conversations almost never happen. The worflow of machine learning is universal, we are all doing fancy regressions and we all deal with the same wild expectations, shitty data and misalignment with business. \sidenote{It's worth noting that a trend in rich-world AI companies is to be a nonprofit, limited-profit or give away models for free as open-source software. My guess is that many that go this route just think that businesspeople are too stupid to understand what they are doing, so avoid doing business altogether.}
+
+\section{Key Takeaways}
+
+\begin{itemize}
+    \item \textbf{test} exit
+\end{itemize}
+

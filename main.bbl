@@ -61,7 +61,7 @@
       \verb https://www.amazon.com/Computer-Brain-Silliman-Memorial-Lectures/dp/0300181116
       \endverb
     \endentry
-    \entry{welsh_2023}{misc}{}
+    \entry{welsh2023}{misc}{}
       \name{author}{1}{}{%
         {{hash=076cf707817a3f8501c3ecc48b1b2268}{%
            family={Welsh},
@@ -124,7 +124,7 @@
       \field{title}{Artificial Intelligence}
       \field{year}{2009}
     \endentry
-    \entry{hawkins_2022}{book}{}
+    \entry{hawkins2022}{book}{}
       \name{author}{1}{}{%
         {{hash=ae942e35d736eab568a4727899116694}{%
            family={Hawkins},
@@ -182,7 +182,7 @@
       \endverb
       \keyw{Machine Learning (cs.LG),FOS: Computer and information sciences,FOS: Computer and information sciences}
     \endentry
-    \entry{chollet_2022}{book}{}
+    \entry{chollet2022}{book}{}
       \name{author}{1}{}{%
         {{hash=5836fc1fa037e340c8b5591da3207608}{%
            family={Chollet},
@@ -276,59 +276,6 @@
       \verb https://www.amazon.com/Alignment-Problem-Machine-Learning-Values/dp/0393635821
       \endverb
     \endentry
-    \entry{mansharamani_2020}{book}{}
-      \name{author}{1}{}{%
-        {{hash=3bf7f8aebb363db6c9b75651ad07d9c6}{%
-           family={Mansharamani},
-           familyi={M\bibinitperiod},
-           given={Vikram},
-           giveni={V\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Harvard Business Review Press}%
-      }
-      \strng{namehash}{3bf7f8aebb363db6c9b75651ad07d9c6}
-      \strng{fullhash}{3bf7f8aebb363db6c9b75651ad07d9c6}
-      \strng{bibnamehash}{3bf7f8aebb363db6c9b75651ad07d9c6}
-      \strng{authorbibnamehash}{3bf7f8aebb363db6c9b75651ad07d9c6}
-      \strng{authornamehash}{3bf7f8aebb363db6c9b75651ad07d9c6}
-      \strng{authorfullhash}{3bf7f8aebb363db6c9b75651ad07d9c6}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Think for yourself: Restoring common sense in an age of experts and artificial intelligence}
-      \field{year}{2020}
-    \endentry
-    \entry{marcus_2023}{misc}{}
-      \name{author}{1}{}{%
-        {{hash=199868cb9a5ee49454615e31ec8cc1ae}{%
-           family={Marcus},
-           familyi={M\bibinitperiod},
-           given={Gary},
-           giveni={G\bibinitperiod}}}%
-      }
-      \strng{namehash}{199868cb9a5ee49454615e31ec8cc1ae}
-      \strng{fullhash}{199868cb9a5ee49454615e31ec8cc1ae}
-      \strng{bibnamehash}{199868cb9a5ee49454615e31ec8cc1ae}
-      \strng{authorbibnamehash}{199868cb9a5ee49454615e31ec8cc1ae}
-      \strng{authornamehash}{199868cb9a5ee49454615e31ec8cc1ae}
-      \strng{authorfullhash}{199868cb9a5ee49454615e31ec8cc1ae}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{ACM}
-      \field{month}{1}
-      \field{title}{Is chatgpt really a 'code red' for google search?}
-      \field{year}{2023}
-      \verb{urlraw}
-      \verb https://cacm.acm.org/blogs/blog-cacm/268376-is-chatgpt-really-a-code-red-for-google-search/fulltext
-      \endverb
-      \verb{url}
-      \verb https://cacm.acm.org/blogs/blog-cacm/268376-is-chatgpt-really-a-code-red-for-google-search/fulltext
-      \endverb
-    \endentry
     \entry{Keynes2012}{book}{}
       \name{author}{3}{}{%
         {{hash=612862f6008b8bea8cd4a13783af9a93}{%
@@ -394,6 +341,9 @@
       \endverb
     \endentry
   \enddatalist
+  \missing{hawkins_2022}
+  \missing{mansharamani_2020}
+  \missing{marcus_2023}
 \endrefsection
 \endinput
 

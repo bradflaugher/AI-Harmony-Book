@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.1.18)  24 JAN 2023 09:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.1.18)  25 JAN 2023 10:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2455,7 +2455,29 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
- (./main.bbl)
+ (./main.bbl
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                hawkins_2022
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                mansharamani_2020
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                marcus_2023
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+)
 Package biblatex Info: Reference section=0 on input line 78.
 Package biblatex Info: Reference segment=0 on input line 78.
 Package scrhack Info: undefining \float@addtolists on input line 78.
@@ -2491,7 +2513,7 @@ Package pdftex.def Info: cover.pdf , page1 used on input line 91.
 (pdftex.def)             Requested size: 613.8998pt x 794.45859pt.
 \openout4 = `main.mw'.
 
-[1
+ [1
 
 
  <./cover.pdf>] (./main.mw)
@@ -3309,7 +3331,7 @@ LaTeX Font Info:    Font shape `T1/fvm/b/n' will be
  [2] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//bored_programmer.jpg, id=323, 770.88pt x 770.88pt>
+<images//bored_programmer.jpg, id=326, 770.88pt x 770.88pt>
 File: images//bored_programmer.jpg Graphic file (type jpg)
 <use images//bored_programmer.jpg>
 Package pdftex.def Info: images//bored_programmer.jpg  used on input line 58.
@@ -3330,7 +3352,7 @@ LaTeX Warning: Marginpar on page 3 moved.
 [3 <./images//bored_programmer.jpg>] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//kasparov_fire.jpg, id=347, 770.88pt x 770.88pt>
+<images//kasparov_fire.jpg, id=350, 770.88pt x 770.88pt>
 File: images//kasparov_fire.jpg Graphic file (type jpg)
 <use images//kasparov_fire.jpg>
 Package pdftex.def Info: images//kasparov_fire.jpg  used on input line 78.
@@ -3352,7 +3374,7 @@ LaTeX Warning: Marginpar on page 4 moved.
 [4 <./images//kasparov_fire.jpg>] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//programmers_strike.png, id=361, 1122.1925pt x 1094.0875pt>
+<images//programmers_strike.png, id=364, 1122.1925pt x 1094.0875pt>
 File: images//programmers_strike.png Graphic file (type png)
 <use images//programmers_strike.png>
 Package pdftex.def Info: images//programmers_strike.png  used on input line 104
@@ -3367,7 +3389,7 @@ Package marginnote Info: xpos seems to be 72.53856pt on input line 107.
 
 LaTeX Warning: Marginpar on page 5 moved.
 
-<images//blackbox.jpg, id=362, 770.88pt x 770.88pt>
+<images//blackbox.jpg, id=365, 770.88pt x 770.88pt>
 File: images//blackbox.jpg Graphic file (type jpg)
 <use images//blackbox.jpg>
 Package pdftex.def Info: images//blackbox.jpg  used on input line 120.
@@ -3432,11 +3454,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--2
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 2--2
- [][][][]\T1/zplLF/b/n/9 (+20) Modern AI is still a De-ter- 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
  [][][][]\T1/zplLF/b/n/9 (+20) The Uni-ver-sal Ma-chine 
  []
 
@@ -3444,7 +3461,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--2
 
 \openout4 = `main.mw'.
 
-<images//knowledge.jpg, id=403, 770.88pt x 770.88pt>
+<images//knowledge.jpg, id=406, 770.88pt x 770.88pt>
 File: images//knowledge.jpg Graphic file (type jpg)
 <use images//knowledge.jpg>
 Package pdftex.def Info: images//knowledge.jpg  used on input line 15.
@@ -3465,7 +3482,7 @@ LaTeX Warning: Marginpar on page 7 moved.
  <./images//knowledge.jpg>] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//OLSregression.png, id=423, 299.9205pt x 377.9721pt>
+<images//OLSregression.png, id=425, 299.9205pt x 377.9721pt>
 File: images//OLSregression.png Graphic file (type png)
 <use images//OLSregression.png>
 Package pdftex.def Info: images//OLSregression.png  used on input line 34.
@@ -3556,7 +3573,7 @@ LaTeX Font Info:    Font shape `OT1/zplTLF/m/n' will be
 (./main.mw)
 \openout4 = `main.mw'.
 
-Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 251.
+Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 233.
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
@@ -3576,6 +3593,41 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 251.
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+
+
+LaTeX Warning: Marginpar on page 14 moved.
+
+
+LaTeX Warning: Marginpar on page 14 moved.
+
+\openout4 = `main.mw'.
+
+[14] (./main.mw)
+\openout4 = `main.mw'.
+
+
+
+LaTeX Warning: Marginpar on page 15 moved.
+
+LaTeX Font Info:    Font shape `T1/zplLF/b/it' will be
+(Font)              scaled to size 9.70001pt on input line 279.
+\openout4 = `main.mw'.
+
+[15] (./main.mw)
+\openout4 = `main.mw'.
+
+
+
+LaTeX Warning: Marginpar on page 16 moved.
 
 \openout4 = `main.mw'.
 
@@ -3584,23 +3636,33 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 251.
 ) (./chapters/chapter3.tex
 \openout4 = `main.mw'.
 
- [14] (./main.mw)
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
- [15] (./main.mw)
+ [16] (./main.mw)
 \openout4 = `main.mw'.
 
 
 chapter 3.
-Package marginnote Info: Margin note 24.1 is on absolute page 24 on input line 
+Package marginnote Info: Margin note 25.1 is on absolute page 25 on input line 
 2.
 Package marginnote Info: right page because not two side mode on input line 2.
 Package marginnote Info: xpos seems to be 72.53856pt on input line 2.
 
 Underfull \hbox (badness 10000) in paragraph at lines 2--2
+ [][][][]\T1/zplLF/b/n/9 (+20) Getting cre-ative with a 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
  [][][][]\T1/zplLF/b/n/9 (+20) From Spaghetti Code to 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
+ [][][][]\T1/zplLF/b/n/9 (+20) Garbage In, New Per-spec- 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
+ [][][][]\T1/zplLF/b/n/9 (+20) The Im-pos-si-bil-ity of Fair- 
  []
 
 
@@ -3613,49 +3675,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--2
  [][][][]\T1/zplLF/b/n/9 (+20) The Per-verse In-cen-tives of 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
- \T1/zplLF/b/n/9 (+20) Data Sci-en-tists: Job Se-cu-rity 
- []
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 42.
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-[16
+[17
 
 
 ] (./main.mw)
 \openout4 = `main.mw'.
 
-Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 56.
+Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 61.
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
@@ -3679,16 +3711,39 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 56.
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+ [18] (./main.mw)
+\openout4 = `main.mw'.
+
+Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 75.
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+
+
+LaTeX Warning: Citation 'mansharamani_2020' on page 19 undefined on input line 
+75.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+
+LaTeX Warning: Citation 'mansharamani_2020' on page 19 undefined on input line 
+75.
 
 ) (./chapters/chapter4.tex
 \openout4 = `main.mw'.
 
- [17] (./main.mw)
+ [19] (./main.mw)
 \openout4 = `main.mw'.
 
 
 chapter 4.
-Package marginnote Info: Margin note 26.1 is on absolute page 26 on input line 
+Package marginnote Info: Margin note 28.1 is on absolute page 28 on input line 
 2.
 Package marginnote Info: right page because not two side mode on input line 2.
 Package marginnote Info: xpos seems to be 72.53856pt on input line 2.
@@ -3702,15 +3757,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--2
  [][][][]\T1/zplLF/b/n/9 (+20) Code Your Own Clas-si-fier in 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
- [][][][]\T1/zplLF/b/n/9 (+20) If You Were Un-able To See A 
- []
-
 ) (./chapters/chapter5.tex
 \openout4 = `main.mw'.
 
- [18
+ [20
 
 
 ] (./main.mw)
@@ -3718,7 +3768,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--2
 
 
 chapter 5.
-Package marginnote Info: Margin note 27.1 is on absolute page 27 on input line 
+Package marginnote Info: Margin note 29.1 is on absolute page 29 on input line 
 2.
 Package marginnote Info: right page because not two side mode on input line 2.
 Package marginnote Info: xpos seems to be 72.53856pt on input line 2.
@@ -3730,7 +3780,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--2
 ) (./chapters/chapter6.tex
 \openout4 = `main.mw'.
 
- [19
+ [21
 
 
 ] (./main.mw)
@@ -3738,7 +3788,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--2
 
 
 chapter 6.
-Package marginnote Info: Margin note 28.1 is on absolute page 28 on input line 
+Package marginnote Info: Margin note 30.1 is on absolute page 30 on input line 
 2.
 Package marginnote Info: right page because not two side mode on input line 2.
 Package marginnote Info: xpos seems to be 72.53856pt on input line 2.
@@ -3766,9 +3816,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--2
 
 \openout4 = `main.mw'.
 
+
+LaTeX Warning: Citation 'marcus_2023' on page 22 undefined on input line 7.
+
 \openout4 = `main.mw'.
 
-[20
+[22
 
 
 ] (./main.mw)
@@ -3777,12 +3830,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--2
 ) (./chapters/chapter7.tex
 \openout4 = `main.mw'.
 
- [21] (./main.mw)
+ [23] (./main.mw)
 \openout4 = `main.mw'.
 
 
 chapter 7.
-Package marginnote Info: Margin note 30.1 is on absolute page 30 on input line 
+Package marginnote Info: Margin note 32.1 is on absolute page 32 on input line 
 2.
 Package marginnote Info: right page because not two side mode on input line 2.
 Package marginnote Info: xpos seems to be 72.53856pt on input line 2.
@@ -3823,7 +3876,7 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 15.
 ) (./chapters/chapter8.tex
 \openout4 = `main.mw'.
 
- [22
+ [24
 
 
 ] (./main.mw)
@@ -3831,7 +3884,7 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 15.
 
 
 chapter 8.
-Package marginnote Info: Margin note 31.1 is on absolute page 31 on input line 
+Package marginnote Info: Margin note 33.1 is on absolute page 33 on input line 
 2.
 Package marginnote Info: right page because not two side mode on input line 2.
 Package marginnote Info: xpos seems to be 72.53856pt on input line 2.
@@ -3844,10 +3897,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--2
 
 \openout4 = `main.mw'.
 
+
+LaTeX Warning: Citation 'hawkins_2022' on page 25 undefined on input line 5.
+
 ) (./chapters/chapter9.tex
 \openout4 = `main.mw'.
 
- [23
+ [25
 
 
 ] (./main.mw)
@@ -3855,19 +3911,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--2
 
 \openout4 = `main.mw'.
 
- [24] (./main.mw)
+ [26] (./main.mw)
 \openout4 = `main.mw'.
 
 
 chapter 9.
-Package marginnote Info: Margin note 33.1 is on absolute page 33 on input line 
+Package marginnote Info: Margin note 35.1 is on absolute page 35 on input line 
 2.
 Package marginnote Info: right page because not two side mode on input line 2.
 Package marginnote Info: xpos seems to be 72.53856pt on input line 2.
 )
 \openout4 = `main.mw'.
 
- [25
+ [27
 
 
 ] (./main.mw)
@@ -3921,13 +3977,17 @@ This document will not have a glossary.
 
 \openout4 = `main.mw'.
 
-[26
+[28
 
 
 
 
 
 ] (./main.mw)
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
@@ -4571,9 +4631,25 @@ This document will not have a glossary.
 
 \openout4 = `main.mw'.
 
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
 )
 
+LaTeX Warning: There were undefined references.
+
+
 LaTeX Warning: There were multiply-defined labels.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                main
+(biblatex)                and rerun LaTeX afterwards.
 
 \openout4 = `main.mw'.
 
@@ -4594,17 +4670,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 58463 strings out of 478287
- 1151248 string characters out of 5849289
- 2693588 words of memory out of 5000000
- 75037 multiletter control sequences out of 15000+600000
- 586216 words of font info for 279 fonts, out of 8000000 for 9000
+ 58528 strings out of 478287
+ 1151963 string characters out of 5849289
+ 2693587 words of memory out of 5000000
+ 75030 multiletter control sequences out of 15000+600000
+ 591015 words of font info for 299 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  133i,20n,159p,10596b,2656s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-lf-pc.enc}{/usr/s
-hare/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texlive/texmf-d
-ist/fonts/enc/dvips/newtx/ntx-ecth-tlf.enc}{/usr/share/texlive/texmf-dist/fonts
-/enc/dvips/newtx/ntx-ec-lf.enc}{/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ec.
+hare/texlive/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-lf.enc}{/usr/share/texlive
+/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texlive/texmf-dist/fonts/en
+c/dvips/newtx/ntx-ecth-tlf.enc}{/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ec.
 enc}</usr/share/texlive/texmf-dist/fonts/type1/public/newpx/NewPXMI.pfb></usr/s
 hare/texlive/texmf-dist/fonts/type1/public/bera/fvmb8a.pfb></usr/share/texlive/
 texmf-dist/fonts/type1/public/bera/fvmr8a.pfb></usr/share/texlive/texmf-dist/fo
@@ -4612,12 +4688,13 @@ nts/type1/public/newpx/pxmiaX.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
 blic/newpx/pxsys.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qhvb.pfb></u
 sr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txsya.pfb></usr/share/te
 xlive/texmf-dist/fonts/type1/public/newpx/zplb.pfb></usr/share/texlive/texmf-di
-st/fonts/type1/public/newpx/zplr.pfb></usr/share/texlive/texmf-dist/fonts/type1
-/public/newpx/zplri.pfb>
-Output written on main.pdf (32 pages, 3940208 bytes).
+st/fonts/type1/public/newpx/zplbi.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/newpx/zplr.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newpx
+/zplri.pfb>
+Output written on main.pdf (34 pages, 3980656 bytes).
 PDF statistics:
- 1160 PDF objects out of 1200 (max. 8388607)
- 1080 compressed objects within 11 object streams
- 281 named destinations out of 1000 (max. 500000)
- 47735 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 1213 PDF objects out of 1440 (max. 8388607)
+ 1128 compressed objects within 12 object streams
+ 310 named destinations out of 1000 (max. 500000)
+ 49791 words of extra memory for PDF output out of 51595 (max. 10000000)
 
