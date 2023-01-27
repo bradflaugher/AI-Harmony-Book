@@ -300,6 +300,35 @@
       \field{title}{Think for yourself: Restoring common sense in an age of experts and artificial intelligence}
       \field{year}{2020}
     \endentry
+    \entry{marcus2023}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=199868cb9a5ee49454615e31ec8cc1ae}{%
+           family={Marcus},
+           familyi={M\bibinitperiod},
+           given={Gary},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{199868cb9a5ee49454615e31ec8cc1ae}
+      \strng{fullhash}{199868cb9a5ee49454615e31ec8cc1ae}
+      \strng{bibnamehash}{199868cb9a5ee49454615e31ec8cc1ae}
+      \strng{authorbibnamehash}{199868cb9a5ee49454615e31ec8cc1ae}
+      \strng{authornamehash}{199868cb9a5ee49454615e31ec8cc1ae}
+      \strng{authorfullhash}{199868cb9a5ee49454615e31ec8cc1ae}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ACM}
+      \field{month}{1}
+      \field{title}{Is chatgpt really a 'code red' for google search?}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://cacm.acm.org/blogs/blog-cacm/268376-is-chatgpt-really-a-code-red-for-google-search/fulltext
+      \endverb
+      \verb{url}
+      \verb https://cacm.acm.org/blogs/blog-cacm/268376-is-chatgpt-really-a-code-red-for-google-search/fulltext
+      \endverb
+    \endentry
     \entry{Keynes2012}{book}{}
       \name{author}{3}{}{%
         {{hash=612862f6008b8bea8cd4a13783af9a93}{%
@@ -365,7 +394,6 @@
       \endverb
     \endentry
   \enddatalist
-  \missing{marcus_2023}
 \endrefsection
 \endinput
 

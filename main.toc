@@ -40,7 +40,7 @@
 \contentsline {mtocsection}{\numberline {2.7}The Universal Machine Learning Workflow}{14}{section.2.7}%
 \contentsline {section}{\numberline {2.8}Key Takeaways}{16}{section.2.8}%
 \contentsline {mtocsection}{\numberline {2.8}Key Takeaways}{16}{section.2.8}%
-\contentsline {chapter}{\numberline {3}Creativity and Decision Making with AI}{17}{chapter.3}%
+\contentsline {chapter}{\numberline {3}Creativity and Decision Making with Deep Learning Models}{17}{chapter.3}%
 \etoc@startlocaltoc {6}
 \etoc@startlocaltoc {7}
 \contentsline {section}{\numberline {3.1}Theories of Creativity}{17}{section.3.1}%
