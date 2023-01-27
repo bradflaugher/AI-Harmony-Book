@@ -276,6 +276,30 @@
       \verb https://www.amazon.com/Alignment-Problem-Machine-Learning-Values/dp/0393635821
       \endverb
     \endentry
+    \entry{mansharamani2020}{book}{}
+      \name{author}{1}{}{%
+        {{hash=3bf7f8aebb363db6c9b75651ad07d9c6}{%
+           family={Mansharamani},
+           familyi={M\bibinitperiod},
+           given={Vikram},
+           giveni={V\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Harvard Business Review Press}%
+      }
+      \strng{namehash}{3bf7f8aebb363db6c9b75651ad07d9c6}
+      \strng{fullhash}{3bf7f8aebb363db6c9b75651ad07d9c6}
+      \strng{bibnamehash}{3bf7f8aebb363db6c9b75651ad07d9c6}
+      \strng{authorbibnamehash}{3bf7f8aebb363db6c9b75651ad07d9c6}
+      \strng{authornamehash}{3bf7f8aebb363db6c9b75651ad07d9c6}
+      \strng{authorfullhash}{3bf7f8aebb363db6c9b75651ad07d9c6}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Think for yourself: Restoring common sense in an age of experts and artificial intelligence}
+      \field{year}{2020}
+    \endentry
     \entry{Keynes2012}{book}{}
       \name{author}{3}{}{%
         {{hash=612862f6008b8bea8cd4a13783af9a93}{%
@@ -341,8 +365,6 @@
       \endverb
     \endentry
   \enddatalist
-  \missing{hawkins_2022}
-  \missing{mansharamani_2020}
   \missing{marcus_2023}
 \endrefsection
 \endinput

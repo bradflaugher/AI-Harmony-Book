@@ -1,5 +1,5 @@
 \setchapterpreamble[u]{\margintoc}
-\chapter{Decision Making, Uncertainty and Chaos}
+\chapter{Creativity and Decision Making with AI}
 \labch{intro}
 
 \textit{“I hope for some sort of peace—but I fear that machines are ahead of morals by some centuries and when morals catch up there'll be no reason for any of it.”} Harry Truman, 1945 \cite{McCullough1992}
@@ -9,9 +9,6 @@
 %\cite{Perez2019}
 %\cite{Blackman2022Jul}
 %\cite{Christian2020}
-
-
-\section{Concept Drift}
 
 \section{Theories of Creativity}
 
@@ -44,10 +41,6 @@ Creative ways to use a drill.
 \end{itemize}
 
 
-\section{From Spaghetti Code to Lasagna Neuron Layers}
-
-These layers are totally transparent, but you can't understand them because they're complicated :)
-
 \section{Garbage In, Garbage Out}
 
 You are essentially programming with data, so if your data sucks so will your prediction, you also really can't generalize, only correllate.
@@ -55,6 +48,10 @@ You are essentially programming with data, so if your data sucks so will your pr
 \section{Garbage In, New Perspective Out?}
 
 What about cross-domain models, where maybe I train with a poetry dataset, and point my language model on nonfiction.... hmmm.
+
+\section{Concept Drift}
+
+When the meaning of truth changes.
 
 \section{The Impossibility of Fairness}
 
@@ -64,14 +61,18 @@ Representation, "fixing the training set" \sidecite{Christian2020}, or the Impos
 
 are you predicting the right thing? Are you really predicting how valuable the company is or just whether it'll be the next meme stock?
 
-\section{The Perverse Incentives of Data Scientists: Job Security by Obscurity}
-
-Investors want predictions, Data Scientists don't have good data, but want to keep their jobs. Bad science rolls downhill to the user, and takes a long time to snuff out. 
-
 \section{Humans Love Computers}
 
 Working together seems like a good idea, but how. Talk about 2 percent model control and model uptake. 
 
-Also talk about Kasparov's tournament and Thinking for yourself in the age of AI. \sidecite{mansharamani_2020}
+Also talk about Kasparov's tournament and Thinking for yourself in the age of AI. \sidecite{mansharamani2020}
 
+\section{Key Takeaways}
+
+\begin{itemize}
+    \item \textbf{Deep learning models are fundamentally large unscientific regressions} they are trained to create a function that maps input data to output data.
+    \item \textbf{Deep learning models are chaotic systems containing millions of interacting parameters} they are not designed to be explained or created in a way that their weights can be used for scientific analysis. They find reasonable answers and don't care how they get there. Multicolinearity (understanding the relationship of an input and output) and feature importance (understanding which inputs are most important) are only understandable with a high level of statistical error.
+    \item \textbf{Small changes in inputs of a deep learning model may dramatically change the outputs} deep learning models are complex deterministic systems that can exhibit chaotic behavior. Their inner workings are functionally unknowable and practically impossible to test.
+    \item \textbf{Deep learning models can have impressive and useful outputs, but the creators of models should be encouraged to highlight their failures and limitations.} Machine learning engineers might be more keen to highlight failures and limitations if they are encouraged to do so by their users, managers and investors.
+\end{itemize}
 

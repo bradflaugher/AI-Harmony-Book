@@ -2,7 +2,7 @@
 \chapter{The Regression Theory of Everything}
 \labch{intro}
 
-\textit{"AI Scientists disagree as to whether these language networks posess true knowledge or are just mimicking humans by remembering the statistics of millions of words. I don't believe any kind of deep learning network will achieve the goal of AGI [Artificial General Intelligence] if the network doesn't model the world the way the brain does. Deep learning networks work well, but not because they solved the knowledge representation problem. They work well because they avoided it completely, relying on statistics and lots of data instead. How deep learning networks work is clever, their performance impressive, and they are commercially valuable. I am only pointing out that they don't possess knowledge and, therefore, are not on the path to having the ability of a five-year-old child."} Jeff Hawkins, 2022 \cite{hawkins2022}
+\textit{"AI Scientists disagree as to whether these language networks possess true knowledge or are just mimicking humans by remembering the statistics of millions of words. I don't believe any kind of deep learning network will achieve the goal of AGI [Artificial General Intelligence] if the network doesn't model the world the way the brain does. Deep learning networks work well, but not because they solved the knowledge representation problem. They work well because they avoided it completely, relying on statistics and lots of data instead. How deep learning networks work is clever, their performance impressive, and they are commercially valuable. I am only pointing out that they don't possess knowledge and, therefore, are not on the path to having the ability of a five-year-old child."} Jeff Hawkins, 2022 \cite{hawkins2022}
 
 \section{Let's Avoid Knowledge Representation!}
 
@@ -13,7 +13,7 @@ Deep learning techniques handle knowledge representation differently than tradit
 
 \begin{marginfigure}[-5.5cm]
         \includegraphics{knowledge}
-        \caption{"mdjrny-v4 a disembodied computer being force-fed data like a duck looking somewhat like a sci-fi character 8k" By OpenJourney}
+        \caption{"mdjrny-v4 a disembodied computer being force-fed data like a duck looking somewhat like a sci-fi character 8k" made with OpenJourney}
         \labfig{marginknowledge}
 \end{marginfigure}
 
@@ -32,14 +32,14 @@ A neural network is a machine learning model composed of layers of interconnecte
 
 \begin{marginfigure}[-5.5cm]
 	\includegraphics{OLSregression}
-        \caption{A simple linear regression, the red points are the training data, and the blue line is the regression line.}
+        \caption{A simple linear regression, the red points are the training data, and the blue line is the regression line. If you don't understand this please read \url{https://en.wikipedia.org/wiki/Regression_analysis}}
         \labfig{olsregression}
 \end{marginfigure}
 
 
 A regression is a statistical method used to predict a continuous variable based on one or more input features. A linear regression, for example, is a simple neural network with one input layer, one output layer and no hidden layers. In this case, the weights of the network are the coefficients of the linear equation and the network is equivalent to a linear regression model.
 
-A decision tree is a tree-based model used for classification and prediction tasks. It consists of a series of if-then rules that are used to make decisions based on the input data. A neural network with one input layer, one output layer and one hidden layer with the ReLU activation \sidenote{Neurons in a neural network can have different \href{https://en.wikipedia.org/wiki/Activation\_function}{activation functions}, if you don't know what it is and don't want to read about it in wikipedia, that's OK.} function is equivalent to a decision tree. This is because the ReLU activation function allows the network to implement a piecewise linear function which can represent the decision boundaries of a decision tree.
+A decision tree is a tree-based model used for classification and prediction tasks. It consists of a series of if-then rules that are used to make decisions based on the input data. A neural network with one input layer, one output layer and one hidden layer with the ReLU activation \sidenote{Neurons in a neural network can have different activation functions, if you don't know what it is and don't want to read about it on wikipedia, that's OK. \url{https://en.wikipedia.org/wiki/Activation\_function}} function is equivalent to a decision tree. This is because the ReLU activation function allows the network to implement a piecewise linear function which can represent the decision boundaries of a decision tree.
 
 In summary, under certain conditions, a neural network can be mathematically equivalent to a linear regression or a decision tree. These conditions include having one input and one output layers, and having a specific activation function in the case of a decision tree.\sidecite{Aytekin}
 
@@ -78,7 +78,7 @@ Dummy variables are used in regression analysis to include categorical variables
 \end{marginlisting}
 
 
-The creation of dummy variables in a regression is analgous to preprocessing image, text and other data for a nueural network for deep learning. This preprocessing is important  as it ensures that the data is in a format that can be easily understood and processed by the network. The preprocessing steps for numbers, text, and images are slightly different.
+The creation of dummy variables in a regression is analogous to preprocessing image, text and other data for a neural network for deep learning. This preprocessing is important  as it ensures that the data is in a format that can be easily understood and processed by the network. The preprocessing steps for numbers, text, and images are slightly different.
 
 For numbers:
 \begin{itemize}
@@ -89,7 +89,7 @@ For numbers:
 For text:
 
 \begin{itemize}
-	\item Tokenization: Text data must first be converted into a numerical format that can be understood by the network. This is typically done by tokenizing the text into individual words or n-grams and then encoding them as integers or real-valued vectors. A one-hot encoding exactly like the dummy variable method used in regression is also frequently used. \sidenote{Sometimes text is just mapped to a number! Shocking, but it works. \href{https://www.tensorflow.org/text/guide/word\_embeddings}{Read more about word embeddings in the Tensorflow official tutorials}.} \sidenote{GPT-3 uses byte-level Byte Pair Encoding (BPE) tokenization and has a vocabulary size of 50,257.}
+	\item Tokenization: Text data must first be converted into a numerical format that can be understood by the network. This is typically done by tokenizing the text into individual words or n-grams and then encoding them as integers or real-valued vectors. A one-hot encoding exactly like the dummy variable method used in regression is also frequently used. \sidenote{Sometimes text is just mapped to a number! Shocking, but it works. See how it is taught in the TensorFlow tutorials \url{https://www.tensorflow.org/text/guide/word\_embeddings}} \sidenote{GPT-3 uses byte-level Byte Pair Encoding (BPE) tokenization and has a vocabulary size of 50,257.}
 	\item Stop-words removal: The most common words in any language like "a", "an", "the", etc. that do not contain much meaning are called stop-words, they are often removed to reduce the dimensionality of the data.
 	\item Stemming/Lemmatization: Words that have the same meaning can be stemmed or lemmatized to reduce the vocabulary size and increase the chances of generalization.
 	\item Vocabulary Size: Each model must choose a vocabulary size or the maximum number of tokens that it will analyze. This may cause misspellings, slang or typos to be discarded in analysis.
@@ -99,7 +99,7 @@ For images:
     
 \begin{itemize}
 	\item Converting to RGB or Greyscale: Each image is analyzed by its pixel color value, every point on an image will either have 3 color values (red, green, blue) or one single value (on a white/black scale) if the image is analyzed in greyscale.
-	\item Convolutions: Pixel values are analyzed in groups that are defined by the model, since individual pixel values are only colors (or greyness) they must be combined together by the model to detect patterns like faces and stop signs. The method of convolution is defined by the model itself.
+	\item Convolutions\sidenote{If you would prefer a visualization of a neural network check out this excellent video by Dennis Dmitriev \url{https://www.youtube.com/watch?v=3JQ3hYko51Y}.}: Pixel values are analyzed in groups that are defined by the model, since individual pixel values are only colors (or greyness) they must be combined together by the model to detect patterns like faces and stop signs. The method of convolution is defined by the model itself.
 	\item Resizing: neural network can only accept images of a fixed size, so resizing the image to match the network's requirements is important.
 	\item Normalization: It is common to normalize the pixel values to be in the range of 0-1 or -1 to 1. This will help the model converge faster.
 	\item Data Augmentation: To increase the amount of data and prevent overfitting, common data augmentation techniques such as flipping, rotation, and cropping can be applied to the images.
@@ -109,9 +109,9 @@ In summary, preprocessing is an important step in training a neural network, as 
 
 \section{Try That Again With 33,640,010 Parameters}
 
-In the first section of this chapter we introduced the idea that a simple neural network is mathematically equivalent to a regression. This is true and a useful way to think about neural networks and deep learning. \sidenote{\begin{equation}y=Wx+b\end{equation} There's your simple formula for a single-cell neural network and regression, in practice we'll change $W$, $x$ and $b$ to matricies and introduce nonlinear activiation function $f$ so, \begin{equation}y=f(Wx+b)\end{equation} if you please. If equations scare you, don't worry about it for now.} 
+In the first section of this chapter we introduced the idea that a simple neural network is mathematically equivalent to a regression. This is true and a useful way to think about neural networks and deep learning. \sidenote{\begin{equation}y=Wx+b\end{equation} There's your simple formula for a single-cell neural network and regression, in practice we'll change $W$, $x$ and $b$ to matrices and introduce nonlinear activation function $f$ so, \begin{equation}y=f(Wx+b)\end{equation} if you please. If equations scare you, don't worry about it for now.} 
 
-In practice, neural networks frequently trained with millions of parameters. Here is an example of the trainable parameters of a simple image classifier. This example is a dense neural network to classify handwritten digits, and is not yet as sophisticated as the one used by Yann LeCun and and company in the 1990s
+In practice, neural networks frequently trained with millions of parameters. Here is an example of the trainable parameters of a simple image classifier. This example is a dense neural network to classify handwritten digits, and is not yet as sophisticated as the one used by Yann LeCun and company in the 1990s
 
 In these next few examples, don't worry if you don't understand the layer types or know what batch nomalization means. The point I would like to make is that neural networks are often created with millions of trainable parameters, once you agree with me regarding this point we will discuss the implications of this in more depth.
 
@@ -143,7 +143,7 @@ _________________________________________________________________
 
 \begin{marginfigure}[-5.5cm]
         \includegraphics{greenneuron}
-        \caption{"mdjrny-v4 layers and layers of neurons looking like a gooey lasagna, but the data has green blood 8k" By OpenJourney}
+        \caption{"mdjrny-v4 layers and layers of neurons looking like a gooey lasagna, but the data has green blood 8k" made with OpenJourney}
         \labfig{marginneuron}
 \end{marginfigure}
 
@@ -216,9 +216,9 @@ Non-trainable params: 2,944
 _________________________________________________________________
 \end{lstlisting}
 
-When a neural network has millions of trainable parameters and deep layers of neurons\sidenote{In case you are wondering, the human brain has about 86 billion neurons that do the "thinking". Physical neurons are more complicated than the neurons used in deep learning and have supporting structures like \href{https://www.economist.com/science-and-technology/2023/01/23/neurons-are-not-the-only-brain-cells-that-think}{astrocytes} that do some computation as well.}, it can be difficult to explain to a human what each of those parameters represents or how they contribute to the overall function of the network. This is because the interactions between the different layers and neurons can be complex and non-linear, making it challenging to understand the specific role of each parameter. The parameters  model complex interactions between the inputs, making it difficult to understand their specific function. Furthermore, in deep neural networks, the high number of layers can lead to high level of abstraction, meaning that the individual neurons and their weights have little interpretability.
+When a neural network has millions of trainable parameters and deep layers of neurons\sidenote{In case you are wondering, the human brain has about 86 billion neurons that do the "thinking". Physical neurons are more complicated than the neurons used in deep learning and have supporting structures like astrocytes that do some computation as well. \url{https://en.wikipedia.org/wiki/Astrocyte}}, it can be difficult to explain to a human what each of those parameters represents or how they contribute to the overall function of the network. This is because the interactions between the different layers and neurons can be complex and non-linear, making it challenging to understand the specific role of each parameter. The parameters  model complex interactions between the inputs, making it difficult to understand their specific function. Furthermore, in deep neural networks, the high number of layers can lead to high level of abstraction, meaning that the individual neurons and their weights have little interpretability.
 
-When a neural network has millions of interacting parameters, it can lead to mathematical chaos \sidenote{\href{https://en.wikipedia.org/wiki/Chaos_theory}{Mathematical chaos} is a real thing! Mathematical chaos refers to the behavior of certain dynamic systems that are highly sensitive to initial conditions. This sensitivity leads to seemingly random and unpredictable behavior, even though the underlying equations governing the system are deterministic (meaning they are transparent and known to us).}, which is a phenomenon where small changes in the initial conditions of the network can lead to vastly different outputs. This is because the interactions between the large number of parameters can create non-linear relationships that are sensitive to small changes. This can make it difficult to predict the behavior of the network, as small changes in the input or the parameters can lead to unexpected and seemingly random outputs.\sidenote{Chaotic outputs in a large deterministic system are OK in many domains, and there are controls that can be put in place to keep AI "safe" but deep learning by itself will not produce those controls.}
+When a neural network has millions of interacting parameters, it can lead to mathematical chaos \sidenote{Mathematical chaos is a real thing, it refers to the behavior of certain dynamic systems that are highly sensitive to initial conditions. This sensitivity leads to seemingly random and unpredictable behavior, even though the underlying equations governing the system are deterministic (meaning they are transparent and known to us). \url{https://en.wikipedia.org/wiki/Chaos_theory} }, which is a phenomenon where small changes in the initial conditions of the network can lead to vastly different outputs. This is because the interactions between the large number of parameters can create non-linear relationships that are sensitive to small changes. This can make it difficult to predict the behavior of the network, as small changes in the input or the parameters can lead to unexpected and seemingly random outputs.\sidenote{Chaotic outputs in a large deterministic system are OK in many domains, and there are controls that can be put in place to keep AI "safe" but deep learning by itself will not produce those controls.}
 
 \section{Multicolinearity and the End of Science}
 
@@ -226,17 +226,17 @@ Data science is a horrible term because it implies that data scientists are scie
 
 The main goal of a scientist is to gain knowledge and understanding of the natural world through research, experimentation, and data analysis. Scientists make models of the world to test and explain. So-called data scientists make models too but a model with layers of interacting parameters, trained under chaotic conditions is almost impossible to explain. Multicolinearity\sidenote{"Multicolinearity is when two or more variables in a study are closely related to each other. Think of it like dating: imagine you are trying to figure out what makes someone a good partner. You might look at things like how much they make, how attractive they are, and how kind they are. But, these things are all related to each other. For example, attractive people might make more money, and kind people might be more attractive. So, it's hard to know which one is really important for being a good partner, because they are all related. That's like multicolinearity in a study." By ChatGPT given the prompt "explain multicolinearity to a teenager using a dating example"} is just one issue, but deep learning techniques are practically incompatible with the scientific method. With deep learning methods it can be difficult to determine which variable had the most impact on the outcome of the model. Coefficients of the model to be unstable and unreliable, which can make it difficult to explain the model in a meaningful way. 
 
-Explaining the inner-workings of a neural network with millions of interacting parameters is difficult for many reasons. Most of the complexity is due to the number of parameters, which can make it difficult to understand how the model works and why it makes certain decisions. The interactions between the parameters are often non-linear and can be difficult to understand, as the model can be sensitive to small changes in the parameters\sidenote{leading to mathematical chaos}. This can make it difficult to explain why the model is making certain decisions, as the interactions between the parameters are not always clear.
+Explaining the inner-workings of a neural network with millions of interacting parameters is difficult for many reasons. Most of the complexity is due to the number of parameters, which can make it difficult to understand how the model works and why it makes certain decisions. The interactions between the parameters are often non-linear and can be difficult to understand, as the model can be sensitive to small changes in the parameters, which is the definition of mathematical chaos. This can make it difficult to explain why the model is making certain decisions, as the interactions between the parameters are not always clear.
 
 \section{Let's Test Some Random Inputs! Feature Importance and Explainability}
 
-With a huge complex system of neurons that combine inputs in novel ways, it becomes vary hard to understand which inputs are the most important for the system as a whole. To better understand deep learining models, data scientists use randomized or averaged inputs to a model to test the feature importance of a deep learning neural network. This type of testing is done to determine which features are most influential in the overall output of the network. This is done by randomly or averaging the input values for each feature and then running the model to see how the output is affected. For example, if a neural network is used to detect objects in an image, the data scientist may randomize the color of the objects to see how the model’s accuracy is affected. If the accuracy drops significantly, they can infer that color is an important feature in the network.
+With a huge complex system of neurons that combine inputs in novel ways, it becomes vary hard to understand which inputs are the most important for the system as a whole. To better understand deep learning models, data scientists use randomized or averaged inputs to a model to test the feature importance of a deep learning neural network. This type of testing is done to determine which features are most influential in the overall output of the network. This is done by randomly or averaging the input values for each feature and then running the model to see how the output is affected. For example, if a neural network is used to detect objects in an image, the data scientist may randomize the color of the objects to see how the model’s accuracy is affected. If the accuracy drops significantly, they can infer that color is an important feature in the network.
 
 Randomized or averaged inputs to a model can also be used to determine if a particular feature is necessary for the network to function correctly. For example, if the output of the network is not as accurate when a particular feature is randomized or averaged, then the data scientist can infer that this feature is important for the network’s performance. By using this method, data scientists can gain insights into which features are important and which can be removed from the model to improve performance.
 
 \section{The Universal Machine Learning Workflow}
 
-The Universal Machine Learning Workflow\sidecite{chollet2022} is an important chapter in a technical guide for data scientists  by the author of the most popular machine learning framework in the world\sidenote{It's called TensorFlow and was one of the most popular and \href{https://survey.stackoverflow.co/2022/\#most-popular-technologies-misc-tech}{"Most Loved"} Technologies of 2022} that outlines the \textit{Universal} workflow for machine learning projects. I think this chapter should be understood by everyone using, investing in and creating machine learning models. 
+The Universal Machine Learning Workflow\sidecite{chollet2022} is an important chapter in a technical guide for data scientists  by the author of the most popular machine learning framework in the world\sidenote{It's called TensorFlow and was one of the most popular and "Most Loved" Technologies of 2022 \url{https://survey.stackoverflow.co/2022/\#most-popular-technologies-misc-tech}} that outlines the \textit{Universal} workflow for machine learning projects. I think this chapter should be understood by everyone using, investing in and creating machine learning models. 
 
 Before Chollet gets into the details of model building, he chooses to begin with a note on ethics: 
 
@@ -244,7 +244,7 @@ Before Chollet gets into the details of model building, he chooses to begin with
 
 \begin{marginfigure}[-5.5cm]
         \includegraphics{trustworthysd}
-        \caption{"the face of a trustworthy person" By Stable Diffusion 2.1. Hey, it's a white lady!}
+        \caption{"the face of a trustworthy person" made with Stable Diffusion 2.1. (Hey, it's a white lady!)}
         \labfig{trustworthysd}
 \end{marginfigure}
 
@@ -254,8 +254,8 @@ Chollet uses the outline below to explain the \textit{Universal} workflow. I'll 
 \begin{enumerate}
     \item Define the Task 
     \begin{enumerate}
-        \item Collect a Dataset \sidenote{This is often the hardest part. Data is often labeled by hand or stolen from another domain. See \href{https://en.wikipedia.org/wiki/Transfer_learning}{Transfer Learning (Wikipedia)}}
-        \item Understand Your Data \sidenote{This is easier said than done, and requires the Machine Learning Engineer to understand the domain that they are modeling in.}
+        \item Collect a Dataset \sidenote{This is often the hardest part. Data is often labeled by hand or stolen from another domain. See \url{https://en.wikipedia.org/wiki/Transfer_learning}}
+        \item Understand Your Data 
         \item Choose a Measure of Success \sidenote{Accuracy isn't everything! We might prefer a less accurate model that avoids false-positives in some scenarios.} 
     \end{enumerate}
     \item Develop a Model
@@ -263,7 +263,7 @@ Chollet uses the outline below to explain the \textit{Universal} workflow. I'll 
         \item Prepare the Data \sidenote{This is discussed in section 2.3 above, everything gets turned into numbers.}
         \item Choose an Evaluation Protocol
         \item Beat a Baseline \sidenote{Does your model predict better than a totally random model and/or coin-flip?}
-        \item Develop a model that overfits \sidenote{Make your model overfit to the data! Then back off.}
+        \item Develop a model that overfits 
         \item Regularize and Tune Your Model
     \end{enumerate}
     \item Deploy the Model
@@ -280,33 +280,39 @@ Of all of the steps in the workflow, "Defining The Task" and "Explaining The Wor
 
 In defining the task, machine learning engineers are often given impossible problems to solve, and because they want to keep paying their mortgage they solve another related problem instead and allow stakeholders to jump to their own conclusions. By clearly understanding what a model is predicting and how the data is collected some of this misunderstanding can be avoided.
 
-I will discuss Large Language Models later, but they all do the same thing. They predict the next words in a sentence, just like the keyboard on your iPhone. They come up with amazing text but by fundamentally understanding what they are predicting you gain insight into their limitations. They are also all trained on the text publicly available on the internet, this includes scientific sources, but also fan-fiction and anime, so the idea that a model trained ot this data could be relied on to predict anything truthful is preposterous. 
+I will discuss Large Language Models later, but they all do the same thing. They predict the next words in a sentence, just like the keyboard on your iPhone. They come up with amazing text but by fundamentally understanding what they are predicting you gain insight into their limitations. They are also all trained on the text publicly available on the internet, this includes scientific sources, but also fan-fiction and anime, so the idea that a model trained on this data could be relied on to predict anything truthful is preposterous. 
 
 \begin{marginfigure}[-5.5cm]
         \includegraphics{predictive_keyboard}
-        \caption{Fundamentally LLMs like GPT-3 (which drives ChatGPT) are using the same techniques as a predictive keyboard on your phone. This is why \href{https://www.zdnet.com/article/chatgpt-is-not-particularly-innovative-and-nothing-revolutionary-says-metas-chief-ai-scientist/}{Yann Lecun says they are not particularly innovative.}}
+        \caption{Fundamentally LLMs like GPT-3 (which drives ChatGPT) are using the same techniques as a predictive keyboard on your phone. This is why Yann Lecun says they are not particularly innovative. \url{https://www.youtube.com/watch?v=ULbpPHjiSBg}}
         \labfig{predictivekey}
 \end{marginfigure}
-Many models work like magic and many users assume models are predicting the future, when they are really correllating based on their past data. Even simple models of creditworthiness might have as similar problem. While building a creditworthiness model for a bank, due to lack of data a machine learning engineer might \sidenote{On purpose or inadvertently. }create a model that predicts whether someone is a smoker instead of whether they are creditworthy. Because smoking and poverty are correllated, maybe the model "works", but it doesn't do what stakeholders think it does. 
 
-Setting expectations is another hellscape of misaligned incentives. Good machine learning engineers and data scientists are supposed to educate and advise stakeholders about the limitations of their own models. Read Chollet's advice on this topic below:
+Many models work like magic and many users assume models are predicting the future, when they are really correlating based on their past data. Even simple models of creditworthiness might have as similar problem. While building a creditworthiness model for a bank, due to lack of data a machine learning engineer might \sidenote{On purpose or inadvertently. }create a model that predicts whether someone is a smoker instead of whether they are creditworthy. Because smoking and poverty are correlated, maybe the model "works", but it doesn't do what stakeholders think it does. 
 
-\textit{Success and customer trust are about consistently meeting or exceeding people’s expectations. The actual system you deliver is only half of that picture; the other half is setting appropriate expectations before launch.}
+Setting expectations is another hellscape of misaligned incentives.\sidenote{The CEO of OpenAI wrote this and still raised ten billion dollars: \textit{"ChatGPT is incredibly limited, but good enough at some things to create a misleading impression of greatness. it's a mistake to be relying on it for anything important right now. it’s a preview of progress; we have lots of work to do on robustness and truthfulness."} \url{https://twitter.com/sama/status/1601731295792414720}} Good machine learning engineers and data scientists are supposed to educate and advise stakeholders about the limitations of their own models. Read Chollet's advice on this topic below:
 
-\textit{\textbf{The expectations of non-specialists towards AI systems are often unrealistic. For example, they might expect that the system “understands” its task and is capable of exercising human-like common sense in the context of the task. To address this, you should consider showing some examples of the failure modes of your model (for instance, show what incorrectly classified samples look like, especially those for which the misclassification seems surprising).}} \sidenote{Make sure you show your boss and your investors how shitty your model can be!} \sidenote{The CEO of OpenAI wrote this and still raised ten billion dollars: \textit{"ChatGPT is incredibly limited, but good enough at some things to create a misleading impression of greatness. it's a mistake to be relying on it for anything important right now. it’s a preview of progress; we have lots of work to do on robustness and truthfulness."}}
+\textit{The expectations of non-specialists towards AI systems are often unrealistic. For example, they might expect that the system “understands” its task and is capable of exercising human-like common sense in the context of the task. To address this, you should consider showing some examples of the failure modes of your model (for instance, show what incorrectly classified samples look like, especially those for which the misclassification seems surprising).} 
 
 \textit{They might also expect human-level performance, especially for processes that were previously handled by people. Most machine learning models, because they are (imperfectly) trained to approximate human-generated labels, do not nearly get there. You should clearly convey model performance expectations. Avoid using abstract statements like “The model has 98 percent accuracy” (which most people mentally round up to 100 percent), and prefer talking, for instance, about false negative rates and false positive rates. You could say, “With these settings, the fraud detection model would have a 5 percent false negative rate and a 2.5 percent false positive rate. Every day, an average of 200 valid transactions would be flagged as fraudulent and sent for manual review, and an average of 14 fraudulent transactions would be missed. An average of 266 fraudulent transactions would be correctly caught.” Clearly relate the model’s performance metrics to business goals.}
 
 
 \textit{You should also make sure to discuss with stakeholders the choice of key launch parameters—for instance, the probability threshold at which a transaction should be flagged (different thresholds will produce different false negative and false positive rates). Such decisions involve trade-offs that can only be handled with a deep understanding of the business context.}\cite{chollet2022} 
 
-One does not need to be a psychologist to understand that these conversations almost never happen. The worflow of machine learning is universal, we are all doing fancy regressions and we all deal with the same wild expectations, shitty data and misalignment with business. \sidenote{It's worth noting that a trend in rich-world AI companies is to be a nonprofit, limited-profit or give away models for free as open-source software. My guess is that many that go this route just think that businesspeople are too stupid to understand what they are doing, so avoid doing business altogether.}
+One does not need to be a psychologist to understand that these conversations almost never happen. The workflow of machine learning is universal, we are all doing fancy regressions and we all deal with the same wild expectations, shitty data and misalignment with business.
+
+\begin{marginfigure}[-5.5cm]
+        \includegraphics{sciencechat}
+        \caption{"mdjrny-v4 a handsome businessperson explaining the business context to a scientist wearing a white coat over coffee 8k" made with OpenJourney}
+        \labfig{sciencechat}
+\end{marginfigure}
+
 
 \section{Key Takeaways}
 
 \begin{itemize}
     \item \textbf{Deep learning models are fundamentally large unscientific regressions} they are trained to create a function that maps input data to output data.
-    \item \textbf{Deep learning models are chaotic systems containing millions of interacting parameters} they are not desiged to be explained or created in a way that their weights can be used for scientific analysis. They find reasonable answers and don't care how they get there. Multicolinearity (understanding the relationship of an input and output) and feature importance (understanding which inputs are most important) are only understandable with a high level of statistical error.
+    \item \textbf{Deep learning models are chaotic systems containing millions of interacting parameters} they are not designed to be explained or created in a way that their weights can be used for scientific analysis. They find reasonable answers and don't care how they get there. Multicolinearity (understanding the relationship of an input and output) and feature importance (understanding which inputs are most important) are only understandable with a high level of statistical error.
     \item \textbf{Small changes in inputs of a deep learning model may dramatically change the outputs} deep learning models are complex deterministic systems that can exhibit chaotic behavior. Their inner workings are functionally unknowable and practically impossible to test.
     \item \textbf{Deep learning models can have impressive and useful outputs, but the creators of models should be encouraged to highlight their failures and limitations.} Machine learning engineers might be more keen to highlight failures and limitations if they are encouraged to do so by their users, managers and investors.
 \end{itemize}

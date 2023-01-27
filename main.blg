@@ -1,20 +1,18 @@
 [0] Config.pm:307> INFO - This is Biber 2.17
 [0] Config.pm:310> INFO - Logfile is 'main.blg'
-[47] biber:340> INFO - === Thu Jan 26, 2023, 13:35:42
-[56] Biber.pm:418> INFO - Reading 'main.bcf'
-[107] Biber.pm:972> INFO - Found 13 citekeys in bib section 0
-[117] Biber.pm:4383> INFO - Processing section 0
-[124] Biber.pm:4574> INFO - Looking for bibtex file 'main.bib' for section 0
-[125] bibtex.pm:1713> INFO - LaTeX decoding ...
-[140] bibtex.pm:1518> INFO - Found BibTeX data source 'main.bib'
-[199] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[199] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[199] Biber.pm:4203> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
-[199] Biber.pm:4209> INFO - No sort tailoring available for locale 'en-US'
-[206] bbl.pm:654> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[209] bbl.pm:757> INFO - Output to main.bbl
-[209] Biber.pm:130> WARN - legacy month field 'Jan' in entry 'welsh2023' is not an integer - this will probably not sort properly.
-[209] Biber.pm:130> WARN - I didn't find a database entry for 'mansharamani_2020' (section 0)
-[209] Biber.pm:130> WARN - I didn't find a database entry for 'marcus_2023' (section 0)
-[209] Biber.pm:130> WARN - I didn't find a database entry for 'hawkins_2022' (section 0)
-[209] Biber.pm:132> INFO - WARNINGS: 4
+[46] biber:340> INFO - === Fri Jan 27, 2023, 09:55:50
+[54] Biber.pm:418> INFO - Reading 'main.bcf'
+[103] Biber.pm:972> INFO - Found 12 citekeys in bib section 0
+[112] Biber.pm:4383> INFO - Processing section 0
+[120] Biber.pm:4574> INFO - Looking for bibtex file 'main.bib' for section 0
+[121] bibtex.pm:1713> INFO - LaTeX decoding ...
+[136] bibtex.pm:1518> INFO - Found BibTeX data source 'main.bib'
+[196] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[196] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[196] Biber.pm:4203> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[196] Biber.pm:4209> INFO - No sort tailoring available for locale 'en-US'
+[202] bbl.pm:654> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[205] bbl.pm:757> INFO - Output to main.bbl
+[205] Biber.pm:130> WARN - legacy month field 'Jan' in entry 'welsh2023' is not an integer - this will probably not sort properly.
+[205] Biber.pm:130> WARN - I didn't find a database entry for 'marcus_2023' (section 0)
+[205] Biber.pm:132> INFO - WARNINGS: 2
