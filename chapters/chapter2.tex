@@ -13,7 +13,7 @@ Deep learning techniques handle knowledge representation differently than tradit
 
 \begin{marginfigure}[-5.5cm]
         \includegraphics{knowledge}
-        \caption{"mdjrny-v4 a disembodied computer being force-fed data like a duck looking somewhat like a sci-fi character 8k" made with OpenJourney}
+        \caption{"mdjrny-v4 a disembodied computer being force-fed data like a duck looking somewhat like a sci-fi character 8k" made with Mann-E}
         \labfig{marginknowledge}
 \end{marginfigure}
 
@@ -143,7 +143,7 @@ _________________________________________________________________
 
 \begin{marginfigure}[-5.5cm]
         \includegraphics{greenneuron}
-        \caption{"mdjrny-v4 layers and layers of neurons looking like a gooey lasagna, but the data has green blood 8k" made with OpenJourney}
+        \caption{"mdjrny-v4 layers and layers of neurons looking like a gooey lasagna, but the data has green blood 8k" made with Mann-E}
         \labfig{marginneuron}
 \end{marginfigure}
 
@@ -284,7 +284,7 @@ I will discuss Large Language Models later, but they all do the same thing. They
 
 \begin{marginfigure}[-5.5cm]
         \includegraphics{predictive_keyboard}
-        \caption{Fundamentally LLMs like GPT-3 (which drives ChatGPT) are using the same techniques as a predictive keyboard on your phone. This is why Yann Lecun says they are not particularly innovative. \url{https://www.youtube.com/watch?v=ULbpPHjiSBg}}
+        \caption{Fundamentally LLMs are using the same techniques as a predictive keyboard on your phone. This is why Yann Lecun says even though they are impressive some like ChatGPT are not particularly innovative. \url{https://www.youtube.com/watch?v=ULbpPHjiSBg}}
         \labfig{predictivekey}
 \end{marginfigure}
 
@@ -303,10 +303,24 @@ One does not need to be a psychologist to understand that these conversations al
 
 \begin{marginfigure}[-5.5cm]
         \includegraphics{sciencechat}
-        \caption{"mdjrny-v4 a handsome businessperson explaining the business context to a scientist wearing a white coat over coffee 8k" made with OpenJourney}
+        \caption{"mdjrny-v4 a handsome businessperson explaining the business context to a scientist wearing a white coat over coffee 8k" made with Mann-E}
         \labfig{sciencechat}
 \end{marginfigure}
 
+\section{A Machine Learning Engineer is a Data Janitor}
+
+Since the machine learning workflow is \textit{universal}, it is fairly straightforward to automate. There are a plethora of offerings from companies big and small who offer AutoML tools that anyone with basic Excel skills can use\sidenote{See this awesome-AutoML github project for an up-to-date list of commercial AutoML tools \url{https://github.com/windmaple/awesome-AutoML\#commercial-products}}. Since modern AI is "all a regression" these tools do the regression for you, users just need to feed them the data and the AutoML tool finds out the relationship. On the surface it seems like the job of the machine learning engineer has become obsolete before it even became a proper discipline. 
+
+Despite the existence of AutoML tools, machine learning engineers (and data scientists) do some actual work. A 2016\sidenote{I know this study is old, but I have found that the findings still hold when talking to data scientists and/or machine learning engineers that I train and employ.} Crowd Flower survey of 16,000 data scientists showed that on average we spend our time doing the following:
+
+\begin{itemize}
+    \item \textbf{60 percent of a machine learning engineer's time is spent cleaning and organizing data}, we are data janitors! If you had great data ready in an Excel file you would have been able to fit your own model without us. We need to organize the mess of data that exists in the world so it is in a nice format to be fit in a model. For example it is well known that almost all large language models use the same common crawl dataset (\url{https://commoncrawl.org/}), but how it is organized and weighted can change the quality of the outputs dramatically. The organization of the same dataset can lead to the same dataset either producing a nice predictive keyboard or something approaching ChatGPT.  
+    \item \textbf{19 percent of a machine learning engineer's time is spent collecting data}, we often start making models without a huge dataset, so data needs to be collected in order to make the first model, and after that first model (to match people for our new dating app, let's say) is deployed we rely on users to provide us with data for future models. Collecting new data is a creative endeavour sometimes, and often involves human effort. Amazon's Mechanical Turk\sidenote{"Getting the right training data was another challenge. ImageNet was a collection of one hundred thousand labeled images that required significant human effort to generate, mostly by grad students and Amazon Mechanical Turk workers." \href{https://arstechnica.com/gadgets/2023/01/the-generative-ai-revolution-has-begun-how-did-we-get-here/}{https://arstechnica.com}} service has been leveraged for this purpose for years, and OpenAI has successfully deployed outsourced talent to solve some of the trickiest problems facing large language models\sidenote{Read more about how OpenAI used Kenyan workers to help label toxic content \url{https://time.com/6247678/openai-chatgpt-kenya-workers/}.}.
+    \item \textbf{9 percent of a machine learning engineer's time is spent fitting models}, we need to fit models, there is some art to choosing the right architecture and modeling techniques. An AutoML tool can do this reasonably well too, but considering some fancy training servers cost \$28 per hour or more\sidenote{See the latest pricing from AWS here \url{https://aws.amazon.com/sagemaker/pricing/}}, sometimes it is useful to have an expert guess the best model architecture and save time in training, even if that expert is getting paid \$249,000 yer year\sidenote{See the latest machine learning engineer salaries at levels.fyi \url{https://www.levels.fyi/t/software-engineer/focus/ml-ai}}.
+    \item \textbf{4 percent of a machine learning engineer's time is spent refining algorithms} many machine learning engineers spend almost no time doing this. Other researchers (corporate-academic types who write scientific papers) spend a lot of time doing this, it averages out to four percent, but doesn't represent the average day of a machine learning engineer.
+\end{itemize}
+
+Overall, the main job of most machine learning engineers is to clean up and collect a ton of data, and then feed that data into the same machine learning model that everyone else is using, and then rinse and repeat.\sidenote{Here is a discussion on reddit asking "When was the last time you wrote a custom neural net?" and supports my understanding of the world \url{https://www.reddit.com/r/MachineLearning/comments/yto34q/d_when_was_the_last_time_you_wrote_a_custom/}} 
 
 \section{Key Takeaways}
 
@@ -314,6 +328,7 @@ One does not need to be a psychologist to understand that these conversations al
     \item \textbf{Deep learning models are fundamentally large unscientific regressions} they are trained to create a function that maps input data to output data.
     \item \textbf{Deep learning models are chaotic systems containing millions of interacting parameters} they are not designed to be explained or created in a way that their weights can be used for scientific analysis. They find reasonable answers and don't care how they get there. Multicolinearity (understanding the relationship of an input and output) and feature importance (understanding which inputs are most important) are only understandable with a high level of statistical error.
     \item \textbf{Small changes in inputs of a deep learning model may dramatically change the outputs} deep learning models are complex deterministic systems that can exhibit chaotic behavior. Their inner workings are functionally unknowable and practically impossible to test.
+    \item \textbf{Machine learning engineers spend most of their time collecting and organizing data}, because deep learning models often share common architecture, getting good data to train with is the best thing that an engineer can do to train good models. In practice only a handful of corporate-academic types are experimenting with new and exciting architectures. 
     \item \textbf{Deep learning models can have impressive and useful outputs, but the creators of models should be encouraged to highlight their failures and limitations.} Machine learning engineers might be more keen to highlight failures and limitations if they are encouraged to do so by their users, managers and investors.
 \end{itemize}
 
