@@ -49,10 +49,10 @@
 \contentsline {mtocsection}{\numberline {3.1}Theories of Creativity}{19}{section.3.1}%
 \contentsline {section}{\numberline {3.2}Creative Uses of Power Tools}{20}{section.3.2}%
 \contentsline {mtocsection}{\numberline {3.2}Creative Uses of Power Tools}{20}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Garbage In, Garbage Out}{20}{section.3.3}%
-\contentsline {mtocsection}{\numberline {3.3}Garbage In, Garbage Out}{20}{section.3.3}%
-\contentsline {section}{\numberline {3.4}Garbage In, New Perspective Out?}{20}{section.3.4}%
-\contentsline {mtocsection}{\numberline {3.4}Garbage In, New Perspective Out?}{20}{section.3.4}%
+\contentsline {section}{\numberline {3.3}Garbage In, Garbage Out}{21}{section.3.3}%
+\contentsline {mtocsection}{\numberline {3.3}Garbage In, Garbage Out}{21}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Garbage In, New Perspective Out?}{21}{section.3.4}%
+\contentsline {mtocsection}{\numberline {3.4}Garbage In, New Perspective Out?}{21}{section.3.4}%
 \contentsline {section}{\numberline {3.5}Concept Drift}{21}{section.3.5}%
 \contentsline {mtocsection}{\numberline {3.5}Concept Drift}{21}{section.3.5}%
 \contentsline {section}{\numberline {3.6}The Impossibility of Fairness}{21}{section.3.6}%
@@ -61,90 +61,90 @@
 \contentsline {mtocsection}{\numberline {3.7}What Are We Prediciting Again?}{21}{section.3.7}%
 \contentsline {section}{\numberline {3.8}Humans Love Computers}{21}{section.3.8}%
 \contentsline {mtocsection}{\numberline {3.8}Humans Love Computers}{21}{section.3.8}%
-\contentsline {section}{\numberline {3.9}Key Takeaways}{21}{section.3.9}%
-\contentsline {mtocsection}{\numberline {3.9}Key Takeaways}{21}{section.3.9}%
-\contentsline {chapter}{\numberline {4}Classification and Profiling: Studies in AdTech and Policing}{22}{chapter.4}%
+\contentsline {section}{\numberline {3.9}Key Takeaways}{22}{section.3.9}%
+\contentsline {mtocsection}{\numberline {3.9}Key Takeaways}{22}{section.3.9}%
+\contentsline {chapter}{\numberline {4}Classification and Profiling: Studies in AdTech and Policing}{23}{chapter.4}%
 \etoc@startlocaltoc {8}
 \etoc@startlocaltoc {9}
-\contentsline {section}{\numberline {4.1}Everything is Clasification}{22}{section.4.1}%
-\contentsline {mtocsection}{\numberline {4.1}Everything is Clasification}{22}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Classification in Reverse; Generating the Stereotype}{22}{section.4.2}%
-\contentsline {mtocsection}{\numberline {4.2}Classification in Reverse; Generating the Stereotype}{22}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Code Your Own Classifier in 5 Minutes!}{22}{section.4.3}%
-\contentsline {mtocsection}{\numberline {4.3}Code Your Own Classifier in 5 Minutes!}{22}{section.4.3}%
-\contentsline {section}{\numberline {4.4}The End of Nuance}{22}{section.4.4}%
-\contentsline {mtocsection}{\numberline {4.4}The End of Nuance}{22}{section.4.4}%
-\contentsline {section}{\numberline {4.5}If You Were Unable To See A Doctor, is it OK?}{22}{section.4.5}%
-\contentsline {mtocsection}{\numberline {4.5}If You Were Unable To See A Doctor, is it OK?}{22}{section.4.5}%
-\contentsline {section}{\numberline {4.6}Lazy Thinking}{22}{section.4.6}%
-\contentsline {mtocsection}{\numberline {4.6}Lazy Thinking}{22}{section.4.6}%
-\contentsline {section}{\numberline {4.7}Data Where There Is None}{22}{section.4.7}%
-\contentsline {mtocsection}{\numberline {4.7}Data Where There Is None}{22}{section.4.7}%
-\contentsline {chapter}{\numberline {5}Self-Driving With Statistics}{23}{chapter.5}%
+\contentsline {section}{\numberline {4.1}Everything is Clasification}{23}{section.4.1}%
+\contentsline {mtocsection}{\numberline {4.1}Everything is Clasification}{23}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Classification in Reverse; Generating the Stereotype}{23}{section.4.2}%
+\contentsline {mtocsection}{\numberline {4.2}Classification in Reverse; Generating the Stereotype}{23}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Code Your Own Classifier in 5 Minutes!}{23}{section.4.3}%
+\contentsline {mtocsection}{\numberline {4.3}Code Your Own Classifier in 5 Minutes!}{23}{section.4.3}%
+\contentsline {section}{\numberline {4.4}The End of Nuance}{23}{section.4.4}%
+\contentsline {mtocsection}{\numberline {4.4}The End of Nuance}{23}{section.4.4}%
+\contentsline {section}{\numberline {4.5}If You Were Unable To See A Doctor, is it OK?}{23}{section.4.5}%
+\contentsline {mtocsection}{\numberline {4.5}If You Were Unable To See A Doctor, is it OK?}{23}{section.4.5}%
+\contentsline {section}{\numberline {4.6}Lazy Thinking}{23}{section.4.6}%
+\contentsline {mtocsection}{\numberline {4.6}Lazy Thinking}{23}{section.4.6}%
+\contentsline {section}{\numberline {4.7}Data Where There Is None}{23}{section.4.7}%
+\contentsline {mtocsection}{\numberline {4.7}Data Where There Is None}{23}{section.4.7}%
+\contentsline {chapter}{\numberline {5}Self-Driving With Statistics}{24}{chapter.5}%
 \etoc@startlocaltoc {10}
 \etoc@startlocaltoc {11}
-\contentsline {section}{\numberline {5.1}Trolley Problems}{23}{section.5.1}%
-\contentsline {mtocsection}{\numberline {5.1}Trolley Problems}{23}{section.5.1}%
-\contentsline {section}{\numberline {5.2}The Third Rail}{23}{section.5.2}%
-\contentsline {mtocsection}{\numberline {5.2}The Third Rail}{23}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Purple Lights and Changes In Fashion}{23}{section.5.3}%
-\contentsline {mtocsection}{\numberline {5.3}Purple Lights and Changes In Fashion}{23}{section.5.3}%
-\contentsline {section}{\numberline {5.4}Multicolinearity (Reprise)}{23}{section.5.4}%
-\contentsline {mtocsection}{\numberline {5.4}Multicolinearity (Reprise)}{23}{section.5.4}%
-\contentsline {section}{\numberline {5.5}See You In Court, Asshole!}{23}{section.5.5}%
-\contentsline {mtocsection}{\numberline {5.5}See You In Court, Asshole!}{23}{section.5.5}%
-\contentsline {section}{\numberline {5.6}A Train is a Self-Driving Car, Right?}{23}{section.5.6}%
-\contentsline {mtocsection}{\numberline {5.6}A Train is a Self-Driving Car, Right?}{23}{section.5.6}%
-\contentsline {chapter}{\numberline {6}Generating Art: Avante-Garde or Derivative?}{24}{chapter.6}%
+\contentsline {section}{\numberline {5.1}Trolley Problems}{24}{section.5.1}%
+\contentsline {mtocsection}{\numberline {5.1}Trolley Problems}{24}{section.5.1}%
+\contentsline {section}{\numberline {5.2}The Third Rail}{24}{section.5.2}%
+\contentsline {mtocsection}{\numberline {5.2}The Third Rail}{24}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Purple Lights and Changes In Fashion}{24}{section.5.3}%
+\contentsline {mtocsection}{\numberline {5.3}Purple Lights and Changes In Fashion}{24}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Multicolinearity (Reprise)}{24}{section.5.4}%
+\contentsline {mtocsection}{\numberline {5.4}Multicolinearity (Reprise)}{24}{section.5.4}%
+\contentsline {section}{\numberline {5.5}See You In Court, Asshole!}{24}{section.5.5}%
+\contentsline {mtocsection}{\numberline {5.5}See You In Court, Asshole!}{24}{section.5.5}%
+\contentsline {section}{\numberline {5.6}A Train is a Self-Driving Car, Right?}{24}{section.5.6}%
+\contentsline {mtocsection}{\numberline {5.6}A Train is a Self-Driving Car, Right?}{24}{section.5.6}%
+\contentsline {chapter}{\numberline {6}Generating Art: Avante-Garde or Derivative?}{25}{chapter.6}%
 \etoc@startlocaltoc {12}
 \etoc@startlocaltoc {13}
-\contentsline {section}{\numberline {6.1}Predictive Keyboards}{24}{section.6.1}%
-\contentsline {mtocsection}{\numberline {6.1}Predictive Keyboards}{24}{section.6.1}%
-\contentsline {section}{\numberline {6.2}GPT On A Napkin}{24}{section.6.2}%
-\contentsline {mtocsection}{\numberline {6.2}GPT On A Napkin}{24}{section.6.2}%
-\contentsline {section}{\numberline {6.3}Compress The World's Achievements Into One Database}{24}{section.6.3}%
-\contentsline {mtocsection}{\numberline {6.3}Compress The World's Achievements Into One Database}{24}{section.6.3}%
-\contentsline {section}{\numberline {6.4}Upscaling What Is Lost}{24}{section.6.4}%
-\contentsline {mtocsection}{\numberline {6.4}Upscaling What Is Lost}{24}{section.6.4}%
-\contentsline {section}{\numberline {6.5}Who Owns This Stuff Anyway?}{24}{section.6.5}%
-\contentsline {mtocsection}{\numberline {6.5}Who Owns This Stuff Anyway?}{24}{section.6.5}%
-\contentsline {section}{\numberline {6.6}Use Critical Thinking to Become A Critic}{25}{section.6.6}%
-\contentsline {mtocsection}{\numberline {6.6}Use Critical Thinking to Become A Critic}{25}{section.6.6}%
-\contentsline {chapter}{\numberline {7}Revolutionary for Whom?}{26}{chapter.7}%
+\contentsline {section}{\numberline {6.1}Predictive Keyboards}{25}{section.6.1}%
+\contentsline {mtocsection}{\numberline {6.1}Predictive Keyboards}{25}{section.6.1}%
+\contentsline {section}{\numberline {6.2}GPT On A Napkin}{25}{section.6.2}%
+\contentsline {mtocsection}{\numberline {6.2}GPT On A Napkin}{25}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Compress The World's Achievements Into One Database}{25}{section.6.3}%
+\contentsline {mtocsection}{\numberline {6.3}Compress The World's Achievements Into One Database}{25}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Upscaling What Is Lost}{25}{section.6.4}%
+\contentsline {mtocsection}{\numberline {6.4}Upscaling What Is Lost}{25}{section.6.4}%
+\contentsline {section}{\numberline {6.5}Who Owns This Stuff Anyway?}{25}{section.6.5}%
+\contentsline {mtocsection}{\numberline {6.5}Who Owns This Stuff Anyway?}{25}{section.6.5}%
+\contentsline {section}{\numberline {6.6}Use Critical Thinking to Become A Critic}{26}{section.6.6}%
+\contentsline {mtocsection}{\numberline {6.6}Use Critical Thinking to Become A Critic}{26}{section.6.6}%
+\contentsline {chapter}{\numberline {7}Revolutionary for Whom?}{27}{chapter.7}%
 \etoc@startlocaltoc {14}
 \etoc@startlocaltoc {15}
-\contentsline {section}{\numberline {7.1}Self-Driving Horses}{26}{section.7.1}%
-\contentsline {mtocsection}{\numberline {7.1}Self-Driving Horses}{26}{section.7.1}%
-\contentsline {section}{\numberline {7.2}The Battle of the Assistants}{26}{section.7.2}%
-\contentsline {mtocsection}{\numberline {7.2}The Battle of the Assistants}{26}{section.7.2}%
-\contentsline {section}{\numberline {7.3}Employees That Are Better Than You}{26}{section.7.3}%
-\contentsline {mtocsection}{\numberline {7.3}Employees That Are Better Than You}{26}{section.7.3}%
-\contentsline {section}{\numberline {7.4}Who is Helped the Most?}{26}{section.7.4}%
-\contentsline {mtocsection}{\numberline {7.4}Who is Helped the Most?}{26}{section.7.4}%
-\contentsline {section}{\numberline {7.5}Who is Hurt the Most?}{26}{section.7.5}%
-\contentsline {mtocsection}{\numberline {7.5}Who is Hurt the Most?}{26}{section.7.5}%
-\contentsline {section}{\numberline {7.6}How to Respond}{26}{section.7.6}%
-\contentsline {mtocsection}{\numberline {7.6}How to Respond}{26}{section.7.6}%
-\contentsline {section}{\numberline {7.7}This Book is a Case Study}{26}{section.7.7}%
-\contentsline {mtocsection}{\numberline {7.7}This Book is a Case Study}{26}{section.7.7}%
-\contentsline {chapter}{\numberline {8}Unplugging Skynet}{27}{chapter.8}%
+\contentsline {section}{\numberline {7.1}Self-Driving Horses}{27}{section.7.1}%
+\contentsline {mtocsection}{\numberline {7.1}Self-Driving Horses}{27}{section.7.1}%
+\contentsline {section}{\numberline {7.2}The Battle of the Assistants}{27}{section.7.2}%
+\contentsline {mtocsection}{\numberline {7.2}The Battle of the Assistants}{27}{section.7.2}%
+\contentsline {section}{\numberline {7.3}Employees That Are Better Than You}{27}{section.7.3}%
+\contentsline {mtocsection}{\numberline {7.3}Employees That Are Better Than You}{27}{section.7.3}%
+\contentsline {section}{\numberline {7.4}Who is Helped the Most?}{27}{section.7.4}%
+\contentsline {mtocsection}{\numberline {7.4}Who is Helped the Most?}{27}{section.7.4}%
+\contentsline {section}{\numberline {7.5}Who is Hurt the Most?}{27}{section.7.5}%
+\contentsline {mtocsection}{\numberline {7.5}Who is Hurt the Most?}{27}{section.7.5}%
+\contentsline {section}{\numberline {7.6}How to Respond}{27}{section.7.6}%
+\contentsline {mtocsection}{\numberline {7.6}How to Respond}{27}{section.7.6}%
+\contentsline {section}{\numberline {7.7}This Book is a Case Study}{27}{section.7.7}%
+\contentsline {mtocsection}{\numberline {7.7}This Book is a Case Study}{27}{section.7.7}%
+\contentsline {chapter}{\numberline {8}Unplugging Skynet}{28}{chapter.8}%
 \etoc@startlocaltoc {16}
 \etoc@startlocaltoc {17}
-\contentsline {section}{\numberline {8.1}AI and Human Safety}{27}{section.8.1}%
-\contentsline {mtocsection}{\numberline {8.1}AI and Human Safety}{27}{section.8.1}%
-\contentsline {section}{\numberline {8.2}Useful Incompatability}{27}{section.8.2}%
-\contentsline {mtocsection}{\numberline {8.2}Useful Incompatability}{27}{section.8.2}%
-\contentsline {section}{\numberline {8.3}Checks and Balances}{27}{section.8.3}%
-\contentsline {mtocsection}{\numberline {8.3}Checks and Balances}{27}{section.8.3}%
-\contentsline {section}{\numberline {8.4}Free-Rider Problems}{27}{section.8.4}%
-\contentsline {mtocsection}{\numberline {8.4}Free-Rider Problems}{27}{section.8.4}%
-\contentsline {section}{\numberline {8.5}When You Can't Tell The Difference}{27}{section.8.5}%
-\contentsline {mtocsection}{\numberline {8.5}When You Can't Tell The Difference}{27}{section.8.5}%
-\contentsline {section}{\numberline {8.6}Sucker Traps}{27}{section.8.6}%
-\contentsline {mtocsection}{\numberline {8.6}Sucker Traps}{27}{section.8.6}%
-\contentsline {section}{\numberline {8.7}Dead Inside}{28}{section.8.7}%
-\contentsline {mtocsection}{\numberline {8.7}Dead Inside}{28}{section.8.7}%
-\contentsline {chapter}{\numberline {9}Errors and Omissions}{29}{chapter.9}%
+\contentsline {section}{\numberline {8.1}AI and Human Safety}{28}{section.8.1}%
+\contentsline {mtocsection}{\numberline {8.1}AI and Human Safety}{28}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Useful Incompatability}{28}{section.8.2}%
+\contentsline {mtocsection}{\numberline {8.2}Useful Incompatability}{28}{section.8.2}%
+\contentsline {section}{\numberline {8.3}Checks and Balances}{28}{section.8.3}%
+\contentsline {mtocsection}{\numberline {8.3}Checks and Balances}{28}{section.8.3}%
+\contentsline {section}{\numberline {8.4}Free-Rider Problems}{28}{section.8.4}%
+\contentsline {mtocsection}{\numberline {8.4}Free-Rider Problems}{28}{section.8.4}%
+\contentsline {section}{\numberline {8.5}When You Can't Tell The Difference}{28}{section.8.5}%
+\contentsline {mtocsection}{\numberline {8.5}When You Can't Tell The Difference}{28}{section.8.5}%
+\contentsline {section}{\numberline {8.6}Sucker Traps}{28}{section.8.6}%
+\contentsline {mtocsection}{\numberline {8.6}Sucker Traps}{28}{section.8.6}%
+\contentsline {section}{\numberline {8.7}Dead Inside}{29}{section.8.7}%
+\contentsline {mtocsection}{\numberline {8.7}Dead Inside}{29}{section.8.7}%
+\contentsline {chapter}{\numberline {9}Errors and Omissions}{30}{chapter.9}%
 \etoc@startlocaltoc {18}
 \etoc@startlocaltoc {19}
-\contentsline {chapter}{\nonumberline Bibliography}{30}{chapter*.16}%
+\contentsline {chapter}{\nonumberline Bibliography}{31}{chapter*.16}%

@@ -206,41 +206,6 @@
       \field{title}{Deep learning with python, second edition}
       \field{year}{2022}
     \endentry
-    \entry{McCullough1992}{book}{}
-      \name{author}{1}{}{%
-        {{hash=cbb9a28693ad2cbdbe013dc69cb12822}{%
-           family={McCullough},
-           familyi={M\bibinitperiod},
-           given={David},
-           giveni={D\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Riverside, NJ, USA}%
-      }
-      \list{publisher}{1}{%
-        {Simon {\&} Schuster}%
-      }
-      \strng{namehash}{cbb9a28693ad2cbdbe013dc69cb12822}
-      \strng{fullhash}{cbb9a28693ad2cbdbe013dc69cb12822}
-      \strng{bibnamehash}{cbb9a28693ad2cbdbe013dc69cb12822}
-      \strng{authorbibnamehash}{cbb9a28693ad2cbdbe013dc69cb12822}
-      \strng{authornamehash}{cbb9a28693ad2cbdbe013dc69cb12822}
-      \strng{authorfullhash}{cbb9a28693ad2cbdbe013dc69cb12822}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{isbn}{978-0-67145654-2}
-      \field{month}{6}
-      \field{title}{{Truman}}
-      \field{year}{1992}
-      \verb{urlraw}
-      \verb https://www.amazon.com/Truman-David-McCullough/dp/0671456547
-      \endverb
-      \verb{url}
-      \verb https://www.amazon.com/Truman-David-McCullough/dp/0671456547
-      \endverb
-    \endentry
     \entry{Christian2020}{book}{}
       \name{author}{1}{}{%
         {{hash=ffd9bbb22f19f527ef2083421a5dfb09}{%
@@ -300,6 +265,108 @@
       \field{title}{Think for yourself: Restoring common sense in an age of experts and artificial intelligence}
       \field{year}{2020}
     \endentry
+    \entry{Oneil2017}{book}{}
+      \name{author}{1}{}{%
+        {{hash=2d9e8c54407ca5f4ae5ce79112bcffdf}{%
+           family={O'Neil},
+           familyi={O\bibinitperiod},
+           given={Cathy},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {Crown}%
+      }
+      \strng{namehash}{2d9e8c54407ca5f4ae5ce79112bcffdf}
+      \strng{fullhash}{2d9e8c54407ca5f4ae5ce79112bcffdf}
+      \strng{bibnamehash}{2d9e8c54407ca5f4ae5ce79112bcffdf}
+      \strng{authorbibnamehash}{2d9e8c54407ca5f4ae5ce79112bcffdf}
+      \strng{authornamehash}{2d9e8c54407ca5f4ae5ce79112bcffdf}
+      \strng{authorfullhash}{2d9e8c54407ca5f4ae5ce79112bcffdf}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-0-55341883-5}
+      \field{month}{9}
+      \field{title}{{Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy}}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb https://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality/dp/0553418815
+      \endverb
+      \verb{url}
+      \verb https://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality/dp/0553418815
+      \endverb
+    \endentry
+    \entry{Perez2019}{book}{}
+      \name{author}{1}{}{%
+        {{hash=c2304b8d35cd3a13718d9162914a91dd}{%
+           family={Perez},
+           familyi={P\bibinitperiod},
+           given={Caroline\bibnamedelima Criado},
+           giveni={C\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {Abrams Press}%
+      }
+      \strng{namehash}{c2304b8d35cd3a13718d9162914a91dd}
+      \strng{fullhash}{c2304b8d35cd3a13718d9162914a91dd}
+      \strng{bibnamehash}{c2304b8d35cd3a13718d9162914a91dd}
+      \strng{authorbibnamehash}{c2304b8d35cd3a13718d9162914a91dd}
+      \strng{authornamehash}{c2304b8d35cd3a13718d9162914a91dd}
+      \strng{authorfullhash}{c2304b8d35cd3a13718d9162914a91dd}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-1-41972907-2}
+      \field{month}{3}
+      \field{title}{{Invisible Women: Data Bias in a World Designed for Men}}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://www.amazon.com/Invisible-Women-Data-World-Designed/dp/1419729071
+      \endverb
+      \verb{url}
+      \verb https://www.amazon.com/Invisible-Women-Data-World-Designed/dp/1419729071
+      \endverb
+    \endentry
+    \entry{Blackman2022Jul}{book}{}
+      \name{author}{1}{}{%
+        {{hash=a7d335811b8bedf76324b13953ec7d65}{%
+           family={Blackman},
+           familyi={B\bibinitperiod},
+           given={Reid},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Harvard Business Review Press}%
+      }
+      \strng{namehash}{a7d335811b8bedf76324b13953ec7d65}
+      \strng{fullhash}{a7d335811b8bedf76324b13953ec7d65}
+      \strng{bibnamehash}{a7d335811b8bedf76324b13953ec7d65}
+      \strng{authorbibnamehash}{a7d335811b8bedf76324b13953ec7d65}
+      \strng{authornamehash}{a7d335811b8bedf76324b13953ec7d65}
+      \strng{authorfullhash}{a7d335811b8bedf76324b13953ec7d65}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-1-64782281-1}
+      \field{month}{7}
+      \field{title}{{Ethical Machines: Your Concise Guide to Totally Unbiased, Transparent, and Respectful AI}}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.amazon.com/Ethical-Machines-Unbiased-Transparent-Respectful/dp/1647822815
+      \endverb
+      \verb{url}
+      \verb https://www.amazon.com/Ethical-Machines-Unbiased-Transparent-Respectful/dp/1647822815
+      \endverb
+    \endentry
     \entry{marcus2023}{misc}{}
       \name{author}{1}{}{%
         {{hash=199868cb9a5ee49454615e31ec8cc1ae}{%
@@ -314,8 +381,8 @@
       \strng{authorbibnamehash}{199868cb9a5ee49454615e31ec8cc1ae}
       \strng{authornamehash}{199868cb9a5ee49454615e31ec8cc1ae}
       \strng{authorfullhash}{199868cb9a5ee49454615e31ec8cc1ae}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{ACM}
@@ -359,8 +426,8 @@
       \strng{authorbibnamehash}{69963cad7c718592b5a5632ef6e80e49}
       \strng{authornamehash}{69963cad7c718592b5a5632ef6e80e49}
       \strng{authorfullhash}{69963cad7c718592b5a5632ef6e80e49}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{978-1-10765506-5}
@@ -378,8 +445,8 @@
       \list{publisher}{1}{%
         {Jon Krohn}%
       }
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Jon Krohn}
       \field{month}{10}
