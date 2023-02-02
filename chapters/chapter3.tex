@@ -55,7 +55,16 @@ Overall, both modern AI and a power drill are complex but ultimately determinist
 
 \section{Garbage In, Garbage Out}
 
-You are essentially programming with data, so if your data sucks so will your prediction, you also really can't generalize, only correllate.
+The "Power Tool" of AI is a deterministic \sidenote{and static or unchanging} system and the rules of that system are determined by the data that the model is shown. If a model is trained on shitty\sidenote{scientific term here} data, it will produce shitty results. End of book...
+
+... maybe not. It's worth thinking about this for a moment. It is often said that modern AI can "generalize and make informed inferences given new data". If deep learning models are really just a big regression, these models will always come up with an answer, but if the world changes, these models will still be projecting complicated averages of their past data into the future.\sidenote{I'm going to talk about concept drift in a few paragraphs, I promise} 
+
+So, let's separate AI's decision making into two extremes; \textit{Creative Decision Making} and \textit{Critical Decision Making}. The stakes are very low in a world of \textit{Creative Decision Making} and who gives a shit if the AI is all a regression, and it just mushes together the limited data that it's seen. In a creative context you can also ask an AI interesting questions, so long as you don't soley rely on it's output without checking the facts first\sidenote{see the syllabus note at the beginning of this chapter}. Even if "Garbage In, Garbage Out" holds, garbage can still be helpful for a creative process. 
+
+Note that this book is called "Full-Self Driving, Skynet..", a self-driving car and a nuclear-bomb-equipped all-seeing AI are clearly not engaging in any \textit{Creative Decision Making}. I'll spend lot's of time diving into this but this distintion is super important. 
+
+\textbf{Modern AI, particularly deep learning models, will never be reliable enough to make critical decisions by themselves.} These models will transform the nature of work and jobs and do a lot of things, but because of the nature of how these models are created, they should \textbf{never} be relied on to make critical decisions by themselves. If you think this point is obvoius and pedantic, just stop reading I guess. But the general public seems to be confused about this point, so I'm going to discuss it in depth for many chapters. I'll say here that there are also many ways to reign in deep learning models and allow them to participate in critical decision making without having the final say, most of them involve humans getting a vote, others involve putting the deep learning model 'on rails' and either programming explicit rules via GOFAI or by physical systems that limit the deep learning model's decision making capacity\sidenote{Imagine a self-driving train that can only go so fast, and is mechanically setup to brake at certian intervals or locations, I like this train.}.
+
 
 \section{Garbage In, New Perspective Out?}
 
