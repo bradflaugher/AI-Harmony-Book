@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.2.1)  3 FEB 2023 10:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.2.1)  3 FEB 2023 11:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3935,33 +3935,30 @@ LaTeX Warning: Marginpar on page 22 moved.
 
 LaTeX Warning: Marginpar on page 22 moved.
 
+<images//duchamp.jpg, id=872, 369.38pt x 482.80376pt>
+File: images//duchamp.jpg Graphic file (type jpg)
+<use images//duchamp.jpg>
+Package pdftex.def Info: images//duchamp.jpg  used on input line 84.
+(pdftex.def)             Requested size: 139.5204pt x 182.36229pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 83--83
-[]\T1/zplLF/m/n/8 (+20) 13: If you for-got to take Art
+Underfull \hbox (badness 3884) in paragraph at lines 85--85
+\T1/zplLF/m/n/8 (+20) tain". A uri-nal that blew peo-ples
  []
 
+Package marginnote Info: Margin note 30.1 is on absolute page 30 on input line 
+87.
+Package marginnote Info: right page because not two side mode on input line 87.
 
-Underfull \hbox (badness 10000) in paragraph at lines 83--83
-\T1/zplLF/m/n/8 (+20) His-tory, read about Duchamp
- []
+Package marginnote Info: xpos seems to be 72.53856pt on input line 87.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 83--83
-[][]$\T1/fvm/m/n/8 https : / / www . artsy . net / article /
- []
-
-
-Overfull \hbox (72.05132pt too wide) in paragraph at lines 83--83
-\T1/fvm/m/n/8 artsy-[]editorial-[]duchamps-[]urinal-[]changed-[]art-[]forever$[
-][] 
- []
+LaTeX Warning: Marginpar on page 22 moved.
 
 \openout4 = `main.mw'.
 
-[22] (./main.mw)
+[22 <./images//duchamp.jpg>] (./main.mw)
 \openout4 = `main.mw'.
 
-Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 91.
+Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 97.
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
@@ -3986,7 +3983,7 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 91.
 
 \openout4 = `main.mw'.
 
-Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 101.
+Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 107.
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
@@ -4032,7 +4029,8 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 101.
  [23] (./main.mw)
 \openout4 = `main.mw'.
 
-) (./chapters/chapter4.tex
+)
+(./chapters/chapter4.tex
 \openout4 = `main.mw'.
 
  [24] (./main.mw)
@@ -4960,11 +4958,11 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 58712 strings out of 478287
- 1155685 string characters out of 5849290
- 2701275 words of memory out of 5000000
- 75149 multiletter control sequences out of 15000+600000
- 593042 words of font info for 310 fonts, out of 8000000 for 9000
+ 58730 strings out of 478287
+ 1156038 string characters out of 5849290
+ 2701487 words of memory out of 5000000
+ 75165 multiletter control sequences out of 15000+600000
+ 593165 words of font info for 311 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  133i,20n,159p,10596b,2656s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-lf-pc.enc}{/usr/s
@@ -4980,10 +4978,10 @@ sr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txsya.pfb></usr/share/te
 xlive/texmf-dist/fonts/type1/public/newpx/zplb.pfb></usr/share/texlive/texmf-di
 st/fonts/type1/public/newpx/zplr.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /public/newpx/zplri.pfb>
-Output written on main.pdf (39 pages, 10270844 bytes).
+Output written on main.pdf (39 pages, 10319483 bytes).
 PDF statistics:
- 1456 PDF objects out of 1728 (max. 8388607)
+ 1457 PDF objects out of 1728 (max. 8388607)
  1266 compressed objects within 13 object streams
  347 named destinations out of 1000 (max. 500000)
- 50333 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 50338 words of extra memory for PDF output out of 51595 (max. 10000000)
 
