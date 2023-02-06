@@ -68,22 +68,7 @@ Note that this book is called "Full-Self Driving, Skynet..", a self-driving car 
 
 \section{Garbage In, New Perspective Out?}
 
-For creative tasks, it generally doesn't matter that a deep learning model is unscientific or trained on a lopsided dataset. An informed user of AI knows this and can account for that in their decision making, especially when engaging in creative decision making. The situation becomes problematic once we allow deep learning models to engage in critical decision making by themselves. Allow me to enumerate a few examples:
-
-\begin{enumerate}
-    \item \textbf{A text generation model trained on Shakespeare's plays} This could be used to spruce up dialoge for a screenplay, write a book, or write a fancy-sounding email. It should be obvious to the user what it is doing, and this would probably delight users and not cause many problems.
-    \item \textbf{A classifer to suggest promising lithium mining sites}
-    \item \textbf{A generative model to discover drugs that might be useful in preventing liver disease}
-    \item \textbf{A in image classifier for a dating app, trained on images of famous couples} Someone wants to start their own dating app, but they don't have any of their own data. So they base their "compatability score" off of photos of potential couple and classify them as either "looking like a celebrity couple, and therefore compatable" or "not looking like a celebrity couple, and therefore incompatable". This model sounds funny and interesting, but could certainly change lives. I still would say this is a creative use of a model, and probably fine. 
-    \item \textbf{A hate speech classifier for a social media site}
-    \item \textbf{A personal danger classifier for your smartwatch} see instapaper
- 
-    \item \textbf{A threat classifier traned on images of war} Wars might change from place to place, if the model was trained in the middle east it might not be as useful in Ukraine, but maybe it could be helpful to augment a security guard looking over thousands of cameras at Grand Central Station. It is not clear to me whether classifying threats falls under creative or critical decision making. Is this a useful classifier for an understaffed security unit, or a bias-reinforcing tool for police abuse? I'm not sure, but I'm sure this model is out there already.\sidenote{if you would like a deeper discussion of ethics please read Reid Blackman's "Ethical Machines"\cite{Blackman2022Jul}, he is pretty good for a Philosophy PhD.}
-    \item \textbf{A text generation model claiming to be Artificial General Intelligence}\sidenote{Let's say something like ChatGPT} A model using deep learning techniques, and trained on the entire internet, but claiming to have general purpose answers to everything\sidenote{ChatGPT does not make these claims}. This could absolutely be used for creative endeavors and generate new perspectives but if it is given critical tasks and relied on to "tell the truth", this will probably disappoint. Creating the model isn't a problem in itself, but how it is used or misused might cause a problem.\sidenote{What problems, you ask? Well, give me a few chapters.}
-    \item \textbf{A fully self-driving car, one without a steering wheel} The car was trained on millions of miles of road-trials, and maybe a sophisticated simulation environment where it drove trillions of virtual miles.\sidenote{Let's assume the model is only updated once per month here, I'll talk about this in more depth soon.} This model is not giving you a new perspective or funny perspective on driving because all of the training happened in the past. So, as soon as the self-driving model is released, it becomes stale. Any significant changes in the envoronment might cause it to behave strangely and dangerously.
-\end{enumerate}
-
-I will talk about many of these models in depth in the coming chapters, but it's worth sticking them into your brain now. The models themselves are not good or bad, they are a product of the data they were shown, how they are used and the decision making ability they are given makes them either fun and amazing, or dangerous and foolish.
+For creative tasks, it generally doesn't matter that a deep learning model is unscientific or trained on a lopsided dataset. An informed user of AI knows this and can account for that in their decision making, especially when engaging in creative decision making. The situation becomes problematic once we allow deep learning models to engage in critical decision making by themselves. 
 
 \begin{marginfigure}[-5.5cm]
         \includegraphics{duchamp}
@@ -91,27 +76,68 @@ I will talk about many of these models in depth in the coming chapters, but it's
         \labfig{duchamp}
 \end{marginfigure}
 
-One last note before I shut up about creativity, generative models will come up with amazing (but derivative) works of art, But, they will never "change the game". A model of sculpture trained on past sculptures in 1917 will never come up with Marcel Duchamp's "Fountain". There is a term that machine learning engineers use for this, when the rules of the game are changed, it's called "Concept Drift".
+Generative models will come up with amazing (but derivative) works of art, But, they will never "change the game". A model of sculpture trained on past sculptures in 1917 will never come up with Marcel Duchamp's "Fountain". There is a term that machine learning engineers use for this, when the rules of the game are changed, it's called "Concept Drift".
 
 \section{Concept Drift and the End of Usefulness}
 
-When the meaning of truth changes.
+Concept drift refers to the phenomenon where the distribution of data changes over time, causing the performance of AI models built on historical data to degrade. The model becomes less useful because it is trained to make predictions based on the relationship between the inputs and outputs in the data it was trained on, and if this relationship changes, the model may start making incorrect predictions. This is particularly problematic in real-world applications, where the data is constantly evolving and the relationship between inputs and outputs is subject to change. To mitigate the effects of concept drift, it is often necessary to continually retrain AI models on updated data.
 
-Talk about facial recognition, you can only recognize faces you've seen. hard to get by plastic surgery or fancy makeup.
+The frequency with which an AI model needs to be retrained to mitigate the effects of concept drift depends on several factors, including the rate at which the data distribution changes, the size and complexity of the model, and the availability of computational resources.
+
+For some applications with relatively stable data distributions, retraining the model once every few months or even once per year may be sufficient. However, in other applications where the data is changing rapidly, it may be necessary to retrain the model more frequently, such as once per week or even once per day.
+
+Ultimately, the frequency of retraining will depend on the specific requirements of the application, and the trade-off between the cost of retraining and the potential cost of incorrect predictions. In general, it's recommended to monitor the performance of the model over time and to retrain it as needed to ensure that it remains accurate and relevant.
+
+As an example, think about facial recognition models. Facial recogniton models can recognize faces they've seen before, and to have a "perfect" facial recognition model for everyone in the world, you would need to retrain the model on every new face as fast as people were born, or as fast as peoples faces change due to aging or horrific motorcycle accidents. The rate at which you need to retrain the model to maintain it's accuracy depends on how fast new faces are added to the population.
+
+If a deployed AI model is not monitored, there are several risks that can emerge:
+
+\begin{itemize}
+\item Accuracy degradation: As the data distribution changes over time, the model may become less accurate, leading to incorrect predictions. This can result in financial losses, reduced customer satisfaction, or even harm to individuals.
+\item Bias amplification: AI models can be biased, and if this bias is not monitored and addressed, it can be amplified over time as the model continues to make incorrect predictions. This can result in discriminatory outcomes, such as unequal treatment of individuals based on protected characteristics such as race, gender, or age.
+\item Legal liability: In some cases, incorrect predictions made by AI models can result in legal liability, particularly if the model is being used to make decisions that have significant consequences, such as in the criminal justice system or in medical diagnosis.
+\item Reputational damage: If an AI model is making incorrect predictions, it can damage the reputation of the organization deploying the model, potentially leading to a loss of customers or investors.
+\end{itemize}
+
+Therefore, it is important to monitor AI models once they are deployed, and to take action to address any issues that arise, such as retraining the model or adjusting its parameters, in order to mitigate these risks and ensure that the model continues to perform well over time.
 
 \section{The Impossibility of Fairness}
 
-Representation, "fixing the training set" \sidecite{Christian2020}, or the Impossibility of Fairness from a model.
+Achieving fairness in AI models can be challenging, and to some extent it may be impossible to completely eliminate all forms of bias. This is because AI models are trained on historical data, which may contain biases and disparities that are perpetuated in the model's predictions. One can attempt to "fix the training set"but in practice models will continue to bias their prediction to past data, or their creators careful curation of the past.\sidecite{Christian2020} 
+
+However, it is possible to reduce the impact of bias in AI models through careful design and monitoring of the model's performance. This may include techniques such as fairness constraints, algorithmic transparency, and regular auditing of the model's predictions to identify and address any issues of bias.
+
+It's important to note that fairness is a complex and multi-faceted concept, and different definitions of fairness may be appropriate for different applications. For example, some definitions of fairness may prioritize equal treatment of all individuals, while others may prioritize proportional representation or equal opportunities.
+
+Ultimately, the extent to which fairness is achievable in AI models will depend on the specific requirements of the application and the level of effort that is put into designing and monitoring the model to ensure that it is making fair and unbiased predictions.
 
 \section{Transfer Learning Everywhere}
 
-If the past is not like the future, you are doing transfer learning. Most models steal data from other sources so are doing transfer learning too. This is fine, but do we know that we are doing this? Talk about finance and past performance and future results. 
+Transfer learning is a machine learning technique that involves transferring knowledge from one model trained on a task to another model trained on a related task. The idea behind transfer learning is that a model that has been trained on one task can be fine-tuned for another task, reducing the amount of labeled data required to train the new model.
 
-are you predicting the right thing? Are you really predicting how valuable the company is or just whether it'll be the next meme stock?
+For example, imagine that you have a large convolutional neural network (CNN) that has been trained to recognize objects in natural images. You can use the knowledge learned by this model as a starting point to train a new model that recognizes objects in medical images, such as X-rays or MRI scans. The new model can start with the weights of the pre-trained CNN and fine-tune them on the new task, using a much smaller amount of labeled data than would be required to train the model from scratch.
+
+Transfer learning can be useful in many different applications, particularly when labeled data is scarce or expensive to obtain. By leveraging knowledge from a pre-trained model, transfer learning can help to improve the performance of new models, reduce the amount of data required for training, and accelerate the development of new machine learning applications.
+
+If the past is not like the future, you are doing transfer learning. Most models steal data from other sources so are doing transfer learning too. This is fine, but do we know that we are doing this? A model that is deployed in a domain experiencing concept drift and continues to make predictions without being retrained can be considered to be doing a harmful form of transfer learning. This is because the model has been trained on a different distribution of data (the past), and is being applied to a new domain with a different distribution (the present and future).
+
+In traditional transfer learning, the goal is to transfer knowledge from one domain to another related domain, where the data distributions are similar enough to enable the model to make accurate predictions. However, in the case of concept drift, the data distributions are changing over time, and the model is becoming less accurate as a result.
+
+By continuing to make predictions without being retrained, the model is essentially "transferring" its knowledge from a historical data distribution to a new, changed data distribution, which may not be a valid assumption. This can result in incorrect predictions and other negative outcomes, such as harm to individuals or organizations.
 
 \section{Industrial-Scale Plagarism}
 
-Talk about wsj article.
+Aside from regurgitating the past and predictions from other domains, deep learning models can also enable plagarism on an industrial scale \sidenote{WSJ ARTICLE}. Early text generation models could be made to write entire sections of \textit{Harry Potter} when fed the opening lines of a chapter\sidenote{Harry Potter}. Even as models grow large and more sophisticated, users, researchers and lawyers are still able to "extract the training data" from large models, causing headaches for their creators and adding to the invoices of Intellectual Property lawyers. 
+
+To avoid this creators of deep learning models have the following tools at their disposal:
+
+\begin{itemize}
+\item Best practices in  machine learning: data preprocessing, augmentation, reuglarization, model architeture choices, early stopping and validation are all things that we are taught to do to prevent overfitting.
+\item Contractual agreements: Microsoft (owner of github and cocreator of the Github Copilot\sidenote{link to copilot} code generation model) has a special contract for anyone submitting code to github that essentially says that "we are allowed to use this code to train our models, and if our models regenerate your copyrighted code, you can go fuck yourself" \sidenote{\url{https://fossa.com/blog/analyzing-legal-implicationsdisucssthe-github-copilot/}}
+\item Release the kraken: StabilityAI's Stable Diffusion model was released as open source software, they still managed to get sued \sidenote{StabilityAI sued}, but they basically said, "this model was trained on all copyrighted and copylefted images on the web, sometimes it'll generate stuff that violates copyright law, but we are in Germany and will give this thing away for free to the public, and see how the photographers and graphic designers of the world handle it... OKbye!". 
+\end{itemize}
+
+These techniques can help to reduce the risk of having AI models reproduce the training data and cause intellectual property disputes, but there is no way to completely eliminate these risks, they are simply side-effects of the method of machine learning that we are doing nowadays.\sidenote{If you are an IP lawyer and need an expert witness, I'm your man \href{mailto:brad@bradflaugher.com}{brad@bradflaugher.com}}
 
 \section{Humans Love Computers}
 
@@ -121,8 +147,22 @@ Also talk about Kasparov's tournament and Thinking for yourself in the age of AI
 
 Oneil\cite{Oneil2017}
 Perez\cite{Perez2019}
-Blackman\cite{Blackman2022Jul}
-Christian\cite{Christian2020}
+
+\section{Model Talk: Lightning Round}
+
+\begin{enumerate}
+    \item \textbf{A text generation model trained on Shakespeare's plays} This could be used to spruce up dialoge for a screenplay, write a book, or write a fancy-sounding email. It should be obvious to the user what it is doing, and this would probably delight users and not cause many problems.
+    \item \textbf{A classifer to suggest promising lithium mining sites}
+    \item \textbf{A generative model to discover drugs that might be useful in preventing liver disease}
+    \item \textbf{A in image classifier for a dating app, trained on images of famous couples} Someone wants to start their own dating app, but they don't have any of their own data. So they base their "compatability score" off of photos of potential couple and classify them as either "looking like a celebrity couple, and therefore compatable" or "not looking like a celebrity couple, and therefore incompatable". This model sounds funny and interesting, but could certainly change lives. I still would say this is a creative use of a model, and probably fine.
+    \item \textbf{A hate speech classifier for a social media site}
+    \item \textbf{A personal danger classifier for your smartwatch} see instapaper
+
+    \item \textbf{A threat classifier traned on images of war} Wars might change from place to place, if the model was trained in the middle east it might not be as useful in Ukraine, but maybe it could be helpful to augment a security guard looking over thousands of cameras at Grand Central Station. It is not clear to me whether classifying threats falls under creative or critical decision making. Is this a useful classifier for an understaffed security unit, or a bias-reinforcing tool for police abuse? I'm not sure, but I'm sure this model is out there already.\sidenote{if you would like a deeper discussion of ethics please read Reid Blackman's "Ethical Machines"\cite{Blackman2022Jul}, he is pretty good for a Philosophy PhD.}
+    \item \textbf{A text generation model claiming to be Artificial General Intelligence}\sidenote{Let's say something like ChatGPT} A model using deep learning techniques, and trained on the entire internet, but claiming to have general purpose answers to everything\sidenote{ChatGPT does not make these claims}. This could absolutely be used for creative endeavors and generate new perspectives but if it is given critical tasks and relied on to "tell the truth", this will probably disappoint. Creating the model isn't a problem in itself, but how it is used or misused might cause a problem.\sidenote{What problems, you ask? Well, give me a few chapters.}
+    \item \textbf{A fully self-driving car, one without a steering wheel} The car was trained on millions of miles of road-trials, and maybe a sophisticated simulation environment where it drove trillions of virtual miles.\sidenote{Let's assume the model is only updated once per month here, I'll talk about this in more depth soon.} This model is not giving you a new perspective or funny perspective on driving because all of the training happened in the past. So, as soon as the self-driving model is released, it becomes stale. Any significant changes in the envoronment might cause it to behave strangely and dangerously.
+\end{enumerate}
+
 
 \section{Key Takeaways}
 

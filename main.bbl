@@ -206,38 +206,6 @@
       \field{title}{Deep learning with python, second edition}
       \field{year}{2022}
     \endentry
-    \entry{Blackman2022Jul}{book}{}
-      \name{author}{1}{}{%
-        {{hash=a7d335811b8bedf76324b13953ec7d65}{%
-           family={Blackman},
-           familyi={B\bibinitperiod},
-           given={Reid},
-           giveni={R\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Harvard Business Review Press}%
-      }
-      \strng{namehash}{a7d335811b8bedf76324b13953ec7d65}
-      \strng{fullhash}{a7d335811b8bedf76324b13953ec7d65}
-      \strng{bibnamehash}{a7d335811b8bedf76324b13953ec7d65}
-      \strng{authorbibnamehash}{a7d335811b8bedf76324b13953ec7d65}
-      \strng{authornamehash}{a7d335811b8bedf76324b13953ec7d65}
-      \strng{authorfullhash}{a7d335811b8bedf76324b13953ec7d65}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{isbn}{978-1-64782281-1}
-      \field{month}{7}
-      \field{title}{{Ethical Machines: Your Concise Guide to Totally Unbiased, Transparent, and Respectful AI}}
-      \field{year}{2022}
-      \verb{urlraw}
-      \verb https://www.amazon.com/Ethical-Machines-Unbiased-Transparent-Respectful/dp/1647822815
-      \endverb
-      \verb{url}
-      \verb https://www.amazon.com/Ethical-Machines-Unbiased-Transparent-Respectful/dp/1647822815
-      \endverb
-    \endentry
     \entry{Christian2020}{book}{}
       \name{author}{1}{}{%
         {{hash=ffd9bbb22f19f527ef2083421a5dfb09}{%
@@ -365,6 +333,38 @@
       \endverb
       \verb{url}
       \verb https://www.amazon.com/Invisible-Women-Data-World-Designed/dp/1419729071
+      \endverb
+    \endentry
+    \entry{Blackman2022Jul}{book}{}
+      \name{author}{1}{}{%
+        {{hash=a7d335811b8bedf76324b13953ec7d65}{%
+           family={Blackman},
+           familyi={B\bibinitperiod},
+           given={Reid},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Harvard Business Review Press}%
+      }
+      \strng{namehash}{a7d335811b8bedf76324b13953ec7d65}
+      \strng{fullhash}{a7d335811b8bedf76324b13953ec7d65}
+      \strng{bibnamehash}{a7d335811b8bedf76324b13953ec7d65}
+      \strng{authorbibnamehash}{a7d335811b8bedf76324b13953ec7d65}
+      \strng{authornamehash}{a7d335811b8bedf76324b13953ec7d65}
+      \strng{authorfullhash}{a7d335811b8bedf76324b13953ec7d65}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-1-64782281-1}
+      \field{month}{7}
+      \field{title}{{Ethical Machines: Your Concise Guide to Totally Unbiased, Transparent, and Respectful AI}}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.amazon.com/Ethical-Machines-Unbiased-Transparent-Respectful/dp/1647822815
+      \endverb
+      \verb{url}
+      \verb https://www.amazon.com/Ethical-Machines-Unbiased-Transparent-Respectful/dp/1647822815
       \endverb
     \endentry
     \entry{marcus2023}{misc}{}
