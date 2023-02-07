@@ -315,6 +315,21 @@
       \endverb
       \keyw{Cryptography and Security (cs.CR),Computer Vision and Pattern Recognition (cs.CV),Machine Learning (cs.LG),FOS: Computer and information sciences,FOS: Computer and information sciences}
     \endentry
+    \entry{kasparov2005}{misc}{}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Kasparov}
+      \field{month}{3}
+      \field{title}{Ai should augment human intelligence, not replace it: Harvard Business Review: March 18, 2021}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://www.kasparov.com/ai-should-augment-human-intelligence-not-replace-it-harvard-business-review-march-18-2021/
+      \endverb
+      \verb{url}
+      \verb https://www.kasparov.com/ai-should-augment-human-intelligence-not-replace-it-harvard-business-review-march-18-2021/
+      \endverb
+    \endentry
     \entry{mansharamani2020}{book}{}
       \name{author}{1}{}{%
         {{hash=3bf7f8aebb363db6c9b75651ad07d9c6}{%
@@ -332,8 +347,8 @@
       \strng{authorbibnamehash}{3bf7f8aebb363db6c9b75651ad07d9c6}
       \strng{authornamehash}{3bf7f8aebb363db6c9b75651ad07d9c6}
       \strng{authorfullhash}{3bf7f8aebb363db6c9b75651ad07d9c6}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Think for yourself: Restoring common sense in an age of experts and artificial intelligence}
@@ -494,8 +509,8 @@
       \strng{authorbibnamehash}{e8748a87f47a6482722dc49efea4d52d}
       \strng{authornamehash}{e8748a87f47a6482722dc49efea4d52d}
       \strng{authorfullhash}{e8748a87f47a6482722dc49efea4d52d}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Robot, take the wheel: The road to autonomous cars and the lost art of driving}
@@ -515,8 +530,8 @@
       \strng{authorbibnamehash}{199868cb9a5ee49454615e31ec8cc1ae}
       \strng{authornamehash}{199868cb9a5ee49454615e31ec8cc1ae}
       \strng{authorfullhash}{199868cb9a5ee49454615e31ec8cc1ae}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{ACM}
@@ -595,6 +610,7 @@
       \endverb
     \endentry
   \enddatalist
+  \missing{The one who got his ass kicked by IBM's Deep Blue}
 \endrefsection
 \endinput
 
