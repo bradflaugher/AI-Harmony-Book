@@ -73,12 +73,12 @@
 \contentsline {chapter}{\numberline {5}Self-Driving With Statistics}{29}{chapter.5}%
 \etoc@startlocaltoc {10}
 \etoc@startlocaltoc {11}
-\contentsline {section}{\numberline {5.1}Trolley Problems}{29}{section.5.1}%
-\contentsline {mtocsection}{\numberline {5.1}Trolley Problems}{29}{section.5.1}%
-\contentsline {section}{\numberline {5.2}The Third Rail}{29}{section.5.2}%
-\contentsline {mtocsection}{\numberline {5.2}The Third Rail}{29}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Purple Lights and Changes In Fashion}{29}{section.5.3}%
-\contentsline {mtocsection}{\numberline {5.3}Purple Lights and Changes In Fashion}{29}{section.5.3}%
+\contentsline {section}{\numberline {5.1}Semiautonomy is Stupid}{29}{section.5.1}%
+\contentsline {mtocsection}{\numberline {5.1}Semiautonomy is Stupid}{29}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Trolley Problems}{29}{section.5.2}%
+\contentsline {mtocsection}{\numberline {5.2}Trolley Problems}{29}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Concept Drift (Reprise)}{29}{section.5.3}%
+\contentsline {mtocsection}{\numberline {5.3}Concept Drift (Reprise)}{29}{section.5.3}%
 \contentsline {section}{\numberline {5.4}Multicolinearity (Reprise)}{29}{section.5.4}%
 \contentsline {mtocsection}{\numberline {5.4}Multicolinearity (Reprise)}{29}{section.5.4}%
 \contentsline {section}{\numberline {5.5}See You In Court, Asshole!}{29}{section.5.5}%

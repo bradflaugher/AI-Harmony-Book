@@ -371,6 +371,136 @@
       \verb https://www.amazon.com/Ethical-Machines-Unbiased-Transparent-Respectful/dp/1647822815
       \endverb
     \endentry
+    \entry{MacAskill2022}{article}{}
+      \name{author}{1}{}{%
+        {{hash=28922ab867623f6ca25a4e0f13850307}{%
+           family={MacAskill2022},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{28922ab867623f6ca25a4e0f13850307}
+      \strng{fullhash}{28922ab867623f6ca25a4e0f13850307}
+      \strng{bibnamehash}{28922ab867623f6ca25a4e0f13850307}
+      \strng{authorbibnamehash}{28922ab867623f6ca25a4e0f13850307}
+      \strng{authornamehash}{28922ab867623f6ca25a4e0f13850307}
+      \strng{authorfullhash}{28922ab867623f6ca25a4e0f13850307}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{5}
+      \field{journaltitle}{The New York Times}
+      \field{month}{8}
+      \field{title}{The Case for Longtermism}
+      \field{urlday}{5}
+      \field{urlmonth}{8}
+      \field{urlyear}{2021}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.nytimes.com/2022/08/05/opinion/the-case-for-longtermism.html
+      \endverb
+      \verb{url}
+      \verb https://www.nytimes.com/2022/08/05/opinion/the-case-for-longtermism.html
+      \endverb
+    \endentry
+    \entry{Metz2022Sep}{article}{}
+      \name{author}{1}{}{%
+        {{hash=933ed9cdf5d86f8ed4df1bbbca747d53}{%
+           family={Metz},
+           familyi={M\bibinitperiod},
+           given={Cade},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The New York Times Company}%
+      }
+      \strng{namehash}{933ed9cdf5d86f8ed4df1bbbca747d53}
+      \strng{fullhash}{933ed9cdf5d86f8ed4df1bbbca747d53}
+      \strng{bibnamehash}{933ed9cdf5d86f8ed4df1bbbca747d53}
+      \strng{authorbibnamehash}{933ed9cdf5d86f8ed4df1bbbca747d53}
+      \strng{authornamehash}{933ed9cdf5d86f8ed4df1bbbca747d53}
+      \strng{authorfullhash}{933ed9cdf5d86f8ed4df1bbbca747d53}
+      \field{extraname}{1}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0362-4331}
+      \field{journaltitle}{N.Y. Times}
+      \field{month}{9}
+      \field{title}{{The Long Road to Driverless Trucks}}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.nytimes.com/2022/09/28/business/driverless-trucks-highways.html
+      \endverb
+      \verb{url}
+      \verb https://www.nytimes.com/2022/09/28/business/driverless-trucks-highways.html
+      \endverb
+    \endentry
+    \entry{Metz2022Sep2}{article}{}
+      \name{author}{1}{}{%
+        {{hash=933ed9cdf5d86f8ed4df1bbbca747d53}{%
+           family={Metz},
+           familyi={M\bibinitperiod},
+           given={Cade},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The New York Times Company}%
+      }
+      \strng{namehash}{933ed9cdf5d86f8ed4df1bbbca747d53}
+      \strng{fullhash}{933ed9cdf5d86f8ed4df1bbbca747d53}
+      \strng{bibnamehash}{933ed9cdf5d86f8ed4df1bbbca747d53}
+      \strng{authorbibnamehash}{933ed9cdf5d86f8ed4df1bbbca747d53}
+      \strng{authornamehash}{933ed9cdf5d86f8ed4df1bbbca747d53}
+      \strng{authorfullhash}{933ed9cdf5d86f8ed4df1bbbca747d53}
+      \field{extraname}{2}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0362-4331}
+      \field{journaltitle}{N.Y. Times}
+      \field{month}{9}
+      \field{title}{{Stuck on the Streets of San Francisco in a Driverless Car}}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.nytimes.com/2022/09/28/technology/driverless-cars-san-francisco.html
+      \endverb
+      \verb{url}
+      \verb https://www.nytimes.com/2022/09/28/technology/driverless-cars-san-francisco.html
+      \endverb
+    \endentry
+    \entry{torchinsky_boeckmann_2019}{book}{}
+      \name{author}{2}{}{%
+        {{hash=9dd644e99ab2be5996fee8807ccf33f7}{%
+           family={Torchinsky},
+           familyi={T\bibinitperiod},
+           given={Jason},
+           giveni={J\bibinitperiod}}}%
+        {{hash=f6803c82669c21ab9b6e5be7b974e333}{%
+           family={Boeckmann},
+           familyi={B\bibinitperiod},
+           given={Beau},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Apollo Publishers}%
+      }
+      \strng{namehash}{e8748a87f47a6482722dc49efea4d52d}
+      \strng{fullhash}{e8748a87f47a6482722dc49efea4d52d}
+      \strng{bibnamehash}{e8748a87f47a6482722dc49efea4d52d}
+      \strng{authorbibnamehash}{e8748a87f47a6482722dc49efea4d52d}
+      \strng{authornamehash}{e8748a87f47a6482722dc49efea4d52d}
+      \strng{authorfullhash}{e8748a87f47a6482722dc49efea4d52d}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Robot, take the wheel: The road to autonomous cars and the lost art of driving}
+      \field{year}{2019}
+    \endentry
     \entry{marcus2023}{misc}{}
       \name{author}{1}{}{%
         {{hash=199868cb9a5ee49454615e31ec8cc1ae}{%
@@ -430,8 +560,8 @@
       \strng{authorbibnamehash}{69963cad7c718592b5a5632ef6e80e49}
       \strng{authornamehash}{69963cad7c718592b5a5632ef6e80e49}
       \strng{authorfullhash}{69963cad7c718592b5a5632ef6e80e49}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{978-1-10765506-5}
@@ -449,8 +579,8 @@
       \list{publisher}{1}{%
         {Jon Krohn}%
       }
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Jon Krohn}
       \field{month}{10}

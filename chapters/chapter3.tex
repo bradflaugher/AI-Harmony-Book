@@ -86,7 +86,7 @@ The frequency with which an AI model needs to be retrained to mitigate the effec
 
 \begin{marginfigure}[-5.5cm]
         \includegraphics{plastic}
-        \caption{"Plastic surgery gone wrong" made with Stable Diffusion. Imagine a model that classifies images as "human face" or "not human face", and imagine that model was trained on images of human faces before 1900, maybe you would not be surprised if you gave it a picture of a human face that had a lot of cosmetic surgery done to it, and that model might say "this is not a human face", the idea of what a human face is has changed over time. This is called "concept drift".}
+        \caption{"Plastic surgery gone wrong" made with Stable Diffusion. Imagine a model that classifies images as "human face" or "not human face", and imagine that model was trained on images of human faces before 1900, maybe you would not be surprised if you gave it a picture of a human face that had a lot of cosmetic surgery done to it, and that model might say "this is not a human face", the idea of what a human face is has changed over time this is called "concept drift".}
         \labfig{plastic}
 \end{marginfigure}
 
@@ -121,13 +121,13 @@ Ultimately, the extent to which fairness is achievable in AI models will depend 
 
 Transfer learning is a machine learning technique that involves transferring knowledge from one model trained on a task to another model trained on a related task. The idea behind transfer learning is that a model that has been trained on one task can be fine-tuned for another task, reducing the amount of labeled data required to train the new model.
 
-For example, imagine that you have a large convolutional neural network (CNN) that has been trained to recognize objects in natural images. You can use the knowledge learned by this model as a starting point to train a new model that recognizes objects in medical images, such as X-rays or MRI scans. The new model can start with the weights of the pre-trained CNN and fine-tune them on the new task, using a much smaller amount of labeled data than would be required to train the model from scratch.\sidenote{Transfer learning is taking data from a different domain, and pointing the model at a new task where data is hard to come by. Think if you tried to "catch bigfoot" using AI, since you have no data on bigfoot you would maybe use a human face detector and stick in on cameras in the woods to try and find a human-like face out there. It could work wonderfully and you could catch bigfoot, or it could turn out that you made a logical leap and bigfoots face doesn't look anything like a humans, so your use of human data to catch bigfoot was wrong}
+For example, imagine that you have a large convolutional neural network (CNN) that has been trained to recognize objects in natural images. You can use the knowledge learned by this model as a starting point to train a new model that recognizes objects in medical images, such as X-rays or MRI scans. The new model can start with the weights of the pre-trained CNN and fine-tune them on the new task, using a much smaller amount of labeled data than would be required to train the model from scratch.\sidenote{Transfer learning is taking data from a different domain, and pointing the model at a new task where data is hard to come by. Think if you tried to "catch bigfoot" using AI, since you have no data on bigfoot you would maybe use a human face detector and stick in on cameras in the woods to try and find a human-like face out there. It could work wonderfully and you could catch bigfoot, or it could turn out that you made a logical leap and bigfoots face doesn't look anything like a humans, so your use of human data to catch bigfoot was incorrect.}
 
 Transfer learning can be useful in many different applications, particularly when labeled data is scarce or expensive to obtain. By leveraging knowledge from a pre-trained model, transfer learning can help to improve the performance of new models, reduce the amount of data required for training, and accelerate the development of new machine learning applications.
 
 If the past is not like the future, you are doing transfer learning. Most models steal data from other sources so are doing transfer learning too. This is fine, but do we know that we are doing this? A model that is deployed in a domain experiencing concept drift and continues to make predictions without being retrained can be considered to be doing a harmful form of transfer learning. This is because the model has been trained on a different distribution of data (the past), and is being applied to a new domain with a different distribution (the present and future).
 
-In traditional transfer learning, the goal is to transfer knowledge from one domain to another related domain, where the data distributions are similar enough to enable the model to make accurate predictions. However, in the case of concept drift, the data distributions are changing over time, and the model is becoming less accurate as a result. \sidenote{Think about your life and if you "transferred" your model of thinking from when you were 12 years old, to "today" when you are 35 years old, that is a bad model to be operating on! That model needs to be updated. We'll explore many examples of where this is and is not a problem in the next chapter"}
+In traditional transfer learning, the goal is to transfer knowledge from one domain to another related domain, where the data distributions are similar enough to enable the model to make accurate predictions. However, in the case of concept drift, the data distributions are changing over time, and the model is becoming less accurate as a result. \sidenote{Think about your life and if you "transferred" your model of thinking from when you were 12 years old, to "today" when you are 35 years old, that is a bad model to be operating on! That model needs to be updated. We'll explore many examples of where this is and is not a problem in the next chapter."}
 
 By continuing to make predictions without being retrained, the model is essentially "transferring" its knowledge from a historical data distribution to a new, changed data distribution, which may not be a valid assumption. This can result in incorrect predictions and other negative outcomes, such as harm to individuals or organizations.
 
@@ -135,18 +135,17 @@ By continuing to make predictions without being retrained, the model is essentia
 
 Aside from regurgitating the past and predictions from other domains, deep learning models can also enable plagarism on an industrial scale. Early text generation models could be made to write entire sections of \textit{Harry Potter} when fed the opening lines of a chapter. Even as models grow large and more sophisticated, users, researchers and lawyers are still able to "extract the training data"  from large models\sidecite{Carlini2023}, causing headaches for their creators and adding to the work of intellectual property lawyers. 
 
-
 To avoid this creators of deep learning models have the following tools at their disposal:
 
-\begin{marginfigure}[-5.5cm]
-        \includegraphics{potter}
-        \caption{"Harry Potter and Batman High-fiving" made with Stable Diffusion}
-        \labfig{potter}
-\end{marginfigure}
 
 \begin{itemize}
 \item Best practices in  machine learning: data preprocessing, augmentation, reuglarization, model architeture choices, early stopping and validation are all things that we are taught to do to prevent overfitting.
 \item Contractual agreements: Microsoft (owner of github and cocreator of the Github Copilot code generation model) has a special contract for anyone submitting code to github that essentially says that "we are allowed to use this code to train our models, and if our models regenerate your copyrighted code, you can go fuck yourself"
+\begin{marginfigure}[-5.5cm]
+        \includegraphics{potter}
+        \caption{"Harry Potter and Batman High-fiving" made with Stable Diffusion. I don't think Warner Brothers likes this...}
+        \labfig{potter}
+\end{marginfigure}
 \item Release the kraken: StabilityAI's Stable Diffusion model was released as open source software, they still managed to get sued, but they basically said, "this model was trained on all copyrighted and copylefted images on the web, sometimes it'll generate stuff that violates copyright law, but we are in Germany and will give this thing away for free to the public, and see how the photographers and graphic designers of the world handle it... OKbye!". 
 \end{itemize}
 
