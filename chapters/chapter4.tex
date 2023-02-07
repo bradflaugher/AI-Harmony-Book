@@ -2,23 +2,40 @@
 \chapter{Model Cards and Case Studies}
 \labch{intro}
 
-% TODO A section for each model
+I like huggingface's model cards this chapter is inspired by their outline, but adds some of my commentary \url{https://huggingface.co/blog/model-cards}
 
-modify huggingface model cards https://huggingface.co/docs/hub/main/model-cards
+\section{Fluid Dynamics}
 
-add a model of physical systems early, something like fluid dynamics
+\begin{itemize}
+\item \textbf{Description}
+\item \textbf{Training Data} 
+\item \textbf{Evaluation Metrics}
+\item \textbf{Use Cases}
+\item \textbf{Limits and Risks} Concept Drift and Transfer Learning!
+\item \textbf{Disclaimer}
+\end{itemize}
 
-\section{Lightning Round of Model Analysis}
+\section{A text generation model trained on Shakespeare's plays} 
+\section{A classifer to suggest promising lithium mining sites}
+\section{A generative model to discover drugs that might be useful in preventing liver disease}
+\section{Online Dating Model}
+\section{A hate speech classifier for a social media site}
+\section{A personal danger classifier for your smartwatch} see instapaper
+\section{A threat classifier traned on images of war}
+\section{A text generation model claiming to be Artificial General Intelligence}
+\section{Sperm Counter}
 
-\begin{enumerate}
-    \item \textbf{A text generation model trained on Shakespeare's plays} This could be used to spruce up dialoge for a screenplay, write a book, or write a fancy-sounding email. It should be obvious to the user what it is doing, and this would probably delight users and not cause many problems.
-    \item \textbf{A classifer to suggest promising lithium mining sites}
-    \item \textbf{A generative model to discover drugs that might be useful in preventing liver disease}
-    \item \textbf{A in image classifier for a dating app, trained on images of famous couples} Someone wants to start their own dating app, but they don't have any of their own data. So they base their "compatability score" off of photos of potential couple and classify them as either "looking like a celebrity couple, and therefore compatable" or "not looking like a celebrity couple, and therefore incompatable". This model sounds funny and interesting, but could certainly change lives. I still would say this is a creative use of a model, and probably fine.
-    \item \textbf{A hate speech classifier for a social media site}
-    \item \textbf{A personal danger classifier for your smartwatch} see instapaper
+Model Card: Sperm Counter AI
 
-    \item \textbf{A threat classifier traned on images of war} Wars might change from place to place, if the model was trained in the middle east it might not be as useful in Ukraine, but maybe it could be helpful to augment a security guard looking over thousands of cameras at Grand Central Station. It is not clear to me whether classifying threats falls under creative or critical decision making. Is this a useful classifier for an understaffed security unit, or a bias-reinforcing tool for police abuse? I'm not sure, but I'm sure this model is out there already.\sidenote{if you would like a deeper discussion of ethics please read Reid Blackman's "Ethical Machines"\cite{Blackman2022Jul}, he is pretty good for a Philosophy PhD.}
-    \item \textbf{A text generation model claiming to be Artificial General Intelligence}\sidenote{Let's say something like ChatGPT} A model using deep learning techniques, and trained on the entire internet, but claiming to have general purpose answers to everything\sidenote{ChatGPT does not make these claims}. This could absolutely be used for creative endeavors and generate new perspectives but if it is given critical tasks and relied on to "tell the truth", this will probably disappoint. Creating the model isn't a problem in itself, but how it is used or misused might cause a problem.\sidenote{What problems, you ask? Well, give me a few chapters.}
-    \item \textbf{A fully self-driving car, one without a steering wheel} The car was trained on millions of miles of road-trials, and maybe a sophisticated simulation environment where it drove trillions of virtual miles.\sidenote{Let's assume the model is only updated once per month here, I'll talk about this in more depth soon.} This model is not giving you a new perspective or funny perspective on driving because all of the training happened in the past. So, as soon as the self-driving model is released, it becomes stale. Any significant changes in the envoronment might cause it to behave strangely and dangerously.
-\end{enumerate}
+Description: This AI model is designed to count sperm in a video of semen under a microscope.
+
+Training Data: The model was trained on a large dataset of semen videos taken under a microscope. The training data was annotated with the number of sperm in each video, allowing the model to learn the patterns and features of sperm in different types of semen samples.
+
+Evaluation Metrics: The model was evaluated using precision, recall, and F1 score, which are commonly used metrics for object counting tasks. The model achieved high scores on all metrics, indicating that it is effective at accurately counting sperm in the semen videos.
+
+Use Cases: This model can be used in clinical or research settings to quickly and accurately count sperm in semen samples. This can be useful for diagnosing and monitoring male infertility, as well as for understanding the impact of various factors on sperm count.
+
+Limitations: The model is only trained to count sperm in semen videos taken under a microscope and may not perform well on videos taken under different conditions or with different types of microscopes. It is important to ensure that the semen samples are of high quality and that the video recording conditions are consistent in order to obtain accurate results.
+
+Disclaimer: This model is not intended to replace human expert judgment and should be used as a tool to support decision making. The results generated by this model are not a substitute for professional medical advice, diagnosis, or treatment.
+

@@ -354,38 +354,6 @@
       \field{title}{Think for yourself: Restoring common sense in an age of experts and artificial intelligence}
       \field{year}{2020}
     \endentry
-    \entry{Blackman2022Jul}{book}{}
-      \name{author}{1}{}{%
-        {{hash=a7d335811b8bedf76324b13953ec7d65}{%
-           family={Blackman},
-           familyi={B\bibinitperiod},
-           given={Reid},
-           giveni={R\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Harvard Business Review Press}%
-      }
-      \strng{namehash}{a7d335811b8bedf76324b13953ec7d65}
-      \strng{fullhash}{a7d335811b8bedf76324b13953ec7d65}
-      \strng{bibnamehash}{a7d335811b8bedf76324b13953ec7d65}
-      \strng{authorbibnamehash}{a7d335811b8bedf76324b13953ec7d65}
-      \strng{authornamehash}{a7d335811b8bedf76324b13953ec7d65}
-      \strng{authorfullhash}{a7d335811b8bedf76324b13953ec7d65}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{isbn}{978-1-64782281-1}
-      \field{month}{7}
-      \field{title}{{Ethical Machines: Your Concise Guide to Totally Unbiased, Transparent, and Respectful AI}}
-      \field{year}{2022}
-      \verb{urlraw}
-      \verb https://www.amazon.com/Ethical-Machines-Unbiased-Transparent-Respectful/dp/1647822815
-      \endverb
-      \verb{url}
-      \verb https://www.amazon.com/Ethical-Machines-Unbiased-Transparent-Respectful/dp/1647822815
-      \endverb
-    \endentry
     \entry{MacAskill2022}{article}{}
       \name{author}{1}{}{%
         {{hash=28922ab867623f6ca25a4e0f13850307}{%
@@ -437,8 +405,8 @@
       \strng{authornamehash}{933ed9cdf5d86f8ed4df1bbbca747d53}
       \strng{authorfullhash}{933ed9cdf5d86f8ed4df1bbbca747d53}
       \field{extraname}{1}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{0362-4331}
@@ -516,35 +484,6 @@
       \field{title}{Robot, take the wheel: The road to autonomous cars and the lost art of driving}
       \field{year}{2019}
     \endentry
-    \entry{marcus2023}{misc}{}
-      \name{author}{1}{}{%
-        {{hash=199868cb9a5ee49454615e31ec8cc1ae}{%
-           family={Marcus},
-           familyi={M\bibinitperiod},
-           given={Gary},
-           giveni={G\bibinitperiod}}}%
-      }
-      \strng{namehash}{199868cb9a5ee49454615e31ec8cc1ae}
-      \strng{fullhash}{199868cb9a5ee49454615e31ec8cc1ae}
-      \strng{bibnamehash}{199868cb9a5ee49454615e31ec8cc1ae}
-      \strng{authorbibnamehash}{199868cb9a5ee49454615e31ec8cc1ae}
-      \strng{authornamehash}{199868cb9a5ee49454615e31ec8cc1ae}
-      \strng{authorfullhash}{199868cb9a5ee49454615e31ec8cc1ae}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{ACM}
-      \field{month}{1}
-      \field{title}{Is chatgpt really a 'code red' for google search?}
-      \field{year}{2023}
-      \verb{urlraw}
-      \verb https://cacm.acm.org/blogs/blog-cacm/268376-is-chatgpt-really-a-code-red-for-google-search/fulltext
-      \endverb
-      \verb{url}
-      \verb https://cacm.acm.org/blogs/blog-cacm/268376-is-chatgpt-really-a-code-red-for-google-search/fulltext
-      \endverb
-    \endentry
     \entry{Keynes2012}{book}{}
       \name{author}{3}{}{%
         {{hash=612862f6008b8bea8cd4a13783af9a93}{%
@@ -607,6 +546,35 @@
       \endverb
       \verb{url}
       \verb https://www.jonkrohn.com/posts/2022/10/7/tedx-talk-how-neuroscience-inspires-ai-breakthroughs-that-will-change-the-world
+      \endverb
+    \endentry
+    \entry{marcus2023}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=199868cb9a5ee49454615e31ec8cc1ae}{%
+           family={Marcus},
+           familyi={M\bibinitperiod},
+           given={Gary},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{199868cb9a5ee49454615e31ec8cc1ae}
+      \strng{fullhash}{199868cb9a5ee49454615e31ec8cc1ae}
+      \strng{bibnamehash}{199868cb9a5ee49454615e31ec8cc1ae}
+      \strng{authorbibnamehash}{199868cb9a5ee49454615e31ec8cc1ae}
+      \strng{authornamehash}{199868cb9a5ee49454615e31ec8cc1ae}
+      \strng{authorfullhash}{199868cb9a5ee49454615e31ec8cc1ae}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ACM}
+      \field{month}{1}
+      \field{title}{Is chatgpt really a 'code red' for google search?}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://cacm.acm.org/blogs/blog-cacm/268376-is-chatgpt-really-a-code-red-for-google-search/fulltext
+      \endverb
+      \verb{url}
+      \verb https://cacm.acm.org/blogs/blog-cacm/268376-is-chatgpt-really-a-code-red-for-google-search/fulltext
       \endverb
     \endentry
   \enddatalist
