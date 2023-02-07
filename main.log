@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.2.1)  7 FEB 2023 15:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.2.1)  7 FEB 2023 15:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3941,33 +3941,25 @@ Package marginnote Info: xpos seems to be 72.53856pt on input line 74.
 
 LaTeX Warning: Marginpar on page 21 moved.
 
-\openout4 = `main.mw'.
-
-[21 <./images//duchamp.jpg>] (./main.mw)
-\openout4 = `main.mw'.
-
-<images//plastic.jpg, id=842, 770.88pt x 770.88pt>
+<images//plastic.jpg, id=832, 770.88pt x 770.88pt>
 File: images//plastic.jpg Graphic file (type jpg)
 <use images//plastic.jpg>
-Package pdftex.def Info: images//plastic.jpg  used on input line 85.
+Package pdftex.def Info: images//plastic.jpg  used on input line 81.
 (pdftex.def)             Requested size: 139.51698pt x 139.51698pt.
-Package marginnote Info: Margin note 30.1 is on absolute page 30 on input line 
-88.
-Package marginnote Info: right page because not two side mode on input line 88.
+Package marginnote Info: Margin note 29.2 is on absolute page 29 on input line 
+84.
+Package marginnote Info: right page because not two side mode on input line 84.
 
-Package marginnote Info: xpos seems to be 72.53856pt on input line 88.
+Package marginnote Info: xpos seems to be 72.53856pt on input line 84.
 
-
-LaTeX Warning: Marginpar on page 22 moved.
+LaTeX Warning: Marginpar on page 21 moved.
 
 \openout4 = `main.mw'.
 
-[22 <./images//plastic.jpg>] (./main.mw)
+[21 <./images//duchamp.jpg> <./images//plastic.jpg>] (./main.mw)
 \openout4 = `main.mw'.
 
-Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 119.
-\openout4 = `main.mw'.
-
+Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 108.
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
@@ -3988,6 +3980,14 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 119.
 
 \openout4 = `main.mw'.
 
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+ [22]
+(./main.mw)
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
@@ -3995,7 +3995,7 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 119.
  [23] (./main.mw)
 \openout4 = `main.mw'.
 
-Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 143.
+Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 146.
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
@@ -4025,16 +4025,16 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 143.
  [24] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//batman.png, id=864, 513.92pt x 513.92pt>
+<images//batman.png, id=863, 513.92pt x 513.92pt>
 File: images//batman.png Graphic file (type png)
 <use images//batman.png>
-Package pdftex.def Info: images//batman.png  used on input line 155.
+Package pdftex.def Info: images//batman.png  used on input line 158.
 (pdftex.def)             Requested size: 139.5209pt x 139.5209pt.
 Package marginnote Info: Margin note 33.1 is on absolute page 33 on input line 
-158.
-Package marginnote Info: right page because not two side mode on input line 158
+161.
+Package marginnote Info: right page because not two side mode on input line 161
 .
-Package marginnote Info: xpos seems to be 72.53856pt on input line 158.
+Package marginnote Info: xpos seems to be 72.53856pt on input line 161.
 
 
 LaTeX Warning: Marginpar on page 25 moved.
@@ -4042,7 +4042,7 @@ LaTeX Warning: Marginpar on page 25 moved.
 
 LaTeX Warning: Marginpar on page 25 moved.
 
-Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 168.
+Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 171.
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
@@ -4072,7 +4072,7 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 168.
 [25 <./images//batman.png (PNG copy)>] (./main.mw)
 \openout4 = `main.mw'.
 
-Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 172.
+Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 175.
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
@@ -4948,7 +4948,7 @@ sr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txsya.pfb></usr/share/te
 xlive/texmf-dist/fonts/type1/public/newpx/zplb.pfb></usr/share/texlive/texmf-di
 st/fonts/type1/public/newpx/zplr.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /public/newpx/zplri.pfb>
-Output written on main.pdf (40 pages, 10893921 bytes).
+Output written on main.pdf (40 pages, 10893858 bytes).
 PDF statistics:
  1379 PDF objects out of 1440 (max. 8388607)
  1186 compressed objects within 12 object streams
