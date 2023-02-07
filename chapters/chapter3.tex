@@ -63,9 +63,6 @@ So, let's separate AI's decision making into two extremes; \textit{Creative Deci
 
 Note that this book is called "Full-Self Driving, Skynet..", a self-driving car and a nuclear-bomb-equipped all-seeing AI are clearly not engaging in any \textit{Creative Decision Making}. I'll spend lot's of time diving into this but this distintion is super important. 
 
-\textbf{Modern AI, particularly deep learning models, will never be reliable enough to make critical decisions by themselves.} These models will transform the nature of work and jobs and do a lot of things, but because of the nature of how these models are created, they should \textbf{never} be relied on to make critical decisions by themselves. If you think this point is obvoius and pedantic, just stop reading I guess. But the general public seems to be confused about this point, so I'm going to discuss it in depth for many chapters. I'll say here that there are also many ways to reign in deep learning models and allow them to participate in critical decision making without having the final say, most of them involve humans getting a vote, others involve putting the deep learning model 'on rails' and either programming explicit rules via GOFAI or by physical systems that limit the deep learning model's decision making capacity\sidenote{Imagine a self-driving train that can only go so fast, and is mechanically setup to brake at certian intervals or locations, plus has a human watcher who can take over if things get weird. I like this train.}.
-
-
 \section{Garbage In, New Perspective Out?}
 
 For creative tasks, it generally doesn't matter that a deep learning model is unscientific or trained on a lopsided dataset. An informed user of AI knows this and can account for that in their decision making, especially when engaging in creative decision making. The situation becomes problematic once we allow deep learning models to engage in critical decision making by themselves. 
@@ -154,17 +151,12 @@ These techniques can help to reduce the risk of having AI models reproduce the t
 
 \section{Humans Love Computers}
 
-It turns out the most potent combination is a smart AI paired with a smart person. \sidenote{Funnily enough at Wharton I recently took a class where Dr. Cade Massey said basically "If you want to bring people along and get them to use your model, let them play with the ouput a bit, allowing for even the slightest bit (2\%) adjustment in the outputs will get users to adopt your model much faster}
+It turns out sometimes the best combination is a reasonably smart (but not too cocky) human that gets to get reccomendations from a few deep learning models. \sidenote{Funnily enough at Wharton I recently took a class where Dr. Cade Massey said basically "If you want to bring people along and get them to use your model, let them play with the ouput a bit, allowing for even the slightest bit (2\%) adjustment in the outputs will get users to adopt your model much faster}
 
-Once upon a time, Garry Kasparov, a legendary chess player, organized a tournament where humans and AI could compete together. The tournament was designed to showcase the strengths of both humans and AI, and how they could work together to achieve incredible results.
+Garry Kasparov, the legendary chess player we heard about in chapter 1, witnessed a tournament where humans and AI could compete together. The tournament was designed to showcase the strengths of both humans and AI, and how they could work together to achieve incredible results.
 
-The tournament consisted of several rounds, with each round featuring a human player paired with an AI chess program. The human player would make the first move, and then the AI program would make its move, with the pair working together to win the game.
+\textit{
 
-At the start of the tournament, the human players were skeptical of their AI partners, thinking that the machines would just take over and make all the decisions. But as the tournament progressed, they quickly realized that their AI partners were able to provide valuable insights and help them make better moves.
-
-One team in particular, made up of a seasoned chess player and a cutting-edge AI program, stood out from the rest. The combination of the player's experience and the AI's computational power allowed them to anticipate their opponents' moves and make strategic decisions that no human could have made on their own.
-
-In the final round, the team faced off against the reigning champions, a pair of world-class chess players. The game was intense, with both sides making bold moves and calculating intricate strategies. In the end, the human-AI team emerged victorious, much to the surprise of the crowd.
 
 The tournament was a huge success, and showed that when humans and AI work together, they can achieve amazing things. The tournament participants learned that AI is not just a tool, but a valuable partner, and that by combining their strengths, they could achieve results that neither could have accomplished on their own.
 
@@ -175,6 +167,10 @@ AI is an amazing partner, but we need to think for ourselves too. We can't blind
 \section{Key Takeaways}
 
 \begin{itemize}
-    \item \textbf{Models can puke out their training data} cool!
+    \item \textbf{When you are using deep learning models, you are almost always engaging in some kind of ttransfer learning.} You are assuming the past will be like the future, or that training set reflects reality, which isn't always the case. \sidenote{It's as simple as the common financial disclaimer \textit{Past performance is no guarantee of future results.} even though it is everywhere, the general public and even big swingers in finance don't seem to get this one. In AI there is an additional disclaimer, \textit{Training data may not reflect the real world.}}
+    \item \textbf{Models can puke out seemingly creative things, but they are still a product of their training data.} deep learning models are deterministic systems, they slap together data based on rules they guessed from their training data. This process can still be very useful, but deep learning models are not sentient creative creatures from science fiction.
+    \item \textbf{Even if you think you "own the rights" to the output of a model, models can sometimes puke out their training data} modelers try their best to prevent this but models can spit out their training data, which may cause headaches for everyone except the intellectual property lawyers. 
+    \item \textbf{Users should consider the quality and appropriateness of the data the model they are using is trained on before deciding to use a model.} Remember, machine learning engineers spend most of their time cleaning up and gathering data, if you ask questions about how and when the data was collected and cleaned up you can get ahead of potential problems of concept drift and blind transfer learning (engaging in transfer learning without your consent).
+
 \end{itemize}
 
