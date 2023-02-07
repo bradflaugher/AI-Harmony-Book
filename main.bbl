@@ -435,35 +435,6 @@
       \verb https://www.jonkrohn.com/posts/2022/10/7/tedx-talk-how-neuroscience-inspires-ai-breakthroughs-that-will-change-the-world
       \endverb
     \endentry
-    \entry{marcus2023}{misc}{}
-      \name{author}{1}{}{%
-        {{hash=199868cb9a5ee49454615e31ec8cc1ae}{%
-           family={Marcus},
-           familyi={M\bibinitperiod},
-           given={Gary},
-           giveni={G\bibinitperiod}}}%
-      }
-      \strng{namehash}{199868cb9a5ee49454615e31ec8cc1ae}
-      \strng{fullhash}{199868cb9a5ee49454615e31ec8cc1ae}
-      \strng{bibnamehash}{199868cb9a5ee49454615e31ec8cc1ae}
-      \strng{authorbibnamehash}{199868cb9a5ee49454615e31ec8cc1ae}
-      \strng{authornamehash}{199868cb9a5ee49454615e31ec8cc1ae}
-      \strng{authorfullhash}{199868cb9a5ee49454615e31ec8cc1ae}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{ACM}
-      \field{month}{1}
-      \field{title}{Is chatgpt really a 'code red' for google search?}
-      \field{year}{2023}
-      \verb{urlraw}
-      \verb https://cacm.acm.org/blogs/blog-cacm/268376-is-chatgpt-really-a-code-red-for-google-search/fulltext
-      \endverb
-      \verb{url}
-      \verb https://cacm.acm.org/blogs/blog-cacm/268376-is-chatgpt-really-a-code-red-for-google-search/fulltext
-      \endverb
-    \endentry
   \enddatalist
 \endrefsection
 \endinput

@@ -102,21 +102,7 @@
 \contentsline {mtocsection}{\numberline {6.6}How to Respond}{30}{section.6.6}%
 \contentsline {section}{\numberline {6.7}This Book is a Case Study}{30}{section.6.7}%
 \contentsline {mtocsection}{\numberline {6.7}This Book is a Case Study}{30}{section.6.7}%
-\contentsline {chapter}{\numberline {7}Unplugging Skynet}{31}{chapter.7}%
+\contentsline {chapter}{\numberline {7}Errors and Omissions}{31}{chapter.7}%
 \etoc@startlocaltoc {14}
 \etoc@startlocaltoc {15}
-\contentsline {section}{\numberline {7.1}AI and Human Safety}{31}{section.7.1}%
-\contentsline {mtocsection}{\numberline {7.1}AI and Human Safety}{31}{section.7.1}%
-\contentsline {section}{\numberline {7.2}Useful Incompatability}{31}{section.7.2}%
-\contentsline {mtocsection}{\numberline {7.2}Useful Incompatability}{31}{section.7.2}%
-\contentsline {section}{\numberline {7.3}Checks and Balances}{31}{section.7.3}%
-\contentsline {mtocsection}{\numberline {7.3}Checks and Balances}{31}{section.7.3}%
-\contentsline {section}{\numberline {7.4}Free-Rider Problems}{31}{section.7.4}%
-\contentsline {mtocsection}{\numberline {7.4}Free-Rider Problems}{31}{section.7.4}%
-\contentsline {section}{\numberline {7.5}When You Can't Tell The Difference}{31}{section.7.5}%
-\contentsline {mtocsection}{\numberline {7.5}When You Can't Tell The Difference}{31}{section.7.5}%
-\contentsline {section}{\numberline {7.6}Sucker Traps}{31}{section.7.6}%
-\contentsline {mtocsection}{\numberline {7.6}Sucker Traps}{31}{section.7.6}%
-\contentsline {section}{\numberline {7.7}Dead Inside}{32}{section.7.7}%
-\contentsline {mtocsection}{\numberline {7.7}Dead Inside}{32}{section.7.7}%
-\contentsline {chapter}{\nonumberline Bibliography}{33}{chapter*.18}%
+\contentsline {chapter}{\nonumberline Bibliography}{32}{chapter*.19}%

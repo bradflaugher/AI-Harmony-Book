@@ -84,6 +84,12 @@ Concept drift refers to the phenomenon where the distribution of data changes ov
 
 The frequency with which an AI model needs to be retrained to mitigate the effects of concept drift depends on several factors, including the rate at which the data distribution changes, the size and complexity of the model, and the availability of computational resources.
 
+\begin{marginfigure}[-5.5cm]
+        \includegraphics{plastic}
+        \caption{"Plastic surgery gone wrong" made with Stable Diffusion. Imagine a model that classifies images as "human face" or "not human face", and imagine that model was trained on images of human faces before 1900, maybe you would not be surprised if you gave it a picture of a human face that had a lot of cosmetic surgery done to it, and that model might say "this is not a human face", the idea of what a human face is has changed over time. This is called "concept drift".}
+        \labfig{plastic}
+\end{marginfigure}
+
 For some applications with relatively stable data distributions, retraining the model once every few months or even once per year may be sufficient. However, in other applications where the data is changing rapidly, it may be necessary to retrain the model more frequently, such as once per week or even once per day.
 
 Ultimately, the frequency of retraining will depend on the specific requirements of the application, and the trade-off between the cost of retraining and the potential cost of incorrect predictions. In general, it's recommended to monitor the performance of the model over time and to retrain it as needed to ensure that it remains accurate and relevant.
@@ -129,18 +135,18 @@ By continuing to make predictions without being retrained, the model is essentia
 
 Aside from regurgitating the past and predictions from other domains, deep learning models can also enable plagarism on an industrial scale. Early text generation models could be made to write entire sections of \textit{Harry Potter} when fed the opening lines of a chapter. Even as models grow large and more sophisticated, users, researchers and lawyers are still able to "extract the training data"  from large models\sidecite{Carlini2023}, causing headaches for their creators and adding to the work of intellectual property lawyers. 
 
+
+To avoid this creators of deep learning models have the following tools at their disposal:
+
 \begin{marginfigure}[-5.5cm]
         \includegraphics{potter}
         \caption{"Harry Potter and Batman High-fiving" made with Stable Diffusion}
         \labfig{potter}
 \end{marginfigure}
 
-
-To avoid this creators of deep learning models have the following tools at their disposal:
-
 \begin{itemize}
 \item Best practices in  machine learning: data preprocessing, augmentation, reuglarization, model architeture choices, early stopping and validation are all things that we are taught to do to prevent overfitting.
-\item Contractual agreements: Microsoft (owner of github and cocreator of the Github Copilot\sidenote{\url{https://github.com/features/copilot}} code generation model) has a special contract for anyone submitting code to github that essentially says that "we are allowed to use this code to train our models, and if our models regenerate your copyrighted code, you can go fuck yourself"
+\item Contractual agreements: Microsoft (owner of github and cocreator of the Github Copilot code generation model) has a special contract for anyone submitting code to github that essentially says that "we are allowed to use this code to train our models, and if our models regenerate your copyrighted code, you can go fuck yourself"
 \item Release the kraken: StabilityAI's Stable Diffusion model was released as open source software, they still managed to get sued, but they basically said, "this model was trained on all copyrighted and copylefted images on the web, sometimes it'll generate stuff that violates copyright law, but we are in Germany and will give this thing away for free to the public, and see how the photographers and graphic designers of the world handle it... OKbye!". 
 \end{itemize}
 
