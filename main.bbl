@@ -437,8 +437,8 @@
       \strng{authornamehash}{933ed9cdf5d86f8ed4df1bbbca747d53}
       \strng{authorfullhash}{933ed9cdf5d86f8ed4df1bbbca747d53}
       \field{extraname}{1}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{0362-4331}
@@ -471,8 +471,8 @@
       \strng{authornamehash}{933ed9cdf5d86f8ed4df1bbbca747d53}
       \strng{authorfullhash}{933ed9cdf5d86f8ed4df1bbbca747d53}
       \field{extraname}{2}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{0362-4331}
@@ -610,7 +610,6 @@
       \endverb
     \endentry
   \enddatalist
-  \missing{The one who got his ass kicked by IBM's Deep Blue}
 \endrefsection
 \endinput
 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.2.1)  7 FEB 2023 14:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.2.1)  7 FEB 2023 15:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2449,15 +2449,7 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
- (./main.bbl
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                The one who got his ass kicked by IBM's Deep Blue
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-)
+ (./main.bbl)
 Package biblatex Info: Reference section=0 on input line 77.
 Package biblatex Info: Reference segment=0 on input line 77.
 Package scrhack Info: undefining \float@addtolists on input line 77.
@@ -3973,7 +3965,7 @@ LaTeX Warning: Marginpar on page 22 moved.
 [22 <./images//plastic.jpg>] (./main.mw)
 \openout4 = `main.mw'.
 
-Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 109.
+Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 119.
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
@@ -4003,7 +3995,7 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 109.
  [23] (./main.mw)
 \openout4 = `main.mw'.
 
-Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 133.
+Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 143.
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
@@ -4028,77 +4020,29 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 133.
 
 \openout4 = `main.mw'.
 
-<images//potter.jpg, id=859, 770.88pt x 770.88pt>
-File: images//potter.jpg Graphic file (type jpg)
-<use images//potter.jpg>
-Package pdftex.def Info: images//potter.jpg  used on input line 145.
-(pdftex.def)             Requested size: 139.51698pt x 139.51698pt.
-Package marginnote Info: Margin note 32.1 is on absolute page 33 on input line 
-148.
-Package marginnote Info: right page because not two side mode on input line 148
+\openout4 = `main.mw'.
+
+ [24] (./main.mw)
+\openout4 = `main.mw'.
+
+<images//batman.png, id=864, 513.92pt x 513.92pt>
+File: images//batman.png Graphic file (type png)
+<use images//batman.png>
+Package pdftex.def Info: images//batman.png  used on input line 155.
+(pdftex.def)             Requested size: 139.5209pt x 139.5209pt.
+Package marginnote Info: Margin note 33.1 is on absolute page 33 on input line 
+158.
+Package marginnote Info: right page because not two side mode on input line 158
 .
-Package marginnote Info: xpos seems to be 72.53856pt on input line 148.
-
-
-LaTeX Warning: Marginpar on page 24 moved.
-
-\openout4 = `main.mw'.
-
-[24] (./main.mw)
-\openout4 = `main.mw'.
-
-Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 156.
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-
-
-LaTeX Warning: Citation 'The one who got his ass kicked by IBM's Deep Blue' on 
-page 25 undefined on input line 156.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-
-LaTeX Warning: Citation 'The one who got his ass kicked by IBM's Deep Blue' on 
-page 25 undefined on input line 156.
-
-
-Overfull \hbox (44.45439pt too wide) in paragraph at lines 156--156
-[][] 
- []
+Package marginnote Info: xpos seems to be 72.53856pt on input line 158.
 
 
 LaTeX Warning: Marginpar on page 25 moved.
 
-Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 158.
-\openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
+LaTeX Warning: Marginpar on page 25 moved.
 
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 162.
+Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 168.
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
@@ -4125,14 +4069,39 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 162.
 
 \openout4 = `main.mw'.
 
-[25 <./images//potter.jpg>] (./main.mw)
+[25 <./images//batman.png (PNG copy)>] (./main.mw)
+\openout4 = `main.mw'.
+
+Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 172.
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
 \openout4 = `main.mw'.
 
 ) (./chapters/chapter4.tex
 \openout4 = `main.mw'.
 
- [26]
-(./main.mw)
+
+[26] (./main.mw)
 \openout4 = `main.mw'.
 
 
@@ -4361,10 +4330,6 @@ This document will not have a glossary.
 
 
 ] (./main.mw)
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
@@ -4942,15 +4907,7 @@ This document will not have a glossary.
 
 )
 
-LaTeX Warning: There were undefined references.
-
-
 LaTeX Warning: There were multiply-defined labels.
-
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                main
-(biblatex)                and rerun LaTeX afterwards.
 
 \openout4 = `main.mw'.
 
@@ -4971,11 +4928,11 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 58815 strings out of 478287
- 1158325 string characters out of 5849290
- 2701073 words of memory out of 5000000
- 75221 multiletter control sequences out of 15000+600000
- 594910 words of font info for 326 fonts, out of 8000000 for 9000
+ 58809 strings out of 478287
+ 1158170 string characters out of 5849290
+ 2700954 words of memory out of 5000000
+ 75217 multiletter control sequences out of 15000+600000
+ 594811 words of font info for 325 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  133i,20n,159p,10596b,2656s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-lf-pc.enc}{/usr/s
@@ -4991,7 +4948,7 @@ sr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txsya.pfb></usr/share/te
 xlive/texmf-dist/fonts/type1/public/newpx/zplb.pfb></usr/share/texlive/texmf-di
 st/fonts/type1/public/newpx/zplr.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /public/newpx/zplri.pfb>
-Output written on main.pdf (40 pages, 10563987 bytes).
+Output written on main.pdf (40 pages, 10893921 bytes).
 PDF statistics:
  1379 PDF objects out of 1440 (max. 8388607)
  1186 compressed objects within 12 object streams

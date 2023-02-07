@@ -57,14 +57,14 @@
 \contentsline {mtocsection}{\numberline {3.5}Concept Drift and the End of Usefulness}{21}{section.3.5}%
 \contentsline {section}{\numberline {3.6}The Impossibility of Fairness}{23}{section.3.6}%
 \contentsline {mtocsection}{\numberline {3.6}The Impossibility of Fairness}{23}{section.3.6}%
-\contentsline {section}{\numberline {3.7}Transfer Learning Everywhere}{23}{section.3.7}%
-\contentsline {mtocsection}{\numberline {3.7}Transfer Learning Everywhere}{23}{section.3.7}%
+\contentsline {section}{\numberline {3.7}Transfer Learning Everywhere}{24}{section.3.7}%
+\contentsline {mtocsection}{\numberline {3.7}Transfer Learning Everywhere}{24}{section.3.7}%
 \contentsline {section}{\numberline {3.8}Industrial-Scale Plagarism}{24}{section.3.8}%
 \contentsline {mtocsection}{\numberline {3.8}Industrial-Scale Plagarism}{24}{section.3.8}%
 \contentsline {section}{\numberline {3.9}Humans Love Computers}{25}{section.3.9}%
 \contentsline {mtocsection}{\numberline {3.9}Humans Love Computers}{25}{section.3.9}%
-\contentsline {section}{\numberline {3.10}Key Takeaways}{25}{section.3.10}%
-\contentsline {mtocsection}{\numberline {3.10}Key Takeaways}{25}{section.3.10}%
+\contentsline {section}{\numberline {3.10}Key Takeaways}{26}{section.3.10}%
+\contentsline {mtocsection}{\numberline {3.10}Key Takeaways}{26}{section.3.10}%
 \contentsline {chapter}{\numberline {4}Model Cards and Case Studies}{27}{chapter.4}%
 \etoc@startlocaltoc {8}
 \etoc@startlocaltoc {9}
