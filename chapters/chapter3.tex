@@ -115,45 +115,60 @@ Ultimately, the extent to which fairness is achievable in AI models will depend 
 
 Transfer learning is a machine learning technique that involves transferring knowledge from one model trained on a task to another model trained on a related task. The idea behind transfer learning is that a model that has been trained on one task can be fine-tuned for another task, reducing the amount of labeled data required to train the new model.
 
-For example, imagine that you have a large convolutional neural network (CNN) that has been trained to recognize objects in natural images. You can use the knowledge learned by this model as a starting point to train a new model that recognizes objects in medical images, such as X-rays or MRI scans. The new model can start with the weights of the pre-trained CNN and fine-tune them on the new task, using a much smaller amount of labeled data than would be required to train the model from scratch.
+For example, imagine that you have a large convolutional neural network (CNN) that has been trained to recognize objects in natural images. You can use the knowledge learned by this model as a starting point to train a new model that recognizes objects in medical images, such as X-rays or MRI scans. The new model can start with the weights of the pre-trained CNN and fine-tune them on the new task, using a much smaller amount of labeled data than would be required to train the model from scratch.\sidenote{Transfer learning is taking data from a different domain, and pointing the model at a new task where data is hard to come by. Think if you tried to "catch bigfoot" using AI, since you have no data on bigfoot you would maybe use a human face detector and stick in on cameras in the woods to try and find a human-like face out there. It could work wonderfully and you could catch bigfoot, or it could turn out that you made a logical leap and bigfoots face doesn't look anything like a humans, so your use of human data to catch bigfoot was wrong}
 
 Transfer learning can be useful in many different applications, particularly when labeled data is scarce or expensive to obtain. By leveraging knowledge from a pre-trained model, transfer learning can help to improve the performance of new models, reduce the amount of data required for training, and accelerate the development of new machine learning applications.
 
 If the past is not like the future, you are doing transfer learning. Most models steal data from other sources so are doing transfer learning too. This is fine, but do we know that we are doing this? A model that is deployed in a domain experiencing concept drift and continues to make predictions without being retrained can be considered to be doing a harmful form of transfer learning. This is because the model has been trained on a different distribution of data (the past), and is being applied to a new domain with a different distribution (the present and future).
 
-In traditional transfer learning, the goal is to transfer knowledge from one domain to another related domain, where the data distributions are similar enough to enable the model to make accurate predictions. However, in the case of concept drift, the data distributions are changing over time, and the model is becoming less accurate as a result.
+In traditional transfer learning, the goal is to transfer knowledge from one domain to another related domain, where the data distributions are similar enough to enable the model to make accurate predictions. However, in the case of concept drift, the data distributions are changing over time, and the model is becoming less accurate as a result. 
 
-By continuing to make predictions without being retrained, the model is essentially "transferring" its knowledge from a historical data distribution to a new, changed data distribution, which may not be a valid assumption. This can result in incorrect predictions and other negative outcomes, such as harm to individuals or organizations.
+By continuing to make predictions without being retrained, the model is essentially "transferring" its knowledge from a historical data distribution to a new, changed data distribution, which may not be a valid assumption. This can result in incorrect predictions and other negative outcomes, such as harm to individuals or organizations. \sidenote{Think about your life nad if you "transferred" your model of thinking from when you were 12 years old, to "today" when you are 35 years old, that is a bad model to be operating on! That model needs to be updated. We'll explore many examples of where this is and is not a problem in the next chapter"}
 
 \section{Industrial-Scale Plagarism}
 
-Aside from regurgitating the past and predictions from other domains, deep learning models can also enable plagarism on an industrial scale \sidenote{Read more \url{https://www.wsj.com/articles/ai-chatgpt-dall-e-microsoft-rutkowski-github-artificial-intelligence-11675466857}}. Early text generation models could be made to write entire sections of \textit{Harry Potter} when fed the opening lines of a chapter. Even as models grow large and more sophisticated, users, researchers and lawyers are still able to "extract the training data"  from large models\sidecite{Carlini2023}, causing headaches for their creators and adding to the work of intellectual property lawyers. 
+Aside from regurgitating the past and predictions from other domains, deep learning models can also enable plagarism on an industrial scale. Early text generation models could be made to write entire sections of \textit{Harry Potter} when fed the opening lines of a chapter. Even as models grow large and more sophisticated, users, researchers and lawyers are still able to "extract the training data"  from large models\sidecite{Carlini2023}, causing headaches for their creators and adding to the work of intellectual property lawyers. 
+
+\begin{marginfigure}[-5.5cm]
+        \includegraphics{potter}
+        \caption{"Harry Potter and Batman High-fiving" made with Stable Diffusion}
+        \labfig{potter}
+\end{marginfigure}
+
 
 To avoid this creators of deep learning models have the following tools at their disposal:
 
 \begin{itemize}
 \item Best practices in  machine learning: data preprocessing, augmentation, reuglarization, model architeture choices, early stopping and validation are all things that we are taught to do to prevent overfitting.
-\item Contractual agreements: Microsoft (owner of github and cocreator of the Github Copilot\sidenote{link to copilot} code generation model) has a special contract for anyone submitting code to github that essentially says that "we are allowed to use this code to train our models, and if our models regenerate your copyrighted code, you can go fuck yourself" \sidenote{\url{https://fossa.com/blog/analyzing-legal-implicationsdisucssthe-github-copilot/}}
-\item Release the kraken: StabilityAI's Stable Diffusion model was released as open source software, they still managed to get sued \sidenote{StabilityAI sued}, but they basically said, "this model was trained on all copyrighted and copylefted images on the web, sometimes it'll generate stuff that violates copyright law, but we are in Germany and will give this thing away for free to the public, and see how the photographers and graphic designers of the world handle it... OKbye!". 
+\item Contractual agreements: Microsoft (owner of github and cocreator of the Github Copilot\sidenote{\url{https://github.com/features/copilot}} code generation model) has a special contract for anyone submitting code to github that essentially says that "we are allowed to use this code to train our models, and if our models regenerate your copyrighted code, you can go fuck yourself"
+\item Release the kraken: StabilityAI's Stable Diffusion model was released as open source software, they still managed to get sued, but they basically said, "this model was trained on all copyrighted and copylefted images on the web, sometimes it'll generate stuff that violates copyright law, but we are in Germany and will give this thing away for free to the public, and see how the photographers and graphic designers of the world handle it... OKbye!". 
 \end{itemize}
 
 These techniques can help to reduce the risk of having AI models reproduce the training data and cause intellectual property disputes, but there is no way to completely eliminate these risks, they are simply side-effects of the method of machine learning that we are doing nowadays.\sidenote{If you are an IP lawyer and need an expert witness, I'm your man \href{mailto:brad@bradflaugher.com}{brad@bradflaugher.com}}
 
 \section{Humans Love Computers}
 
-Working together seems like a good idea, but how. Talk about 2 percent model control and model uptake. 
+It turns out the most potent combination is a smart AI paired with a smart person. \sidenote{Funnily enough at Wharton I recently took a class where Dr. Cade Massey said basically "If you want to bring people along and get them to use your model, let them play with the ouput a bit, allowing for even the slightest bit (2\%) adjustment in the outputs will get users to adopt your model much faster}
 
-Also talk about Kasparov's tournament and Thinking for yourself in the age of AI. \sidecite{mansharamani2020}
+Once upon a time, Garry Kasparov, a legendary chess player, organized a tournament where humans and AI could compete together. The tournament was designed to showcase the strengths of both humans and AI, and how they could work together to achieve incredible results.
 
-Oneil\cite{Oneil2017}
-Perez\cite{Perez2019}
+The tournament consisted of several rounds, with each round featuring a human player paired with an AI chess program. The human player would make the first move, and then the AI program would make its move, with the pair working together to win the game.
+
+At the start of the tournament, the human players were skeptical of their AI partners, thinking that the machines would just take over and make all the decisions. But as the tournament progressed, they quickly realized that their AI partners were able to provide valuable insights and help them make better moves.
+
+One team in particular, made up of a seasoned chess player and a cutting-edge AI program, stood out from the rest. The combination of the player's experience and the AI's computational power allowed them to anticipate their opponents' moves and make strategic decisions that no human could have made on their own.
+
+In the final round, the team faced off against the reigning champions, a pair of world-class chess players. The game was intense, with both sides making bold moves and calculating intricate strategies. In the end, the human-AI team emerged victorious, much to the surprise of the crowd.
+
+The tournament was a huge success, and showed that when humans and AI work together, they can achieve amazing things. The tournament participants learned that AI is not just a tool, but a valuable partner, and that by combining their strengths, they could achieve results that neither could have accomplished on their own.
+
+The tournament inspired many people to explore the potential of human-AI collaboration, and showed that by embracing technology, we can create a brighter future for all.
+
+AI is an amazing partner, but we need to think for ourselves too. We can't blindly trust AI, but we can use it to inspire and challenge us.\sidecite{mansharamani2020}
 
 \section{Key Takeaways}
 
 \begin{itemize}
-    \item \textbf{Deep learning models are fundamentally large unscientific regressions} they are trained to create a function that maps input data to output data.
-    \item \textbf{Deep learning models are chaotic systems containing millions of interacting parameters} they are not designed to be explained or created in a way that their weights can be used for scientific analysis. They find reasonable answers and don't care how they get there. Multicolinearity (understanding the relationship of an input and output) and feature importance (understanding which inputs are most important) are only understandable with a high level of statistical error.
-    \item \textbf{Small changes in inputs of a deep learning model may dramatically change the outputs} deep learning models are complex deterministic systems that can exhibit chaotic behavior. Their inner workings are functionally unknowable and practically impossible to test.
-    \item \textbf{Deep learning models can have impressive and useful outputs, but the creators of models should be encouraged to highlight their failures and limitations.} Machine learning engineers might be more keen to highlight failures and limitations if they are encouraged to do so by their users, managers and investors.
+    \item \textbf{Models can puke out their training data} cool!
 \end{itemize}
 
