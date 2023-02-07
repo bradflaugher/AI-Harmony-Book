@@ -241,6 +241,80 @@
       \verb https://www.amazon.com/Alignment-Problem-Machine-Learning-Values/dp/0393635821
       \endverb
     \endentry
+    \entry{Carlini2023}{misc}{}
+      \name{author}{9}{}{%
+        {{hash=93330b46aec6ec2750a8adced7fef821}{%
+           family={Carlini},
+           familyi={C\bibinitperiod},
+           given={Nicholas},
+           giveni={N\bibinitperiod}}}%
+        {{hash=a4ae9103a3b7f4f0153caee2cc2228d5}{%
+           family={Hayes},
+           familyi={H\bibinitperiod},
+           given={Jamie},
+           giveni={J\bibinitperiod}}}%
+        {{hash=9622bf07a4de0cfdfb06f4540c32350d}{%
+           family={Nasr},
+           familyi={N\bibinitperiod},
+           given={Milad},
+           giveni={M\bibinitperiod}}}%
+        {{hash=1cda880ebcfa56340c11b94330f710a0}{%
+           family={Jagielski},
+           familyi={J\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod}}}%
+        {{hash=abfe760037f20c4c790cacd921b8719c}{%
+           family={Sehwag},
+           familyi={S\bibinitperiod},
+           given={Vikash},
+           giveni={V\bibinitperiod}}}%
+        {{hash=ab482c2931db00ecd5b1e89bbe011cb5}{%
+           family={Tramèr},
+           familyi={T\bibinitperiod},
+           given={Florian},
+           giveni={F\bibinitperiod}}}%
+        {{hash=22e757242574b20b1a043348c734d13f}{%
+           family={Balle},
+           familyi={B\bibinitperiod},
+           given={Borja},
+           giveni={B\bibinitperiod}}}%
+        {{hash=f0b22a1a9ec5b2901f5e0cb457612e93}{%
+           family={Ippolito},
+           familyi={I\bibinitperiod},
+           given={Daphne},
+           giveni={D\bibinitperiod}}}%
+        {{hash=f7bf50210206dec5bb19e32a74e1a580}{%
+           family={Wallace},
+           familyi={W\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{d8ee060ca87a8ecf0f21be92317d2ffe}
+      \strng{fullhash}{5783cab60fdd889479e80c2719b80b15}
+      \strng{bibnamehash}{d8ee060ca87a8ecf0f21be92317d2ffe}
+      \strng{authorbibnamehash}{d8ee060ca87a8ecf0f21be92317d2ffe}
+      \strng{authornamehash}{d8ee060ca87a8ecf0f21be92317d2ffe}
+      \strng{authorfullhash}{5783cab60fdd889479e80c2719b80b15}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Extracting Training Data from Diffusion Models}
+      \field{year}{2023}
+      \verb{doi}
+      \verb 10.48550/ARXIV.2301.13188
+      \endverb
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/2301.13188
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/2301.13188
+      \endverb
+      \keyw{Cryptography and Security (cs.CR),Computer Vision and Pattern Recognition (cs.CV),Machine Learning (cs.LG),FOS: Computer and information sciences,FOS: Computer and information sciences}
+    \endentry
     \entry{mansharamani2020}{book}{}
       \name{author}{1}{}{%
         {{hash=3bf7f8aebb363db6c9b75651ad07d9c6}{%
@@ -352,8 +426,8 @@
       \strng{authorbibnamehash}{a7d335811b8bedf76324b13953ec7d65}
       \strng{authornamehash}{a7d335811b8bedf76324b13953ec7d65}
       \strng{authorfullhash}{a7d335811b8bedf76324b13953ec7d65}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{978-1-64782281-1}

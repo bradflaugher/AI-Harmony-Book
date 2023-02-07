@@ -15,8 +15,8 @@
 \contentsline {mtocsection}{\numberline {1.4}IBM Tries Every Possible Chess Move}{4}{section.1.4}%
 \contentsline {section}{\numberline {1.5}Statistical Analysis of Handwriting is the Way of the Future}{4}{section.1.5}%
 \contentsline {mtocsection}{\numberline {1.5}Statistical Analysis of Handwriting is the Way of the Future}{4}{section.1.5}%
-\contentsline {section}{\numberline {1.6}Less Programmer Intelligence and more Data Intelligence}{5}{section.1.6}%
-\contentsline {mtocsection}{\numberline {1.6}Less Programmer Intelligence and more Data Intelligence}{5}{section.1.6}%
+\contentsline {section}{\numberline {1.6}Less Programmer Intelligence and More Data Intelligence}{5}{section.1.6}%
+\contentsline {mtocsection}{\numberline {1.6}Less Programmer Intelligence and More Data Intelligence}{5}{section.1.6}%
 \contentsline {section}{\numberline {1.7}From Explicit Rules to a Black Box, and Beyond}{5}{section.1.7}%
 \contentsline {mtocsection}{\numberline {1.7}From Explicit Rules to a Black Box, and Beyond}{5}{section.1.7}%
 \contentsline {section}{\numberline {1.8}Key Takeaways}{6}{section.1.8}%
@@ -63,10 +63,8 @@
 \contentsline {mtocsection}{\numberline {3.8}Industrial-Scale Plagarism}{24}{section.3.8}%
 \contentsline {section}{\numberline {3.9}Humans Love Computers}{25}{section.3.9}%
 \contentsline {mtocsection}{\numberline {3.9}Humans Love Computers}{25}{section.3.9}%
-\contentsline {section}{\numberline {3.10}Model Talk: Lightning Round}{25}{section.3.10}%
-\contentsline {mtocsection}{\numberline {3.10}Model Talk: Lightning Round}{25}{section.3.10}%
-\contentsline {section}{\numberline {3.11}Key Takeaways}{26}{section.3.11}%
-\contentsline {mtocsection}{\numberline {3.11}Key Takeaways}{26}{section.3.11}%
+\contentsline {section}{\numberline {3.10}Key Takeaways}{25}{section.3.10}%
+\contentsline {mtocsection}{\numberline {3.10}Key Takeaways}{25}{section.3.10}%
 \contentsline {chapter}{\numberline {4}Intermission: Example Models}{27}{chapter.4}%
 \etoc@startlocaltoc {8}
 \etoc@startlocaltoc {9}
