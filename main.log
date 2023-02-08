@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.2.1)  8 FEB 2023 09:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.2.1)  8 FEB 2023 10:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -4195,8 +4195,25 @@ Package marginnote Info: right page because not two side mode on input line 2.
 Package marginnote Info: xpos seems to be 72.53856pt on input line 2.
 
 Underfull \hbox (badness 10000) in paragraph at lines 2--2
+ [][][][]\T1/zplLF/b/n/9 (+20) Explaining The Un-ex-plain- 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
  [][][][]\T1/zplLF/b/n/9 (+8) A Train is a Self-Driving Car, 
  []
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+[30
+
+
+] (./main.mw)
+\openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
 
@@ -4205,15 +4222,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--2
 ) (./chapters/chapter6.tex
 \openout4 = `main.mw'.
 
- [30
-
-
-] (./main.mw)
+ [31] (./main.mw)
 \openout4 = `main.mw'.
 
 
 chapter 6.
-Package marginnote Info: Margin note 39.1 is on absolute page 39 on input line 
+Package marginnote Info: Margin note 40.1 is on absolute page 40 on input line 
 2.
 Package marginnote Info: right page because not two side mode on input line 2.
 Package marginnote Info: xpos seems to be 72.53856pt on input line 2.
@@ -4234,7 +4248,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--2
 
 \openout4 = `main.mw'.
 
-[31
+[32
 
 
 ] (./main.mw)
@@ -4242,7 +4256,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--2
 
 
 chapter 7.
-Package marginnote Info: Margin note 40.1 is on absolute page 40 on input line 
+Package marginnote Info: Margin note 41.1 is on absolute page 41 on input line 
 2.
 Package marginnote Info: right page because not two side mode on input line 2.
 Package marginnote Info: xpos seems to be 72.53856pt on input line 2.
@@ -4293,7 +4307,7 @@ cs / 2023 / 02 / 02 / the-[]ai-[]boom-[]lessons-[]from-[]history$[][]
 
 \openout4 = `main.mw'.
 
-[32
+[33
 
 
 ] (./main.mw)
@@ -4306,19 +4320,19 @@ cs / 2023 / 02 / 02 / the-[]ai-[]boom-[]lessons-[]from-[]history$[][]
 ) (./chapters/omissions.tex
 \openout4 = `main.mw'.
 
- [33] (./main.mw)
+ [34] (./main.mw)
 \openout4 = `main.mw'.
 
 
 chapter 8.
-Package marginnote Info: Margin note 42.1 is on absolute page 42 on input line 
+Package marginnote Info: Margin note 43.1 is on absolute page 43 on input line 
 2.
 Package marginnote Info: right page because not two side mode on input line 2.
 Package marginnote Info: xpos seems to be 72.53856pt on input line 2.
 )
 \openout4 = `main.mw'.
 
- [34
+ [35
 
 
 ] (./main.mw)
@@ -4370,13 +4384,17 @@ This document will not have a glossary.
 
 \openout4 = `main.mw'.
 
-[35
+[36
 
 
 
 
 
 ] (./main.mw)
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
@@ -5086,15 +5104,7 @@ This document will not have a glossary.
 
 )
 
-LaTeX Warning: There were undefined references.
-
-
 LaTeX Warning: There were multiply-defined labels.
-
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                main
-(biblatex)                and rerun LaTeX afterwards.
 
 \openout4 = `main.mw'.
 
@@ -5115,11 +5125,11 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 58829 strings out of 478287
- 1157957 string characters out of 5849290
- 2702275 words of memory out of 5000000
- 75224 multiletter control sequences out of 15000+600000
- 595205 words of font info for 329 fonts, out of 8000000 for 9000
+ 58843 strings out of 478287
+ 1158275 string characters out of 5849290
+ 2702374 words of memory out of 5000000
+ 75232 multiletter control sequences out of 15000+600000
+ 595336 words of font info for 330 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  133i,20n,159p,10596b,2656s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-lf-pc.enc}{/usr/s
@@ -5135,10 +5145,10 @@ sr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txsya.pfb></usr/share/te
 xlive/texmf-dist/fonts/type1/public/newpx/zplb.pfb></usr/share/texlive/texmf-di
 st/fonts/type1/public/newpx/zplr.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /public/newpx/zplri.pfb>
-Output written on main.pdf (41 pages, 14127504 bytes).
+Output written on main.pdf (42 pages, 14130157 bytes).
 PDF statistics:
- 1542 PDF objects out of 1728 (max. 8388607)
- 1345 compressed objects within 14 object streams
- 350 named destinations out of 1000 (max. 500000)
+ 1552 PDF objects out of 1728 (max. 8388607)
+ 1354 compressed objects within 14 object streams
+ 352 named destinations out of 1000 (max. 500000)
  50401 words of extra memory for PDF output out of 51595 (max. 10000000)
 

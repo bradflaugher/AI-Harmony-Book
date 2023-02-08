@@ -391,6 +391,35 @@
       \field{title}{Robot, take the wheel: The road to autonomous cars and the lost art of driving}
       \field{year}{2019}
     \endentry
+    \entry{trustworthyml}{misc}{}
+      \name{author}{2}{}{%
+        {{hash=2d98a42845fa3491e561b73f78496aff}{%
+           family={Yada\bibnamedelima Pruksachatkun},
+           familyi={Y\bibinitperiod\bibinitdelim P\bibinitperiod},
+           given={Matthew\bibnamedelima McAteer},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=9d1bc62bfff0c1bd8a021a5efa7ba8fd}{%
+           family={Majumda},
+           familyi={M\bibinitperiod},
+           given={Subhabrata\bibnamedelima (Subho)},
+           giveni={S\bibinitperiod\bibinitdelim (\bibinitperiod}}}%
+      }
+      \strng{namehash}{71bcd1988b4e9560d37152b82a59eb1f}
+      \strng{fullhash}{71bcd1988b4e9560d37152b82a59eb1f}
+      \strng{bibnamehash}{71bcd1988b4e9560d37152b82a59eb1f}
+      \strng{authorbibnamehash}{71bcd1988b4e9560d37152b82a59eb1f}
+      \strng{authornamehash}{71bcd1988b4e9560d37152b82a59eb1f}
+      \strng{authorfullhash}{71bcd1988b4e9560d37152b82a59eb1f}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://learning.oreilly.com/library/view/practicing-trustworthy-machine/9781098120269/ch03.html}}
+      \field{month}{2}
+      \field{note}{(Accessed on 02/08/2023)}
+      \field{title}{Practicing Trustworthy Machine Learning}
+      \field{year}{2023}
+    \endentry
     \entry{Keynes2012}{book}{}
       \name{author}{3}{}{%
         {{hash=612862f6008b8bea8cd4a13783af9a93}{%
