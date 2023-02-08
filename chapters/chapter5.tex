@@ -29,7 +29,26 @@ and this article \href{https://www.theautopian.com/newly-released-video-of-thank
 
 \section{Explaining The Unexplainable in Court}
 
-\textit{}
+\textit{"Limitations and Pitfalls of Explainable and Interpretable Methods}
+
+\textit{Before diving into the exact methods for interpreting and explaining models, let's take a look at some of the pitfalls of these methods.}
+
+\textit{First off, if you need to make high-stakes decisions, make sure to use inherently interpretable models. These are models such as decision trees that are more readily converted to output explanations.}
+
+\textit{Before choosing a method, you need to be absolutely clear about what you want out of it. Are you trying to understand the nature of the data procurement process? How a decision was made? How the model works on a fundamental level? Some tools might be appropriate for some of these goals but not others.}
+
+\textit{If your goal is to make sense of the data generation process, this is only possible if you know that your model already generalizes well to unseen data.}
+
+\textit{Decision interpretability can be misleading. It highlights things like correlations, but doesn’t go into the level of causal detail that causal inference does. Remember that correlation does not (always) imply causation.}
+
+\textit{WARNING}
+\textit{Spurious correlations can result in inaccurate interpretations even with advanced interpretability methods like saliency methods and attention-based methods.}
+
+\textit{Tools such as feature importance usually estimate mean values, but one should beware the error bars on those means and take stock of the confidence intervals.}
+
+\textit{A lot of machine learning involves working with extremely high-dimensional spaces. There's no way around it: high-dimensional data and feature spaces are hard to make sense of without grouping the data or features together first.}
+
+\textit{Even if you do find important features in those matrices, remember that this does not imply causality (we've said this before and we'll say it again)."} \cite{}
 
 \section{A Train is a Self-Driving Car, Right?}
 
