@@ -151,14 +151,15 @@ To avoid this creators of deep learning models have the following tools at their
 
 \begin{itemize}
 \item Best practices in  machine learning: data preprocessing, augmentation, reuglarization, model architecture choices, early stopping and validation are all things that we are taught to do to prevent overfitting.
-\item Contractual agreements: Microsoft (owner of github and cocreator of the Github Copilot code generation model) has a special contract for anyone submitting code to github that essentially says that "we are allowed to use this code to train our models, and if our models regenerate your copyrighted code, you can go fuck yourself"
-\item Release the Kraken: StabilityAI's Stable Diffusion model was released as open source software, they still managed to get sued, but they basically said, "this model was trained on all copyrighted and copylefted images on the web, sometimes it'll generate stuff that violates copyright law, but we are in Germany and will give this thing away for free to the public, and see how Getty Images, photographers and graphic designers of the world handle it... OKbye!". 
+\item Contractual agreements: Microsoft (owner of github and cocreator of the \href{https://github.com/features/copilot}{Github Copilot} code generation model) has a special contract for anyone submitting code to github that essentially says that "we are allowed to use this code to train our models, and if our models regenerate your copyrighted code, you can go fuck yourself."
+\item Release the Kraken: StabilityAI's Stable Diffusion model was released as open source software, they still managed to get sued \cite{getty}, but they basically said, "this model was trained on all copyrighted and copylefted images on the web, sometimes it'll generate stuff that violates copyright law, but we are in Germany and will give this thing away for free to the public, and see how Getty Images, photographers and graphic designers of the world handle it... OKbye!". 
 \end{itemize}
 
+
 \begin{marginfigure}[-5.5cm]
-        \includegraphics{batman}
-        \caption{"Batman Dressed as a Cowboy" made with Mann-E. I don't think Warner Brothers likes this...}
-        \labfig{batman}
+        \includegraphics{getty}
+        \caption{"man 30s talking to a doctor" Getty Images and Stable Diffusion comparison. Is Stable Diffusion creating something new here or spitting out it's training data? Is training a model like this fair use? I don't know, have fun lawyers! Note rights to each Getty photo runs around \$450, and Stable Diffusion is free to use, and they give users the rights to the model output. The Kraken has been released!}
+        \labfig{getty}
 \end{marginfigure}
 
 These techniques can help to reduce the risk of having AI models reproduce the training data and cause intellectual property disputes, but there is no way to completely eliminate these risks, they are simply side-effects of the method of machine learning that we are doing nowadays. If you are an IP lawyer and need an expert witness, I'm your man \href{mailto:brad@bradflaugher.com}{brad@bradflaugher.com}.
@@ -182,6 +183,11 @@ AI is an amazing partner, but we need to think for ourselves too. We can't blind
     \item \textbf{Models can puke out seemingly creative things, but they are still a product of their training data.} deep learning models are deterministic systems, they slap together data based on rules they guessed from their training data. This process can still be very useful, but deep learning models are not sentient creative creatures from science fiction.
     \item \textbf{Even if you think you "own the rights" to the output of a model, models can sometimes puke out their training data} modelers try their best to prevent this but models can spit out their training data, which may cause headaches for everyone except the intellectual property lawyers. 
     \item \textbf{Users should consider the quality and appropriateness of the data the model they are using is trained on before deciding to use a model.} Remember, machine learning engineers spend most of their time cleaning up and gathering data, if you ask questions about how and when the data was collected and cleaned up you can get ahead of potential problems of concept drift and blind transfer learning (engaging in transfer learning without your consent).
-    \item \textbf{Work with the technology} don't make your model do everything, sometimes it'll come up with stupid answers. Also don't assume you are always right\sidenote{Humans are horribly inconsintent in their judgements}. Working with your model, as if it were a coworker \sidenote{think of it as the weird guy who like trivia, but sometimes comes up with good ideas} is probably the best way to use deep learning models.
+    \item \textbf{Work with the technology} don't make your model do everything, sometimes it'll come up with stupid answers. Also don't assume you are always right, try and remember the story of the freestyle chess tournament and the grandmasters who got beat by the ameteurs getting reasonable advice from a few chess engines. Working with your model, as if it were a coworker that you don't fully trust, but still think is smart is probably the best way to use deep learning models.
 \end{itemize}
 
+\begin{marginfigure}[-5.5cm]
+        \includegraphics{batman}
+        \caption{"Batman Dressed as a Cowboy" made with Mann-E.}
+        \labfig{batman}
+\end{marginfigure}

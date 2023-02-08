@@ -315,6 +315,14 @@
       \endverb
       \keyw{Cryptography and Security (cs.CR),Computer Vision and Pattern Recognition (cs.CV),Machine Learning (cs.LG),FOS: Computer and information sciences,FOS: Computer and information sciences}
     \endentry
+    \entry{getty}{misc}{}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://news.yahoo.com/getty-images-claims-stable-diffusions-220000016.html}}
+      \field{note}{(Accessed on 02/08/2023)}
+      \field{title}{Getty Images Claims Stable Diffusion's Creator 'Copied' 12 Million Copyrighted Images}
+    \endentry
     \entry{kasparov2005}{misc}{}
       \field{sortinit}{3}
       \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
@@ -354,107 +362,6 @@
       \field{title}{Think for yourself: Restoring common sense in an age of experts and artificial intelligence}
       \field{year}{2020}
     \endentry
-    \entry{MacAskill2022}{article}{}
-      \name{author}{1}{}{%
-        {{hash=28922ab867623f6ca25a4e0f13850307}{%
-           family={MacAskill2022},
-           familyi={M\bibinitperiod}}}%
-      }
-      \strng{namehash}{28922ab867623f6ca25a4e0f13850307}
-      \strng{fullhash}{28922ab867623f6ca25a4e0f13850307}
-      \strng{bibnamehash}{28922ab867623f6ca25a4e0f13850307}
-      \strng{authorbibnamehash}{28922ab867623f6ca25a4e0f13850307}
-      \strng{authornamehash}{28922ab867623f6ca25a4e0f13850307}
-      \strng{authorfullhash}{28922ab867623f6ca25a4e0f13850307}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{day}{5}
-      \field{journaltitle}{The New York Times}
-      \field{month}{8}
-      \field{title}{The Case for Longtermism}
-      \field{urlday}{5}
-      \field{urlmonth}{8}
-      \field{urlyear}{2021}
-      \field{year}{2022}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \verb{urlraw}
-      \verb https://www.nytimes.com/2022/08/05/opinion/the-case-for-longtermism.html
-      \endverb
-      \verb{url}
-      \verb https://www.nytimes.com/2022/08/05/opinion/the-case-for-longtermism.html
-      \endverb
-    \endentry
-    \entry{Metz2022Sep}{article}{}
-      \name{author}{1}{}{%
-        {{hash=933ed9cdf5d86f8ed4df1bbbca747d53}{%
-           family={Metz},
-           familyi={M\bibinitperiod},
-           given={Cade},
-           giveni={C\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {The New York Times Company}%
-      }
-      \strng{namehash}{933ed9cdf5d86f8ed4df1bbbca747d53}
-      \strng{fullhash}{933ed9cdf5d86f8ed4df1bbbca747d53}
-      \strng{bibnamehash}{933ed9cdf5d86f8ed4df1bbbca747d53}
-      \strng{authorbibnamehash}{933ed9cdf5d86f8ed4df1bbbca747d53}
-      \strng{authornamehash}{933ed9cdf5d86f8ed4df1bbbca747d53}
-      \strng{authorfullhash}{933ed9cdf5d86f8ed4df1bbbca747d53}
-      \field{extraname}{1}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{0362-4331}
-      \field{journaltitle}{N.Y. Times}
-      \field{month}{9}
-      \field{title}{{The Long Road to Driverless Trucks}}
-      \field{year}{2022}
-      \verb{urlraw}
-      \verb https://www.nytimes.com/2022/09/28/business/driverless-trucks-highways.html
-      \endverb
-      \verb{url}
-      \verb https://www.nytimes.com/2022/09/28/business/driverless-trucks-highways.html
-      \endverb
-    \endentry
-    \entry{Metz2022Sep2}{article}{}
-      \name{author}{1}{}{%
-        {{hash=933ed9cdf5d86f8ed4df1bbbca747d53}{%
-           family={Metz},
-           familyi={M\bibinitperiod},
-           given={Cade},
-           giveni={C\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {The New York Times Company}%
-      }
-      \strng{namehash}{933ed9cdf5d86f8ed4df1bbbca747d53}
-      \strng{fullhash}{933ed9cdf5d86f8ed4df1bbbca747d53}
-      \strng{bibnamehash}{933ed9cdf5d86f8ed4df1bbbca747d53}
-      \strng{authorbibnamehash}{933ed9cdf5d86f8ed4df1bbbca747d53}
-      \strng{authornamehash}{933ed9cdf5d86f8ed4df1bbbca747d53}
-      \strng{authorfullhash}{933ed9cdf5d86f8ed4df1bbbca747d53}
-      \field{extraname}{2}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{0362-4331}
-      \field{journaltitle}{N.Y. Times}
-      \field{month}{9}
-      \field{title}{{Stuck on the Streets of San Francisco in a Driverless Car}}
-      \field{year}{2022}
-      \verb{urlraw}
-      \verb https://www.nytimes.com/2022/09/28/technology/driverless-cars-san-francisco.html
-      \endverb
-      \verb{url}
-      \verb https://www.nytimes.com/2022/09/28/technology/driverless-cars-san-francisco.html
-      \endverb
-    \endentry
     \entry{torchinsky_boeckmann_2019}{book}{}
       \name{author}{2}{}{%
         {{hash=9dd644e99ab2be5996fee8807ccf33f7}{%
@@ -477,8 +384,8 @@
       \strng{authorbibnamehash}{e8748a87f47a6482722dc49efea4d52d}
       \strng{authornamehash}{e8748a87f47a6482722dc49efea4d52d}
       \strng{authorfullhash}{e8748a87f47a6482722dc49efea4d52d}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Robot, take the wheel: The road to autonomous cars and the lost art of driving}
@@ -562,8 +469,8 @@
       \strng{authorbibnamehash}{199868cb9a5ee49454615e31ec8cc1ae}
       \strng{authornamehash}{199868cb9a5ee49454615e31ec8cc1ae}
       \strng{authorfullhash}{199868cb9a5ee49454615e31ec8cc1ae}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{ACM}
