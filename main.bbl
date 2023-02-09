@@ -187,8 +187,8 @@
         {{hash=5836fc1fa037e340c8b5591da3207608}{%
            family={Chollet},
            familyi={C\bibinitperiod},
-           given={Franc\bibnamedelima ois},
-           giveni={F\bibinitperiod\bibinitdelim o\bibinitperiod}}}%
+           given={Francois},
+           giveni={F\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Manning Publications}%
@@ -316,16 +316,46 @@
       \keyw{Cryptography and Security (cs.CR),Computer Vision and Pattern Recognition (cs.CV),Machine Learning (cs.LG),FOS: Computer and information sciences,FOS: Computer and information sciences}
     \endentry
     \entry{getty}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=79ecd5c0a1419e244b29a35ab420440d}{%
+           family={Barr},
+           familyi={B\bibinitperiod},
+           given={Kyle},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{79ecd5c0a1419e244b29a35ab420440d}
+      \strng{fullhash}{79ecd5c0a1419e244b29a35ab420440d}
+      \strng{bibnamehash}{79ecd5c0a1419e244b29a35ab420440d}
+      \strng{authorbibnamehash}{79ecd5c0a1419e244b29a35ab420440d}
+      \strng{authornamehash}{79ecd5c0a1419e244b29a35ab420440d}
+      \strng{authorfullhash}{79ecd5c0a1419e244b29a35ab420440d}
       \field{sortinit}{3}
       \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://news.yahoo.com/getty-images-claims-stable-diffusions-220000016.html}}
+      \field{month}{2}
       \field{note}{(Accessed on 02/08/2023)}
       \field{title}{Getty Images Claims Stable Diffusion's Creator 'Copied' 12 Million Copyrighted Images}
+      \field{year}{2023}
     \endentry
     \entry{kasparov2005}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=af1be2af894dd2eead00a3492f37f729}{%
+           family={Kasparov},
+           familyi={K\bibinitperiod},
+           given={Garry},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{af1be2af894dd2eead00a3492f37f729}
+      \strng{fullhash}{af1be2af894dd2eead00a3492f37f729}
+      \strng{bibnamehash}{af1be2af894dd2eead00a3492f37f729}
+      \strng{authorbibnamehash}{af1be2af894dd2eead00a3492f37f729}
+      \strng{authornamehash}{af1be2af894dd2eead00a3492f37f729}
+      \strng{authorfullhash}{af1be2af894dd2eead00a3492f37f729}
       \field{sortinit}{3}
       \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Kasparov}
       \field{month}{3}
@@ -361,157 +391,6 @@
       \field{labeltitlesource}{title}
       \field{title}{Think for yourself: Restoring common sense in an age of experts and artificial intelligence}
       \field{year}{2020}
-    \endentry
-    \entry{torchinsky_boeckmann_2019}{book}{}
-      \name{author}{2}{}{%
-        {{hash=9dd644e99ab2be5996fee8807ccf33f7}{%
-           family={Torchinsky},
-           familyi={T\bibinitperiod},
-           given={Jason},
-           giveni={J\bibinitperiod}}}%
-        {{hash=f6803c82669c21ab9b6e5be7b974e333}{%
-           family={Boeckmann},
-           familyi={B\bibinitperiod},
-           given={Beau},
-           giveni={B\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Apollo Publishers}%
-      }
-      \strng{namehash}{e8748a87f47a6482722dc49efea4d52d}
-      \strng{fullhash}{e8748a87f47a6482722dc49efea4d52d}
-      \strng{bibnamehash}{e8748a87f47a6482722dc49efea4d52d}
-      \strng{authorbibnamehash}{e8748a87f47a6482722dc49efea4d52d}
-      \strng{authornamehash}{e8748a87f47a6482722dc49efea4d52d}
-      \strng{authorfullhash}{e8748a87f47a6482722dc49efea4d52d}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Robot, take the wheel: The road to autonomous cars and the lost art of driving}
-      \field{year}{2019}
-    \endentry
-    \entry{trustworthyml}{misc}{}
-      \name{author}{2}{}{%
-        {{hash=2d98a42845fa3491e561b73f78496aff}{%
-           family={Yada\bibnamedelima Pruksachatkun},
-           familyi={Y\bibinitperiod\bibinitdelim P\bibinitperiod},
-           given={Matthew\bibnamedelima McAteer},
-           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-        {{hash=9d1bc62bfff0c1bd8a021a5efa7ba8fd}{%
-           family={Majumda},
-           familyi={M\bibinitperiod},
-           given={Subhabrata\bibnamedelima (Subho)},
-           giveni={S\bibinitperiod\bibinitdelim (\bibinitperiod}}}%
-      }
-      \strng{namehash}{71bcd1988b4e9560d37152b82a59eb1f}
-      \strng{fullhash}{71bcd1988b4e9560d37152b82a59eb1f}
-      \strng{bibnamehash}{71bcd1988b4e9560d37152b82a59eb1f}
-      \strng{authorbibnamehash}{71bcd1988b4e9560d37152b82a59eb1f}
-      \strng{authornamehash}{71bcd1988b4e9560d37152b82a59eb1f}
-      \strng{authorfullhash}{71bcd1988b4e9560d37152b82a59eb1f}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{\url{https://learning.oreilly.com/library/view/practicing-trustworthy-machine/9781098120269/ch03.html}}
-      \field{month}{2}
-      \field{note}{(Accessed on 02/08/2023)}
-      \field{title}{Practicing Trustworthy Machine Learning}
-      \field{year}{2023}
-    \endentry
-    \entry{Keynes2012}{book}{}
-      \name{author}{3}{}{%
-        {{hash=612862f6008b8bea8cd4a13783af9a93}{%
-           family={Keynes},
-           familyi={K\bibinitperiod},
-           given={John\bibnamedelima Maynard},
-           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-        {{hash=44f500c5174ad6be05f416e74da90025}{%
-           family={Johnson},
-           familyi={J\bibinitperiod},
-           given={Elizabeth},
-           giveni={E\bibinitperiod}}}%
-        {{hash=e6d0e2eb96ead00e650d7b4a2dc95289}{%
-           family={Moggridge},
-           familyi={M\bibinitperiod},
-           given={Donald},
-           giveni={D\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Cambridge, England, UK}%
-      }
-      \list{publisher}{1}{%
-        {Cambridge University Press}%
-      }
-      \strng{namehash}{69963cad7c718592b5a5632ef6e80e49}
-      \strng{fullhash}{69963cad7c718592b5a5632ef6e80e49}
-      \strng{bibnamehash}{69963cad7c718592b5a5632ef6e80e49}
-      \strng{authorbibnamehash}{69963cad7c718592b5a5632ef6e80e49}
-      \strng{authornamehash}{69963cad7c718592b5a5632ef6e80e49}
-      \strng{authorfullhash}{69963cad7c718592b5a5632ef6e80e49}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{isbn}{978-1-10765506-5}
-      \field{month}{12}
-      \field{title}{{The Collected Writings of John Maynard Keynes (Volume 5)}}
-      \field{year}{2012}
-      \verb{urlraw}
-      \verb https://www.amazon.com/Collected-Writings-John-Maynard-Keynes/dp/1107655064
-      \endverb
-      \verb{url}
-      \verb https://www.amazon.com/Collected-Writings-John-Maynard-Keynes/dp/1107655064
-      \endverb
-    \endentry
-    \entry{KrohnTED}{misc}{}
-      \list{publisher}{1}{%
-        {Jon Krohn}%
-      }
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Jon Krohn}
-      \field{month}{10}
-      \field{note}{[Online; accessed 18. Oct. 2022]}
-      \field{title}{{Jon Krohn}}
-      \field{year}{2022}
-      \verb{urlraw}
-      \verb https://www.jonkrohn.com/posts/2022/10/7/tedx-talk-how-neuroscience-inspires-ai-breakthroughs-that-will-change-the-world
-      \endverb
-      \verb{url}
-      \verb https://www.jonkrohn.com/posts/2022/10/7/tedx-talk-how-neuroscience-inspires-ai-breakthroughs-that-will-change-the-world
-      \endverb
-    \endentry
-    \entry{marcus2023}{misc}{}
-      \name{author}{1}{}{%
-        {{hash=199868cb9a5ee49454615e31ec8cc1ae}{%
-           family={Marcus},
-           familyi={M\bibinitperiod},
-           given={Gary},
-           giveni={G\bibinitperiod}}}%
-      }
-      \strng{namehash}{199868cb9a5ee49454615e31ec8cc1ae}
-      \strng{fullhash}{199868cb9a5ee49454615e31ec8cc1ae}
-      \strng{bibnamehash}{199868cb9a5ee49454615e31ec8cc1ae}
-      \strng{authorbibnamehash}{199868cb9a5ee49454615e31ec8cc1ae}
-      \strng{authornamehash}{199868cb9a5ee49454615e31ec8cc1ae}
-      \strng{authorfullhash}{199868cb9a5ee49454615e31ec8cc1ae}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{ACM}
-      \field{month}{1}
-      \field{title}{Is chatgpt really a 'code red' for google search?}
-      \field{year}{2023}
-      \verb{urlraw}
-      \verb https://cacm.acm.org/blogs/blog-cacm/268376-is-chatgpt-really-a-code-red-for-google-search/fulltext
-      \endverb
-      \verb{url}
-      \verb https://cacm.acm.org/blogs/blog-cacm/268376-is-chatgpt-really-a-code-red-for-google-search/fulltext
-      \endverb
     \endentry
   \enddatalist
 \endrefsection
