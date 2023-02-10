@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.2.1)  9 FEB 2023 09:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.2.1)  10 FEB 2023 09:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2165,56 +2165,14 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'english'.
- (./main.aux
-
-LaTeX Warning: Label `ch:intro' multiply defined.
-
-
-LaTeX Warning: Label `ch:intro@cref' multiply defined.
-
-
-LaTeX Warning: Label `ch:intro' multiply defined.
-
-
-LaTeX Warning: Label `ch:intro@cref' multiply defined.
-
-
-LaTeX Warning: Label `ch:intro' multiply defined.
-
-
-LaTeX Warning: Label `ch:intro@cref' multiply defined.
-
-
-LaTeX Warning: Label `ch:intro' multiply defined.
-
-
-LaTeX Warning: Label `ch:intro@cref' multiply defined.
-
-
-LaTeX Warning: Label `ch:intro' multiply defined.
-
-
-LaTeX Warning: Label `ch:intro@cref' multiply defined.
-
-
-LaTeX Warning: Label `ch:intro' multiply defined.
-
-
-LaTeX Warning: Label `ch:intro@cref' multiply defined.
-
-
-LaTeX Warning: Label `ch:intro' multiply defined.
-
-
-LaTeX Warning: Label `ch:intro@cref' multiply defined.
-
-)
+ (./main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/npxmi/m/it on input line 77.
 LaTeX Font Info:    Trying to load font information for OML+npxmi on input line
  77.
- (/usr/share/texlive/texmf-dist/tex/latex/newpx/omlnpxmi.fd
+
+(/usr/share/texlive/texmf-dist/tex/latex/newpx/omlnpxmi.fd
 File: omlnpxmi.fd 2013/03/21 Fontinst v1.933 font definitions for OML/npxmi.
 )
 LaTeX Font Info:    ... okay on input line 77.
@@ -3589,7 +3547,7 @@ Package marginnote Info: Margin note 17.1 is on absolute page 17 on input line
 61.
 Package marginnote Info: right page because not two side mode on input line 61.
 
-Package marginnote Info: xpos seems to be 476.18054pt on input line 61.
+Package marginnote Info: xpos seems to be 403.64198pt on input line 61.
 Package marginnote Info: Margin note 17.2 is on absolute page 17 on input line 
 76.
 Package marginnote Info: right page because not two side mode on input line 76.
@@ -3647,7 +3605,7 @@ LaTeX Warning: Marginpar on page 11 moved.
 [13] (./main.mw)
 \openout4 = `main.mw'.
 
-Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 237.
+Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 240.
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
@@ -3673,35 +3631,35 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 237.
 \openout4 = `main.mw'.
 
 
-Underfull \hbox (badness 3646) in paragraph at lines 237--237
+Underfull \hbox (badness 3646) in paragraph at lines 240--240
 []\T1/zplLF/m/n/8 (+20) 11: It's called Ten-sor-Flow and was
  []
 
 
-Underfull \hbox (badness 1540) in paragraph at lines 237--237
+Underfull \hbox (badness 1540) in paragraph at lines 240--240
 \T1/zplLF/m/n/8 (+20) Loved" Tech-nolo-gies of 2022 [][]$\T1/fvm/m/n/8 https :
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 237--237
+Underfull \hbox (badness 10000) in paragraph at lines 240--240
 \T1/fvm/m/n/8 / / survey . stackoverflow . co / 2022 /
  []
 
 
-Overfull \hbox (9.85089pt too wide) in paragraph at lines 237--237
+Overfull \hbox (9.85089pt too wide) in paragraph at lines 240--240
 \T1/fvm/m/n/8 #most-[]popular-[]technologies-[]misc-[]tech$[][] 
  []
 
 <images//trustworthysd.jpg, id=751, 770.88pt x 770.88pt>
 File: images//trustworthysd.jpg Graphic file (type jpg)
 <use images//trustworthysd.jpg>
-Package pdftex.def Info: images//trustworthysd.jpg  used on input line 244.
+Package pdftex.def Info: images//trustworthysd.jpg  used on input line 247.
 (pdftex.def)             Requested size: 139.51698pt x 139.51698pt.
 Package marginnote Info: Margin note 22.1 is on absolute page 22 on input line 
-247.
-Package marginnote Info: right page because not two side mode on input line 247
+250.
+Package marginnote Info: right page because not two side mode on input line 250
 .
-Package marginnote Info: xpos seems to be 72.53856pt on input line 247.
+Package marginnote Info: xpos seems to be 72.53856pt on input line 250.
 
 LaTeX Warning: Marginpar on page 14 moved.
 
@@ -3710,22 +3668,22 @@ LaTeX Warning: Marginpar on page 14 moved.
 \openout4 = `main.mw'.
 
 
-Underfull \hbox (badness 3668) in paragraph at lines 255--255
+Underfull \hbox (badness 3668) in paragraph at lines 258--258
 []\T1/zplLF/m/n/8 (+20) 12: This is of-ten the hard-est part.
  []
 
 
-Underfull \hbox (badness 2828) in paragraph at lines 255--255
+Underfull \hbox (badness 2828) in paragraph at lines 258--258
 \T1/zplLF/m/n/8 (+20) Data is of-ten la-beled by hand or
  []
 
 
-Underfull \hbox (badness 7468) in paragraph at lines 255--255
+Underfull \hbox (badness 7468) in paragraph at lines 258--258
 \T1/zplLF/m/n/8 (+20) stolen from an-other do-main. See
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 255--255
+Underfull \hbox (badness 10000) in paragraph at lines 258--258
 [][]$\T1/fvm/m/n/8 https : / / en . wikipedia . org / wiki /
  []
 
@@ -3741,24 +3699,24 @@ LaTeX Warning: Marginpar on page 14 moved.
 File: images//predictive_keyboard.png Graphic file (type png)
 <use images//predictive_keyboard.png>
 Package pdftex.def Info: images//predictive_keyboard.png  used on input line 28
-4.
+7.
 (pdftex.def)             Requested size: 139.51747pt x 93.83789pt.
 Package marginnote Info: Margin note 23.1 is on absolute page 23 on input line 
-287.
-Package marginnote Info: right page because not two side mode on input line 287
+290.
+Package marginnote Info: right page because not two side mode on input line 290
 .
-Package marginnote Info: xpos seems to be 72.53856pt on input line 287.
+Package marginnote Info: xpos seems to be 72.53856pt on input line 290.
 
 
 LaTeX Warning: Marginpar on page 15 moved.
 
 
-Underfull \hbox (badness 1189) in paragraph at lines 291--291
+Underfull \hbox (badness 1189) in paragraph at lines 294--294
 \T1/zplLF/m/it/8 (+20) pres-sion of great-ness. it's a mis-take to
  []
 
 
-Underfull \hbox (badness 1087) in paragraph at lines 291--291
+Underfull \hbox (badness 1087) in paragraph at lines 294--294
 \T1/zplLF/m/it/8 (+20) have lots of work to do on ro-bust-ness
  []
 
@@ -3774,19 +3732,19 @@ Underfull \hbox (badness 1087) in paragraph at lines 291--291
 <images//sciencechat.png, id=797, 513.92pt x 513.92pt>
 File: images//sciencechat.png Graphic file (type png)
 <use images//sciencechat.png>
-Package pdftex.def Info: images//sciencechat.png  used on input line 303.
+Package pdftex.def Info: images//sciencechat.png  used on input line 306.
 (pdftex.def)             Requested size: 139.5209pt x 139.5209pt.
 Package marginnote Info: Margin note 24.1 is on absolute page 24 on input line 
-306.
-Package marginnote Info: right page because not two side mode on input line 306
+309.
+Package marginnote Info: right page because not two side mode on input line 309
 .
-Package marginnote Info: xpos seems to be 72.53856pt on input line 306.
+Package marginnote Info: xpos seems to be 72.53856pt on input line 309.
 
 
 LaTeX Warning: Marginpar on page 16 moved.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 310--310
+Underfull \hbox (badness 10000) in paragraph at lines 314--314
 \T1/fvm/m/n/8 com / windmaple / awesome-[]AutoML #
  []
 
@@ -3796,12 +3754,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 310--310
 \openout4 = `main.mw'.
 
 
-Underfull \hbox (badness 1635) in paragraph at lines 316--316
+Underfull \hbox (badness 1635) in paragraph at lines 320--320
 \T1/zplLF/m/n/8 (+20) Kenyan work-ers to help la-bel toxic
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 316--316
+Underfull \hbox (badness 10000) in paragraph at lines 320--320
 \T1/zplLF/m/n/8 (+20) con-tent [][]$\T1/fvm/m/n/8 https : / / time . com / 6247
 678 /
  []
@@ -3810,22 +3768,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 316--316
 LaTeX Warning: Marginpar on page 17 moved.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 317--317
+Underfull \hbox (badness 10000) in paragraph at lines 321--321
 [][]$\T1/fvm/m/n/8 https : / / aws . amazon . com / sagemaker /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 317--317
+Underfull \hbox (badness 10000) in paragraph at lines 321--321
 []\T1/zplLF/m/n/8 (+20) 23: See the lat-est ma-chine learn-
  []
 
 
-Underfull \hbox (badness 7667) in paragraph at lines 317--317
+Underfull \hbox (badness 7667) in paragraph at lines 321--321
 \T1/zplLF/m/n/8 (+20) ing en-gi-neer salaries at lev-els.fyi
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 317--317
+Underfull \hbox (badness 10000) in paragraph at lines 321--321
 [][]$\T1/fvm/m/n/8 https : / / www . levels . fyi / t /
  []
 
@@ -3836,12 +3794,12 @@ LaTeX Warning: Marginpar on page 17 moved.
 LaTeX Warning: Marginpar on page 17 moved.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 321--321
+Underfull \hbox (badness 10000) in paragraph at lines 325--325
 \T1/fvm/m/n/8 www . reddit . com / r / MachineLearning /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 321--321
+Underfull \hbox (badness 10000) in paragraph at lines 325--325
 \T1/fvm/m/n/8 comments / yto34q / d _ when _ was _ the _
  []
 
@@ -3944,18 +3902,18 @@ LaTeX Warning: Marginpar on page 20 moved.
 <images//duchamp.jpg, id=886, 369.38pt x 482.80376pt>
 File: images//duchamp.jpg Graphic file (type jpg)
 <use images//duchamp.jpg>
-Package pdftex.def Info: images//duchamp.jpg  used on input line 76.
+Package pdftex.def Info: images//duchamp.jpg  used on input line 77.
 (pdftex.def)             Requested size: 139.5204pt x 182.36229pt.
 
-Underfull \hbox (badness 3884) in paragraph at lines 77--77
+Underfull \hbox (badness 3884) in paragraph at lines 78--78
 \T1/zplLF/m/n/8 (+20) tain". A uri-nal that blew peo-ples
  []
 
 Package marginnote Info: Margin note 29.1 is on absolute page 29 on input line 
-79.
-Package marginnote Info: right page because not two side mode on input line 79.
+80.
+Package marginnote Info: right page because not two side mode on input line 80.
 
-Package marginnote Info: xpos seems to be 72.53856pt on input line 79.
+Package marginnote Info: xpos seems to be 72.53856pt on input line 80.
 
 LaTeX Warning: Marginpar on page 21 moved.
 
@@ -3967,13 +3925,13 @@ LaTeX Warning: Marginpar on page 21 moved.
 <images//plastic.jpg, id=895, 770.88pt x 770.88pt>
 File: images//plastic.jpg Graphic file (type jpg)
 <use images//plastic.jpg>
-Package pdftex.def Info: images//plastic.jpg  used on input line 93.
+Package pdftex.def Info: images//plastic.jpg  used on input line 94.
 (pdftex.def)             Requested size: 139.51698pt x 139.51698pt.
 Package marginnote Info: Margin note 30.1 is on absolute page 30 on input line 
-96.
-Package marginnote Info: right page because not two side mode on input line 96.
+97.
+Package marginnote Info: right page because not two side mode on input line 97.
 
-Package marginnote Info: xpos seems to be 72.53856pt on input line 96.
+Package marginnote Info: xpos seems to be 72.53856pt on input line 97.
 
 
 LaTeX Warning: Marginpar on page 22 moved.
@@ -3983,7 +3941,7 @@ LaTeX Warning: Marginpar on page 22 moved.
 [22 <./images//plastic.jpg>] (./main.mw)
 \openout4 = `main.mw'.
 
-Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 114.
+Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 115.
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
@@ -4018,7 +3976,7 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 114.
  [24] (./main.mw)
 \openout4 = `main.mw'.
 
-Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 152.
+Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 154.
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
@@ -4050,13 +4008,13 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 152.
 <images//getty.png, id=918, 2254.4225pt x 1379.1525pt>
 File: images//getty.png Graphic file (type png)
 <use images//getty.png>
-Package pdftex.def Info: images//getty.png  used on input line 165.
+Package pdftex.def Info: images//getty.png  used on input line 167.
 (pdftex.def)             Requested size: 139.49068pt x 85.334pt.
 Package marginnote Info: Margin note 33.1 is on absolute page 33 on input line 
-168.
-Package marginnote Info: right page because not two side mode on input line 168
+170.
+Package marginnote Info: right page because not two side mode on input line 170
 .
-Package marginnote Info: xpos seems to be 72.53856pt on input line 168.
+Package marginnote Info: xpos seems to be 72.53856pt on input line 170.
 
 
 LaTeX Warning: Marginpar on page 25 moved.
@@ -4066,7 +4024,7 @@ LaTeX Warning: Marginpar on page 25 moved.
 [25 <./images//getty.png>] (./main.mw)
 \openout4 = `main.mw'.
 
-Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 178.
+Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 180.
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
@@ -4091,7 +4049,7 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 178.
 
 \openout4 = `main.mw'.
 
-Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 182.
+Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 184.
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
@@ -4150,7 +4108,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--2
  []
 
 
-Overfull \hbox (367.92575pt too wide) in paragraph at lines 24--25
+Overfull \hbox (367.92575pt too wide) in paragraph at lines 28--29
 [][]$\T1/fvm/m/n/10 https : / / arstechnica . com / information-[]technology / 
 2022 / 11 / new-[]go-[]playing-[]trick-[]defeats-[]world-[]class-[]go-[]ai-[]bu
 t-[]loses-[]to-[]human-[]amateurs/$[][] 
@@ -4165,13 +4123,13 @@ t-[]loses-[]to-[]human-[]amateurs/$[][]
 \openout4 = `main.mw'.
 
 
-Overfull \hbox (14.50143pt too wide) in paragraph at lines 32--33
+Overfull \hbox (14.50143pt too wide) in paragraph at lines 36--37
 [][]$\T1/fvm/m/n/10 https : / / www . psychologytoday . com / us / blog / the-[
 ]future-[]brain / 202301 /
  []
 
 
-Overfull \hbox (58.99623pt too wide) in paragraph at lines 45--46
+Overfull \hbox (58.99623pt too wide) in paragraph at lines 49--50
 [][]$\T1/fvm/m/n/10 https : / / www . nytimes . com / 2023 / 02 / 03 / health /
  apple-[]watch-[]911-[]emergency-[]call .
  []
@@ -4182,7 +4140,7 @@ Overfull \hbox (58.99623pt too wide) in paragraph at lines 45--46
 \openout4 = `main.mw'.
 
 
-Overfull \hbox (234.14784pt too wide) in paragraph at lines 50--51
+Overfull \hbox (234.14784pt too wide) in paragraph at lines 54--55
 [][]$\T1/fvm/m/n/10 https : / / www . extremetech . com / extreme / 342413-[]us
 -[]marines-[]defeat-[]darpa-[]robot-[]by-[]hiding-[]under-[]a-[]cardboard-[]box
 $[][] 
@@ -4310,6 +4268,12 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 13.
 Overfull \hbox (155.92638pt too wide) in paragraph at lines 17--18
 [][]$\T1/fvm/m/n/10 https : / / www . economist . com / finance-[]and-[]economi
 cs / 2023 / 02 / 02 / the-[]ai-[]boom-[]lessons-[]from-[]history$[][]
+ []
+
+
+Overfull \hbox (172.97842pt too wide) in paragraph at lines 23--24
+\T1/fvm/m/n/10 technology / white-[]house-[]european-[]commission-[]launch-[]fi
+rst-[]of-[]its-[]kind-[]ai-[]agreement-[]2023-[]01-[]27/$[][] 
  []
 
 \openout4 = `main.mw'.
@@ -5130,9 +5094,6 @@ This document will not have a glossary.
 LaTeX Warning: There were undefined references.
 
 
-LaTeX Warning: There were multiply-defined labels.
-
-
 Package biblatex Warning: Please (re)run Biber on the file:
 (biblatex)                main
 (biblatex)                and rerun LaTeX afterwards.
@@ -5156,10 +5117,10 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 58838 strings out of 478287
- 1158139 string characters out of 5849290
- 2702805 words of memory out of 5000000
- 75234 multiletter control sequences out of 15000+600000
+ 58866 strings out of 478287
+ 1158551 string characters out of 5849290
+ 2704146 words of memory out of 5000000
+ 75262 multiletter control sequences out of 15000+600000
  594969 words of font info for 327 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  133i,20n,159p,10596b,2656s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -5176,10 +5137,10 @@ sr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txsya.pfb></usr/share/te
 xlive/texmf-dist/fonts/type1/public/newpx/zplb.pfb></usr/share/texlive/texmf-di
 st/fonts/type1/public/newpx/zplr.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /public/newpx/zplri.pfb>
-Output written on main.pdf (43 pages, 14130736 bytes).
+Output written on main.pdf (43 pages, 14132191 bytes).
 PDF statistics:
- 1566 PDF objects out of 1728 (max. 8388607)
- 1367 compressed objects within 14 object streams
+ 1581 PDF objects out of 1728 (max. 8388607)
+ 1382 compressed objects within 14 object streams
  349 named destinations out of 1000 (max. 500000)
  50417 words of extra memory for PDF output out of 51595 (max. 10000000)
 

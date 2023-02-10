@@ -1,6 +1,6 @@
 \setchapterpreamble[u]{\margintoc}
 \chapter{The Regression Theory of Everything}
-\labch{intro}
+\labch{regression}
 
 \textit{"AI Scientists disagree as to whether these language networks possess true knowledge or are just mimicking humans by remembering the statistics of millions of words. I don't believe any kind of deep learning network will achieve the goal of AGI [Artificial General Intelligence] if the network doesn't model the world the way the brain does. Deep learning networks work well, but not because they solved the knowledge representation problem. They work well because they avoided it completely, relying on statistics and lots of data instead. How deep learning networks work is clever, their performance impressive, and they are commercially valuable. I am only pointing out that they don't possess knowledge and, therefore, are not on the path to having the ability of a five-year-old child."} Jeff Hawkins, 2022 \cite{hawkins2022}
 
@@ -219,6 +219,7 @@ When a neural network has millions of trainable parameters and deep layers of ne
 When a neural network has millions of interacting parameters, it can lead to mathematical chaos \sidenote{Mathematical chaos is a real thing, it refers to the behavior of certain dynamic systems that are highly sensitive to initial conditions. This sensitivity leads to seemingly random and unpredictable behavior, even though the underlying equations governing the system are deterministic (meaning they are transparent and known to us). \url{https://en.wikipedia.org/wiki/Chaos_theory} }, which is a phenomenon where small changes in the initial conditions of the network can lead to vastly different outputs. This is because the interactions between the large number of parameters can create non-linear relationships that are sensitive to small changes. This can make it difficult to predict the behavior of the network, as small changes in the input or the parameters can lead to unexpected and seemingly random outputs.\sidenote{Chaotic outputs in a large deterministic system are OK in many domains, and there are controls that can be put in place to keep AI "safe" but deep learning by itself will not produce those controls.}
 
 \section{Multicolinearity and the End of Science}
+\labsec{multi}
 
 Data science is a horrible term because it implies that data scientists are scientists and that the work they do is scientific when in reality data scientists are not scientists and the work they do is not scientific. Data scientists use mathematics, statistics, and computer science to analyze data, but it is not scientific in the traditional sense. Data scientists do not use the scientific method and do not conduct experiments or develop theories. Data science is more akin to engineering or data analytics than actual scientific research.
 
@@ -227,12 +228,14 @@ The main goal of a scientist is to gain knowledge and understanding of the natur
 Explaining the inner-workings of a neural network with millions of interacting parameters is difficult for many reasons. Most of the complexity is due to the number of parameters, which can make it difficult to understand how the model works and why it makes certain decisions. The interactions between the parameters are often non-linear and can be difficult to understand, as the model can be sensitive to small changes in the parameters, which is the definition of mathematical chaos. This can make it difficult to explain why the model is making certain decisions, as the interactions between the parameters are not always clear.
 
 \section{Let's Test Some Random Inputs! Feature Importance and Explainability}
+\labsec{explain}
 
 With a huge complex system of neurons that combine inputs in novel ways, it becomes vary hard to understand which inputs are the most important for the system as a whole. To better understand deep learning models, data scientists use randomized or averaged inputs to a model to test the feature importance of a deep learning neural network. This type of testing is done to determine which features are most influential in the overall output of the network. This is done by randomly or averaging the input values for each feature and then running the model to see how the output is affected. For example, if a neural network is used to detect objects in an image, the data scientist may randomize the color of the objects to see how the model’s accuracy is affected. If the accuracy drops significantly, they can infer that color is an important feature in the network.
 
 Randomized or averaged inputs to a model can also be used to determine if a particular feature is necessary for the network to function correctly. For example, if the output of the network is not as accurate when a particular feature is randomized or averaged, then the data scientist can infer that this feature is important for the network’s performance. By using this method, data scientists can gain insights into which features are important and which can be removed from the model to improve performance.
 
 \section{The Universal Machine Learning Workflow}
+\labsec{limits}
 
 The Universal Machine Learning Workflow\sidecite{chollet2022} is an important chapter in a technical guide for data scientists  by the author of the most popular machine learning framework in the world\sidenote{It's called TensorFlow and was one of the most popular and "Most Loved" Technologies of 2022 \url{https://survey.stackoverflow.co/2022/\#most-popular-technologies-misc-tech}} that outlines the \textit{Universal} workflow for machine learning projects. I think this chapter should be understood by everyone using, investing in and creating machine learning models. 
 
@@ -306,6 +309,7 @@ One does not need to be a psychologist to understand that these conversations al
 \end{marginfigure}
 
 \section{A Machine Learning Engineer is a Data Janitor}
+\labsec{janitor}
 
 Since the machine learning workflow is \textit{universal}, it is fairly straightforward to automate. There are a plethora of offerings from companies big and small who offer AutoML tools that anyone with basic Excel skills can use\sidenote{See this awesome-AutoML github project for an up-to-date list of commercial AutoML tools \url{https://github.com/windmaple/awesome-AutoML\#commercial-products}}. Since modern AI is "all a regression" these tools do the regression for you, users just need to feed them the data and the AutoML tool finds out the relationship. On the surface it seems like the job of the machine learning engineer has become obsolete before it even became a proper discipline. 
 

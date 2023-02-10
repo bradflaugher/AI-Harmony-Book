@@ -1,6 +1,6 @@
 \setchapterpreamble[u]{\margintoc}
 \chapter{Creativity and Decision Making with Deep Learning Models}
-\labch{intro}
+\labch{decisions}
 
 \textit{"AI Policy}
 
@@ -59,6 +59,7 @@ A power drill is also a complex deterministic system. The user input is limited 
 Both modern deep learning models and a power drill are complex but ultimately deterministic systems. The user input, however limited it may be, ultimately controls the output of the system. Both systems require a user to understand how to use them and to make the correct input to get the desired output.
 
 \section{Garbage In, Garbage Out}
+\labsec{creative}
 
 The "Power Tool" of AI is a deterministic, static and unchanging system and the rules of that system are determined by the data that the model is shown. If a model is trained on shitty data, it will produce shitty results. End of book...
 
@@ -81,7 +82,7 @@ For creative tasks, it generally doesn't matter that a deep learning model is un
 Generative models will come up with amazing (but derivative) works of art, But, they will never "change the game". A model of sculpture trained on past sculptures in 1917 will never come up with Marcel Duchamp's "Fountain". There is a term that machine learning engineers use for this, when the rules of the game are changed, it's called "Concept Drift".
 
 \section{Concept Drift and the End of Usefulness}
-
+\labsec{drift}
 
 Concept drift refers to the phenomenon where the distribution of data changes over time, causing the performance of deep learning models built on historical data to degrade. The model becomes less useful because it is trained to make predictions based on the relationship between the inputs and outputs in the data it was trained on, and if this relationship changes, the model may start making incorrect predictions. This is particularly problematic in real-world applications, where the data is constantly evolving and the relationship between inputs and outputs is subject to change. To mitigate the effects of concept drift, it is often necessary to continually retrain deep learning models on updated data.
 
@@ -148,6 +149,7 @@ In traditional transfer learning, the goal is to transfer knowledge from one dom
 By continuing to make predictions without being retrained, the model is essentially "transferring" its knowledge from a historical data distribution to a new, changed data distribution, which may not be a valid assumption. This can result in incorrect predictions and other negative outcomes, such as harm to individuals or organizations.
 
 \section{Industrial-Scale Plagiarism}
+\labsec{plag}
 
 Aside from regurgitating the past and predictions from other domains, deep learning models can also enable plagiarism on an industrial scale. Early text generation models could be made to write entire sections of \textit{Harry Potter} when fed the opening lines of a chapter. Even as models grow large and more sophisticated, users, researchers and lawyers are still able to "extract the training data"  from large models\sidecite{Carlini2023}, causing headaches for their creators and adding to the work of intellectual property lawyers. 
 
