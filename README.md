@@ -13,6 +13,5 @@
 
 ## TODOs
 
-* Copy and make book on personal security for nerds - go through each type of device and highlight security notes (TVs, Consoles, Cars, Phones, Routers, IoT devices etc...). USE GREEN HEAD COVER from angela (see BookCover.ai)
-* Copy and make a book on choosing technologies that last... econ history etc... use Robot doing pushups from BookCover.ai)
-* Copy and make a book about "Horns on the wall" or something about startups and unicorns.
+* Copyright page? Add in (see kaobook docs under ```docs``` folder
+* See ```docs/Book_Outlines``` and copy this repo to make new books
