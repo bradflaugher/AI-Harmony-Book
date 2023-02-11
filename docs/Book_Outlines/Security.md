@@ -16,11 +16,12 @@ iOS or Pixel Android if you must
 
 Graphene or Lineage if you can
 
-Other Android not recommended
+Other Android not recommended... because of this bloatware shit https://www.comparedial.com/news/apples-2-year-old-iphone-12-is-6-faster-than-the-latest-samsung-galaxy-s23-ultra-for-single-core-performance-395
 
 # PCs
 
-Mac or Surface if you must
+## Mac or Surface if you must
+* even though they are corporate spyware... https://www.youtube.com/watch?app=desktop&v=IT4vDfA_4NI
 
 Ubuntu or Fedora if you like
 
