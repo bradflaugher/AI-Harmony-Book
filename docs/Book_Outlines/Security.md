@@ -2,6 +2,38 @@
 
 Cover is the green head from covers folder
 
+Rich Nerd/ Poor Nerds Guide to Freedom and Personal Digital Security 
+
+Rich kids pay, poor don't
+
+Do the wierdest thing that people will pay you to do, all suggestions are weird, see stack overflow dev survey ranking
+
+Build a PC (or Laptop)
+
+Sidenotes on Fanboys/Basic Bitches
+
+-Airtags
+-Social Media
+-Browser and Extensions
+-Search
+
+Ereaders
+Fairphone
+PC Liquidators 
+Raspberry Pi
+
+-Ereaders
+-App Stores and Package Managers
+-Javascript is the devi
+-VPNs and great firewall of china book
+-Hostile states, what to do?
+
+-Key services, email maps calendar etc...
+
+(Fanboy)
+Rich Nerd
+Poor Nerd
+
 # Background
 
 ## Free as in Freedom
