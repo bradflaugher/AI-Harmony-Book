@@ -1,10 +1,10 @@
 # Book Megaproject 
 
-## Dockerized bookmaker
+## Containerized bookmaker
 
-* install docker
+* install podman
 * ```cd``` to project folder
-* ```sh rundocker.sh```
+* ```sh runpodman.sh```
 
 ## Running locally
 

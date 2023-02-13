@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.2.1)  10 FEB 2023 09:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.2.13)  13 FEB 2023 10:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1712,9 +1712,9 @@ Language: english 2017/06/06 v3.3r English support from the babel system
 Package babel Info: Hyphen rules for 'canadian' set to \l@english
 (babel)             (\language0). Reported on input line 102.
 Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
-(babel)             (\language12). Reported on input line 105.
+(babel)             (\language61). Reported on input line 105.
 Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
-(babel)             (\language12). Reported on input line 108.
+(babel)             (\language61). Reported on input line 108.
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.sty
 Package: csquotes 2021-02-22 v5.2l context-sensitive quotations (JAW)
@@ -2407,7 +2407,15 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
- (./main.bbl)
+ (./main.bbl
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                Kahneman2011
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+)
 Package biblatex Info: Reference section=0 on input line 77.
 Package biblatex Info: Reference segment=0 on input line 77.
 Package scrhack Info: undefining \float@addtolists on input line 77.
@@ -3287,7 +3295,7 @@ LaTeX Font Info:    Font shape `T1/fvm/b/n' will be
  [2] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//bored_programmer.jpg, id=476, 770.88pt x 770.88pt>
+<images//bored_programmer.jpg, id=491, 770.88pt x 770.88pt>
 File: images//bored_programmer.jpg Graphic file (type jpg)
 <use images//bored_programmer.jpg>
 Package pdftex.def Info: images//bored_programmer.jpg  used on input line 58.
@@ -3317,7 +3325,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 65--65
 [3 <./images//bored_programmer.jpg>] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//kasparov_fire.jpg, id=501, 770.88pt x 770.88pt>
+<images//kasparov_fire.jpg, id=517, 770.88pt x 770.88pt>
 File: images//kasparov_fire.jpg Graphic file (type jpg)
 <use images//kasparov_fire.jpg>
 Package pdftex.def Info: images//kasparov_fire.jpg  used on input line 78.
@@ -3369,7 +3377,7 @@ LaTeX Warning: Marginpar on page 4 moved.
 [4 <./images//kasparov_fire.jpg>] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//programmers_strike.png, id=519, 1122.1925pt x 1094.0875pt>
+<images//programmers_strike.png, id=534, 1122.1925pt x 1094.0875pt>
 File: images//programmers_strike.png Graphic file (type png)
 <use images//programmers_strike.png>
 Package pdftex.def Info: images//programmers_strike.png  used on input line 104
@@ -3384,7 +3392,7 @@ Package marginnote Info: xpos seems to be 72.53856pt on input line 107.
 
 LaTeX Warning: Marginpar on page 5 moved.
 
-<images//blackbox.jpg, id=520, 770.88pt x 770.88pt>
+<images//blackbox.jpg, id=535, 770.88pt x 770.88pt>
 File: images//blackbox.jpg Graphic file (type jpg)
 <use images//blackbox.jpg>
 Package pdftex.def Info: images//blackbox.jpg  used on input line 120.
@@ -3461,7 +3469,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--2
 
 \openout4 = `main.mw'.
 
-<images//knowledge.png, id=564, 513.92pt x 513.92pt>
+<images//knowledge.png, id=579, 513.92pt x 513.92pt>
 File: images//knowledge.png Graphic file (type png)
 <use images//knowledge.png>
 Package pdftex.def Info: images//knowledge.png  used on input line 15.
@@ -3482,7 +3490,7 @@ LaTeX Warning: Marginpar on page 7 moved.
  <./images//knowledge.png (PNG copy)>] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//OLSregression.png, id=583, 299.9205pt x 377.9721pt>
+<images//OLSregression.png, id=598, 299.9205pt x 377.9721pt>
 File: images//OLSregression.png Graphic file (type png)
 <use images//OLSregression.png>
 Package pdftex.def Info: images//OLSregression.png  used on input line 34.
@@ -3575,7 +3583,7 @@ LaTeX Warning: Marginpar on page 9 moved.
  [10] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//greenneuron.png, id=635, 513.92pt x 513.92pt>
+<images//greenneuron.png, id=650, 513.92pt x 513.92pt>
 File: images//greenneuron.png Graphic file (type png)
 <use images//greenneuron.png>
 Package pdftex.def Info: images//greenneuron.png  used on input line 143.
@@ -3650,7 +3658,7 @@ Overfull \hbox (9.85089pt too wide) in paragraph at lines 240--240
 \T1/fvm/m/n/8 #most-[]popular-[]technologies-[]misc-[]tech$[][] 
  []
 
-<images//trustworthysd.jpg, id=751, 770.88pt x 770.88pt>
+<images//trustworthysd.jpg, id=766, 770.88pt x 770.88pt>
 File: images//trustworthysd.jpg Graphic file (type jpg)
 <use images//trustworthysd.jpg>
 Package pdftex.def Info: images//trustworthysd.jpg  used on input line 247.
@@ -3695,7 +3703,7 @@ LaTeX Warning: Marginpar on page 14 moved.
 [14 <./images//trustworthysd.jpg>] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//predictive_keyboard.png, id=771, 395.4775pt x 265.99374pt>
+<images//predictive_keyboard.png, id=786, 395.4775pt x 265.99374pt>
 File: images//predictive_keyboard.png Graphic file (type png)
 <use images//predictive_keyboard.png>
 Package pdftex.def Info: images//predictive_keyboard.png  used on input line 28
@@ -3729,7 +3737,7 @@ Underfull \hbox (badness 1087) in paragraph at lines 294--294
 
 \openout4 = `main.mw'.
 
-<images//sciencechat.png, id=797, 513.92pt x 513.92pt>
+<images//sciencechat.png, id=812, 513.92pt x 513.92pt>
 File: images//sciencechat.png Graphic file (type png)
 <use images//sciencechat.png>
 Package pdftex.def Info: images//sciencechat.png  used on input line 306.
@@ -3845,7 +3853,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--2
  [][][][]\T1/zplLF/b/n/9 (+20) Transfer Learn-ing Ev-ery- 
  []
 
-<images//jobsweed.png, id=864, 513.92pt x 513.92pt>
+<images//jobsweed.png, id=879, 513.92pt x 513.92pt>
 File: images//jobsweed.png Graphic file (type png)
 <use images//jobsweed.png>
 Package pdftex.def Info: images//jobsweed.png  used on input line 26.
@@ -3866,7 +3874,7 @@ LaTeX Warning: Marginpar on page 19 moved.
  <./images//jobsweed.png (PNG copy)>] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//batman.png, id=878, 513.92pt x 513.92pt>
+<images//batman.png, id=893, 513.92pt x 513.92pt>
 File: images//batman.png Graphic file (type png)
 <use images//batman.png>
 Package pdftex.def Info: images//batman.png  used on input line 38.
@@ -3880,7 +3888,7 @@ Package marginnote Info: xpos seems to be 72.53856pt on input line 41.
 
 LaTeX Warning: Marginpar on page 20 moved.
 
-<images//drillart.png, id=879, 513.92pt x 513.92pt>
+<images//drillart.png, id=894, 513.92pt x 513.92pt>
 File: images//drillart.png Graphic file (type png)
 <use images//drillart.png>
 Package pdftex.def Info: images//drillart.png  used on input line 54.
@@ -3899,7 +3907,7 @@ LaTeX Warning: Marginpar on page 20 moved.
 (./main.mw)
 \openout4 = `main.mw'.
 
-<images//duchamp.jpg, id=886, 369.38pt x 482.80376pt>
+<images//duchamp.jpg, id=901, 369.38pt x 482.80376pt>
 File: images//duchamp.jpg Graphic file (type jpg)
 <use images//duchamp.jpg>
 Package pdftex.def Info: images//duchamp.jpg  used on input line 77.
@@ -3922,7 +3930,7 @@ LaTeX Warning: Marginpar on page 21 moved.
 [21 <./images//duchamp.jpg>] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//plastic.jpg, id=895, 770.88pt x 770.88pt>
+<images//plastic.jpg, id=910, 770.88pt x 770.88pt>
 File: images//plastic.jpg Graphic file (type jpg)
 <use images//plastic.jpg>
 Package pdftex.def Info: images//plastic.jpg  used on input line 94.
@@ -4005,7 +4013,7 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 154.
 
 \openout4 = `main.mw'.
 
-<images//getty.png, id=918, 2254.4225pt x 1379.1525pt>
+<images//getty.png, id=933, 2254.4225pt x 1379.1525pt>
 File: images//getty.png Graphic file (type png)
 <use images//getty.png>
 Package pdftex.def Info: images//getty.png  used on input line 167.
@@ -4094,24 +4102,12 @@ Package marginnote Info: right page because not two side mode on input line 2.
 Package marginnote Info: xpos seems to be 72.53856pt on input line 2.
 
 Underfull \hbox (badness 10000) in paragraph at lines 2--2
- [][][][]\T1/zplLF/b/n/9 (+3) Shakespearean Text Gen-er-a- 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
  [][][][]\T1/zplLF/b/n/9 (+20) Smartwatch Dan-ger Clas-si- 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 2--2
  [][][][]\T1/zplLF/b/n/9 (+20) Artificial Gen-eral In-tel-li- 
- []
-
-
-Overfull \hbox (367.92575pt too wide) in paragraph at lines 28--29
-[][]$\T1/fvm/m/n/10 https : / / arstechnica . com / information-[]technology / 
-2022 / 11 / new-[]go-[]playing-[]trick-[]defeats-[]world-[]class-[]go-[]ai-[]bu
-t-[]loses-[]to-[]human-[]amateurs/$[][] 
  []
 
 \openout4 = `main.mw'.
@@ -4122,39 +4118,154 @@ t-[]loses-[]to-[]human-[]amateurs/$[][]
 ] (./main.mw)
 \openout4 = `main.mw'.
 
-
-Overfull \hbox (14.50143pt too wide) in paragraph at lines 36--37
-[][]$\T1/fvm/m/n/10 https : / / www . psychologytoday . com / us / blog / the-[
-]future-[]brain / 202301 /
- []
-
-
-Overfull \hbox (58.99623pt too wide) in paragraph at lines 49--50
-[][]$\T1/fvm/m/n/10 https : / / www . nytimes . com / 2023 / 02 / 03 / health /
- apple-[]watch-[]911-[]emergency-[]call .
- []
-
 \openout4 = `main.mw'.
 
-[29] (./main.mw)
+ [29] (./main.mw)
 \openout4 = `main.mw'.
 
-
-Overfull \hbox (234.14784pt too wide) in paragraph at lines 54--55
-[][]$\T1/fvm/m/n/10 https : / / www . extremetech . com / extreme / 342413-[]us
--[]marines-[]defeat-[]darpa-[]robot-[]by-[]hiding-[]under-[]a-[]cardboard-[]box
-$[][] 
- []
-
-) (./chapters/chapter5.tex
 \openout4 = `main.mw'.
 
  [30] (./main.mw)
 \openout4 = `main.mw'.
 
+\openout4 = `main.mw'.
+
+ [31] (./main.mw)
+\openout4 = `main.mw'.
+
+
+Overfull \hbox (367.92575pt too wide) in paragraph at lines 114--115
+[][][]$\T1/fvm/m/n/10 https : / / arstechnica . com / information-[]technology 
+/ 2022 / 11 / new-[]go-[]playing-[]trick-[]defeats-[]world-[]class-[]go-[]ai-[]
+but-[]loses-[]to-[]human-[]amateurs/$[][] 
+ []
+
+\openout4 = `main.mw'.
+
+[32] (./main.mw)
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+ [33] (./main.mw)
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+ [34] (./main.mw)
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+ [35] (./main.mw)
+\openout4 = `main.mw'.
+
+
+Overfull \hbox (14.50143pt too wide) in paragraph at lines 222--223
+[][][]$\T1/fvm/m/n/10 https : / / www . psychologytoday . com / us / blog / the
+-[]future-[]brain / 202301 /
+ []
+
+\openout4 = `main.mw'.
+
+[36] (./main.mw)
+\openout4 = `main.mw'.
+
+
+Overfull \hbox (41.58661pt too wide) in paragraph at lines 248--249
+[][][]$\T1/fvm/m/n/10 https : / / cacm . acm . org / news / 269779-[]algorithm-
+[]detects-[]autism-[]in-[]infants /
+ []
+
+\openout4 = `main.mw'.
+
+[37] (./main.mw)
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+ [38] (./main.mw)
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+ [39] (./main.mw)
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+ [40] (./main.mw)
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+ [41]
+(./main.mw)
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+ [42] (./main.mw)
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+ [43] (./main.mw)
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+ [44] (./main.mw)
+\openout4 = `main.mw'.
+
+
+Overfull \hbox (58.99623pt too wide) in paragraph at lines 444--445
+[][][]$\T1/fvm/m/n/10 https : / / www . nytimes . com / 2023 / 02 / 03 / health
+ / apple-[]watch-[]911-[]emergency-[]call .
+ []
+
+\openout4 = `main.mw'.
+
+[45] (./main.mw)
+\openout4 = `main.mw'.
+
+
+Overfull \hbox (234.14784pt too wide) in paragraph at lines 476--477
+[][][]$\T1/fvm/m/n/10 https : / / www . extremetech . com / extreme / 342413-[]
+us-[]marines-[]defeat-[]darpa-[]robot-[]by-[]hiding-[]under-[]a-[]cardboard-[]b
+ox$[][] 
+ []
+
+\openout4 = `main.mw'.
+
+[46] (./main.mw)
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+ [47] (./main.mw)
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+ [48] (./main.mw)
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+ [49] (./main.mw)
+\openout4 = `main.mw'.
+
+)
+(./chapters/chapter5.tex
+\openout4 = `main.mw'.
+
+ [50] (./main.mw)
+\openout4 = `main.mw'.
+
 
 chapter 5.
-Package marginnote Info: Margin note 39.1 is on absolute page 39 on input line 
+Package marginnote Info: Margin note 59.1 is on absolute page 59 on input line 
 2.
 Package marginnote Info: right page because not two side mode on input line 2.
 Package marginnote Info: xpos seems to be 72.53856pt on input line 2.
@@ -4163,21 +4274,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--2
  [][][][]\T1/zplLF/b/n/9 (+20) Explaining The Un-ex-plain- 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
- [][][][]\T1/zplLF/b/n/9 (+7) A Train is a Self-Driving Car, 
- []
-
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
 
-[31
+[51
 
 
 ] (./main.mw)
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+ [52] (./main.mw)
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
@@ -4187,12 +4298,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--2
 ) (./chapters/chapter6.tex
 \openout4 = `main.mw'.
 
- [32] (./main.mw)
+ [53] (./main.mw)
 \openout4 = `main.mw'.
 
 
 chapter 6.
-Package marginnote Info: Margin note 41.1 is on absolute page 41 on input line 
+Package marginnote Info: Margin note 62.1 is on absolute page 62 on input line 
 2.
 Package marginnote Info: right page because not two side mode on input line 2.
 Package marginnote Info: xpos seems to be 72.53856pt on input line 2.
@@ -4200,28 +4311,29 @@ Package marginnote Info: xpos seems to be 72.53856pt on input line 2.
 
 \openout4 = `main.mw'.
 
-) (./chapters/chapter7.tex
-Overfull \hbox (103.51103pt too wide) in paragraph at lines 15--2
-[][]$\T1/fvm/m/n/10 https : / / www . acm . org / media-[]center / 2023 / janua
-ry / techbrief-[]safer-[]algorithmic-[]systems$[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 15--2
-
- []
-
 \openout4 = `main.mw'.
 
-[33
+[54
 
 
 ] (./main.mw)
 \openout4 = `main.mw'.
 
 
+Overfull \hbox (113.21104pt too wide) in paragraph at lines 33--34
+[][]$\T1/fvm/m/n/10 https : / / www . acm . org / media-[]center / 2023 / janua
+ry / techbrief-[]safer-[]algorithmic-[]systems$[][] 
+ []
+
+) (./chapters/chapter7.tex
+\openout4 = `main.mw'.
+
+ [55] (./main.mw)
+\openout4 = `main.mw'.
+
+
 chapter 7.
-Package marginnote Info: Margin note 42.1 is on absolute page 42 on input line 
+Package marginnote Info: Margin note 64.1 is on absolute page 64 on input line 
 2.
 Package marginnote Info: right page because not two side mode on input line 2.
 Package marginnote Info: xpos seems to be 72.53856pt on input line 2.
@@ -4276,9 +4388,15 @@ Overfull \hbox (172.97842pt too wide) in paragraph at lines 23--24
 rst-[]of-[]its-[]kind-[]ai-[]agreement-[]2023-[]01-[]27/$[][] 
  []
 
+
+Overfull \hbox (46.65576pt too wide) in paragraph at lines 31--32
+\T1/zplLF/m/n/10 (-20) Blurry JPEg of the web [][]$\T1/fvm/m/n/10 https : / / w
+ww . newyorker . com / tech / annals-[]of-[]technology /
+ []
+
 \openout4 = `main.mw'.
 
-[34
+[56
 
 
 ] (./main.mw)
@@ -4288,22 +4406,36 @@ rst-[]of-[]its-[]kind-[]ai-[]agreement-[]2023-[]01-[]27/$[][]
 
 \openout4 = `main.mw'.
 
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+
+
+LaTeX Warning: Citation 'Kahneman2011' on page 57 undefined on input line 41.
+
+
+Overfull \hbox (109.59401pt too wide) in paragraph at lines 43--44
+[][][]$\T1/fvm/m/n/10 https : / / medium . com / @bitweis / why-[]chatgpt-[]fai
+ls-[]thinking-[]fast-[]and-[]slow-[]e3cdab18cd0$[][] 
+ []
+
 ) (./chapters/omissions.tex
 \openout4 = `main.mw'.
 
- [35] (./main.mw)
+ [57] (./main.mw)
 \openout4 = `main.mw'.
 
 
 chapter 8.
-Package marginnote Info: Margin note 44.1 is on absolute page 44 on input line 
+Package marginnote Info: Margin note 66.1 is on absolute page 66 on input line 
 2.
 Package marginnote Info: right page because not two side mode on input line 2.
 Package marginnote Info: xpos seems to be 72.53856pt on input line 2.
 )
 \openout4 = `main.mw'.
 
- [36
+ [58
 
 
 ] (./main.mw)
@@ -4355,13 +4487,17 @@ This document will not have a glossary.
 
 \openout4 = `main.mw'.
 
-[37
+[59
 
 
 
 
 
 ] (./main.mw)
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
@@ -5089,15 +5225,47 @@ This document will not have a glossary.
 
 \openout4 = `main.mw'.
 
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
 )
-
-LaTeX Warning: There were undefined references.
-
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                main
-(biblatex)                and rerun LaTeX afterwards.
-
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
@@ -5117,11 +5285,11 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 58866 strings out of 478287
- 1158551 string characters out of 5849290
- 2704146 words of memory out of 5000000
- 75262 multiletter control sequences out of 15000+600000
- 594969 words of font info for 327 fonts, out of 8000000 for 9000
+ 58946 strings out of 478287
+ 1159216 string characters out of 5849289
+ 2704723 words of memory out of 5000000
+ 75269 multiletter control sequences out of 15000+600000
+ 595054 words of font info for 328 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  133i,20n,159p,10596b,2656s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-lf-pc.enc}{/usr/s
@@ -5137,10 +5305,10 @@ sr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txsya.pfb></usr/share/te
 xlive/texmf-dist/fonts/type1/public/newpx/zplb.pfb></usr/share/texlive/texmf-di
 st/fonts/type1/public/newpx/zplr.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /public/newpx/zplri.pfb>
-Output written on main.pdf (43 pages, 14132191 bytes).
+Output written on main.pdf (65 pages, 14204697 bytes).
 PDF statistics:
- 1581 PDF objects out of 1728 (max. 8388607)
- 1382 compressed objects within 14 object streams
- 349 named destinations out of 1000 (max. 500000)
- 50417 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 1725 PDF objects out of 1728 (max. 8388607)
+ 1502 compressed objects within 16 object streams
+ 376 named destinations out of 1000 (max. 500000)
+ 50457 words of extra memory for PDF output out of 51595 (max. 10000000)
 

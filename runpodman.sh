@@ -6,7 +6,7 @@ read -r -p "Do you want to rebuild the docker container? [Y/n] " input
 case $input in
       [yY][eE][sS]|[yY])
             echo "You say Yes"
-            sudo docker build -t dfpbookmaker .
+            sudo podman build -t dfpbookmaker .
             ;;
       [nN][oO]|[nN])
             echo "You say No"
@@ -17,4 +17,4 @@ case $input in
             ;;
 esac
 
-sudo docker run -v $(pwd):/app -it --rm dfpbookmaker
+sudo podman run -v $(pwd):/app -it --rm dfpbookmaker
