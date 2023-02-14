@@ -1,7 +1,7 @@
 #!/bin/bash
 # must be ran from inside 'dfp-book' project folder
 
-read -r -p "Do you want to rebuild the docker container? [Y/n] " input
+read -r -p "Do you want to rebuild the container? [Y/n] " input
 
 case $input in
       [yY][eE][sS]|[yY])
