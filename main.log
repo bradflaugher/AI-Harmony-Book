@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.2.13)  13 FEB 2023 10:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.2.13)  14 FEB 2023 10:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3124,9 +3124,27 @@ LaTeX Font Info:    Font shape `T1/zplLF/b/n' will be
 ] (./main.mw)
 \openout4 = `main.mw'.
 
+ (./chapters/summary.tex
 \openout4 = `main.mw'.
 
  [5] (./main.mw)
+\openout4 = `main.mw'.
+
+LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
+(Font)              scaled to size 12.99pt on input line 5.
+LaTeX Font Info:    Font shape `T1/zplLF/b/n' will be
+(Font)              scaled to size 13.968pt on input line 5.
+)
+\openout4 = `main.mw'.
+
+ [6
+
+
+] (./main.mw)
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
 \openout4 = `main.mw'.
 
 *geometry* verbose mode - [ newgeometry ] result:
@@ -3161,13 +3179,12 @@ LaTeX Font Info:    Font shape `T1/zplLF/b/n' will be
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
- (./chapters/chapter1.tex
+
+(./chapters/chapter1.tex
 chapter 1.
 LaTeX Font Info:    Font shape `T1/zplLF/b/n' will be
-(Font)              scaled to size 13.968pt on input line 2.
-LaTeX Font Info:    Font shape `T1/zplLF/b/n' will be
 (Font)              scaled to size 8.73001pt on input line 2.
-Package marginnote Info: Margin note 8.1 is on absolute page 8 on input line 2.
+Package marginnote Info: Margin note 9.1 is on absolute page 9 on input line 2.
 
 Package marginnote Info: right page because not two side mode on input line 2.
 Package marginnote Info: xpos seems to be 72.53856pt on input line 2.
@@ -3217,8 +3234,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--2
 
 \openout4 = `main.mw'.
 
-LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
-(Font)              scaled to size 12.99pt on input line 8.
 LaTeX Font Info:    Font shape `T1/zplLF/m/n' will be
 (Font)              scaled to size 7.08101pt on input line 13.
 LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
@@ -3275,8 +3290,6 @@ l.21
 ] (./main.mw)
 \openout4 = `main.mw'.
 
-Package marginnote Info: Using workaround for absolute page number on input lin
-e 21.
 
 
 LaTeX Warning: Marginpar on page 2 moved.
@@ -3295,7 +3308,7 @@ LaTeX Font Info:    Font shape `T1/fvm/b/n' will be
  [2] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//bored_programmer.jpg, id=491, 770.88pt x 770.88pt>
+<images//bored_programmer.jpg, id=505, 770.88pt x 770.88pt>
 File: images//bored_programmer.jpg Graphic file (type jpg)
 <use images//bored_programmer.jpg>
 Package pdftex.def Info: images//bored_programmer.jpg  used on input line 58.
@@ -3325,7 +3338,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 65--65
 [3 <./images//bored_programmer.jpg>] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//kasparov_fire.jpg, id=517, 770.88pt x 770.88pt>
+<images//kasparov_fire.jpg, id=531, 770.88pt x 770.88pt>
 File: images//kasparov_fire.jpg Graphic file (type jpg)
 <use images//kasparov_fire.jpg>
 Package pdftex.def Info: images//kasparov_fire.jpg  used on input line 78.
@@ -3377,7 +3390,7 @@ LaTeX Warning: Marginpar on page 4 moved.
 [4 <./images//kasparov_fire.jpg>] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//programmers_strike.png, id=534, 1122.1925pt x 1094.0875pt>
+<images//programmers_strike.png, id=548, 1122.1925pt x 1094.0875pt>
 File: images//programmers_strike.png Graphic file (type png)
 <use images//programmers_strike.png>
 Package pdftex.def Info: images//programmers_strike.png  used on input line 104
@@ -3392,7 +3405,7 @@ Package marginnote Info: xpos seems to be 72.53856pt on input line 107.
 
 LaTeX Warning: Marginpar on page 5 moved.
 
-<images//blackbox.jpg, id=535, 770.88pt x 770.88pt>
+<images//blackbox.jpg, id=549, 770.88pt x 770.88pt>
 File: images//blackbox.jpg Graphic file (type jpg)
 <use images//blackbox.jpg>
 Package pdftex.def Info: images//blackbox.jpg  used on input line 120.
@@ -3469,7 +3482,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--2
 
 \openout4 = `main.mw'.
 
-<images//knowledge.png, id=579, 513.92pt x 513.92pt>
+<images//knowledge.png, id=594, 513.92pt x 513.92pt>
 File: images//knowledge.png Graphic file (type png)
 <use images//knowledge.png>
 Package pdftex.def Info: images//knowledge.png  used on input line 15.
@@ -3490,7 +3503,7 @@ LaTeX Warning: Marginpar on page 7 moved.
  <./images//knowledge.png (PNG copy)>] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//OLSregression.png, id=598, 299.9205pt x 377.9721pt>
+<images//OLSregression.png, id=612, 299.9205pt x 377.9721pt>
 File: images//OLSregression.png Graphic file (type png)
 <use images//OLSregression.png>
 Package pdftex.def Info: images//OLSregression.png  used on input line 34.
@@ -3583,7 +3596,7 @@ LaTeX Warning: Marginpar on page 9 moved.
  [10] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//greenneuron.png, id=650, 513.92pt x 513.92pt>
+<images//greenneuron.png, id=664, 513.92pt x 513.92pt>
 File: images//greenneuron.png Graphic file (type png)
 <use images//greenneuron.png>
 Package pdftex.def Info: images//greenneuron.png  used on input line 143.
@@ -3658,7 +3671,7 @@ Overfull \hbox (9.85089pt too wide) in paragraph at lines 240--240
 \T1/fvm/m/n/8 #most-[]popular-[]technologies-[]misc-[]tech$[][] 
  []
 
-<images//trustworthysd.jpg, id=766, 770.88pt x 770.88pt>
+<images//trustworthysd.jpg, id=780, 770.88pt x 770.88pt>
 File: images//trustworthysd.jpg Graphic file (type jpg)
 <use images//trustworthysd.jpg>
 Package pdftex.def Info: images//trustworthysd.jpg  used on input line 247.
@@ -3703,7 +3716,7 @@ LaTeX Warning: Marginpar on page 14 moved.
 [14 <./images//trustworthysd.jpg>] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//predictive_keyboard.png, id=786, 395.4775pt x 265.99374pt>
+<images//predictive_keyboard.png, id=800, 395.4775pt x 265.99374pt>
 File: images//predictive_keyboard.png Graphic file (type png)
 <use images//predictive_keyboard.png>
 Package pdftex.def Info: images//predictive_keyboard.png  used on input line 28
@@ -3737,7 +3750,7 @@ Underfull \hbox (badness 1087) in paragraph at lines 294--294
 
 \openout4 = `main.mw'.
 
-<images//sciencechat.png, id=812, 513.92pt x 513.92pt>
+<images//sciencechat.png, id=826, 513.92pt x 513.92pt>
 File: images//sciencechat.png Graphic file (type png)
 <use images//sciencechat.png>
 Package pdftex.def Info: images//sciencechat.png  used on input line 306.
@@ -3853,7 +3866,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--2
  [][][][]\T1/zplLF/b/n/9 (+20) Transfer Learn-ing Ev-ery- 
  []
 
-<images//jobsweed.png, id=879, 513.92pt x 513.92pt>
+<images//jobsweed.png, id=894, 513.92pt x 513.92pt>
 File: images//jobsweed.png Graphic file (type png)
 <use images//jobsweed.png>
 Package pdftex.def Info: images//jobsweed.png  used on input line 26.
@@ -3874,7 +3887,7 @@ LaTeX Warning: Marginpar on page 19 moved.
  <./images//jobsweed.png (PNG copy)>] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//batman.png, id=893, 513.92pt x 513.92pt>
+<images//batman.png, id=907, 513.92pt x 513.92pt>
 File: images//batman.png Graphic file (type png)
 <use images//batman.png>
 Package pdftex.def Info: images//batman.png  used on input line 38.
@@ -3888,7 +3901,7 @@ Package marginnote Info: xpos seems to be 72.53856pt on input line 41.
 
 LaTeX Warning: Marginpar on page 20 moved.
 
-<images//drillart.png, id=894, 513.92pt x 513.92pt>
+<images//drillart.png, id=908, 513.92pt x 513.92pt>
 File: images//drillart.png Graphic file (type png)
 <use images//drillart.png>
 Package pdftex.def Info: images//drillart.png  used on input line 54.
@@ -3907,7 +3920,7 @@ LaTeX Warning: Marginpar on page 20 moved.
 (./main.mw)
 \openout4 = `main.mw'.
 
-<images//duchamp.jpg, id=901, 369.38pt x 482.80376pt>
+<images//duchamp.jpg, id=915, 369.38pt x 482.80376pt>
 File: images//duchamp.jpg Graphic file (type jpg)
 <use images//duchamp.jpg>
 Package pdftex.def Info: images//duchamp.jpg  used on input line 77.
@@ -3930,7 +3943,7 @@ LaTeX Warning: Marginpar on page 21 moved.
 [21 <./images//duchamp.jpg>] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//plastic.jpg, id=910, 770.88pt x 770.88pt>
+<images//plastic.jpg, id=924, 770.88pt x 770.88pt>
 File: images//plastic.jpg Graphic file (type jpg)
 <use images//plastic.jpg>
 Package pdftex.def Info: images//plastic.jpg  used on input line 94.
@@ -4013,7 +4026,7 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 154.
 
 \openout4 = `main.mw'.
 
-<images//getty.png, id=933, 2254.4225pt x 1379.1525pt>
+<images//getty.png, id=949, 2254.4225pt x 1379.1525pt>
 File: images//getty.png Graphic file (type png)
 <use images//getty.png>
 Package pdftex.def Info: images//getty.png  used on input line 167.
@@ -4476,7 +4489,7 @@ Package marginnote Info: xpos seems to be 72.53856pt on input line 2.
 
 chapter without number
 LaTeX Font Info:    Font shape `T1/zplLF/m/sc' will be
-(Font)              scaled to size 9.70001pt on input line 245.
+(Font)              scaled to size 9.70001pt on input line 248.
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/zplLF/m/sc/10'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -5265,6 +5278,10 @@ This document will not have a glossary.
 
 \openout4 = `main.mw'.
 
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
 )
 \openout4 = `main.mw'.
 
@@ -5285,10 +5302,10 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 58946 strings out of 478287
- 1159216 string characters out of 5849289
- 2704723 words of memory out of 5000000
- 75269 multiletter control sequences out of 15000+600000
+ 58966 strings out of 478287
+ 1159538 string characters out of 5849289
+ 2704774 words of memory out of 5000000
+ 75275 multiletter control sequences out of 15000+600000
  595054 words of font info for 328 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  133i,20n,159p,10596b,2656s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -5305,10 +5322,10 @@ sr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txsya.pfb></usr/share/te
 xlive/texmf-dist/fonts/type1/public/newpx/zplb.pfb></usr/share/texlive/texmf-di
 st/fonts/type1/public/newpx/zplr.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /public/newpx/zplri.pfb>
-Output written on main.pdf (65 pages, 14204697 bytes).
+Output written on main.pdf (66 pages, 14205582 bytes).
 PDF statistics:
- 1725 PDF objects out of 1728 (max. 8388607)
- 1502 compressed objects within 16 object streams
- 376 named destinations out of 1000 (max. 500000)
- 50457 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 1744 PDF objects out of 2073 (max. 8388607)
+ 1520 compressed objects within 16 object streams
+ 385 named destinations out of 1000 (max. 500000)
+ 50465 words of extra memory for PDF output out of 51595 (max. 10000000)
 

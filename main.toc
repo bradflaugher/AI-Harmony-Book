@@ -2,6 +2,7 @@
 \babel@toc {english}{}\relax
 \contentsline {chapter}{Preface}{iii}{chapter*.1}%
 \contentsline {chapter}{\nonumberline Contents}{iv}{chapter*.2}%
+\contentsline {chapter}{Chapter Summaries}{vi}{chapter*.3}%
 \contentsline {chapter}{\numberline {1}History: The End of Good Old-Fashioned Artificial Intelligence}{1}{chapter.1}%
 \etoc@startlocaltoc {2}
 \etoc@startlocaltoc {3}
@@ -118,7 +119,7 @@
 \contentsline {mtocsection}{\numberline {4.24}Social Credit Score}{48}{section.4.24}%
 \contentsline {section}{\numberline {4.25}Artificial General Intelligence Chatbot}{49}{section.4.25}%
 \contentsline {mtocsection}{\numberline {4.25}Artificial General Intelligence Chatbot}{49}{section.4.25}%
-\contentsline {chapter}{\numberline {5}Self-Driving With Statistics}{51}{chapter.5}%
+\contentsline {chapter}{\numberline {5}Self-Driving with Statistics}{51}{chapter.5}%
 \etoc@startlocaltoc {10}
 \etoc@startlocaltoc {11}
 \contentsline {section}{\numberline {5.1}Self-Driving Horses}{51}{section.5.1}%
@@ -172,4 +173,4 @@
 \contentsline {chapter}{\numberline {8}Errors and Omissions}{58}{chapter.8}%
 \etoc@startlocaltoc {16}
 \etoc@startlocaltoc {17}
-\contentsline {chapter}{\nonumberline Bibliography}{59}{chapter*.20}%
+\contentsline {chapter}{\nonumberline Bibliography}{59}{chapter*.28}%
