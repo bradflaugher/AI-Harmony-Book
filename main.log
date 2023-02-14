@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.2.13)  14 FEB 2023 12:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.2.13)  14 FEB 2023 13:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -4153,8 +4153,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--2
  [31] (./main.mw)
 \openout4 = `main.mw'.
 
+\openout4 = `main.mw'.
 
-Overfull \hbox (367.92575pt too wide) in paragraph at lines 114--115
+ [32]
+(./main.mw)
+\openout4 = `main.mw'.
+
+
+Overfull \hbox (367.92575pt too wide) in paragraph at lines 96--97
 [][][]$\T1/fvm/m/n/10 https : / / arstechnica . com / information-[]technology 
 / 2022 / 11 / new-[]go-[]playing-[]trick-[]defeats-[]world-[]class-[]go-[]ai-[]
 but-[]loses-[]to-[]human-[]amateurs/$[][] 
@@ -4162,12 +4168,7 @@ but-[]loses-[]to-[]human-[]amateurs/$[][]
 
 \openout4 = `main.mw'.
 
-[32] (./main.mw)
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
- [33] (./main.mw)
+[33] (./main.mw)
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
@@ -4180,21 +4181,15 @@ but-[]loses-[]to-[]human-[]amateurs/$[][]
  [35] (./main.mw)
 \openout4 = `main.mw'.
 
+\openout4 = `main.mw'.
 
-Overfull \hbox (14.50143pt too wide) in paragraph at lines 222--223
+ [36] (./main.mw)
+\openout4 = `main.mw'.
+
+
+Overfull \hbox (14.50143pt too wide) in paragraph at lines 177--178
 [][][]$\T1/fvm/m/n/10 https : / / www . psychologytoday . com / us / blog / the
 -[]future-[]brain / 202301 /
- []
-
-\openout4 = `main.mw'.
-
-[36] (./main.mw)
-\openout4 = `main.mw'.
-
-
-Overfull \hbox (41.58661pt too wide) in paragraph at lines 248--249
-[][][]$\T1/fvm/m/n/10 https : / / cacm . acm . org / news / 269779-[]algorithm-
-[]detects-[]autism-[]in-[]infants /
  []
 
 \openout4 = `main.mw'.
@@ -4202,9 +4197,15 @@ Overfull \hbox (41.58661pt too wide) in paragraph at lines 248--249
 [37] (./main.mw)
 \openout4 = `main.mw'.
 
+
+Overfull \hbox (41.58661pt too wide) in paragraph at lines 195--196
+[][][]$\T1/fvm/m/n/10 https : / / cacm . acm . org / news / 269779-[]algorithm-
+[]detects-[]autism-[]in-[]infants /
+ []
+
 \openout4 = `main.mw'.
 
- [38] (./main.mw)
+[38] (./main.mw)
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
@@ -4219,13 +4220,13 @@ Overfull \hbox (41.58661pt too wide) in paragraph at lines 248--249
 
 \openout4 = `main.mw'.
 
- [41]
+ [41] (./main.mw)
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+ [42]
 (./main.mw)
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
- [42] (./main.mw)
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
@@ -4238,22 +4239,15 @@ Overfull \hbox (41.58661pt too wide) in paragraph at lines 248--249
  [44] (./main.mw)
 \openout4 = `main.mw'.
 
+\openout4 = `main.mw'.
 
-Overfull \hbox (58.99623pt too wide) in paragraph at lines 444--445
+ [45] (./main.mw)
+\openout4 = `main.mw'.
+
+
+Overfull \hbox (58.99623pt too wide) in paragraph at lines 326--327
 [][][]$\T1/fvm/m/n/10 https : / / www . nytimes . com / 2023 / 02 / 03 / health
  / apple-[]watch-[]911-[]emergency-[]call .
- []
-
-\openout4 = `main.mw'.
-
-[45] (./main.mw)
-\openout4 = `main.mw'.
-
-
-Overfull \hbox (234.14784pt too wide) in paragraph at lines 476--477
-[][][]$\T1/fvm/m/n/10 https : / / www . extremetech . com / extreme / 342413-[]
-us-[]marines-[]defeat-[]darpa-[]robot-[]by-[]hiding-[]under-[]a-[]cardboard-[]b
-ox$[][] 
  []
 
 \openout4 = `main.mw'.
@@ -4261,9 +4255,16 @@ ox$[][]
 [46] (./main.mw)
 \openout4 = `main.mw'.
 
+
+Overfull \hbox (234.14784pt too wide) in paragraph at lines 350--351
+[][][]$\T1/fvm/m/n/10 https : / / www . extremetech . com / extreme / 342413-[]
+us-[]marines-[]defeat-[]darpa-[]robot-[]by-[]hiding-[]under-[]a-[]cardboard-[]b
+ox$[][] 
+ []
+
 \openout4 = `main.mw'.
 
- [47] (./main.mw)
+[47] (./main.mw)
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
@@ -4276,16 +4277,21 @@ ox$[][]
  [49] (./main.mw)
 \openout4 = `main.mw'.
 
-)
-(./chapters/chapter5.tex
 \openout4 = `main.mw'.
 
  [50] (./main.mw)
 \openout4 = `main.mw'.
 
+)
+(./chapters/chapter5.tex
+\openout4 = `main.mw'.
+
+ [51] (./main.mw)
+\openout4 = `main.mw'.
+
 
 chapter 5.
-Package marginnote Info: Margin note 61.1 is on absolute page 61 on input line 
+Package marginnote Info: Margin note 62.1 is on absolute page 62 on input line 
 2.
 Package marginnote Info: right page because not two side mode on input line 2.
 Package marginnote Info: xpos seems to be 72.53856pt on input line 2.
@@ -4300,7 +4306,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--2
 
 \openout4 = `main.mw'.
 
-[51
+[52
 
 
 ] (./main.mw)
@@ -4308,7 +4314,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--2
 
 \openout4 = `main.mw'.
 
- [52] (./main.mw)
+ [53] (./main.mw)
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
@@ -4318,12 +4324,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--2
 ) (./chapters/chapter6.tex
 \openout4 = `main.mw'.
 
- [53] (./main.mw)
+ [54] (./main.mw)
 \openout4 = `main.mw'.
 
 
 chapter 6.
-Package marginnote Info: Margin note 64.1 is on absolute page 64 on input line 
+Package marginnote Info: Margin note 65.1 is on absolute page 65 on input line 
 2.
 Package marginnote Info: right page because not two side mode on input line 2.
 Package marginnote Info: xpos seems to be 72.53856pt on input line 2.
@@ -4333,7 +4339,7 @@ Package marginnote Info: xpos seems to be 72.53856pt on input line 2.
 
 \openout4 = `main.mw'.
 
-[54
+[55
 
 
 ] (./main.mw)
@@ -4348,12 +4354,12 @@ ry / techbrief-[]safer-[]algorithmic-[]systems$[][]
 ) (./chapters/chapter7.tex
 \openout4 = `main.mw'.
 
- [55] (./main.mw)
+ [56] (./main.mw)
 \openout4 = `main.mw'.
 
 
 chapter 7.
-Package marginnote Info: Margin note 66.1 is on absolute page 66 on input line 
+Package marginnote Info: Margin note 67.1 is on absolute page 67 on input line 
 2.
 Package marginnote Info: right page because not two side mode on input line 2.
 Package marginnote Info: xpos seems to be 72.53856pt on input line 2.
@@ -4416,7 +4422,7 @@ ww . newyorker . com / tech / annals-[]of-[]technology /
 
 \openout4 = `main.mw'.
 
-[56
+[57
 
 
 ] (./main.mw)
@@ -4432,7 +4438,7 @@ ww . newyorker . com / tech / annals-[]of-[]technology /
 
 
 
-LaTeX Warning: Citation 'Kahneman2011' on page 57 undefined on input line 41.
+LaTeX Warning: Citation 'Kahneman2011' on page 58 undefined on input line 41.
 
 
 Overfull \hbox (109.59401pt too wide) in paragraph at lines 43--44
@@ -4443,19 +4449,19 @@ ls-[]thinking-[]fast-[]and-[]slow-[]e3cdab18cd0$[][]
 ) (./chapters/omissions.tex
 \openout4 = `main.mw'.
 
- [57] (./main.mw)
+ [58] (./main.mw)
 \openout4 = `main.mw'.
 
 
 chapter 8.
-Package marginnote Info: Margin note 68.1 is on absolute page 68 on input line 
+Package marginnote Info: Margin note 69.1 is on absolute page 69 on input line 
 2.
 Package marginnote Info: right page because not two side mode on input line 2.
 Package marginnote Info: xpos seems to be 72.53856pt on input line 2.
 )
 \openout4 = `main.mw'.
 
- [58
+ [59
 
 
 ] (./main.mw)
@@ -4507,7 +4513,7 @@ This document will not have a glossary.
 
 \openout4 = `main.mw'.
 
-[59
+[60
 
 
 
@@ -5309,11 +5315,11 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 58969 strings out of 478287
- 1159563 string characters out of 5849289
+ 59079 strings out of 478287
+ 1160643 string characters out of 5849289
  2704775 words of memory out of 5000000
  75275 multiletter control sequences out of 15000+600000
- 595054 words of font info for 328 fonts, out of 8000000 for 9000
+ 596414 words of font info for 344 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  133i,20n,159p,10596b,2656s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-lf-pc.enc}{/usr/s
@@ -5329,10 +5335,10 @@ sr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txsya.pfb></usr/share/te
 xlive/texmf-dist/fonts/type1/public/newpx/zplb.pfb></usr/share/texlive/texmf-di
 st/fonts/type1/public/newpx/zplr.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /public/newpx/zplri.pfb>
-Output written on main.pdf (67 pages, 14207306 bytes).
+Output written on main.pdf (68 pages, 14213674 bytes).
 PDF statistics:
- 1749 PDF objects out of 2073 (max. 8388607)
- 1524 compressed objects within 16 object streams
- 386 named destinations out of 1000 (max. 500000)
+ 1844 PDF objects out of 2073 (max. 8388607)
+ 1617 compressed objects within 17 object streams
+ 462 named destinations out of 1000 (max. 500000)
  50465 words of extra memory for PDF output out of 51595 (max. 10000000)
 
