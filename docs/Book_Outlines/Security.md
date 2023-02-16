@@ -42,6 +42,8 @@ Poor Nerd
 
 ## Security by Obscurity
 
+Your phone can kill you. https://www.nytimes.com/2023/02/14/world/europe/russian-attack-aid-worker-video.html
+
 # Phones
 
 iOS or Pixel Android if you must

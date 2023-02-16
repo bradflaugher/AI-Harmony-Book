@@ -2,6 +2,8 @@
 \chapter{Model Cards and Case Studies}
 \labch{modelcards}
 
+\section{Introduction to Model Cards}
+
 Model cards are a way to document the capabilities and limitations of your AI model. They are a useful tool for understanding your model, and for communicating its capabilities and limitations to others. Google (see \url{https://modelcards.withgoogle.com/face-detection}), Huggingface and even small makers of AI models produce model cards to help educate their users and developers, and as you can imagine no one reads them. 
 
 Think of a model card as a passport for your AI model. Just like how a passport tells you important information about a person, like their name, nationality, and date of birth, a model card tells you important information about your AI model, such as its purpose, training data, limitations, and ethical considerations.
@@ -13,6 +15,21 @@ And, just like how a person's passport can change over time as they visit differ
 In this chapter I am going to create and add commentary to model cards for many popular models. Whether you are a technial person or not I want you to be able to read and understand these, and eventually I want my notes or criticisms to become self-evident. My idea is that once you understand the data that is used to train a model and the domain that it is deployed, you can forecast its strengths and weaknesses almost automatically, let's try a few and see how it goes.
 
 Note that I'll introduce these models in a very particular order. I'll also save the hairiest models (full-self driving and Skynet) their own chapters for a deeper discussion. Try and follow along in the order that I lay out here, but only until you get bored. Once you are bored and can forecast my criticisisms, you can skip around with impunity.
+
+
+\subsection{Key Terms}
+
+\begin{itemize}
+    \item \textbf{Accuracy:} The proportion of correctly classified examples to the total number of examples.
+    \item \textbf{AUC:} Area under the Receiver Operating Characteristic (ROC) curve.
+    \item \textbf{F1:} Harmonic mean of precision and recall.
+    \item \textbf{False Negative (FN):} An instance that is actually positive but predicted as negative.
+    \item \textbf{False Positive (FP):} An instance that is actually negative but predicted as positive.
+    \item \textbf{Precision:} The proportion of correctly classified positive examples to the total number of positive examples predicted by the model.
+    \item \textbf{Recall:} The proportion of correctly classified positive examples to the total number of actual positive examples.
+    \item \textbf{True Negative (TN):} An instance that is actually negative and predicted as negative.
+    \item \textbf{True Positive (TP):} An instance that is actually positive and predicted as positive.
+\end{itemize}
 
 \section{Fluid Dynamics}
 
