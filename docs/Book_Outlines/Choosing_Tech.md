@@ -1,5 +1,6 @@
 * Copy and make a book on choosing technologies that last... econ history etc... use Robot doing pushups from BookCover.ai)
 
+TODO Write a positioning statement
 
 # Intro, why do we care, why are economics important? What is the goal with all of this? 
 
