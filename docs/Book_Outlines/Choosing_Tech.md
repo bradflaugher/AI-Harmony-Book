@@ -4,6 +4,7 @@ TODO Write a positioning statement
 
 # Intro, why do we care, why are economics important? What is the goal with all of this? 
 
+People fall in love with a technology. dont do it. Fall in love with a process instead, and also improve that process heyo.
 
 Talk about wharton platform pricing 000020 strategy and how only open source can compete, how to protect yourself from the trap, but benefit from the free stuff... xerox att facebook google etc (talk about amazon, microsoft and samsung with android)
 
@@ -11,6 +12,10 @@ Talk about wharton platform pricing 000020 strategy and how only open source can
 Hackable and Repairable as key aspects of choosing
 
 Openness and Standards Compliance as huge ones (de facto standard counts less) talk about xls docs and pdfs, also inkscape and gimp and pixar using Linux
+
+Mention contractors and how they pick technologies for you, but they might pick shitty ones and you'll get in trouble.
+
+Also talk about how FOSS creates a software paradox Software paradox, FOSS shrinks the market and take 70%, but then use feynmans quote about paradoxes to say that software itself is worth 0. 
 
 
 C
