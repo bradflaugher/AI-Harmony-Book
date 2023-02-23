@@ -490,22 +490,20 @@
     \endentry
     \entry{openaimisuse}{misc}{}
       \name{author}{1}{}{%
-        {{hash=0a919d1fa54f1ffdedde5b48f78df64a}{%
-           family={al.},
-           familyi={a\bibinitperiod},
-           given={Josh\bibnamedelimb A.\bibnamedelimi Goldstien},
-           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim G\bibinitperiod},
-           prefix={et},
-           prefixi={e\bibinitperiod}}}%
+        {{hash=a1427e3ee7b6c36877719734fc2c68b1}{%
+           family={Goldstienen},
+           familyi={G\bibinitperiod},
+           given={Josh\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
       }
-      \strng{namehash}{0a919d1fa54f1ffdedde5b48f78df64a}
-      \strng{fullhash}{0a919d1fa54f1ffdedde5b48f78df64a}
-      \strng{bibnamehash}{0a919d1fa54f1ffdedde5b48f78df64a}
-      \strng{authorbibnamehash}{0a919d1fa54f1ffdedde5b48f78df64a}
-      \strng{authornamehash}{0a919d1fa54f1ffdedde5b48f78df64a}
-      \strng{authorfullhash}{0a919d1fa54f1ffdedde5b48f78df64a}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \strng{namehash}{a1427e3ee7b6c36877719734fc2c68b1}
+      \strng{fullhash}{a1427e3ee7b6c36877719734fc2c68b1}
+      \strng{bibnamehash}{a1427e3ee7b6c36877719734fc2c68b1}
+      \strng{authorbibnamehash}{a1427e3ee7b6c36877719734fc2c68b1}
+      \strng{authornamehash}{a1427e3ee7b6c36877719734fc2c68b1}
+      \strng{authorfullhash}{a1427e3ee7b6c36877719734fc2c68b1}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://openai.com/blog/forecasting-misuse/}}
@@ -545,8 +543,8 @@
       \strng{authorbibnamehash}{e8748a87f47a6482722dc49efea4d52d}
       \strng{authornamehash}{e8748a87f47a6482722dc49efea4d52d}
       \strng{authorfullhash}{e8748a87f47a6482722dc49efea4d52d}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Robot, take the wheel: The road to autonomous cars and the lost art of driving}
@@ -571,8 +569,8 @@
       \strng{authorbibnamehash}{71bcd1988b4e9560d37152b82a59eb1f}
       \strng{authornamehash}{71bcd1988b4e9560d37152b82a59eb1f}
       \strng{authorfullhash}{71bcd1988b4e9560d37152b82a59eb1f}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://learning.oreilly.com/library/view/practicing-trustworthy-machine/9781098120269/ch03.html}}
@@ -582,8 +580,8 @@
       \field{year}{2023}
     \endentry
     \entry{nocarkids}{misc}{}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://www.economist.com/international/2023/02/16/throughout-the-rich-world-the-young-are-falling-out-of-love-with-cars}}
       \field{note}{(Accessed on 02/17/2023)}
@@ -700,8 +698,8 @@
       \strng{authorbibnamehash}{199868cb9a5ee49454615e31ec8cc1ae}
       \strng{authornamehash}{199868cb9a5ee49454615e31ec8cc1ae}
       \strng{authorfullhash}{199868cb9a5ee49454615e31ec8cc1ae}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{ACM}

@@ -70,60 +70,64 @@
 \contentsline {chapter}{\numberline {4}Model Cards and Case Studies}{28}{chapter.4}%
 \etoc@startlocaltoc {8}
 \etoc@startlocaltoc {9}
-\contentsline {section}{\numberline {4.1}Model Cards}{28}{section.4.1}%
-\contentsline {mtocsection}{\numberline {4.1}Model Cards}{28}{section.4.1}%
+\contentsline {section}{\numberline {4.1}Introduction}{28}{section.4.1}%
+\contentsline {mtocsection}{\numberline {4.1}Introduction}{28}{section.4.1}%
 \contentsline {subsection}{\numberline {4.1.1}Key Terms}{28}{subsection.4.1.1}%
 \contentsline {mtocsubsection}{\numberline {4.1.1}Key Terms}{28}{subsection.4.1.1}%
-\contentsline {section}{\numberline {4.2}Fluid Dynamics}{29}{section.4.2}%
-\contentsline {mtocsection}{\numberline {4.2}Fluid Dynamics}{29}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Shakespearean Text}{29}{section.4.3}%
-\contentsline {mtocsection}{\numberline {4.3}Shakespearean Text}{29}{section.4.3}%
-\contentsline {section}{\numberline {4.4}Lithium Mining}{30}{section.4.4}%
-\contentsline {mtocsection}{\numberline {4.4}Lithium Mining}{30}{section.4.4}%
-\contentsline {section}{\numberline {4.5}Chess}{31}{section.4.5}%
-\contentsline {mtocsection}{\numberline {4.5}Chess}{31}{section.4.5}%
-\contentsline {section}{\numberline {4.6}Go}{32}{section.4.6}%
-\contentsline {mtocsection}{\numberline {4.6}Go}{32}{section.4.6}%
-\contentsline {section}{\numberline {4.7}Large Stock Order}{33}{section.4.7}%
-\contentsline {mtocsection}{\numberline {4.7}Large Stock Order}{33}{section.4.7}%
-\contentsline {section}{\numberline {4.8}Share Tender Purchase}{34}{section.4.8}%
-\contentsline {mtocsection}{\numberline {4.8}Share Tender Purchase}{34}{section.4.8}%
-\contentsline {section}{\numberline {4.9}Stock Trading}{35}{section.4.9}%
-\contentsline {mtocsection}{\numberline {4.9}Stock Trading}{35}{section.4.9}%
-\contentsline {section}{\numberline {4.10}Sperm Counter}{36}{section.4.10}%
-\contentsline {mtocsection}{\numberline {4.10}Sperm Counter}{36}{section.4.10}%
-\contentsline {section}{\numberline {4.11}Handwriting Recognizer}{36}{section.4.11}%
-\contentsline {mtocsection}{\numberline {4.11}Handwriting Recognizer}{36}{section.4.11}%
-\contentsline {section}{\numberline {4.12}Drug Discovery}{37}{section.4.12}%
-\contentsline {mtocsection}{\numberline {4.12}Drug Discovery}{37}{section.4.12}%
-\contentsline {section}{\numberline {4.13}Autism}{38}{section.4.13}%
-\contentsline {mtocsection}{\numberline {4.13}Autism}{38}{section.4.13}%
-\contentsline {section}{\numberline {4.14}Online Dating}{39}{section.4.14}%
-\contentsline {mtocsection}{\numberline {4.14}Online Dating}{39}{section.4.14}%
-\contentsline {section}{\numberline {4.15}Online Advertising}{40}{section.4.15}%
-\contentsline {mtocsection}{\numberline {4.15}Online Advertising}{40}{section.4.15}%
-\contentsline {section}{\numberline {4.16}Tennis}{41}{section.4.16}%
-\contentsline {mtocsection}{\numberline {4.16}Tennis}{41}{section.4.16}%
-\contentsline {section}{\numberline {4.17}Hate Speech}{42}{section.4.17}%
-\contentsline {mtocsection}{\numberline {4.17}Hate Speech}{42}{section.4.17}%
-\contentsline {section}{\numberline {4.18}Fake News}{43}{section.4.18}%
-\contentsline {mtocsection}{\numberline {4.18}Fake News}{43}{section.4.18}%
-\contentsline {section}{\numberline {4.19}Legal Contracts}{44}{section.4.19}%
-\contentsline {mtocsection}{\numberline {4.19}Legal Contracts}{44}{section.4.19}%
-\contentsline {section}{\numberline {4.20}Facial Recognition}{45}{section.4.20}%
-\contentsline {mtocsection}{\numberline {4.20}Facial Recognition}{45}{section.4.20}%
-\contentsline {section}{\numberline {4.21}Smartwatches}{46}{section.4.21}%
-\contentsline {mtocsection}{\numberline {4.21}Smartwatches}{46}{section.4.21}%
-\contentsline {section}{\numberline {4.22}Threat Detection}{47}{section.4.22}%
-\contentsline {mtocsection}{\numberline {4.22}Threat Detection}{47}{section.4.22}%
-\contentsline {section}{\numberline {4.23}University Admissions}{48}{section.4.23}%
-\contentsline {mtocsection}{\numberline {4.23}University Admissions}{48}{section.4.23}%
-\contentsline {section}{\numberline {4.24}Credit Score}{49}{section.4.24}%
-\contentsline {mtocsection}{\numberline {4.24}Credit Score}{49}{section.4.24}%
-\contentsline {section}{\numberline {4.25}Social Credit Score}{50}{section.4.25}%
-\contentsline {mtocsection}{\numberline {4.25}Social Credit Score}{50}{section.4.25}%
-\contentsline {section}{\numberline {4.26}AGI}{51}{section.4.26}%
-\contentsline {mtocsection}{\numberline {4.26}AGI}{51}{section.4.26}%
+\contentsline {section}{\numberline {4.2}Model Cards}{29}{section.4.2}%
+\contentsline {mtocsection}{\numberline {4.2}Model Cards}{29}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Fluid Dynamics}{29}{subsection.4.2.1}%
+\contentsline {mtocsubsection}{\numberline {4.2.1}Fluid Dynamics}{29}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Shakespearean Text}{30}{subsection.4.2.2}%
+\contentsline {mtocsubsection}{\numberline {4.2.2}Shakespearean Text}{30}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}Lithium Mining}{30}{subsection.4.2.3}%
+\contentsline {mtocsubsection}{\numberline {4.2.3}Lithium Mining}{30}{subsection.4.2.3}%
+\contentsline {subsection}{\numberline {4.2.4}Chess}{31}{subsection.4.2.4}%
+\contentsline {mtocsubsection}{\numberline {4.2.4}Chess}{31}{subsection.4.2.4}%
+\contentsline {subsection}{\numberline {4.2.5}Go}{32}{subsection.4.2.5}%
+\contentsline {mtocsubsection}{\numberline {4.2.5}Go}{32}{subsection.4.2.5}%
+\contentsline {subsection}{\numberline {4.2.6}Large Stock Order}{33}{subsection.4.2.6}%
+\contentsline {mtocsubsection}{\numberline {4.2.6}Large Stock Order}{33}{subsection.4.2.6}%
+\contentsline {subsection}{\numberline {4.2.7}Share Tender Purchase}{34}{subsection.4.2.7}%
+\contentsline {mtocsubsection}{\numberline {4.2.7}Share Tender Purchase}{34}{subsection.4.2.7}%
+\contentsline {subsection}{\numberline {4.2.8}Stock Trading}{35}{subsection.4.2.8}%
+\contentsline {mtocsubsection}{\numberline {4.2.8}Stock Trading}{35}{subsection.4.2.8}%
+\contentsline {subsection}{\numberline {4.2.9}Sperm Counter}{36}{subsection.4.2.9}%
+\contentsline {mtocsubsection}{\numberline {4.2.9}Sperm Counter}{36}{subsection.4.2.9}%
+\contentsline {subsection}{\numberline {4.2.10}Handwriting Recognizer}{36}{subsection.4.2.10}%
+\contentsline {mtocsubsection}{\numberline {4.2.10}Handwriting Recognizer}{36}{subsection.4.2.10}%
+\contentsline {subsection}{\numberline {4.2.11}Drug Discovery}{37}{subsection.4.2.11}%
+\contentsline {mtocsubsection}{\numberline {4.2.11}Drug Discovery}{37}{subsection.4.2.11}%
+\contentsline {subsection}{\numberline {4.2.12}Autism}{38}{subsection.4.2.12}%
+\contentsline {mtocsubsection}{\numberline {4.2.12}Autism}{38}{subsection.4.2.12}%
+\contentsline {subsection}{\numberline {4.2.13}Online Dating}{39}{subsection.4.2.13}%
+\contentsline {mtocsubsection}{\numberline {4.2.13}Online Dating}{39}{subsection.4.2.13}%
+\contentsline {subsection}{\numberline {4.2.14}Online Advertising}{40}{subsection.4.2.14}%
+\contentsline {mtocsubsection}{\numberline {4.2.14}Online Advertising}{40}{subsection.4.2.14}%
+\contentsline {subsection}{\numberline {4.2.15}Tennis}{41}{subsection.4.2.15}%
+\contentsline {mtocsubsection}{\numberline {4.2.15}Tennis}{41}{subsection.4.2.15}%
+\contentsline {subsection}{\numberline {4.2.16}Hate Speech}{42}{subsection.4.2.16}%
+\contentsline {mtocsubsection}{\numberline {4.2.16}Hate Speech}{42}{subsection.4.2.16}%
+\contentsline {subsection}{\numberline {4.2.17}Fake News}{43}{subsection.4.2.17}%
+\contentsline {mtocsubsection}{\numberline {4.2.17}Fake News}{43}{subsection.4.2.17}%
+\contentsline {subsection}{\numberline {4.2.18}Legal Contracts}{44}{subsection.4.2.18}%
+\contentsline {mtocsubsection}{\numberline {4.2.18}Legal Contracts}{44}{subsection.4.2.18}%
+\contentsline {subsection}{\numberline {4.2.19}Facial Recognition}{45}{subsection.4.2.19}%
+\contentsline {mtocsubsection}{\numberline {4.2.19}Facial Recognition}{45}{subsection.4.2.19}%
+\contentsline {subsection}{\numberline {4.2.20}Smartwatches}{46}{subsection.4.2.20}%
+\contentsline {mtocsubsection}{\numberline {4.2.20}Smartwatches}{46}{subsection.4.2.20}%
+\contentsline {subsection}{\numberline {4.2.21}Threat Detection}{47}{subsection.4.2.21}%
+\contentsline {mtocsubsection}{\numberline {4.2.21}Threat Detection}{47}{subsection.4.2.21}%
+\contentsline {subsection}{\numberline {4.2.22}University Admissions}{47}{subsection.4.2.22}%
+\contentsline {mtocsubsection}{\numberline {4.2.22}University Admissions}{47}{subsection.4.2.22}%
+\contentsline {subsection}{\numberline {4.2.23}Credit Score}{49}{subsection.4.2.23}%
+\contentsline {mtocsubsection}{\numberline {4.2.23}Credit Score}{49}{subsection.4.2.23}%
+\contentsline {subsection}{\numberline {4.2.24}Social Credit Score}{50}{subsection.4.2.24}%
+\contentsline {mtocsubsection}{\numberline {4.2.24}Social Credit Score}{50}{subsection.4.2.24}%
+\contentsline {subsection}{\numberline {4.2.25}AGI}{51}{subsection.4.2.25}%
+\contentsline {mtocsubsection}{\numberline {4.2.25}AGI}{51}{subsection.4.2.25}%
+\contentsline {section}{\numberline {4.3}Conclusion}{52}{section.4.3}%
+\contentsline {mtocsection}{\numberline {4.3}Conclusion}{52}{section.4.3}%
 \contentsline {chapter}{\numberline {5}Self-Driving with Statistics}{53}{chapter.5}%
 \etoc@startlocaltoc {10}
 \etoc@startlocaltoc {11}
