@@ -392,7 +392,331 @@
       \field{title}{Think for yourself: Restoring common sense in an age of experts and artificial intelligence}
       \field{year}{2020}
     \endentry
+    \entry{ptliver}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=c57e0c72a88986509a5ab29924c43109}{%
+           family={Rosso},
+           familyi={R\bibinitperiod},
+           given={Cami},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{c57e0c72a88986509a5ab29924c43109}
+      \strng{fullhash}{c57e0c72a88986509a5ab29924c43109}
+      \strng{bibnamehash}{c57e0c72a88986509a5ab29924c43109}
+      \strng{authorbibnamehash}{c57e0c72a88986509a5ab29924c43109}
+      \strng{authornamehash}{c57e0c72a88986509a5ab29924c43109}
+      \strng{authorfullhash}{c57e0c72a88986509a5ab29924c43109}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.psychologytoday.com/us/blog/the-future-brain/202301/ai-finds-drug-candidate-for-liver-cancer-in-30-days}}
+      \field{month}{1}
+      \field{note}{(Accessed on 02/23/2023)}
+      \field{title}{AI Finds Drug Candidate for Liver Cancer in 30 Days | Psychology Today}
+      \field{year}{2023}
+    \endentry
+    \entry{cacmautism}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=3ad579485534fc98170d71c6a97040b9}{%
+           family={Weintraub},
+           familyi={W\bibinitperiod},
+           given={Karen},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{3ad579485534fc98170d71c6a97040b9}
+      \strng{fullhash}{3ad579485534fc98170d71c6a97040b9}
+      \strng{bibnamehash}{3ad579485534fc98170d71c6a97040b9}
+      \strng{authorbibnamehash}{3ad579485534fc98170d71c6a97040b9}
+      \strng{authornamehash}{3ad579485534fc98170d71c6a97040b9}
+      \strng{authorfullhash}{3ad579485534fc98170d71c6a97040b9}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.usatoday.com/story/news/health/2023/02/08/autism-signs-early-life-study/11164013002/}}
+      \field{month}{2}
+      \field{note}{(Accessed on 02/23/2023)}
+      \field{title}{New algorithm detects autism in infants. How might that change care?}
+      \field{year}{2023}
+    \endentry
+    \entry{nyt911}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=5c3927031d0d993a2389b80efa1bf915}{%
+           family={Richtel},
+           familyi={R\bibinitperiod},
+           given={Matt},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{5c3927031d0d993a2389b80efa1bf915}
+      \strng{fullhash}{5c3927031d0d993a2389b80efa1bf915}
+      \strng{bibnamehash}{5c3927031d0d993a2389b80efa1bf915}
+      \strng{authorbibnamehash}{5c3927031d0d993a2389b80efa1bf915}
+      \strng{authornamehash}{5c3927031d0d993a2389b80efa1bf915}
+      \strng{authorfullhash}{5c3927031d0d993a2389b80efa1bf915}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.nytimes.com/2023/02/03/health/apple-watch-911-emergency-call.html}}
+      \field{month}{2}
+      \field{note}{(Accessed on 02/23/2023)}
+      \field{title}{Why Apple Watches Keep Calling 911 - The New York Times}
+      \field{year}{2023}
+    \endentry
+    \entry{darpabot}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=1717b174530a6dc266a203700b70037c}{%
+           family={Nine},
+           familyi={N\bibinitperiod},
+           given={Adrianna},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{1717b174530a6dc266a203700b70037c}
+      \strng{fullhash}{1717b174530a6dc266a203700b70037c}
+      \strng{bibnamehash}{1717b174530a6dc266a203700b70037c}
+      \strng{authorbibnamehash}{1717b174530a6dc266a203700b70037c}
+      \strng{authornamehash}{1717b174530a6dc266a203700b70037c}
+      \strng{authorfullhash}{1717b174530a6dc266a203700b70037c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.extremetech.com/extreme/342413-us-marines-defeat-darpa-robot-by-hiding-under-a-cardboard-box}}
+      \field{month}{1}
+      \field{note}{(Accessed on 02/23/2023)}
+      \field{title}{US Marines Defeat DARPA Robot by Hiding Under a Cardboard Box - ExtremeTech}
+      \field{year}{2023}
+    \endentry
+    \entry{openaimisuse}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=0a919d1fa54f1ffdedde5b48f78df64a}{%
+           family={al.},
+           familyi={a\bibinitperiod},
+           given={Josh\bibnamedelimb A.\bibnamedelimi Goldstien},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim G\bibinitperiod},
+           prefix={et},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{0a919d1fa54f1ffdedde5b48f78df64a}
+      \strng{fullhash}{0a919d1fa54f1ffdedde5b48f78df64a}
+      \strng{bibnamehash}{0a919d1fa54f1ffdedde5b48f78df64a}
+      \strng{authorbibnamehash}{0a919d1fa54f1ffdedde5b48f78df64a}
+      \strng{authornamehash}{0a919d1fa54f1ffdedde5b48f78df64a}
+      \strng{authorfullhash}{0a919d1fa54f1ffdedde5b48f78df64a}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://openai.com/blog/forecasting-misuse/}}
+      \field{month}{1}
+      \field{note}{(Accessed on 02/23/2023)}
+      \field{title}{Forecasting Potential Misuses of Language Models for Disinformation Campaigns—and How to Reduce Risk}
+      \field{year}{2023}
+    \endentry
+    \entry{nees2021}{misc}{}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.youtube.com/watch?v=45mJGYiqrxY}}
+      \field{note}{(Accessed on 02/16/2023)}
+      \field{title}{PAVE's Virtual Panel "When Humans Meet Automation: What the Research Tells Us" - Full Recording - YouTube}
+      \field{year}{2021}
+    \endentry
+    \entry{torchinsky_boeckmann_2019}{book}{}
+      \name{author}{2}{}{%
+        {{hash=9dd644e99ab2be5996fee8807ccf33f7}{%
+           family={Torchinsky},
+           familyi={T\bibinitperiod},
+           given={Jason},
+           giveni={J\bibinitperiod}}}%
+        {{hash=f6803c82669c21ab9b6e5be7b974e333}{%
+           family={Boeckmann},
+           familyi={B\bibinitperiod},
+           given={Beau},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Apollo Publishers}%
+      }
+      \strng{namehash}{e8748a87f47a6482722dc49efea4d52d}
+      \strng{fullhash}{e8748a87f47a6482722dc49efea4d52d}
+      \strng{bibnamehash}{e8748a87f47a6482722dc49efea4d52d}
+      \strng{authorbibnamehash}{e8748a87f47a6482722dc49efea4d52d}
+      \strng{authornamehash}{e8748a87f47a6482722dc49efea4d52d}
+      \strng{authorfullhash}{e8748a87f47a6482722dc49efea4d52d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Robot, take the wheel: The road to autonomous cars and the lost art of driving}
+      \field{year}{2019}
+    \endentry
+    \entry{trustworthyml}{misc}{}
+      \name{author}{2}{}{%
+        {{hash=2d98a42845fa3491e561b73f78496aff}{%
+           family={Yada\bibnamedelima Pruksachatkun},
+           familyi={Y\bibinitperiod\bibinitdelim P\bibinitperiod},
+           given={Matthew\bibnamedelima McAteer},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=9d1bc62bfff0c1bd8a021a5efa7ba8fd}{%
+           family={Majumda},
+           familyi={M\bibinitperiod},
+           given={Subhabrata\bibnamedelima (Subho)},
+           giveni={S\bibinitperiod\bibinitdelim (\bibinitperiod}}}%
+      }
+      \strng{namehash}{71bcd1988b4e9560d37152b82a59eb1f}
+      \strng{fullhash}{71bcd1988b4e9560d37152b82a59eb1f}
+      \strng{bibnamehash}{71bcd1988b4e9560d37152b82a59eb1f}
+      \strng{authorbibnamehash}{71bcd1988b4e9560d37152b82a59eb1f}
+      \strng{authornamehash}{71bcd1988b4e9560d37152b82a59eb1f}
+      \strng{authorfullhash}{71bcd1988b4e9560d37152b82a59eb1f}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://learning.oreilly.com/library/view/practicing-trustworthy-machine/9781098120269/ch03.html}}
+      \field{month}{2}
+      \field{note}{(Accessed on 02/08/2023)}
+      \field{title}{Practicing Trustworthy Machine Learning}
+      \field{year}{2023}
+    \endentry
+    \entry{nocarkids}{misc}{}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.economist.com/international/2023/02/16/throughout-the-rich-world-the-young-are-falling-out-of-love-with-cars}}
+      \field{note}{(Accessed on 02/17/2023)}
+      \field{title}{Throughout the rich world, the young are falling out of love with cars | The Economist}
+    \endentry
+    \entry{aiwarfare}{misc}{}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.economist.com/business/2023/02/16/ai-wielding-tech-firms-are-giving-a-new-shape-to-modern-warfare}}
+      \field{note}{(Accessed on 02/17/2023)}
+      \field{title}{AI-wielding tech firms are giving a new shape to modern warfare | The Economist}
+    \endentry
+    \entry{Keynes2012}{book}{}
+      \name{author}{3}{}{%
+        {{hash=612862f6008b8bea8cd4a13783af9a93}{%
+           family={Keynes},
+           familyi={K\bibinitperiod},
+           given={John\bibnamedelima Maynard},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=44f500c5174ad6be05f416e74da90025}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={Elizabeth},
+           giveni={E\bibinitperiod}}}%
+        {{hash=e6d0e2eb96ead00e650d7b4a2dc95289}{%
+           family={Moggridge},
+           familyi={M\bibinitperiod},
+           given={Donald},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, England, UK}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{69963cad7c718592b5a5632ef6e80e49}
+      \strng{fullhash}{69963cad7c718592b5a5632ef6e80e49}
+      \strng{bibnamehash}{69963cad7c718592b5a5632ef6e80e49}
+      \strng{authorbibnamehash}{69963cad7c718592b5a5632ef6e80e49}
+      \strng{authornamehash}{69963cad7c718592b5a5632ef6e80e49}
+      \strng{authorfullhash}{69963cad7c718592b5a5632ef6e80e49}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-1-10765506-5}
+      \field{month}{12}
+      \field{title}{{The Collected Writings of John Maynard Keynes (Volume 5)}}
+      \field{year}{2012}
+      \verb{urlraw}
+      \verb https://www.amazon.com/Collected-Writings-John-Maynard-Keynes/dp/1107655064
+      \endverb
+      \verb{url}
+      \verb https://www.amazon.com/Collected-Writings-John-Maynard-Keynes/dp/1107655064
+      \endverb
+    \endentry
+    \entry{Lecarre}{book}{}
+      \name{author}{1}{}{%
+        {{hash=a871feee344c7a48532fb3c8868c6772}{%
+           family={Le\bibnamedelima Carre},
+           familyi={L\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Penguin Books}%
+      }
+      \strng{namehash}{a871feee344c7a48532fb3c8868c6772}
+      \strng{fullhash}{a871feee344c7a48532fb3c8868c6772}
+      \strng{bibnamehash}{a871feee344c7a48532fb3c8868c6772}
+      \strng{authorbibnamehash}{a871feee344c7a48532fb3c8868c6772}
+      \strng{authornamehash}{a871feee344c7a48532fb3c8868c6772}
+      \strng{authorfullhash}{a871feee344c7a48532fb3c8868c6772}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{6}
+      \field{title}{Tinker, Tailor, Soldier, Spy}
+      \field{year}{2011}
+    \endentry
+    \entry{KrohnTED}{misc}{}
+      \list{publisher}{1}{%
+        {Jon Krohn}%
+      }
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Jon Krohn}
+      \field{month}{10}
+      \field{note}{[Online; accessed 18. Oct. 2022]}
+      \field{title}{{Jon Krohn}}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.jonkrohn.com/posts/2022/10/7/tedx-talk-how-neuroscience-inspires-ai-breakthroughs-that-will-change-the-world
+      \endverb
+      \verb{url}
+      \verb https://www.jonkrohn.com/posts/2022/10/7/tedx-talk-how-neuroscience-inspires-ai-breakthroughs-that-will-change-the-world
+      \endverb
+    \endentry
+    \entry{marcus2023}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=199868cb9a5ee49454615e31ec8cc1ae}{%
+           family={Marcus},
+           familyi={M\bibinitperiod},
+           given={Gary},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{199868cb9a5ee49454615e31ec8cc1ae}
+      \strng{fullhash}{199868cb9a5ee49454615e31ec8cc1ae}
+      \strng{bibnamehash}{199868cb9a5ee49454615e31ec8cc1ae}
+      \strng{authorbibnamehash}{199868cb9a5ee49454615e31ec8cc1ae}
+      \strng{authornamehash}{199868cb9a5ee49454615e31ec8cc1ae}
+      \strng{authorfullhash}{199868cb9a5ee49454615e31ec8cc1ae}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ACM}
+      \field{month}{1}
+      \field{title}{Is chatgpt really a 'code red' for google search?}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://cacm.acm.org/blogs/blog-cacm/268376-is-chatgpt-really-a-code-red-for-google-search/fulltext
+      \endverb
+      \verb{url}
+      \verb https://cacm.acm.org/blogs/blog-cacm/268376-is-chatgpt-really-a-code-red-for-google-search/fulltext
+      \endverb
+    \endentry
   \enddatalist
+  \missing{Kahneman2011}
 \endrefsection
 \endinput
 
