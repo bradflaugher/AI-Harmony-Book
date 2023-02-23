@@ -34,12 +34,11 @@ Note that I'll introduce these models in a very particular order. I'll also save
 \section{Fluid Dynamics}
 
 \begin{itemize}
-    \item \textbf{Intended use:} This model is intended to predict fluid flow patterns in various applications, such as aerodynamics, hydrodynamics, and weather forecasting.
-    \item \textbf{Training data:} The model is trained on a large dataset of numerical simulations of fluid flow patterns, which includes various geometries, fluid properties, and boundary conditions. The data is generated using well-established simulation tools such as the finite element method, finite volume method, or lattice Boltzmann method.
-    \item \textbf{Evaluation data:} The model is evaluated on a separate dataset of numerical simulations of fluid flow patterns that are not seen during training. The evaluation dataset includes a variety of geometries, fluid properties, and boundary conditions.
-    \item \textbf{Metrics:} The model's performance is measured using common metrics in fluid dynamics such as root-mean-square error (RMSE), mean absolute error (MAE), and correlation coefficient (R).
-    \item \textbf{Ethical considerations:} This model is intended for scientific and engineering applications and is not directly used for decision-making that affects human lives. However, the model's predictions may indirectly affect human lives by informing engineering design or emergency response planning. It is important to validate the model's accuracy and uncertainty, and to communicate the limitations and assumptions of the model to stakeholders.
-    \item \textbf{Limitations:} The model assumes that the fluid flow is governed by the Navier-Stokes equations, which may not be accurate for highly turbulent or rarefied flows. The model may also be limited by the numerical precision and stability of the simulation tools used to generate the training data.
+    \item \textbf{Description:} This model is intended to predict fluid flow patterns in various applications, such as aerodynamics, hydrodynamics, and weather forecasting.
+    \item \textbf{Training Data:} The model is trained on a large dataset of numerical simulations of fluid flow patterns, which includes various geometries, fluid properties, and boundary conditions. The data is generated using well-established simulation tools such as the finite element method, finite volume method, or lattice Boltzmann method.
+    \item \textbf{Evaluation:} The model is evaluated on a separate dataset of numerical simulations of fluid flow patterns that are not seen during training. The evaluation dataset includes a variety of geometries, fluid properties, and boundary conditions. The model's performance is measured using common metrics in fluid dynamics such as root-mean-square error (RMSE), mean absolute error (MAE), and correlation coefficient (R).
+    \item \textbf{Limits and Risks:} This model is intended for scientific and engineering applications and is not directly used for decision-making that affects human lives. However, the model's predictions may indirectly affect human lives by informing engineering design or emergency response planning. It is important to validate the model's accuracy and uncertainty, and to communicate the limitations and assumptions of the model to stakeholders. The model assumes that the fluid flow is governed by the Navier-Stokes equations, which may not be accurate for highly turbulent or rarefied flows. The model may also be limited by the numerical precision and stability of the simulation tools used to generate the training data.
+    \item \textbf{Common Myths or Misunderstandings:} TODO
 \end{itemize}
 
 \section{Shakespearean Text} 
@@ -57,7 +56,7 @@ Note that I'll introduce these models in a very particular order. I'll also save
         \end{enumerate}
 \item \textbf{Limits and Risks:} Like any language model, the Shakespearean Text Generator has limitations and risks. One of the main limitations is that it may not always generate text that is grammatically correct or semantically meaningful. Additionally, the model may struggle to capture all of the nuances and complexities of Shakespeare's writing, and may generate text that is not true to the style or spirit of the Bard.
 \item \textbf{Common Myths or Misunderstandings:}
-There are a few common myths or misunderstandings about the Shakespearean Text Generator. One myth is that the model can perfectly recreate Shakespeare's writing, when in reality it can only generate text that is similar in style. Another myth is that the model is only useful for generating text, when in reality it can also be used for other tasks, such as analyzing Shakespeare's writing style and language.
+There are a few common myths or misunderstandings about the Shakespearean Text Generator. One myth is that the model can perfectly recreate Shakespeare's writing, when in reality it can only generate text that is similar in style.
 \end{itemize}
 
 \section{Lithium Mining}
@@ -107,10 +106,8 @@ There are a few common myths or misunderstandings about the Shakespearean Text G
             \item Developing new and innovative Go-related products and services
         \end{enumerate}
     \item \textbf{Limits and Risks:} Like any machine learning model, the Go Playing Model has limitations and risks. One of the main limitations is that it may not always make the best move, and may make mistakes or suboptimal moves. Additionally, the model may be biased towards certain openings, strategies, or styles of play if the training data is not representative of the game of Go as a whole.
-    \item \textbf{Common Myths or Misunderstandings:} There are a few common myths or misunderstandings about the Go Playing Model. One myth is that the model can always beat human opponents, when in reality it can only make predictions based on the information it was trained on. Another myth is that the model can replace human expertise and creativity in the game of Go, when in reality it is intended to support and enhance human players' abilities.
+    \item \textbf{Common Myths or Misunderstandings:} There are a few common myths or misunderstandings about the Go Playing Model. One myth is that the model can always beat human opponents, when in reality it can only make predictions based on the information it was trained on. If the game is played differently than the data it was trained on, the model is likely to fail. \sidenote{This has happened in the past with seemingly "stupid" openings breaking world-class go playing models \href{https://arstechnica.com/information-technology/2022/11/new-go-playing-trick-defeats-world-class-go-ai-but-loses-to-human-amateurs/}{https://arstechnica.com}} Another myth is that the model can replace human expertise and creativity in the game of Go, when in reality it is intended to support and enhance human players' abilities.
 \end{itemize}
-
-\url{https://arstechnica.com/information-technology/2022/11/new-go-playing-trick-defeats-world-class-go-ai-but-loses-to-human-amateurs/}
 
 \section{Large Stock Order}
 
@@ -159,13 +156,12 @@ There are a few common myths or misunderstandings about the Shakespearean Text G
 \section{Sperm Counter}
 
 \begin{itemize}
-    \item \textbf{Description} This AI model is designed to count sperm in a video of semen under a microscope.
-    \item \textbf{Training Data} The model was trained on a large dataset of semen videos taken under a microscope. The training data was annotated with the number of sperm in each video, allowing the model to learn the patterns and features of sperm in different types of semen samples.
-    \item \textbf{Evaluation Metrics} The model was evaluated using precision, recall, and F1 score, which are commonly used metrics for object counting tasks. The model achieved high scores on all metrics, indicating that it is effective at accurately counting sperm in the semen videos.
-    \item \textbf{Use Cases} This model can be used in clinical or research settings to quickly and accurately count sperm in semen samples. This can be useful for diagnosing and monitoring male infertility, as well as for understanding the impact of various factors on sperm count.
-    \item \textbf{Limits and Risks} Concept Drift and Transfer Learning! The model is only trained to count sperm in semen videos taken under a microscope and may not perform well on videos taken under different conditions or with different types of microscopes. It is important to ensure that the semen samples are of high quality and that the video recording conditions are consistent in order to obtain accurate results.
-    \item \textbf{Disclaimer} This model is not intended to replace human expert judgment and should be used as a tool to support decision making. The results generated by this model are not a substitute for professional medical advice, diagnosis, or treatment.
-    \item \textbf{The Myth} (\hyperref[sec:multi]{Multicolinearity 2.5} , \hyperref[sec:creative]{Creative or Critical 3.3}, \hyperref[sec:explain]{Explainability 2.6}, \hyperref[sec:limits]{Limitations 2.8}, \hyperref[sec:plag]{Plagiarism 3.8}, \hyperref[sec:drift]{Concept Drift 3.5}, \hyperref[sec:janitor]{Data Janitoring and Editorializing 2.8} and Performance/Cost).
+    \item \textbf{Description:} This AI model is designed to count sperm in a video of semen under a microscope.
+    \item \textbf{Training Data:} The model was trained on a large dataset of semen videos taken under a microscope. The training data was annotated with the number of sperm in each video, allowing the model to learn the patterns and features of sperm in different types of semen samples.
+    \item \textbf{Evaluation:} The model was evaluated using precision, recall, and F1 score, which are commonly used metrics for object counting tasks. The model achieved high scores on all metrics, indicating that it is effective at accurately counting sperm in the semen videos.
+    \item \textbf{Use Cases:} This model can be used in clinical or research settings to quickly and accurately count sperm in semen samples. This can be useful for diagnosing and monitoring male infertility, as well as for understanding the impact of various factors on sperm count.
+    \item \textbf{Limits and Risks:} The model is only trained to count sperm in semen videos taken under a microscope and may not perform well on videos taken under different conditions or with different types of microscopes. It is important to ensure that the semen samples are of high quality and that the video recording conditions are consistent in order to obtain accurate results.
+    \item \textbf{Common Myths or Misunderstandings:} This model is not intended to replace human expert judgment and should be used as a tool to support decision making. The results generated by this model are not a substitute for professional medical advice, diagnosis, or treatment.
 \end{itemize}
 
 \section{Handwriting Recognizer}
@@ -199,10 +195,8 @@ There are a few common myths or misunderstandings about the Shakespearean Text G
             \item Supporting liver research and education by providing insights into liver function and drug interactions
         \end{enumerate}
     \item \textbf{Limits and Risks:} Like any machine learning model, the Liver Drug Discovery Model has limitations and risks. One of the main limitations is that it may not always make accurate predictions, and may miss important relationships between drugs and the liver. Additionally, the model may be biased towards certain drugs, liver functions, or disease conditions if the training data is not representative of the relationships between drugs and the liver.
-    \item \textbf{Common Myths or Misunderstandings:} There are a few common myths or misunderstandings about the Liver Drug Discovery Model. One myth is that the model can always accurately predict the potential efficacy and toxicity of drugs for the liver, when in reality it can only provide a prediction based on the information it was trained on. Another myth is that the model can replace human expertise and judgement in drug discovery and development, when in reality it is intended to support and enhance human decision-making processes.
+    \item \textbf{Common Myths or Misunderstandings:} There are a few common myths or misunderstandings about the Liver Drug Discovery Model. One myth is that the model can always accurately predict the potential efficacy and toxicity of drugs for the liver, when in reality it can only provide a prediction based on the information it was trained on. \sidecite{ptliver} Another myth is that the model can replace human expertise and judgement in drug discovery and development, when in reality it is intended to support and enhance human decision-making processes.
 \end{itemize}
-
-\url{https://www.psychologytoday.com/us/blog/the-future-brain/202301/ai-finds-drug-candidate-for-liver-cancer-in-30-days}
 
 \section{Autism}
 
@@ -217,10 +211,9 @@ There are a few common myths or misunderstandings about the Shakespearean Text G
             \item Enhancing autism research and education by providing insights into autism symptoms and characteristics
         \end{enumerate}
     \item \textbf{Limits and Risks:} Like any machine learning model, the Autism Classifier has limitations and risks. One of the main limitations is that it may not always be accurate, and may misclassify children or misidentify the likelihood of autism. Additionally, the model may be biased towards certain demographic groups, behavioral and physiological characteristics, or autism symptoms if the training data is not representative of the characteristics of children with and without autism.
-    \item \textbf{Common Myths or Misunderstandings:} There are a few common myths or misunderstandings about the Autism Classifier. One myth is that the model can always accurately identify children who may be at risk for autism, when in reality it can only provide a prediction based on the information it was trained on. Another myth is that the model can
+    \item \textbf{Common Myths or Misunderstandings:} \sidecite{cacmautism} There are a few common myths or misunderstandings about the Autism Classifier. One myth is that the model can always accurately identify children who may be at risk for autism, when in reality it can only provide a prediction based on the information it was trained on. Another myth is that the model can
 \end{itemize}
 
-\url{https://cacm.acm.org/news/269779-algorithm-detects-autism-in-infants/fulltext}
 
 \section{Online Dating}
 
@@ -267,10 +260,9 @@ There are a few common myths or misunderstandings about the Shakespearean Text G
             \item Enhancing the user experience of tennis gaming
         \end{enumerate}
     \item \textbf{Limits and Risks:} Like any machine learning model, the Tennis Playing Bot has limitations and risks. One of the main limitations is that it may not always be accurate, and may make mistakes or misinterpret the game of tennis. Additionally, the model may be biased towards certain demographic groups, tennis strategies, or tennis tactics if the training data is not representative of the range of tennis strategies and tactics.
-    \item \textbf{Common Myths or Misunderstandings:} There are a few common myths or misunderstandings about the Tennis Playing Bot. One myth is that the model can always accurately play tennis against other players or bots, when in reality it can only provide a prediction based on the information it was trained on. Another
+    \item \textbf{Common Myths or Misunderstandings:} There are a few common myths or misunderstandings about the Tennis Playing Bot. One myth is that the model can always accurately play tennis against other players or bots, when in reality it can only provide a prediction based on the information it was trained on. Another common misunderstanding is where the computational difficulty lies, predicting where a ball will go is actually computationally easy, holding the racquet and coordinating movement and balance might be the hard part \sidenote{This is called Moravec's Paradox \url{https://en.wikipedia.org/wiki/Moravec\%27s_paradox}}
 \end{itemize}
 
-\url{https://en.wikipedia.org/wiki/Moravec\%27s_paradox}
 
 \section{Hate Speech}
 
@@ -348,10 +340,8 @@ There are a few common myths or misunderstandings about the Shakespearean Text G
             \item Enhancing online research and education by providing insights into online smartwatch data and characteristics
         \end{enumerate}
     \item \textbf{Limits and Risks:} Like any machine learning model, the Smartwatch Danger Classifier has limitations and risks. One of the main limitations is that it may not always be accurate, and may misclassify smartwatch data or misidentify the likelihood of potential dangers. Additionally, the model may be biased towards certain demographic groups, smartwatch data, or smartwatch characteristics if the training data is not representative of the range of physiological signals, activity patterns, and environmental conditions.
-    \item \textbf{Common Myths or Misunderstandings:} There are a few common myths or misunderstandings about the Smartwatch Wearer Danger Classifier. One myth is that the model can always accurately identify dangers, when in reality it can only provide a prediction based on the information it was trained on and may miss important signals or trigger false alarms. Another myth is that the model can replace human judgement and expertise in evaluating personal safety, when in reality it is intended to support and enhance human decision-making processes.
+    \item \textbf{Common Myths or Misunderstandings:} There are a few common myths or misunderstandings about the Smartwatch Wearer Danger Classifier. One myth is that the model can always accurately identify dangers, when in reality it can only provide a prediction based on the information it was trained on and may miss important signals or trigger false alarms\sidecite{nyt911}. Another myth is that the model can replace human judgement and expertise in evaluating personal safety, when in reality it is intended to support and enhance human decision-making processes.
 \end{itemize}
-
-\url{https://www.nytimes.com/2023/02/03/health/apple-watch-911-emergency-call.html}
 
 \section{Threat Detection}
 
@@ -436,7 +426,6 @@ There are a few common myths or misunderstandings about the Shakespearean Text G
             \item Providing entertainment and entertainment-related information, such as answering questions about movies and TV shows
         \end{enumerate}
     \item \textbf{Limits and Risks:} Like any machine learning model, the Artificial General Intelligence Chatbot has limitations and risks. One of the main limitations is that it may not always make accurate predictions, and may overlook important factors or make incorrect predictions about trustworthiness. Additionally, the model may be biased towards certain social behavior and online activities if the training data is not representative of the range of social and online information for the target population.
-    \item \textbf{Common Myths or Misunderstandings:} There are a few common myths or misunderstandings about the Artificial Generally Intelligent Chatbot. One myth is that the model can always generate accurate and appropriate responses, when in reality it can only provide a response based on the information it was trained on and may generate nonsensical, offensive, or misleading responses. Another myth is that the model can replace human conversation and understanding, when in reality it is intended to support and enhance human-like conversation and language understanding.
+    \item \textbf{Common Myths or Misunderstandings:} There are a few common myths or misunderstandings about the Artificial Generally Intelligent Chatbot. One myth is that the model can always generate accurate and appropriate responses, when in reality it can only provide a response based on the information it was trained on and may generate nonsensical, offensive, or misleading responses. Another myth is that the model can replace human conversation and understanding, when in reality it is intended to support and enhance human-like conversation and language understanding\sidecite{openaimisuse}.
 \end{itemize}
 
-\url{https://openai.com/blog/forecasting-misuse/}
