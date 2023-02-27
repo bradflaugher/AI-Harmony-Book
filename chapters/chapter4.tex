@@ -71,7 +71,7 @@ I'm happy to add future dissections or model cards to this chapter, so if you ha
         \end{enumerate}
 \item \textbf{Limits and Risks:} Like any language model, the Shakespearean Text Generator has limitations and risks. One of the main limitations is that it may not always generate text that is grammatically correct or semantically meaningful. Additionally, the model may struggle to capture all of the nuances and complexities of Shakespeare's writing, and may generate text that is not true to the style or spirit of the Bard.
 \item \textbf{Common Myths or Misunderstandings:}
-There are a few common myths or misunderstandings about the Shakespearean Text Generator. One myth is that the model can perfectly recreate Shakespeare's writing, when in reality it can only generate text that is similar in style. It's a great \hyperref[sec:creative]{creative tool} but that's about it.
+There are a few common myths or misunderstandings about the Shakespearean Text Generator. One myth is that the model can perfectly recreate Shakespeare's writing, when in reality it can only generate text that is similar in style. It's a great \hyperref[sec:creative]{creative tool} but that's about it. You'll also of course run into issues of \hyperref[sec:plag]{plagiarism} and model outputs should be checked to see their similarity to Shakespeaere's actual work, compared to the whole internet, Shakespeare's corpus is very small and the model may have a tendency to output its training data in raw form.
 \end{itemize}
 
 \begin{marginfigure}[-5.5cm]
@@ -237,7 +237,7 @@ There are a few common myths or misunderstandings about the Shakespearean Text G
             \item Enhancing handwriting recognition in products and services, such as digital note-taking and document management systems
         \end{enumerate}
     \item \textbf{Limits and Risks:} Like any machine learning model, the Handwriting Classifier has limitations and risks. One of the main limitations is that it may not always be accurate, and may misclassify handwriting or misidentify the writer. Additionally, the model may be biased towards certain writing styles, writers, or content if the training data is not representative of the range of handwriting styles and content.
-    \item \textbf{Common Myths or Misunderstandings:} There are a few common myths or misunderstandings about the Handwriting Classifier. One myth is that the model can always accurately identify the writer of a given sample of handwriting, when in reality it can only provide a prediction based on the information it was trained on. Another myth is that the model can replace human expertise and judgement in handwriting analysis, when in reality it is intended to support and enhance human decision-making processes.
+    \item \textbf{Common Myths or Misunderstandings:} There are a few common myths or misunderstandings about the Handwriting Classifier. One myth is that the model can always accurately identify the writer of a given sample of handwriting, when in reality it can only provide a prediction based on the information it was trained on. Another myth is that the model can replace human expertise and judgement in handwriting analysis (don't use this model in court to prove that two pieces of handwriting are the same, it can't \hyperref[sec:explain]{explain itself} and you'll end up getting appealed by the innocence project\sidecite{innocence}.
 \end{itemize}
 
 \subsection{Drug Discovery}
@@ -254,7 +254,7 @@ There are a few common myths or misunderstandings about the Shakespearean Text G
             \item Supporting liver research and education by providing insights into liver function and drug interactions
         \end{enumerate}
     \item \textbf{Limits and Risks:} Like any machine learning model, the Liver Drug Discovery Model has limitations and risks. One of the main limitations is that it may not always make accurate predictions, and may miss important relationships between drugs and the liver. Additionally, the model may be biased towards certain drugs, liver functions, or disease conditions if the training data is not representative of the relationships between drugs and the liver.
-    \item \textbf{Common Myths or Misunderstandings:} There are a few common myths or misunderstandings about the Liver Drug Discovery Model. One myth is that the model can always accurately predict the potential efficacy and toxicity of drugs for the liver, when in reality it can only provide a prediction based on the information it was trained on. \sidecite{ptliver} Another myth is that the model can replace human expertise and judgement in drug discovery and development, when in reality it is intended to support and enhance human decision-making processes.
+    \item \textbf{Common Myths or Misunderstandings:} There are a few common myths or misunderstandings about the Liver Drug Discovery Model. One myth is that the model can always accurately predict the potential efficacy and toxicity of drugs for the liver, when in reality it can only provide a prediction based on the information it was trained on. \sidecite{ptliver} Another myth is that the model can replace human expertise and judgement in drug discovery and development, when in reality it is intended to support and enhance human decision-making processes. Like the fluid dynamics model, this model will be very useful when deployed as part of the \hyperref[sec:creative]{creative process} of decision making regarding drugs, but shouldn't make any critical decisions by itself. 
 \end{itemize}
 
 \subsection{Autism}
@@ -270,9 +270,8 @@ There are a few common myths or misunderstandings about the Shakespearean Text G
             \item Enhancing autism research and education by providing insights into autism symptoms and characteristics
         \end{enumerate}
     \item \textbf{Limits and Risks:} Like any machine learning model, the Autism Classifier has limitations and risks. One of the main limitations is that it may not always be accurate, and may misclassify children or misidentify the likelihood of autism. Additionally, the model may be biased towards certain demographic groups, behavioral and physiological characteristics, or autism symptoms if the training data is not representative of the characteristics of children with and without autism.
-    \item \textbf{Common Myths or Misunderstandings:} \sidecite{cacmautism} There are a few common myths or misunderstandings about the Autism Classifier. One myth is that the model can always accurately identify children who may be at risk for autism, when in reality it can only provide a prediction based on the information it was trained on. Another myth is that the model can
+    \item \textbf{Common Myths or Misunderstandings:} \sidecite{cacmautism} There are a few common myths or misunderstandings about the Autism Classifier. One myth is that the model can always accurately identify children who may be at risk for autism, when in reality it can only provide a prediction based on the information it was trained on. This one is tough and there are a few issues at play. First, this model may appear to work, but rememeber it cannot \hyperref[sec:explain]{explain why it make the classification it did}, also it suffers from the same issue of \hyperref[sec:janitor]{editorializing} that the sperm counter or skin cancer model might face. With these things in mind it might be an incredibly useful tool if deployed as a cheap self-check for worried parents. However, one would need to be careful how the model accuracy is reported in order to establish user's trust, reporting false-positive and false-negative rates would be very important, and even if they were reported they each false-positive (or negative) might cause a panic and lead to huge reputational damage to the modelers.   
 \end{itemize}
-
 
 \subsection{Online Dating}
 
@@ -287,8 +286,10 @@ There are a few common myths or misunderstandings about the Shakespearean Text G
             \item Enhancing online dating research and education by providing insights into online dating preferences and behaviors
         \end{enumerate}
     \item \textbf{Limits and Risks:} Like any machine learning model, the Online Dating Matcher has limitations and risks. One of the main limitations is that it may not always make accurate recommendations, and may miss important relationships between individuals and their preferences. Additionally, the model may be biased towards certain demographic groups, preferences, or interests if the training data is not representative of the range of individuals and preferences in the online dating population.
-    \item \textbf{Common Myths or Misunderstandings:} There are a few common myths or misunderstandings about the Online Dating Matcher. One myth is that the model can always accurately recommend potential matches based on compatibility, when in reality it can only provide a prediction based on the information it was trained on. Another myth is that the model can replace
+    \item \textbf{Common Myths or Misunderstandings:} There are a few common myths or misunderstandings about the Online Dating Matcher. One myth is that the model can always accurately recommend potential matches based on compatibility, when in reality it can only provide a prediction based on the information it was trained on. There is also a big opportunity for \hyperref[sec:janitor]{editorializing with this model}, some nerd might highjack this model and train it on a nonrepresentative sample in attempt to get their friends succsessfully matched. It also would have a hard time \hyperref[sec:explain]{explaining} why it matched a couple.
 \end{itemize}
+
+%TODO Start here
 
 \subsection{Online Advertising}
 
