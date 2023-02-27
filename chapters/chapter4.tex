@@ -13,18 +13,15 @@
 
 \section{Introduction}
 
-Model cards are a way to document the capabilities and limitations of your AI model. They are a useful tool for understanding your model, and for communicating its capabilities and limitations to others. Google (see \url{https://modelcards.withgoogle.com/face-detection}), Huggingface and even small makers of AI models produce model cards to help educate their users and developers, and as you can imagine no one reads them. 
+This chapter is a dissection of every important model I could think of. If our goal is to understand and critique AI models, then we need to understand the models themselves. I know of no better way to understand than to take models apart then rebuild them. In the first three chapters you learned all of the key topics you need to do a high-level dissection (if you haven't read the first three chapters please go back and do that). 
 
-Think of a model card as a passport for your AI model. Just like how a passport tells you important information about a person, like their name, nationality, and date of birth, a model card tells you important information about your AI model, such as its purpose, training data, limitations, and ethical considerations.
-
-Just like a passport, a model card is an important document to have when you're traveling with your AI model. It helps you understand the capabilities and limitations of your model, so you can use it effectively and responsibly.
-
-And, just like how a person's passport can change over time as they visit different countries and have new experiences, a model card can be updated as the AI model is further developed and improved.
+To facilitate this dissection I am going to use a tool called a \textbf{model card}. Model cards are a way to document the capabilities and limitations of your AI model. They are a useful tool for understanding your model, and for communicating its capabilities and limitations to others. Google (see \url{https://modelcards.withgoogle.com/face-detection}), Huggingface and even small makers of AI models produce model cards to help educate their users and developers, and as you can imagine no one reads them. 
 
 In this chapter I am going to create and add commentary to model cards for many popular models. Whether you are a technial person or not I want you to be able to read and understand these, and eventually I want my notes or criticisms to become self-evident. My idea is that once you understand the data that is used to train a model and the domain that it is deployed, you can forecast its strengths and weaknesses almost automatically, let's try a few and see how it goes.
 
 Note that I'll introduce these models in a very particular order. I'll also save the hairiest models (full-self driving and Skynet) their own chapters for a deeper discussion. Try and follow along in the order that I lay out here, but only until you get bored. Once you are bored and can forecast my criticisisms, you can skip around with impunity.
 
+I'm happy to add future dissections or model cards to this chapter, so if you have a favorite model that you'd like to see dissection of, please let me know by emailing \href{mailto:brad@bradflaugher.com}{brad@bradflaugher.com}.
 
 \subsection{Key Terms}
 
@@ -49,8 +46,14 @@ Note that I'll introduce these models in a very particular order. I'll also save
     \item \textbf{Training Data:} The model is trained on a large dataset of numerical simulations of fluid flow patterns, which includes various geometries, fluid properties, and boundary conditions. The data is generated using well-established simulation tools such as the finite element method, finite volume method, or lattice Boltzmann method.
     \item \textbf{Evaluation:} The model is evaluated on a separate dataset of numerical simulations of fluid flow patterns that are not seen during training. The evaluation dataset includes a variety of geometries, fluid properties, and boundary conditions. The model's performance is measured using common metrics in fluid dynamics such as root-mean-square error (RMSE), mean absolute error (MAE), and correlation coefficient (R).
     \item \textbf{Limits and Risks:} This model is intended for scientific and engineering applications and is not directly used for decision-making that affects human lives. However, the model's predictions may indirectly affect human lives by informing engineering design or emergency response planning. It is important to validate the model's accuracy and uncertainty, and to communicate the limitations and assumptions of the model to stakeholders. The model assumes that the fluid flow is governed by the Navier-Stokes equations, which may not be accurate for highly turbulent or rarefied flows. The model may also be limited by the numerical precision and stability of the simulation tools used to generate the training data.
-    \item \textbf{Common Myths or Misunderstandings:} TODO
+    \item \textbf{Common Myths or Misunderstandings:} Models of physical processes are excellent ways to experiment with the world as it is understood. However, if this model is trained on data that is not representative, it will lead its users to draw incorrect conclusions about the fluids that are being studied. This tool also should not be used by itself, think of this tool like the wind tunnels used to test the aerodynamics of a car. You probably want to road test the car as well, but if you can use a model to decrease the cost of your experimentation (by disqualifying models before tthey get to the road-test phase) then please do it.  
 \end{itemize}
+
+\begin{marginfigure}[-5.5cm]
+        \includegraphics{fluid}
+        \caption{"mdjrny-v4 a futuristic submarine in a wind tunnel" made with Mann-E}
+        \labfig{fluid}
+\end{marginfigure}
 
 \subsection{Shakespearean Text} 
 
@@ -67,8 +70,14 @@ Note that I'll introduce these models in a very particular order. I'll also save
         \end{enumerate}
 \item \textbf{Limits and Risks:} Like any language model, the Shakespearean Text Generator has limitations and risks. One of the main limitations is that it may not always generate text that is grammatically correct or semantically meaningful. Additionally, the model may struggle to capture all of the nuances and complexities of Shakespeare's writing, and may generate text that is not true to the style or spirit of the Bard.
 \item \textbf{Common Myths or Misunderstandings:}
-There are a few common myths or misunderstandings about the Shakespearean Text Generator. One myth is that the model can perfectly recreate Shakespeare's writing, when in reality it can only generate text that is similar in style.
+There are a few common myths or misunderstandings about the Shakespearean Text Generator. One myth is that the model can perfectly recreate Shakespeare's writing, when in reality it can only generate text that is similar in style. 
 \end{itemize}
+
+\begin{marginfigure}[-5.5cm]
+        \includegraphics{shakebot}
+        \caption{"mdjrny-v4 a robot that looks like shakespeare, with a few wires showing" made with Mann-E}
+        \labfig{shakebot}
+\end{marginfigure}
 
 \subsection{Lithium Mining}
 
@@ -86,6 +95,12 @@ There are a few common myths or misunderstandings about the Shakespearean Text G
 \item \textbf{Common Myths or Misunderstandings:} There are a few common myths or misunderstandings about the Lithium Mining Site Classifier. One myth is that the model can always accurately identify lithium mining sites, when in reality it can only provide a prediction based on the information it was trained on. Another myth is that the model can replace the expertise of geologists and mining engineers, when in reality it is intended to support and enhance their decision-making processes.
 \end{itemize}
 
+\begin{marginfigure}[-5.5cm]
+        \includegraphics{lithium}
+        \caption{"mdjrny-v4 a lithium mine, being mined by large robots made by John Deere" made with Mann-E}
+        \labfig{lithium}
+\end{marginfigure}
+
 \subsection{Chess}
 
 \begin{itemize}
@@ -100,8 +115,14 @@ There are a few common myths or misunderstandings about the Shakespearean Text G
             \item Developing new and innovative chess-related products and services
         \end{enumerate}
     \item \textbf{Limits and Risks:} Like any machine learning model, the Chess Playing Model has limitations and risks. One of the main limitations is that it may not always make the best move, and may make mistakes or suboptimal moves. Additionally, the model may be biased towards certain openings, strategies, or styles of play if the training data is not representative of the game of chess as a whole.
-    \item \textbf{Common Myths or Misunderstandings:} There are a few common myths or misunderstandings about the Chess Playing Model. One myth is that the model can always beat human opponents, when in reality it can only make predictions based on the information it was trained on. Another myth is that the model can replace human expertise and creativity in the game of chess, when in reality it is intended to support and enhance human players' abilities.
+    \item \textbf{Common Myths or Misunderstandings:} There are a few common myths or misunderstandings about the Chess Playing Model. One myth is that the model can always beat human opponents, when in reality it can only make predictions based on the information it was trained on. Another myth is that the model can replace human expertise and creativity in the game of chess, when in reality it is intended to support and enhance human players' abilities. \sidenote{I'm going to beat the dead horse here that AI is great, but AI+Humans is better.}
 \end{itemize}
+
+\begin{marginfigure}[-5.5cm]
+        \includegraphics{chessmodelcard}
+        \caption{"mdjrny-v4 human with a robot exoskeleton playing chess on a chessboard floating in space" made with Mann-E}
+        \labfig{chessmodelcard}
+\end{marginfigure}
 
 \subsection{Go}
 
@@ -119,6 +140,13 @@ There are a few common myths or misunderstandings about the Shakespearean Text G
     \item \textbf{Limits and Risks:} Like any machine learning model, the Go Playing Model has limitations and risks. One of the main limitations is that it may not always make the best move, and may make mistakes or suboptimal moves. Additionally, the model may be biased towards certain openings, strategies, or styles of play if the training data is not representative of the game of Go as a whole.
     \item \textbf{Common Myths or Misunderstandings:} There are a few common myths or misunderstandings about the Go Playing Model. One myth is that the model can always beat human opponents, when in reality it can only make predictions based on the information it was trained on. If the game is played differently than the data it was trained on, the model is likely to fail. \sidenote{This has happened in the past with seemingly "stupid" openings breaking world-class go playing models \href{https://arstechnica.com/information-technology/2022/11/new-go-playing-trick-defeats-world-class-go-ai-but-loses-to-human-amateurs/}{https://arstechnica.com}} Another myth is that the model can replace human expertise and creativity in the game of Go, when in reality it is intended to support and enhance human players' abilities.
 \end{itemize}
+
+\begin{marginfigure}[-5.5cm]
+        \includegraphics{gobaby}
+        \caption{"mdjrny-v4 a robot samurai being frustrated by a baby playing go and winning" made with Mann-E}
+        \labfig{gobaby}
+\end{marginfigure}
+
 
 \subsection{Large Stock Order}
 
