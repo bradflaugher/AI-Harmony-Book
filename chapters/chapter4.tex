@@ -1,15 +1,6 @@
 \setchapterpreamble[u]{\margintoc}
 \chapter{Model Cards and Case Studies}
 
-%TODO add to myths section
-%\hyperref[sec:multi]{Multicolinearity}
-%\hyperref[sec:creative]{Creative or Critical}
-%\hyperref[sec:explain]{Explainability}
-%\hyperref[sec:limits]{Limitations}
-%\hyperref[sec:plag]{Plagiarism}
-%\hyperref[sec:drift]{Concept Drift}
-%\hyperref[sec:janitor]{Data Janitoring and Editorializing}
-%Performance/Cost
 
 \section{Introduction}
 
@@ -22,6 +13,18 @@ In this chapter I am going to create and add commentary to model cards for many 
 Note that I'll introduce these models in a very particular order. I'll also save the hairiest models (full-self driving and Skynet) their own chapters for a deeper discussion. Try and follow along in the order that I lay out here, but only until you get bored. Once you are bored and can forecast my criticisisms, you can skip around with impunity.
 
 I'm happy to add future dissections or model cards to this chapter, so if you have a favorite model that you'd like to see dissection of, please let me know by emailing \href{mailto:brad@bradflaugher.com}{brad@bradflaugher.com}.
+
+\subsection{Sucker Traps to Note When Analyzing Models}
+
+In chapters 1-3 there were a number of key concepts that we discussed that I'll call "Sucker Traps". Below is a list of those concepts that I will refer to regularly when discussing the model cards in this chapter:
+
+\begin{itemize}
+    \item \hyperref[sec:creative]{Creative or Critical}: The difference between a model that is used to inform a decision and a model that is used to make a decision.
+    \item \hyperref[sec:explain]{Explainability}: The ability to understand why a model makes a particular prediction.
+    \item \hyperref[sec:plag]{Plagiarism}: The capacity for a model to output copyrighted material from its training data.
+    \item \hyperref[sec:drift]{Concept Drift}: The possibility and frequency of changes in the relationships in the training data.
+    \item \hyperref[sec:janitor]{Editorializing}: The possibility of a modeler either explicitly or accidentally creating a biased training set and thus permanently shifting the outputs of the model away from reality.
+\end{itemize}
 
 \subsection{Key Terms}
 
@@ -289,12 +292,11 @@ There are a few common myths or misunderstandings about the Shakespearean Text G
     \item \textbf{Common Myths or Misunderstandings:} There are a few common myths or misunderstandings about the Online Dating Matcher. One myth is that the model can always accurately recommend potential matches based on compatibility, when in reality it can only provide a prediction based on the information it was trained on. There is also a big opportunity for \hyperref[sec:janitor]{editorializing with this model}, some nerd might highjack this model and train it on a nonrepresentative sample in attempt to get their friends succsessfully matched. It also would have a hard time \hyperref[sec:explain]{explaining} why it matched a couple.
 \end{itemize}
 
-%TODO Start here
 
 \subsection{Online Advertising}
 
 \begin{itemize}
-    \item \textbf{Description:} The Online Ad Server Classifier is a type of machine learning model that's designed to classify online ads as safe or unsafe. It can be trained on a dataset of ad content, including text, images, and videos, as well as information about the ad server. The model can then be used to identify unsafe ads and to support the process of filtering out inappropriate content.
+    \item \textbf{Description:} The Online Ad Server Classifier is a type of machine learning model that's designed to classify online ads as appropriate for the current user or unsafe. It can be trained on a dataset of ad content, including text, images, and videos, as well as information about the ad server. The model can then be used to identify unsafe ads and to support the process of filtering out inappropriate content.
     \item \textbf{Training Data:} The Online Ad Server Classifier is typically trained on a large dataset of ad content, which can include both explicit and implicit information about ads and their content. The size and quality of the training data will impact the performance of the model, so it's important to use a diverse and representative dataset that accurately represents the range of ads and ad content.
     \item \textbf{Evaluation:} The performance of the Online Ad Server Classifier can be evaluated using a variety of metrics, such as accuracy, precision, recall, and F1 score. These metrics can be used to compare different models and to track the progress of a model as it's trained on more data. Additionally, the model can be validated using independent test data that was not used during training, to assess its ability to generalize to new, unseen ad content.
     \item \textbf{Use Cases:} The Online Ad Server Classifier has a number of potential use cases, including:
@@ -304,7 +306,8 @@ There are a few common myths or misunderstandings about the Shakespearean Text G
             \item Enhancing online ad research and education by providing insights into online ad content and characteristics
         \end{enumerate}
     \item \textbf{Limits and Risks:} Like any machine learning model, the Online Ad Server Classifier has limitations and risks. One of the main limitations is that it may not always be accurate, and may misclassify ads or misidentify the likelihood of safety. Additionally, the model may be biased towards certain demographic groups, ad content, or ad characteristics if the training data is not representative of the range of ads and ad content.
-    \item \textbf{Common Myths or Misunderstandings:} There are a few common myths or misunderstandings about the Online Ad Server Classifier. One myth is that the model can always accurately identify unsafe ads, when in reality it can only provide a prediction based on the information it was trained on. Another myth is that the model can
+    \item \textbf{Common Myths or Misunderstandings:} Online advertising models are all marketed the same way, but the underlying data that comes from a small dataset (from a few publishers) or a large one (one from an ad exchange) means their efficacy can vary wildly. \hyperref[sec:drift]{Concept drift} is the most common problem as not all products or services in advertising are created equal. An advertisement meant to build brand awareness for Accenture should be ran very differently than an advertisement to buy caffienated shampoo from Amazon, the AI will optimize for the parameters that it is told to optimize for and the concept of success for an adverisement changes by the product and sometimes over time as distribution channels or business models change.  
+
 \end{itemize}
 
 \subsection{Tennis}
@@ -337,7 +340,7 @@ There are a few common myths or misunderstandings about the Shakespearean Text G
             \item Enhancing online research and education by providing insights into online text data and characteristics
         \end{enumerate}
     \item \textbf{Limits and Risks:} Like any machine learning model, the Hate Speech Classifier has limitations and risks. One of the main limitations is that it may not always be accurate, and may misclassify text data or misidentify the likelihood of hate speech. Additionally, the model may be biased towards certain demographic groups, text data, or text characteristics if the training data is not representative of the range of hate speech and non-hate speech.
-    \item \textbf{Common Myths or Misunderstandings:} There are a few common myths or misunderstandings about the Hate Speech Classifier. One myth is that the model can always accurately identify hate speech in online forums, social media, and other text
+    \item \textbf{Common Myths or Misunderstandings:} There are a few common myths or misunderstandings about the Hate Speech Classifier. One myth is that the model can always accurately identify hate speech in online forums, social media, and other text. As we've seen in many models with a social component, \hyperref[sec:drift]{concept drift} looms large, language evolves over time, and sometimes langage evolves explicity to get around auto-moderators, so the model can affect the user input thus increasing the speed of change. There is also on opportunity to \hyperref[sec:janitor]{editorialize} that is very hard to overcome, any attempt to edit the training set might be labeled as "woke AI"\sidecite{wokeai} or called similar names by whatever interest group is affected by the training dataset.  
 \end{itemize}
 
 \subsection{Fake News}
@@ -353,7 +356,7 @@ There are a few common myths or misunderstandings about the Shakespearean Text G
             \item Enhancing online research and education by providing insights into online text data and characteristics
         \end{enumerate}
     \item \textbf{Limits and Risks:} Like any machine learning model, the Fake News Classifier has limitations and risks. One of the main limitations is that it may not always be accurate, and may misclassify text data or misidentify the likelihood of fake news. Additionally, the model may be biased towards certain demographic groups, text data, or text characteristics if the training data is not representative of the range of fake news and real news.
-    \item \textbf{Common Myths or Misunderstandings:} There are a few common myths or misunderstandings about the Fake News Classifier. One myth is that the model can always accurately identify fake news in online news sources, social media, and other text-based platforms, when in reality it can only provide a prediction based on the information it was trained on and may miss important examples of fake news. Another myth is that the model can replace human expertise and judgement in evaluating news sources, when in reality it is intended to support and enhance human decision-making processes.
+    \item \textbf{Common Myths or Misunderstandings:} There are a few common myths or misunderstandings about the Fake News Classifier. One myth is that the model can always accurately identify fake news in online news sources, social media, and other text-based platforms, when in reality it can only provide a prediction based on the information it was trained on and may miss important examples of fake news. Another myth is that the model can replace human expertise and judgement in evaluating news sources, when in reality it is intended to support and enhance human decision-making processes. The problems of \hyperref[sec:drift]{concept drift} and \hyperref[sec:janitor]{editorializing} show themselves hear just as in the hate speech model above. An outlet that needs to explain why certain content is not allowed will have trouble codifying its rules if a deep learning model is used because of the inherent lack of \hyperref[sec:explain]{explainability} which means that the model might act as a tool used in the (somewhat creative) process but the \hyperref[sec:creative]{critical} decisions must still be made by humans who can give explicit reasons.
 \end{itemize}
 
 \subsection{Legal Contracts}
@@ -368,8 +371,10 @@ There are a few common myths or misunderstandings about the Shakespearean Text G
             \item Enhancing online research and education by providing insights into online contract data and characteristics
         \end{enumerate}
     \item \textbf{Limits and Risks:} Like any machine learning model, the Contract Review Bot has limitations and risks. One of the main limitations is that it may not always be accurate, and may misclassify contract data or misidentify the likelihood of potential issues. Additionally, the model may be biased towards certain demographic groups, contract data, or contract characteristics if the training data is not representative of the range of contracts and legal and business terms.
-    \item \textbf{Common Myths or Misunderstandings:} There are a few common myths or misunderstandings about the Contract Review Bot. One myth is that the model can always accurately review contracts and identify potential issues, when in reality it can only provide a prediction based on the information it was trained on and may miss important issues. Another myth is that the model can replace human expertise and judgement in contract review, when in reality it is intended to support and enhance human decision-making processes.
+    \item \textbf{Common Myths or Misunderstandings:} There are a few common myths or misunderstandings about the Contract Review Bot. One myth is that the model can always accurately review contracts and identify potential issues, when in reality it can only provide a prediction based on the information it was trained on and may miss important issues. Another myth is that the model can replace human expertise and judgement in contract review, when in reality it is intended to support and enhance human decision-making processes. Again we find \hyperref[sec:drift]{concept drift} being a potential issue here, although maybe less so if logical legal language changes more slowly than other written text. The model may still not pick up on the latest legal hacks that are snuck into contracts unless explicitly trained on data to recognize them.  
 \end{itemize}
+
+%TODO start here 
 
 \subsection{Facial Recognition}
 

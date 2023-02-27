@@ -109,7 +109,7 @@ In summary, preprocessing is an important step in training a neural network, as 
 
 In the first section of this chapter we introduced the idea that a simple neural network is mathematically equivalent to a regression. This is true and a useful way to think about neural networks and deep learning. \sidenote{\begin{equation}y=Wx+b\end{equation} There's your simple formula for a single-cell neural network and regression, in practice we'll change $W$, $x$ and $b$ to matrices and introduce nonlinear activation function $f$ so, \begin{equation}y=f(Wx+b)\end{equation} if you please. If equations scare you, don't worry about it for now.} 
 
-In practice, neural networks frequently trained with millions of parameters. A simple image classifier used to classify handwritten digits might have 60,000 parameters which is about the number the model used by Yann LeCun and company in the 1990s. Modern deep neural networks have billions of trainable parameters, which gives them tremendous power, but also makes any practical attempt at explanability impossible.  
+In practice, a neural network trained on a gaming PC from 2023 can easily have millons of trainable parameters. A simple image classifier used to classify handwritten digits might have 60,000 parameters which is about the number the model used by Yann LeCun and company in the 1990s. Bleeding-edge deep neural networks are trained on large GPU farms and have have billions of trainable parameters. More parameters gives the models tremendous power to recognize complex patterns, but also makes any practical attempt at explaining their inner-workings impossible.  
 
 \begin{marginfigure}[-5.5cm]
         \includegraphics{greenneuron}
