@@ -105,39 +105,11 @@ For images:
 
 In summary, preprocessing is an important step in training a neural network, as it ensures that the data is in a format that can be easily understood and processed by the network. The preprocessing steps for numbers, text, and images involve normalization, imputation, tokenization, stop-words removal, stemming/lemmatization, resizing and data augmentation.
 
-\section{Try That Again With 33,640,010 Parameters}
+\section{Try That Again With A Few Billion Parameters}
 
 In the first section of this chapter we introduced the idea that a simple neural network is mathematically equivalent to a regression. This is true and a useful way to think about neural networks and deep learning. \sidenote{\begin{equation}y=Wx+b\end{equation} There's your simple formula for a single-cell neural network and regression, in practice we'll change $W$, $x$ and $b$ to matrices and introduce nonlinear activation function $f$ so, \begin{equation}y=f(Wx+b)\end{equation} if you please. If equations scare you, don't worry about it for now.} 
 
-In practice, neural networks frequently trained with millions of parameters. Here is an example of the trainable parameters of a simple image classifier. This example is a dense neural network to classify handwritten digits, and is not yet as sophisticated as the one used by Yann LeCun and company in the 1990s
-
-In these next few examples, don't worry if you don't understand the layer types or know what batch nomalization means. The point I would like to make is that neural networks are often created with millions of trainable parameters, once you agree with me regarding this point we will discuss the implications of this in more depth.
-
-\begin{lstlisting}[style=kaolstplain,linewidth=1.5\textwidth]
-_________________________________________________________________
-Layer (type)                 Output Shape              Param #   
-=================================================================
-dense (Dense)                (None, 64)                50240     
-_________________________________________________________________
-batch_normalization (BatchNo (None, 64)                256       
-_________________________________________________________________
-dense_1 (Dense)              (None, 64)                4160      
-_________________________________________________________________
-batch_normalization_1 (Batch (None, 64)                256       
-_________________________________________________________________
-dense_2 (Dense)              (None, 64)                4160      
-_________________________________________________________________
-batch_normalization_2 (Batch (None, 64)                256       
-_________________________________________________________________
-dropout (Dropout)            (None, 64)                0         
-_________________________________________________________________
-dense_3 (Dense)              (None, 10)                650       
-=================================================================
-Total params: 59,978
-Trainable params: 59,594
-Non-trainable params: 384
-_________________________________________________________________
-\end{lstlisting}
+In practice, neural networks frequently trained with millions of parameters. A simple image classifier used to classify handwritten digits might have 60,000 parameters which is about the number the model used by Yann LeCun and company in the 1990s. Modern deep neural networks have billions of trainable parameters, which gives them tremendous power, but also makes any practical attempt at explanability impossible.  
 
 \begin{marginfigure}[-5.5cm]
         \includegraphics{greenneuron}
@@ -145,74 +117,6 @@ _________________________________________________________________
         \labfig{marginneuron}
 \end{marginfigure}
 
-59,594 parameters! That's not too bad for a simple neural network, but in practice the networks often get even bigger. Here is a \textit{real} example that will make your brain a little hot.
-
-\begin{lstlisting}[style=kaolstplain,linewidth=1.5\textwidth]
-Layer (type)                 Output Shape              Param #   
-=================================================================
-conv2d (Conv2D)              (None, 28, 28, 64)        640       
-_________________________________________________________________
-conv2d_1 (Conv2D)            (None, 28, 28, 64)        36928     
-_________________________________________________________________
-max_pooling2d (MaxPooling2D) (None, 14, 14, 64)        0         
-_________________________________________________________________
-batch_normalization (BatchNo (None, 14, 14, 64)        256       
-_________________________________________________________________
-conv2d_2 (Conv2D)            (None, 14, 14, 128)       73856     
-_________________________________________________________________
-conv2d_3 (Conv2D)            (None, 14, 14, 128)       147584    
-_________________________________________________________________
-max_pooling2d_1 (MaxPooling2 (None, 7, 7, 128)         0         
-_________________________________________________________________
-batch_normalization_1 (Batch (None, 7, 7, 128)         512       
-_________________________________________________________________
-conv2d_4 (Conv2D)            (None, 7, 7, 256)         295168    
-_________________________________________________________________
-conv2d_5 (Conv2D)            (None, 7, 7, 256)         590080    
-_________________________________________________________________
-conv2d_6 (Conv2D)            (None, 7, 7, 256)         590080    
-_________________________________________________________________
-max_pooling2d_2 (MaxPooling2 (None, 3, 3, 256)         0         
-_________________________________________________________________
-batch_normalization_2 (Batch (None, 3, 3, 256)         1024      
-_________________________________________________________________
-conv2d_7 (Conv2D)            (None, 3, 3, 512)         1180160   
-_________________________________________________________________
-conv2d_8 (Conv2D)            (None, 3, 3, 512)         2359808   
-_________________________________________________________________
-conv2d_9 (Conv2D)            (None, 3, 3, 512)         2359808   
-_________________________________________________________________
-max_pooling2d_3 (MaxPooling2 (None, 2, 2, 512)         0         
-_________________________________________________________________
-batch_normalization_3 (Batch (None, 2, 2, 512)         2048      
-_________________________________________________________________
-conv2d_10 (Conv2D)           (None, 2, 2, 512)         2359808   
-_________________________________________________________________
-conv2d_11 (Conv2D)           (None, 2, 2, 512)         2359808   
-_________________________________________________________________
-conv2d_12 (Conv2D)           (None, 2, 2, 512)         2359808   
-_________________________________________________________________
-max_pooling2d_4 (MaxPooling2 (None, 1, 1, 512)         0         
-_________________________________________________________________
-batch_normalization_4 (Batch (None, 1, 1, 512)         2048      
-_________________________________________________________________
-flatten (Flatten)            (None, 512)               0         
-_________________________________________________________________
-dense (Dense)                (None, 4096)              2101248   
-_________________________________________________________________
-dropout (Dropout)            (None, 4096)              0         
-_________________________________________________________________
-dense_1 (Dense)              (None, 4096)              16781312  
-_________________________________________________________________
-dropout_1 (Dropout)          (None, 4096)              0         
-_________________________________________________________________
-dense_2 (Dense)              (None, 10)                40970     
-=================================================================
-Total params: 33,642,954
-Trainable params: 33,640,010
-Non-trainable params: 2,944
-_________________________________________________________________
-\end{lstlisting}
 
 When a neural network has millions of trainable parameters and deep layers of neurons\sidenote{In case you are wondering, the human brain has about 86 billion neurons that do the "thinking". Physical neurons are more complicated than the neurons used in deep learning and have supporting structures like astrocytes that do some computation as well. \url{https://en.wikipedia.org/wiki/Astrocyte}}, it can be difficult to explain to a human what each of those parameters represents or how they contribute to the overall function of the network. This is because the interactions between the different layers and neurons can be complex and non-linear, making it challenging to understand the specific role of each parameter. The parameters  model complex interactions between the inputs, making it difficult to understand their specific function. Furthermore, in deep neural networks, the high number of layers can lead to high level of abstraction, meaning that the individual neurons and their weights have little interpretability.
 
