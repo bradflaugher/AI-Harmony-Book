@@ -46,7 +46,8 @@ I'm happy to add future dissections or model cards to this chapter, so if you ha
     \item \textbf{Training Data:} The model is trained on a large dataset of numerical simulations of fluid flow patterns, which includes various geometries, fluid properties, and boundary conditions. The data is generated using well-established simulation tools such as the finite element method, finite volume method, or lattice Boltzmann method.
     \item \textbf{Evaluation:} The model is evaluated on a separate dataset of numerical simulations of fluid flow patterns that are not seen during training. The evaluation dataset includes a variety of geometries, fluid properties, and boundary conditions. The model's performance is measured using common metrics in fluid dynamics such as root-mean-square error (RMSE), mean absolute error (MAE), and correlation coefficient (R).
     \item \textbf{Limits and Risks:} This model is intended for scientific and engineering applications and is not directly used for decision-making that affects human lives. However, the model's predictions may indirectly affect human lives by informing engineering design or emergency response planning. It is important to validate the model's accuracy and uncertainty, and to communicate the limitations and assumptions of the model to stakeholders. The model assumes that the fluid flow is governed by the Navier-Stokes equations, which may not be accurate for highly turbulent or rarefied flows. The model may also be limited by the numerical precision and stability of the simulation tools used to generate the training data.
-    \item \textbf{Common Myths or Misunderstandings:} Models of physical processes are excellent ways to experiment with the world as it is understood. However, if this model is trained on data that is not representative, it will lead its users to draw incorrect conclusions about the fluids that are being studied. This tool also should not be used by itself, think of this tool like the wind tunnels used to test the aerodynamics of a car. You probably want to road test the car as well, but if you can use a model to decrease the cost of your experimentation (by disqualifying models before tthey get to the road-test phase) then please do it.  
+    \item \textbf{Common Myths or Misunderstandings:} Models of physical processes are excellent ways to experiment with the world as it is understood. However, if this model is trained on data that is not representative, it will lead its users to draw incorrect conclusions about the fluids that are being studied. This tool also should not be used by itself, think of this tool like the wind tunnels used to test the aerodynamics of a car. You probably want to road test the car as well, but if you can use a model to decrease the cost of your experimentation (by disqualifying models before tthey get to the road-test phase) then please do it. Said differently, don't let this model make any \hyperref[sec:creative]{critical decisions, but let it participate in the creative process}.
+
 \end{itemize}
 
 \begin{marginfigure}[-5.5cm]
@@ -70,7 +71,7 @@ I'm happy to add future dissections or model cards to this chapter, so if you ha
         \end{enumerate}
 \item \textbf{Limits and Risks:} Like any language model, the Shakespearean Text Generator has limitations and risks. One of the main limitations is that it may not always generate text that is grammatically correct or semantically meaningful. Additionally, the model may struggle to capture all of the nuances and complexities of Shakespeare's writing, and may generate text that is not true to the style or spirit of the Bard.
 \item \textbf{Common Myths or Misunderstandings:}
-There are a few common myths or misunderstandings about the Shakespearean Text Generator. One myth is that the model can perfectly recreate Shakespeare's writing, when in reality it can only generate text that is similar in style. 
+There are a few common myths or misunderstandings about the Shakespearean Text Generator. One myth is that the model can perfectly recreate Shakespeare's writing, when in reality it can only generate text that is similar in style. It's a great \hyperref[sec:creative]{creative tool} but that's about it.
 \end{itemize}
 
 \begin{marginfigure}[-5.5cm]
@@ -92,7 +93,7 @@ There are a few common myths or misunderstandings about the Shakespearean Text G
         \item Supporting decision-making in the lithium mining industry by providing a quantitative assessment of the potential of a site
     \end{enumerate}
 \item \textbf{Limits and Risks:} Like any machine learning model, the Lithium Mining Site Classifier has limitations and risks. One of the main limitations is that it may not always be accurate, and may misclassify sites as either positive (lithium-containing) or negative (non-lithium-containing). Additionally, the model may be biased towards certain features if the training data is not representative of the true distribution of mining sites.
-\item \textbf{Common Myths or Misunderstandings:} There are a few common myths or misunderstandings about the Lithium Mining Site Classifier. One myth is that the model can always accurately identify lithium mining sites, when in reality it can only provide a prediction based on the information it was trained on. Another myth is that the model can replace the expertise of geologists and mining engineers, when in reality it is intended to support and enhance their decision-making processes.
+\item \textbf{Common Myths or Misunderstandings:} There are a few common myths or misunderstandings about the Lithium Mining Site Classifier. One myth is that the model can always accurately identify lithium mining sites, when in reality it can only provide a prediction based on the information it was trained on. Another myth is that the model can replace the expertise of geologists and mining engineers, when in reality it is intended to support and enhance their decision-making processes. Don't expect this model to be able to \hyperref[sec:explain]{explain itself though}.
 \end{itemize}
 
 \begin{marginfigure}[-5.5cm]
@@ -138,7 +139,7 @@ There are a few common myths or misunderstandings about the Shakespearean Text G
             \item Developing new and innovative Go-related products and services
         \end{enumerate}
     \item \textbf{Limits and Risks:} Like any machine learning model, the Go Playing Model has limitations and risks. One of the main limitations is that it may not always make the best move, and may make mistakes or suboptimal moves. Additionally, the model may be biased towards certain openings, strategies, or styles of play if the training data is not representative of the game of Go as a whole.
-    \item \textbf{Common Myths or Misunderstandings:} There are a few common myths or misunderstandings about the Go Playing Model. One myth is that the model can always beat human opponents, when in reality it can only make predictions based on the information it was trained on. If the game is played differently than the data it was trained on, the model is likely to fail. \sidenote{This has happened in the past with seemingly "stupid" openings breaking world-class go playing models \href{https://arstechnica.com/information-technology/2022/11/new-go-playing-trick-defeats-world-class-go-ai-but-loses-to-human-amateurs/}{https://arstechnica.com}} Another myth is that the model can replace human expertise and creativity in the game of Go, when in reality it is intended to support and enhance human players' abilities.
+    \item \textbf{Common Myths or Misunderstandings:} There are a few common myths or misunderstandings about the Go Playing Model. One myth is that the model can always beat human opponents, when in reality it can only make predictions based on the information it was trained on. If the game is played differently than the data it was trained on, the model is likely to fail. \textbf{This has happened in the past with seemingly "stupid" openings breaking world-class go playing models, it clearly illustrates the fragility of deep learning models in general, and their near total dependence on their training sets, as well as their lack of "knowledge" and "understanding" as commonly depicted\sidecite{sillygo}.} Another myth is that the model can replace human expertise and creativity in the game of Go, when in reality it is intended to support and enhance human players' abilities. Know and understand a the models \hyperref[sec:limits]{limitations} before you use it.
 \end{itemize}
 
 \begin{marginfigure}[-5.5cm]
@@ -162,8 +163,14 @@ There are a few common myths or misunderstandings about the Shakespearean Text G
             \item Supporting algorithmic trading by classifying large stock orders in real-time
         \end{enumerate}
     \item \textbf{Limits and Risks:} Like any machine learning model, the Large NYSE Stock Order Classifier has limitations and risks. One of the main limitations is that it may not always be accurate, and may misclassify orders as either aggressive or passive. Additionally, the model may be biased towards certain features if the training data is not representative of the true distribution of large NYSE stock orders.
-    \item \textbf{Common Myths or Misunderstandings:} There are a few common myths or misunderstandings about the Large NYSE Stock Order Classifier. One myth is that the model can always accurately classify aggressive and passive orders, when in reality it can only provide a prediction based on the information it was trained on. Another myth is that the model can replace human expertise and judgement in market surveillance and regulatory compliance, when in reality it is intended to support and enhance human decision-making processes.
+    \item \textbf{Common Myths or Misunderstandings:} There are a few common myths or misunderstandings about the Large NYSE Stock Order Classifier. One myth is that the model can always accurately classify aggressive and passive orders, when in reality it can only provide a prediction based on the information it was trained on. Another myth is that the model can replace human expertise and judgement in market surveillance and regulatory compliance, when in reality it is intended to support and enhance human decision-making processes. This might be a great performing model for a time, but consider that the players in the market change quite often, and you while you might create a model that detects trades coming from Warren Buffett (so you can copy him) but he might change his tactics, or other Buffett lookalikes might enter the market and confuse your model, \hyperref[sec:drift]{concept drift} is everywhere in the market.
 \end{itemize}
+
+\begin{marginfigure}[-5.5cm]
+        \includegraphics{buffett}
+        \caption{"mdjrny-v4 mdjrny-v4 warren buffett being eaten by robot zombies" made with Mann-E}
+        \labfig{buffett}
+\end{marginfigure}
 
 \subsection{Share Tender Purchase}
 
@@ -173,8 +180,14 @@ There are a few common myths or misunderstandings about the Shakespearean Text G
     \item \textbf{Evaluation:} The model's performance is typically evaluated using metrics such as accuracy, precision, and recall, by comparing its predictions to actual outcomes of past tender offer situations. Additionally, the model's usefulness may be evaluated in terms of its ability to inform investment decisions and generate profitable returns.
     \item \textbf{Use Cases:} The Share Tender Purchase Model is primarily used by investors and financial analysts to inform investment decisions related to companies targeted for tender offers. It can be used to identify potentially profitable investments, as well as to inform decisions about whether to participate in a tender offer or to hold shares in the target company.
     \item \textbf{Limits and Risks:} Like all models, the Share Tender Purchase Model is subject to limitations and risks. It may not perform well if market conditions change significantly from those observed in the training data, or if there are factors not included in the model that impact the outcome of tender offer situations. Additionally, reliance on the model's predictions may lead to missed opportunities or losses if the model's predictions are inaccurate.
-    \item \textbf{Common Myths or Misunderstandings:} One common myth about the Share Tender Purchase Model is that it can accurately predict the outcome of all tender offer situations. In reality, the model is only as accurate as the quality of its training data and the factors included in the model. Additionally, the model's predictions may be impacted by unpredictable events or circumstances, such as changes in government regulations or unexpected market events.
+    \item \textbf{Common Myths or Misunderstandings:} One common myth about the Share Tender Purchase Model is that it can accurately predict the outcome of all tender offer situations. In reality, the model is only as accurate as the quality of its training data and the factors included in the model. Additionally, the model's predictions may be impacted by unpredictable events or circumstances, such as changes in government regulations or unexpected market events. This another area where it's best to understand and monitor for \hyperref[sec:drift]{concept drift}.
 \end{itemize}
+
+\begin{marginfigure}[-5.5cm]
+        \includegraphics{nysebot}
+        \caption{"mdjrny-v4 human and robot traders at the NYSE carrying huge stacks of paper" made with Mann-E}
+        \labfig{nysebot}
+\end{marginfigure}
 
 \subsection{Stock Trading}
 
@@ -189,8 +202,15 @@ There are a few common myths or misunderstandings about the Shakespearean Text G
             \item Supporting investment and portfolio management by providing a quantitative assessment of stock market trends and predictions
         \end{enumerate}
     \item \textbf{Limits and Risks:} Like any machine learning model, the Stock Trading Bot has limitations and risks. One of the main limitations is that it may not always generate profits, and may make mistakes or suboptimal trades. Additionally, the model may be biased towards certain stocks, sectors, or market conditions if the training data is not representative of the stock market as a whole.
-    \item \textbf{Common Myths or Misunderstandings:} There are a few common myths or misunderstandings about the Stock Trading Bot. One myth is that the model can always generate profits, when in reality it can only make predictions based on the information it was trained on and can be impacted by market conditions and other factors. Another myth is that the model can replace human expertise and judgement in stock trading, when in reality it is intended to support and enhance human decision-making processes.
+    \item \textbf{Common Myths or Misunderstandings:} There are a few common myths or misunderstandings about the Stock Trading Bot. One myth is that the model can always generate profits, when in reality it can only make predictions based on the information it was trained on and can be impacted by market conditions and other factors. This model should be understood as being the worst of the stock trading models mentioned, mostly because it is so poorly defined. What is it doing exactly? \hyperref[sec:explain]{Explainability} in a model with such a huge scope is a problem, but also I would argue the market changes every day causing \hyperref[sec:drift]{concept drift} to render this model useless very quickly, where the previous models (large order and tender offer) might last a few days, weeks or maybe months.
 \end{itemize}
+
+\begin{marginfigure}[-5.5cm]
+        \includegraphics{stockcharts}
+        \caption{"mdjrny-v4 many stock price charts on top of each other with buy and sell signals" made with Mann-E}
+        \labfig{stockcharts}
+\end{marginfigure}
+
 
 \subsection{Sperm Counter}
 
@@ -200,7 +220,7 @@ There are a few common myths or misunderstandings about the Shakespearean Text G
     \item \textbf{Evaluation:} The model was evaluated using precision, recall, and F1 score, which are commonly used metrics for object counting tasks. The model achieved high scores on all metrics, indicating that it is effective at accurately counting sperm in the semen videos.
     \item \textbf{Use Cases:} This model can be used in clinical or research settings to quickly and accurately count sperm in semen samples. This can be useful for diagnosing and monitoring male infertility, as well as for understanding the impact of various factors on sperm count.
     \item \textbf{Limits and Risks:} The model is only trained to count sperm in semen videos taken under a microscope and may not perform well on videos taken under different conditions or with different types of microscopes. It is important to ensure that the semen samples are of high quality and that the video recording conditions are consistent in order to obtain accurate results.
-    \item \textbf{Common Myths or Misunderstandings:} This model is not intended to replace human expert judgment and should be used as a tool to support decision making. The results generated by this model are not a substitute for professional medical advice, diagnosis, or treatment.
+    \item \textbf{Common Myths or Misunderstandings:} This model is not intended to replace human expert judgment and should be used as a tool to support decision making. The results generated by this model are not a substitute for professional medical advice, diagnosis, or treatment. Overall I'd say this model is not too scary, models like these might be best deployed as front-line diagnosis and ranking tools for patients who otherwise would not be receiving care. The main issue that might appear is any \hyperref[sec:janitor]{editorializing} that might occur by the machine learning engineers training this model. Imagine that this model was only trained on young white men (graduate student volunteers) and the shape and size of sperm changes across ages or races, this type of bias in training data appears frequently in medical models, especially skin cancer models\sidecite{skindark}.
 \end{itemize}
 
 \subsection{Handwriting Recognizer}
