@@ -2,8 +2,8 @@
 \babel@toc {english}{}\relax
 \contentsline {chapter}{Preface}{iii}{chapter*.1}%
 \contentsline {chapter}{\nonumberline Contents}{iv}{chapter*.2}%
-\contentsline {chapter}{Introduction}{vii}{chapter*.3}%
-\contentsline {chapter}{Chapter Summaries}{ix}{chapter*.4}%
+\contentsline {chapter}{Introduction}{vi}{chapter*.3}%
+\contentsline {chapter}{Chapter Summaries}{viii}{chapter*.4}%
 \contentsline {chapter}{\numberline {1}History: The End of Good Old-Fashioned Artificial Intelligence}{1}{chapter.1}%
 \etoc@startlocaltoc {2}
 \etoc@startlocaltoc {3}
@@ -32,68 +32,70 @@
 \contentsline {mtocsection}{\numberline {2.2}A Simple Neural Network is also a Linear Regression}{8}{section.2.2}%
 \contentsline {section}{\numberline {2.3}Dummy Variables for Dummies (Wonkish)}{8}{section.2.3}%
 \contentsline {mtocsection}{\numberline {2.3}Dummy Variables for Dummies (Wonkish)}{8}{section.2.3}%
-\contentsline {section}{\numberline {2.4}Try That Again With 33,640,010 Parameters}{10}{section.2.4}%
-\contentsline {mtocsection}{\numberline {2.4}Try That Again With 33,640,010 Parameters}{10}{section.2.4}%
-\contentsline {section}{\numberline {2.5}Multicolinearity and the End of Science}{13}{section.2.5}%
-\contentsline {mtocsection}{\numberline {2.5}Multicolinearity and the End of Science}{13}{section.2.5}%
-\contentsline {section}{\numberline {2.6}Let's Test Some Random Inputs! Feature Importance and Explainability}{13}{section.2.6}%
-\contentsline {mtocsection}{\numberline {2.6}Let's Test Some Random Inputs! Feature Importance and Explainability}{13}{section.2.6}%
-\contentsline {section}{\numberline {2.7}The Universal Machine Learning Workflow}{14}{section.2.7}%
-\contentsline {mtocsection}{\numberline {2.7}The Universal Machine Learning Workflow}{14}{section.2.7}%
-\contentsline {section}{\numberline {2.8}A Machine Learning Engineer is a Data Janitor}{16}{section.2.8}%
-\contentsline {mtocsection}{\numberline {2.8}A Machine Learning Engineer is a Data Janitor}{16}{section.2.8}%
-\contentsline {section}{\numberline {2.9}Key Takeaways}{17}{section.2.9}%
-\contentsline {mtocsection}{\numberline {2.9}Key Takeaways}{17}{section.2.9}%
-\contentsline {chapter}{\numberline {3}Creativity and Decision Making with Deep Learning Models}{19}{chapter.3}%
+\contentsline {section}{\numberline {2.4}Try That Again With A Few Billion Parameters}{10}{section.2.4}%
+\contentsline {mtocsection}{\numberline {2.4}Try That Again With A Few Billion Parameters}{10}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Multicolinearity and the End of Science}{11}{section.2.5}%
+\contentsline {mtocsection}{\numberline {2.5}Multicolinearity and the End of Science}{11}{section.2.5}%
+\contentsline {section}{\numberline {2.6}Let's Test Some Random Inputs! Feature Importance and Explainability}{12}{section.2.6}%
+\contentsline {mtocsection}{\numberline {2.6}Let's Test Some Random Inputs! Feature Importance and Explainability}{12}{section.2.6}%
+\contentsline {section}{\numberline {2.7}The Universal Machine Learning Workflow}{12}{section.2.7}%
+\contentsline {mtocsection}{\numberline {2.7}The Universal Machine Learning Workflow}{12}{section.2.7}%
+\contentsline {section}{\numberline {2.8}A Machine Learning Engineer is a Data Janitor}{14}{section.2.8}%
+\contentsline {mtocsection}{\numberline {2.8}A Machine Learning Engineer is a Data Janitor}{14}{section.2.8}%
+\contentsline {section}{\numberline {2.9}Key Takeaways}{15}{section.2.9}%
+\contentsline {mtocsection}{\numberline {2.9}Key Takeaways}{15}{section.2.9}%
+\contentsline {chapter}{\numberline {3}Creativity and Decision Making with Deep Learning Models}{17}{chapter.3}%
 \etoc@startlocaltoc {6}
 \etoc@startlocaltoc {7}
-\contentsline {section}{\numberline {3.1}Theories of Creativity}{19}{section.3.1}%
-\contentsline {mtocsection}{\numberline {3.1}Theories of Creativity}{19}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Creative Uses of Power Tools}{20}{section.3.2}%
-\contentsline {mtocsection}{\numberline {3.2}Creative Uses of Power Tools}{20}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Garbage In, Garbage Out}{21}{section.3.3}%
-\contentsline {mtocsection}{\numberline {3.3}Garbage In, Garbage Out}{21}{section.3.3}%
-\contentsline {section}{\numberline {3.4}Garbage In, New Perspective Out?}{21}{section.3.4}%
-\contentsline {mtocsection}{\numberline {3.4}Garbage In, New Perspective Out?}{21}{section.3.4}%
-\contentsline {section}{\numberline {3.5}Concept Drift and the End of Usefulness}{22}{section.3.5}%
-\contentsline {mtocsection}{\numberline {3.5}Concept Drift and the End of Usefulness}{22}{section.3.5}%
-\contentsline {section}{\numberline {3.6}The Impossibility of Fairness}{23}{section.3.6}%
-\contentsline {mtocsection}{\numberline {3.6}The Impossibility of Fairness}{23}{section.3.6}%
-\contentsline {section}{\numberline {3.7}Transfer Learning Everywhere}{23}{section.3.7}%
-\contentsline {mtocsection}{\numberline {3.7}Transfer Learning Everywhere}{23}{section.3.7}%
-\contentsline {section}{\numberline {3.8}Industrial-Scale Plagiarism}{25}{section.3.8}%
-\contentsline {mtocsection}{\numberline {3.8}Industrial-Scale Plagiarism}{25}{section.3.8}%
-\contentsline {section}{\numberline {3.9}Working Together is Best}{25}{section.3.9}%
-\contentsline {mtocsection}{\numberline {3.9}Working Together is Best}{25}{section.3.9}%
-\contentsline {section}{\numberline {3.10}Key Takeaways}{26}{section.3.10}%
-\contentsline {mtocsection}{\numberline {3.10}Key Takeaways}{26}{section.3.10}%
-\contentsline {chapter}{\numberline {4}Model Cards and Case Studies}{28}{chapter.4}%
+\contentsline {section}{\numberline {3.1}Theories of Creativity}{17}{section.3.1}%
+\contentsline {mtocsection}{\numberline {3.1}Theories of Creativity}{17}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Creative Uses of Power Tools}{18}{section.3.2}%
+\contentsline {mtocsection}{\numberline {3.2}Creative Uses of Power Tools}{18}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Garbage In, Garbage Out}{19}{section.3.3}%
+\contentsline {mtocsection}{\numberline {3.3}Garbage In, Garbage Out}{19}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Garbage In, New Perspective Out?}{19}{section.3.4}%
+\contentsline {mtocsection}{\numberline {3.4}Garbage In, New Perspective Out?}{19}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Concept Drift and the End of Usefulness}{20}{section.3.5}%
+\contentsline {mtocsection}{\numberline {3.5}Concept Drift and the End of Usefulness}{20}{section.3.5}%
+\contentsline {section}{\numberline {3.6}The Impossibility of Fairness}{21}{section.3.6}%
+\contentsline {mtocsection}{\numberline {3.6}The Impossibility of Fairness}{21}{section.3.6}%
+\contentsline {section}{\numberline {3.7}Transfer Learning Everywhere}{21}{section.3.7}%
+\contentsline {mtocsection}{\numberline {3.7}Transfer Learning Everywhere}{21}{section.3.7}%
+\contentsline {section}{\numberline {3.8}Industrial-Scale Plagiarism}{23}{section.3.8}%
+\contentsline {mtocsection}{\numberline {3.8}Industrial-Scale Plagiarism}{23}{section.3.8}%
+\contentsline {section}{\numberline {3.9}Working Together is Best}{23}{section.3.9}%
+\contentsline {mtocsection}{\numberline {3.9}Working Together is Best}{23}{section.3.9}%
+\contentsline {section}{\numberline {3.10}Key Takeaways}{24}{section.3.10}%
+\contentsline {mtocsection}{\numberline {3.10}Key Takeaways}{24}{section.3.10}%
+\contentsline {chapter}{\numberline {4}Model Cards and Case Studies}{26}{chapter.4}%
 \etoc@startlocaltoc {8}
 \etoc@startlocaltoc {9}
-\contentsline {section}{\numberline {4.1}Introduction}{28}{section.4.1}%
-\contentsline {mtocsection}{\numberline {4.1}Introduction}{28}{section.4.1}%
-\contentsline {subsection}{\numberline {4.1.1}Key Terms}{28}{subsection.4.1.1}%
-\contentsline {mtocsubsection}{\numberline {4.1.1}Key Terms}{28}{subsection.4.1.1}%
-\contentsline {section}{\numberline {4.2}Model Cards}{29}{section.4.2}%
-\contentsline {mtocsection}{\numberline {4.2}Model Cards}{29}{section.4.2}%
-\contentsline {subsection}{\numberline {4.2.1}Fluid Dynamics}{29}{subsection.4.2.1}%
-\contentsline {mtocsubsection}{\numberline {4.2.1}Fluid Dynamics}{29}{subsection.4.2.1}%
-\contentsline {subsection}{\numberline {4.2.2}Shakespearean Text}{30}{subsection.4.2.2}%
-\contentsline {mtocsubsection}{\numberline {4.2.2}Shakespearean Text}{30}{subsection.4.2.2}%
-\contentsline {subsection}{\numberline {4.2.3}Lithium Mining}{30}{subsection.4.2.3}%
-\contentsline {mtocsubsection}{\numberline {4.2.3}Lithium Mining}{30}{subsection.4.2.3}%
-\contentsline {subsection}{\numberline {4.2.4}Chess}{31}{subsection.4.2.4}%
-\contentsline {mtocsubsection}{\numberline {4.2.4}Chess}{31}{subsection.4.2.4}%
-\contentsline {subsection}{\numberline {4.2.5}Go}{32}{subsection.4.2.5}%
-\contentsline {mtocsubsection}{\numberline {4.2.5}Go}{32}{subsection.4.2.5}%
-\contentsline {subsection}{\numberline {4.2.6}Large Stock Order}{33}{subsection.4.2.6}%
-\contentsline {mtocsubsection}{\numberline {4.2.6}Large Stock Order}{33}{subsection.4.2.6}%
-\contentsline {subsection}{\numberline {4.2.7}Share Tender Purchase}{34}{subsection.4.2.7}%
-\contentsline {mtocsubsection}{\numberline {4.2.7}Share Tender Purchase}{34}{subsection.4.2.7}%
-\contentsline {subsection}{\numberline {4.2.8}Stock Trading}{35}{subsection.4.2.8}%
-\contentsline {mtocsubsection}{\numberline {4.2.8}Stock Trading}{35}{subsection.4.2.8}%
-\contentsline {subsection}{\numberline {4.2.9}Sperm Counter}{36}{subsection.4.2.9}%
-\contentsline {mtocsubsection}{\numberline {4.2.9}Sperm Counter}{36}{subsection.4.2.9}%
+\contentsline {section}{\numberline {4.1}Introduction}{26}{section.4.1}%
+\contentsline {mtocsection}{\numberline {4.1}Introduction}{26}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Sucker Traps to Note When Analyzing Models}{26}{subsection.4.1.1}%
+\contentsline {mtocsubsection}{\numberline {4.1.1}Sucker Traps to Note When Analyzing Models}{26}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Key Terms}{27}{subsection.4.1.2}%
+\contentsline {mtocsubsection}{\numberline {4.1.2}Key Terms}{27}{subsection.4.1.2}%
+\contentsline {section}{\numberline {4.2}Model Cards}{27}{section.4.2}%
+\contentsline {mtocsection}{\numberline {4.2}Model Cards}{27}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Fluid Dynamics}{27}{subsection.4.2.1}%
+\contentsline {mtocsubsection}{\numberline {4.2.1}Fluid Dynamics}{27}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Shakespearean Text}{28}{subsection.4.2.2}%
+\contentsline {mtocsubsection}{\numberline {4.2.2}Shakespearean Text}{28}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}Lithium Mining}{29}{subsection.4.2.3}%
+\contentsline {mtocsubsection}{\numberline {4.2.3}Lithium Mining}{29}{subsection.4.2.3}%
+\contentsline {subsection}{\numberline {4.2.4}Chess}{30}{subsection.4.2.4}%
+\contentsline {mtocsubsection}{\numberline {4.2.4}Chess}{30}{subsection.4.2.4}%
+\contentsline {subsection}{\numberline {4.2.5}Go}{31}{subsection.4.2.5}%
+\contentsline {mtocsubsection}{\numberline {4.2.5}Go}{31}{subsection.4.2.5}%
+\contentsline {subsection}{\numberline {4.2.6}Large Stock Order}{32}{subsection.4.2.6}%
+\contentsline {mtocsubsection}{\numberline {4.2.6}Large Stock Order}{32}{subsection.4.2.6}%
+\contentsline {subsection}{\numberline {4.2.7}Share Tender Purchase}{33}{subsection.4.2.7}%
+\contentsline {mtocsubsection}{\numberline {4.2.7}Share Tender Purchase}{33}{subsection.4.2.7}%
+\contentsline {subsection}{\numberline {4.2.8}Stock Trading}{34}{subsection.4.2.8}%
+\contentsline {mtocsubsection}{\numberline {4.2.8}Stock Trading}{34}{subsection.4.2.8}%
+\contentsline {subsection}{\numberline {4.2.9}Sperm Counter}{35}{subsection.4.2.9}%
+\contentsline {mtocsubsection}{\numberline {4.2.9}Sperm Counter}{35}{subsection.4.2.9}%
 \contentsline {subsection}{\numberline {4.2.10}Handwriting Recognizer}{36}{subsection.4.2.10}%
 \contentsline {mtocsubsection}{\numberline {4.2.10}Handwriting Recognizer}{36}{subsection.4.2.10}%
 \contentsline {subsection}{\numberline {4.2.11}Drug Discovery}{37}{subsection.4.2.11}%
@@ -106,10 +108,10 @@
 \contentsline {mtocsubsection}{\numberline {4.2.14}Online Advertising}{40}{subsection.4.2.14}%
 \contentsline {subsection}{\numberline {4.2.15}Tennis}{41}{subsection.4.2.15}%
 \contentsline {mtocsubsection}{\numberline {4.2.15}Tennis}{41}{subsection.4.2.15}%
-\contentsline {subsection}{\numberline {4.2.16}Hate Speech}{42}{subsection.4.2.16}%
-\contentsline {mtocsubsection}{\numberline {4.2.16}Hate Speech}{42}{subsection.4.2.16}%
-\contentsline {subsection}{\numberline {4.2.17}Fake News}{43}{subsection.4.2.17}%
-\contentsline {mtocsubsection}{\numberline {4.2.17}Fake News}{43}{subsection.4.2.17}%
+\contentsline {subsection}{\numberline {4.2.16}Hate Speech}{41}{subsection.4.2.16}%
+\contentsline {mtocsubsection}{\numberline {4.2.16}Hate Speech}{41}{subsection.4.2.16}%
+\contentsline {subsection}{\numberline {4.2.17}Fake News}{42}{subsection.4.2.17}%
+\contentsline {mtocsubsection}{\numberline {4.2.17}Fake News}{42}{subsection.4.2.17}%
 \contentsline {subsection}{\numberline {4.2.18}Legal Contracts}{44}{subsection.4.2.18}%
 \contentsline {mtocsubsection}{\numberline {4.2.18}Legal Contracts}{44}{subsection.4.2.18}%
 \contentsline {subsection}{\numberline {4.2.19}Facial Recognition}{45}{subsection.4.2.19}%
@@ -118,76 +120,14 @@
 \contentsline {mtocsubsection}{\numberline {4.2.20}Smartwatches}{46}{subsection.4.2.20}%
 \contentsline {subsection}{\numberline {4.2.21}Threat Detection}{47}{subsection.4.2.21}%
 \contentsline {mtocsubsection}{\numberline {4.2.21}Threat Detection}{47}{subsection.4.2.21}%
-\contentsline {subsection}{\numberline {4.2.22}University Admissions}{47}{subsection.4.2.22}%
-\contentsline {mtocsubsection}{\numberline {4.2.22}University Admissions}{47}{subsection.4.2.22}%
+\contentsline {subsection}{\numberline {4.2.22}University Admissions}{48}{subsection.4.2.22}%
+\contentsline {mtocsubsection}{\numberline {4.2.22}University Admissions}{48}{subsection.4.2.22}%
 \contentsline {subsection}{\numberline {4.2.23}Credit Score}{49}{subsection.4.2.23}%
 \contentsline {mtocsubsection}{\numberline {4.2.23}Credit Score}{49}{subsection.4.2.23}%
 \contentsline {subsection}{\numberline {4.2.24}Social Credit Score}{50}{subsection.4.2.24}%
 \contentsline {mtocsubsection}{\numberline {4.2.24}Social Credit Score}{50}{subsection.4.2.24}%
 \contentsline {subsection}{\numberline {4.2.25}AGI}{51}{subsection.4.2.25}%
 \contentsline {mtocsubsection}{\numberline {4.2.25}AGI}{51}{subsection.4.2.25}%
-\contentsline {section}{\numberline {4.3}Conclusion}{52}{section.4.3}%
-\contentsline {mtocsection}{\numberline {4.3}Conclusion}{52}{section.4.3}%
-\contentsline {chapter}{\numberline {5}Self-Driving with Statistics}{53}{chapter.5}%
-\etoc@startlocaltoc {10}
-\etoc@startlocaltoc {11}
-\contentsline {section}{\numberline {5.1}Self-Driving Horses}{53}{section.5.1}%
-\contentsline {mtocsection}{\numberline {5.1}Self-Driving Horses}{53}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Semi-Autonomy: A False Sense of Security}{53}{section.5.2}%
-\contentsline {mtocsection}{\numberline {5.2}Semi-Autonomy: A False Sense of Security}{53}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Autopilot and Outsourcing Responsibility}{53}{section.5.3}%
-\contentsline {mtocsection}{\numberline {5.3}Autopilot and Outsourcing Responsibility}{53}{section.5.3}%
-\contentsline {section}{\numberline {5.4}Trolley Problems}{54}{section.5.4}%
-\contentsline {mtocsection}{\numberline {5.4}Trolley Problems}{54}{section.5.4}%
-\contentsline {section}{\numberline {5.5}Model Card}{54}{section.5.5}%
-\contentsline {mtocsection}{\numberline {5.5}Model Card}{54}{section.5.5}%
-\contentsline {section}{\numberline {5.6}Concept Drift (Reprise)}{55}{section.5.6}%
-\contentsline {mtocsection}{\numberline {5.6}Concept Drift (Reprise)}{55}{section.5.6}%
-\contentsline {section}{\numberline {5.7}Multicolinearity (Reprise)}{55}{section.5.7}%
-\contentsline {mtocsection}{\numberline {5.7}Multicolinearity (Reprise)}{55}{section.5.7}%
-\contentsline {section}{\numberline {5.8}Explaining The Unexplainable in Court}{56}{section.5.8}%
-\contentsline {mtocsection}{\numberline {5.8}Explaining The Unexplainable in Court}{56}{section.5.8}%
-\contentsline {section}{\numberline {5.9}NASA wouldn't launch it, why should we?}{56}{section.5.9}%
-\contentsline {mtocsection}{\numberline {5.9}NASA wouldn't launch it, why should we?}{56}{section.5.9}%
-\contentsline {section}{\numberline {5.10}A Train is a Self-Driving Car, Right?}{56}{section.5.10}%
-\contentsline {mtocsection}{\numberline {5.10}A Train is a Self-Driving Car, Right?}{56}{section.5.10}%
-\contentsline {chapter}{\numberline {6}Unplugging Skynet}{58}{chapter.6}%
-\etoc@startlocaltoc {12}
-\etoc@startlocaltoc {13}
-\contentsline {section}{\numberline {6.1}It's a Trap!}{58}{section.6.1}%
-\contentsline {mtocsection}{\numberline {6.1}It's a Trap!}{58}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Guns Don't Kill People, People Kill People}{59}{section.6.2}%
-\contentsline {mtocsection}{\numberline {6.2}Guns Don't Kill People, People Kill People}{59}{section.6.2}%
-\contentsline {section}{\numberline {6.3}Useful Incompatability}{59}{section.6.3}%
-\contentsline {mtocsection}{\numberline {6.3}Useful Incompatability}{59}{section.6.3}%
-\contentsline {section}{\numberline {6.4}Training Data}{59}{section.6.4}%
-\contentsline {mtocsection}{\numberline {6.4}Training Data}{59}{section.6.4}%
-\contentsline {section}{\numberline {6.5}Checks and Balances}{60}{section.6.5}%
-\contentsline {mtocsection}{\numberline {6.5}Checks and Balances}{60}{section.6.5}%
-\contentsline {chapter}{\numberline {7}Revolutionary for Whom?}{61}{chapter.7}%
-\etoc@startlocaltoc {14}
-\etoc@startlocaltoc {15}
-\contentsline {section}{\numberline {7.1}The Battle of the Assistants}{61}{section.7.1}%
-\contentsline {mtocsection}{\numberline {7.1}The Battle of the Assistants}{61}{section.7.1}%
-\contentsline {section}{\numberline {7.2}Employees That Are Better Than You}{61}{section.7.2}%
-\contentsline {mtocsection}{\numberline {7.2}Employees That Are Better Than You}{61}{section.7.2}%
-\contentsline {section}{\numberline {7.3}Slow on the Uptake}{61}{section.7.3}%
-\contentsline {mtocsection}{\numberline {7.3}Slow on the Uptake}{61}{section.7.3}%
-\contentsline {section}{\numberline {7.4}Free-Rider Problems}{61}{section.7.4}%
-\contentsline {mtocsection}{\numberline {7.4}Free-Rider Problems}{61}{section.7.4}%
-\contentsline {section}{\numberline {7.5}When You Can't Tell The Difference}{62}{section.7.5}%
-\contentsline {mtocsection}{\numberline {7.5}When You Can't Tell The Difference}{62}{section.7.5}%
-\contentsline {section}{\numberline {7.6}Sucker Traps}{62}{section.7.6}%
-\contentsline {mtocsection}{\numberline {7.6}Sucker Traps}{62}{section.7.6}%
-\contentsline {section}{\numberline {7.7}Thinking Fast and Slow}{62}{section.7.7}%
-\contentsline {mtocsection}{\numberline {7.7}Thinking Fast and Slow}{62}{section.7.7}%
-\contentsline {section}{\numberline {7.8}Dead Inside}{62}{section.7.8}%
-\contentsline {mtocsection}{\numberline {7.8}Dead Inside}{62}{section.7.8}%
-\contentsline {section}{\numberline {7.9}This Book is a Case Study}{62}{section.7.9}%
-\contentsline {mtocsection}{\numberline {7.9}This Book is a Case Study}{62}{section.7.9}%
-\contentsline {section}{\numberline {7.10}Managing Creative Destruction in Your Career}{63}{section.7.10}%
-\contentsline {mtocsection}{\numberline {7.10}Managing Creative Destruction in Your Career}{63}{section.7.10}%
-\contentsline {chapter}{\numberline {8}Errors and Omissions}{64}{chapter.8}%
-\etoc@startlocaltoc {16}
-\etoc@startlocaltoc {17}
-\contentsline {chapter}{\nonumberline Bibliography}{65}{chapter*.29}%
+\contentsline {section}{\numberline {4.3}Key Takeaways}{53}{section.4.3}%
+\contentsline {mtocsection}{\numberline {4.3}Key Takeaways}{53}{section.4.3}%
+\contentsline {chapter}{\nonumberline Bibliography}{54}{chapter*.42}%
