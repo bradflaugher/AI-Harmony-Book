@@ -17,6 +17,8 @@ Mention contractors and how they pick technologies for you, but they might pick 
 
 Also talk about how FOSS creates a software paradox Software paradox, FOSS shrinks the market and take 70%, but then use feynmans quote about paradoxes to say that software itself is worth 0. 
 
+note about commodity software. Maintenance Cost, Training Cost, Licencsing Cost, Switching etc... if you time it right you pay less for training and 0 for licensing and switching.  Most companies never pay for switching or training and go bust as soon as they realize those costs. Right to repair software. FSF
+
 
 C
 Python
