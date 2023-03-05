@@ -20,10 +20,6 @@ Also talk about how FOSS creates a software paradox Software paradox, FOSS shrin
 note about commodity software. Maintenance Cost, Training Cost, Licencsing Cost, Switching etc... if you time it right you pay less for training and 0 for licensing and switching.  Most companies never pay for switching or training and go bust as soon as they realize those costs. Right to repair software. FSF
 
 
-C
-Python
-
-Other shit
 
 
 # Security
@@ -70,6 +66,7 @@ Poor Nerd
 
 ## Security by Obscurity
 
+# Browsers and terminals first? before phones even? Consider it. is the browser more important than the OS, practically speaking?
 
 # Phones
 
