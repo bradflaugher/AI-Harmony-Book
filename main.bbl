@@ -75,8 +75,8 @@
       \strng{authorbibnamehash}{3f6a8cef9eeda200eefb4693bbfc9f41}
       \strng{authornamehash}{3f6a8cef9eeda200eefb4693bbfc9f41}
       \strng{authorfullhash}{3f6a8cef9eeda200eefb4693bbfc9f41}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Artificial Intelligence}
@@ -99,8 +99,8 @@
       \strng{authorbibnamehash}{ae942e35d736eab568a4727899116694}
       \strng{authornamehash}{ae942e35d736eab568a4727899116694}
       \strng{authorfullhash}{ae942e35d736eab568a4727899116694}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{A thousand brains: A new theory of intelligence}
@@ -123,8 +123,8 @@
       \strng{authorbibnamehash}{9ffa9e48bcc6106e9734fda11e8878b4}
       \strng{authornamehash}{9ffa9e48bcc6106e9734fda11e8878b4}
       \strng{authorfullhash}{9ffa9e48bcc6106e9734fda11e8878b4}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Neural Networks are Decision Trees}
@@ -256,8 +256,8 @@
       \strng{authorbibnamehash}{d8ee060ca87a8ecf0f21be92317d2ffe}
       \strng{authornamehash}{d8ee060ca87a8ecf0f21be92317d2ffe}
       \strng{authorfullhash}{5783cab60fdd889479e80c2719b80b15}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Extracting Training Data from Diffusion Models}
@@ -390,8 +390,8 @@
       \strng{authorbibnamehash}{ff035591a31ae3085a8364f1007b95b6}
       \strng{authornamehash}{ff035591a31ae3085a8364f1007b95b6}
       \strng{authorfullhash}{ff035591a31ae3085a8364f1007b95b6}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://arstechnica.com/information-technology/2022/11/new-go-playing-trick-defeats-world-class-go-ai-but-loses-to-human-amateurs/}}
@@ -496,8 +496,8 @@
       \strng{authorbibnamehash}{b39455b3444c471a39e1fda843ffae8d}
       \strng{authornamehash}{b39455b3444c471a39e1fda843ffae8d}
       \strng{authorfullhash}{b39455b3444c471a39e1fda843ffae8d}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://www.breitbart.com/tech/2023/02/22/joe-biden-releases-executive-order-promoting-woke-ai/}}
