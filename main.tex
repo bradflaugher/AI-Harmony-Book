@@ -91,6 +91,20 @@
 
 %----------------------------------------------------------------------------------------
 
+% Blank Page
+
+\newcommand\blankpage{
+    \clearpage
+    \begingroup
+      \null
+      \thispagestyle{empty}
+      \addtocounter{page}{-1}
+      \hypersetup{pageanchor=false}
+      \clearpage
+    \endgroup
+}
+
+
 
 %----------------------------------------------------------------------------------------
 %	BOOK INFORMATION
