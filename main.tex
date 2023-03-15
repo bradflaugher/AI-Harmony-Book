@@ -2,8 +2,13 @@
 %	EXAMPLE AND DOCUMENTATION OF THE KAOBOOK CLASS
 %----------------------------------------------------------------------------------------
 % Open pdf in word or use https://smallpdf.com/pdf-to-word to convert to word
+
 % For pdf ebook use twoside=false below
-% For hard-cover use twoside=true below
+
+% For hard-cover:
+% use twoside=true below
+% add page breaks to the pdf (look for blank.pdf)
+% add secondtitle page
 
 \documentclass[
     letterpaper, % Page size
@@ -71,7 +76,7 @@
 % If you have a PDF/image file that you want to use as a back cover, uncomment the following lines
 
 \includepdf{cover.pdf}
-\includepdf{blank.pdf}
+%\includepdf{blank.pdf}
 
 
 %----------------------------------------------------------------------------------------
@@ -96,24 +101,24 @@
 \frontmatter % Denotes the start of the pre-document content, uses roman numerals
 
 %----------------------------------------------------------------------------------------
-%	OPENING PAGE
+%	OPENING PAGE, should be excluded for pdf ebook
 %----------------------------------------------------------------------------------------
 
-\makeatletter
-\extratitle{
-	% In the title page, the title is vspaced by 9.5\baselineskip
-	\vspace*{9\baselineskip}
-	\vspace*{\parskip}
-	\begin{center}
-		% In the title page, \huge is set after the komafont for title
-		\usekomafont{title}\huge\@title
-	\end{center}
-    \includepdf{blank.pdf}
-}
-\makeatother
+%\makeatletter
+%\extratitle{
+%	% In the title page, the title is vspaced by 9.5\baselineskip
+%	\vspace*{9\baselineskip}
+%	\vspace*{\parskip}
+%	\begin{center}
+%		% In the title page, \huge is set after the komafont for title
+%		\usekomafont{title}\huge\@title
+%	\end{center}
+%    %\includepdf{blank.pdf}
+%}
+%\makeatother
 
 %----------------------------------------------------------------------------------------
-%	COPYRIGHT PAGE
+%	COPYRIGHT PAGE, will be skipped if twosided=false, add to backmatter if needed
 %----------------------------------------------------------------------------------------
 
 \makeatletter
