@@ -46,6 +46,8 @@
 \fi
 \usepackage[english=british]{csquotes}	% English quotes
 
+% title customization
+
 % Load packages for testing
 \usepackage{blindtext} % Print text without any meaning for testing purposes
 %\usepackage{showframe} % Uncomment to show boxes around the text area, margin, header and footer
@@ -72,6 +74,10 @@
 % Reset sidenote counter at chapters
 %\counterwithin*{sidenote}{chapter}
 
+% ----------------------------------------------------------------------------------------
+%    CUSTOM COMMANDS
+% ----------------------------------------------------------------------------------------
+
 %----------------------------------------------------------------------------------------
 
 \begin{document}
@@ -83,26 +89,13 @@
 
 % If you have a PDF/image file that you want to use as a back cover, uncomment the following lines
 
-%\clearpage
-%\thispagestyle{empty}
-%\null
-%\clearpage
+\clearpage
+\thispagestyle{empty}
+\null
+\clearpage
 \includepdf{cover.pdf}
 
-%----------------------------------------------------------------------------------------
-
-% Blank Page
-
-\newcommand\blankpage{
-    \clearpage
-    \begingroup
-      \null
-      \thispagestyle{empty}
-      \addtocounter{page}{-1}
-      \hypersetup{pageanchor=false}
-      \clearpage
-    \endgroup
-}
+\blankpage
 
 
 
@@ -111,14 +104,14 @@
 %----------------------------------------------------------------------------------------
 
 
-\title[ Full Self-Driving, Skynet and other Artificial Intelligence Myths ]{ Full Self-Driving, Skynet and Other Artificial Intelligence Myths }
-\subtitle{ Modern decision making with deep machine learning models }
+\title[Hybrid Intelligence]{Hybrid Intelligence}
+\subtitle{Strategies for Human-AI Synergy}
 
 \author[Brad Flaugher]{Brad Flaugher}
 
 \date{\today}
 
-\publishers{}
+\publishers{\includegraphics[width=0.3\textwidth]{publogo}}
 
 %----------------------------------------------------------------------------------------
 
@@ -128,24 +121,24 @@
 %	OPENING PAGE
 %----------------------------------------------------------------------------------------
 
-%\makeatletter
-%\extratitle{
-%	% In the title page, the title is vspaced by 9.5\baselineskip
-%	\vspace*{9\baselineskip}
-%	\vspace*{\parskip}
-%	\begin{center}
-%		% In the title page, \huge is set after the komafont for title
-%		\usekomafont{title}\huge\@title
-%	\end{center}
-%}
-%\makeatother
+\makeatletter
+\extratitle{
+	% In the title page, the title is vspaced by 9.5\baselineskip
+	\vspace*{9\baselineskip}
+	\vspace*{\parskip}
+	\begin{center}
+		% In the title page, \huge is set after the komafont for title
+		\usekomafont{title}\huge\@title
+	\end{center}
+}
+\makeatother
 
+\blankpage
 %----------------------------------------------------------------------------------------
 %	COPYRIGHT PAGE
 %----------------------------------------------------------------------------------------
 
 \makeatletter
-\uppertitleback{\@titlehead} % Header
 
 \lowertitleback{
 	\textbf{Disclaimer}\\
@@ -179,8 +172,7 @@
 %----------------------------------------------------------------------------------------
 
 \dedication{
-\textit{We have now accumulated sufficient evidence to see that whatever language the central nervous system is using, it is characterized by less logical and arithmetical depth than what we are normally used to.}\\
-	-- John von Neumann, 1958 \cite{vonNeumann2012}
+\textit{Make this a real dedication...}
 }
 
 %----------------------------------------------------------------------------------------
