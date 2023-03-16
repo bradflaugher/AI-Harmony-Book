@@ -1,10 +1,9 @@
 \@ifundefined {etoctocstyle}{\let \etoc@startlocaltoc \@gobble \let \etoc@settocdepth \@gobble \let \etoc@depthtag \@gobble \let \etoc@setlocaltop \@gobble }{}
 \babel@toc {english}{}\relax
-\contentsline {chapter}{Acknowledgements}{iii}{chapter*.1}%
-\contentsline {chapter}{Preface}{v}{chapter*.2}%
-\contentsline {chapter}{Foreword}{vi}{chapter*.3}%
-\contentsline {chapter}{\nonumberline Contents}{vii}{chapter*.4}%
-\contentsline {chapter}{Chapter Summaries}{x}{chapter*.5}%
+\contentsline {chapter}{\nonumberline Draft Note}{ii}{chapter*.1}%
+\contentsline {chapter}{Preface}{iii}{chapter*.2}%
+\contentsline {chapter}{\nonumberline Contents}{iv}{chapter*.3}%
+\contentsline {chapter}{Chapter Summaries}{vii}{chapter*.4}%
 \contentsline {chapter}{\numberline {1}The Artificial Intelligence Industrial Complex}{1}{chapter.1}%
 \etoc@startlocaltoc {2}
 \etoc@startlocaltoc {3}
@@ -208,4 +207,4 @@
 \contentsline {chapter}{\numberline {9}Errors and Omissions}{69}{chapter.9}%
 \etoc@startlocaltoc {18}
 \etoc@startlocaltoc {19}
-\contentsline {chapter}{\nonumberline Bibliography}{70}{chapter*.45}%
+\contentsline {chapter}{\nonumberline Bibliography}{70}{chapter*.44}%
