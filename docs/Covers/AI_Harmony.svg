@@ -20,17 +20,23 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="0.55048947"
-     inkscape:cx="393.28636"
-     inkscape:cy="321.53204"
-     inkscape:window-width="2256"
-     inkscape:window-height="1453"
+     inkscape:zoom="1.9077568"
+     inkscape:cx="413.83682"
+     inkscape:cy="321.84396"
+     inkscape:window-width="3840"
+     inkscape:window-height="2109"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg28" />
   <defs
      id="defs4">
+    <rect
+       x="155.52634"
+       y="736.15102"
+       width="114.326"
+       height="35.419557"
+       id="rect248" />
     <rect
        x="55.257688"
        y="75.13625"
@@ -121,7 +127,7 @@
      y="0" />
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.4598px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#000000;stroke-width:1.16632"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#000000;stroke-width:1.16632"
      x="5.9492111"
      y="467.54837"
      id="text348"
@@ -129,18 +135,13 @@
        sodipodi:role="line"
        x="5.9492111"
        y="467.54837"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.4598px;font-family:FT88;-inkscape-font-specification:'FT88 Italic';text-align:start;text-anchor:start;stroke-width:1.16632"
-       id="tspan393">Transforming Lives and Businesses</tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';text-align:start;text-anchor:start;stroke-width:1.16632"
+       id="tspan244">Strategies for Blending Human Expertise</tspan><tspan
        sodipodi:role="line"
        x="5.9492111"
-       y="490.07556"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.4598px;font-family:FT88;-inkscape-font-specification:'FT88 Italic';text-align:start;text-anchor:start;stroke-width:1.16632"
-       id="tspan350">with Accessible AI Solutions</tspan><tspan
-       sodipodi:role="line"
-       x="5.9492111"
-       y="511.90033"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.4598px;font-family:FT88;-inkscape-font-specification:'FT88 Italic';text-align:start;text-anchor:start;stroke-width:1.16632"
-       id="tspan358" /></text>
+       y="487.70462"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';text-align:start;text-anchor:start;stroke-width:1.16632"
+       id="tspan254">and AI for Business Success</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:200px;font-family:'Falcon Punch';-inkscape-font-specification:'Falcon Punch Bold Italic';text-align:center;text-anchor:middle;fill:#000000;stroke-width:1.16018"
@@ -173,14 +174,18 @@
        style="font-size:73.3333px">Harmony</tspan></text>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.91382px;font-family:FT88;-inkscape-font-specification:FT88;text-align:start;text-anchor:start;fill:#000000;stroke-width:0.742818"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.11772px;font-family:FT88;-inkscape-font-specification:FT88;text-align:start;text-anchor:start;white-space:pre;inline-size:124.434;display:inline;fill:#000000;stroke-width:0.742818"
      x="69.532021"
      y="565.15106"
      id="text399"
-     transform="matrix(0.68376752,-0.2902421,0.52601197,1.2392065,0,0)"><tspan
-       id="tspan397"
+     transform="matrix(2.1364117,-0.90797019,1.6435091,3.8766346,-718.3359,-1444.2271)"><tspan
        x="69.532021"
        y="565.15106"
-       sodipodi:role="line"
-       style="stroke-width:0.742818">Brad Flaugher</tspan></text>
+       id="tspan773"><tspan
+         style="font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro'"
+         id="tspan771">Brad Flaugher</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     id="text246"
+     style="font-style:italic;font-size:12px;font-family:FT88;-inkscape-font-specification:'FT88 Italic';white-space:pre;shape-inside:url(#rect248);display:inline;fill:#000000" />
 </svg>
