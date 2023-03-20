@@ -25,7 +25,7 @@
 * Finish adding cost and IP scores
 
 * Review [Stephanie's Notes](https://docs.google.com/document/d/1hxqyawww7Se_UzsjvAdkrmKq306LOyiypu3TzQg-1nM/edit#)
-
+* Create Pre-Order PDF in the store.bradflaugher.com once a draft is done.
 
 
 ## TODOs for new book
