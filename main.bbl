@@ -92,8 +92,8 @@
       \field{year}{2023}
     \endentry
     \entry{lawmakersny}{misc}{}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://www.nytimes.com/2023/03/03/technology/artificial-intelligence-regulation-congress.html}}
       \field{note}{(Accessed on 03/20/2023)}
@@ -108,8 +108,8 @@
       \field{title}{Generative AI Wins Some Early Fans But Is Missing Public Trust}
     \endentry
     \entry{monmouthai}{misc}{}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://www.monmouth.edu/polling-institute/reports/monmouthpoll_us_021523/}}
       \field{note}{(Accessed on 03/20/2023)}
@@ -145,8 +145,8 @@
       \strng{authorbibnamehash}{9a6a0c8c605f27aa0b55400356794bf9}
       \strng{authornamehash}{9a6a0c8c605f27aa0b55400356794bf9}
       \strng{authorfullhash}{9a6a0c8c605f27aa0b55400356794bf9}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://www.nytimes.com/2023/03/14/special-series/protopia-movement.html}}
@@ -235,8 +235,8 @@
       \strng{authorbibnamehash}{ae942e35d736eab568a4727899116694}
       \strng{authornamehash}{ae942e35d736eab568a4727899116694}
       \strng{authorfullhash}{ae942e35d736eab568a4727899116694}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{A thousand brains: A new theory of intelligence}
@@ -293,8 +293,8 @@
       \strng{authorbibnamehash}{5836fc1fa037e340c8b5591da3207608}
       \strng{authornamehash}{5836fc1fa037e340c8b5591da3207608}
       \strng{authorfullhash}{5836fc1fa037e340c8b5591da3207608}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Deep learning with python, second edition}
@@ -423,8 +423,8 @@
       \strng{authorbibnamehash}{79ecd5c0a1419e244b29a35ab420440d}
       \strng{authornamehash}{79ecd5c0a1419e244b29a35ab420440d}
       \strng{authorfullhash}{79ecd5c0a1419e244b29a35ab420440d}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://news.yahoo.com/getty-images-claims-stable-diffusions-220000016.html}}
@@ -447,8 +447,8 @@
       \strng{authorbibnamehash}{af1be2af894dd2eead00a3492f37f729}
       \strng{authornamehash}{af1be2af894dd2eead00a3492f37f729}
       \strng{authorfullhash}{af1be2af894dd2eead00a3492f37f729}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Kasparov}
@@ -503,8 +503,8 @@
       \strng{authorbibnamehash}{97221c67145aabda05afac891300d180}
       \strng{authornamehash}{97221c67145aabda05afac891300d180}
       \strng{authorfullhash}{97221c67145aabda05afac891300d180}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{10}
