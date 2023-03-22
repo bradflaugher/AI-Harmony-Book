@@ -446,8 +446,8 @@
       \strng{authorbibnamehash}{ffd9bbb22f19f527ef2083421a5dfb09}
       \strng{authornamehash}{ffd9bbb22f19f527ef2083421a5dfb09}
       \strng{authorfullhash}{ffd9bbb22f19f527ef2083421a5dfb09}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{978-0-39363582-9}
@@ -518,8 +518,8 @@
       \strng{authorbibnamehash}{d8ee060ca87a8ecf0f21be92317d2ffe}
       \strng{authornamehash}{d8ee060ca87a8ecf0f21be92317d2ffe}
       \strng{authorfullhash}{5783cab60fdd889479e80c2719b80b15}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Extracting Training Data from Diffusion Models}
@@ -605,8 +605,8 @@
       \strng{authorbibnamehash}{3bf7f8aebb363db6c9b75651ad07d9c6}
       \strng{authornamehash}{3bf7f8aebb363db6c9b75651ad07d9c6}
       \strng{authorfullhash}{3bf7f8aebb363db6c9b75651ad07d9c6}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Think for yourself: Restoring common sense in an age of experts and artificial intelligence}

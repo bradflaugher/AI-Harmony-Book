@@ -111,11 +111,11 @@ In the first section of this chapter we introduced the idea that a simple neural
 
 In practice, a neural network trained on a gaming PC from 2023 can easily have millons of trainable parameters. A simple image classifier used to classify handwritten digits might have 60,000 parameters which is about the number the model used by Yann LeCun and company in the 1990s. Bleeding-edge deep neural networks are trained on large GPU farms and have have billions of trainable parameters. More parameters gives the models tremendous power to recognize complex patterns, but also makes any practical attempt at explaining their inner-workings impossible.  
 
-\begin{marginfigure}[-5.5cm]
-        \includegraphics{greenneuron}
-        \caption{"mdjrny-v4 layers and layers of neurons looking like a gooey lasagna, but the data has green blood 8k" made with Mann-E}
-        \labfig{marginneuron}
-\end{marginfigure}
+%\begin{marginfigure}[-5.5cm]
+%        \includegraphics{greenneuron}
+%        \caption{"mdjrny-v4 layers and layers of neurons looking like a gooey lasagna, but the data has green blood 8k" made with Mann-E}
+%        \labfig{marginneuron}
+%\end{marginfigure}
 
 
 When a neural network has millions of trainable parameters and deep layers of neurons\sidenote{In case you are wondering, the human brain has about 86 billion neurons that do the "thinking". Physical neurons are more complicated than the neurons used in deep learning and have supporting structures like astrocytes that do some computation as well. \url{https://en.wikipedia.org/wiki/Astrocyte}}, it can be difficult to explain to a human what each of those parameters represents or how they contribute to the overall function of the network. This is because the interactions between the different layers and neurons can be complex and non-linear, making it challenging to understand the specific role of each parameter. The parameters  model complex interactions between the inputs, making it difficult to understand their specific function. Furthermore, in deep neural networks, the high number of layers can lead to high level of abstraction, meaning that the individual neurons and their weights have little interpretability.
@@ -141,17 +141,18 @@ Randomized or averaged inputs to a model can also be used to determine if a part
 \section{The Universal Machine Learning Workflow}
 \labsec{limits}
 
-The Universal Machine Learning Workflow\sidecite{chollet2022} is an important chapter in a technical guide for data scientists  by the author of the most popular machine learning framework in the world\sidenote{It's called TensorFlow and was one of the most popular and "Most Loved" Technologies of 2022 \url{https://survey.stackoverflow.co/2022/\#most-popular-technologies-misc-tech}} that outlines the \textit{Universal} workflow for machine learning projects. I think this chapter should be understood by everyone using, investing in and creating machine learning models. 
+The Universal Machine Learning Workflow is an important chapter in a technical guide for data scientists by the co-author of Tensorflow, the most popular machine learning framework in the world as of 2023, that outlines the \textit{Universal} workflow for machine learning projects. I think this chapter should be understood by everyone using, investing in and creating machine learning models. 
 
 Before Chollet gets into the details of model building, he chooses to begin with a note on ethics: 
-
-\textit{"You may sometimes be offered ethically dubious projects, such as “building an AI that rates the trustworthiness of someone from a picture of their face.” First of all, the validity of the project is in doubt: it isn’t clear why trustworthiness would be reflected on someone’s face. Second, such a task opens the door to all kinds of ethical problems. Collecting a dataset for this task would amount to recording the biases and prejudices of the people who label the pictures. The models you would train on such data would merely encode these same biases into a black-box algorithm that would give them a thin veneer of legitimacy. In a largely tech-illiterate society like ours, “the AI algorithm said this person cannot be trusted” strangely appears to carry more weight and objectivity than “John Smith said this person cannot be trusted,” despite the former being a learned approximation of the latter. Your model would be laundering and operationalizing at scale the worst aspects of human judgement, with negative effects on the lives of real people.}
 
 \begin{marginfigure}[-5.5cm]
         \includegraphics{trustworthysd}
         \caption{"the face of a trustworthy person" made with Stable Diffusion 2.1. (Hey, it's a white lady!)}
         \labfig{trustworthysd}
 \end{marginfigure}
+
+\textit{"You may sometimes be offered ethically dubious projects, such as “building an AI that rates the trustworthiness of someone from a picture of their face.” First of all, the validity of the project is in doubt: it isn’t clear why trustworthiness would be reflected on someone’s face. Second, such a task opens the door to all kinds of ethical problems. Collecting a dataset for this task would amount to recording the biases and prejudices of the people who label the pictures. The models you would train on such data would merely encode these same biases into a black-box algorithm that would give them a thin veneer of legitimacy. In a largely tech-illiterate society like ours, “the AI algorithm said this person cannot be trusted” strangely appears to carry more weight and objectivity than “John Smith said this person cannot be trusted,” despite the former being a learned approximation of the latter. Your model would be laundering and operationalizing at scale the worst aspects of human judgement, with negative effects on the lives of real people.} \cite{chollet2022}
+
 
 \textit{Technology is never neutral. If your work has any impact on the world, this impact has a moral direction: technical choices are also ethical choices. Always be deliberate about the values you want your work to support."}\cite{chollet2022}
 
@@ -165,7 +166,7 @@ Chollet uses the outline below to explain the \textit{Universal} workflow. I'll 
     \end{enumerate}
     \item Develop a Model
     \begin{enumerate}
-        \item Prepare the Data \sidenote{This is discussed in section 2.3 above, everything gets turned into numbers.}
+        \item Prepare the Data \sidenote{This is discussed in section 3.3 above, everything gets turned into numbers.}
         \item Choose an Evaluation Protocol
         \item Beat a Baseline \sidenote{Does your model predict better than a totally random model and/or coin-flip?}
         \item Develop a model that overfits 
