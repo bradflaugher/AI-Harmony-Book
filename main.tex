@@ -1,7 +1,7 @@
 %----------------------------------------------------------------------------------------
 %   AI Harmony	
 %----------------------------------------------------------------------------------------
-% Open pdf in word or use https://smallpdf.com/pdf-to-word to convert to word
+% Open go to FORMATTING KILLERS then open resulting pdf at https://smallpdf.com/pdf-to-word to convert to word
 
 % For pdf ebook use twoside=false below, and remove much of the front matter
 
@@ -61,6 +61,34 @@
 
 % Reset sidenote counter at chapters
 %\counterwithin*{sidenote}{chapter}
+
+
+
+%----------------------------------------------------------------------------------------
+%       FORMATTING KILLERS!!!!!!
+%----------------------------------------------------------------------------------------
+% Remove sidenotes and shit to easily edit in word
+%\renewcommand{\sidenote}[1]{}
+%\renewcommand{\sidecite}[1]{} %maybe just use this to wrap \cite instead
+%\renewcommand{\setchapterpreamble}[1]{}
+%\renewcommand{\includepdf}[1]{}
+%\renewcommand{\labfig}[1]{}
+%\renewcommand{\margintoc}[1]{}
+
+%\usepackage{xparse}
+%\RenewDocumentCommand{\includegraphics}{O{}m}{}
+%\RenewDocumentEnvironment{marginfigure}{O{}}{\begin{figure}[h!]\setlength{\linewidth}{0pt}}{\end{figure}}
+
+%\renewcommand{\marginlayout}{%
+%    \newgeometry{
+%        top=27.4mm,             % height of the top margin
+%        bottom=27.4mm,          % height of the bottom margin
+%        inner=24.8mm,           % width of the inner margin
+%        textwidth=164.6mm,        % width of the text
+%        marginparsep=0mm,     % width between text and margin
+%        marginparwidth=0mm,  % width of the margin
+%    }%
+%}
 
 \begin{document}
 

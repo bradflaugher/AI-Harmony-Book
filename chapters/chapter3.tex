@@ -55,27 +55,6 @@ When using dummy variables in a regression, it is important to remember to inclu
 
 Dummy variables are used in regression analysis to include categorical variables in a model. The process of creating dummy variables involves creating a new binary variable for each category of the original variable and one-hot encoding it. It is important to remember to include only n-1 binary variables, to avoid perfect multicollinearity.
 
-
-
-\begin{marginlisting}[-0.5cm]
-\caption{Mapping text to numbers.}
-\vspace{0.2cm}
-\begin{lstlisting}[language=Python,style=kaolstplain]
- 'movies': 99,
- 'after': 100,
- 'think': 101,
- 'characters': 102,
- 'watch': 103,
- 'two': 104,
- 'films': 105,
- 'character': 106,
- 'seen': 107,
- 'many': 108,
- 'being': 109
-\end{lstlisting}
-\end{marginlisting}
-
-
 The creation of dummy variables in a regression is analogous to preprocessing image, text and other data for a neural network for deep learning. This preprocessing is important  as it ensures that the data is in a format that can be easily understood and processed by the network. The preprocessing steps for numbers, text, and images are slightly different.
 
 For numbers:
