@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.2.13)  21 MAR 2023 14:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.2.13)  22 MAR 2023 09:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3200,14 +3200,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--2
 
 \openout4 = `main.mw'.
 
-LaTeX Font Info:    Font shape `T1/zplLF/m/n' will be
-(Font)              scaled to size 7.08101pt on input line 12.
+<images//waffleburger.jpeg, id=428, 770.88pt x 770.88pt>
+File: images//waffleburger.jpeg Graphic file (type jpg)
+<use images//waffleburger.jpeg>
+Package pdftex.def Info: images//waffleburger.jpeg  used on input line 17.
+(pdftex.def)             Requested size: 139.51698pt x 139.51698pt.
+LaTeX Font Info:    Font shape `T1/zplLF/b/n' will be
+(Font)              scaled to size 7.76001pt on input line 18.
 LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
-(Font)              scaled to size 6.80005pt on input line 12.
+(Font)              scaled to size 6.80005pt on input line 18.
 LaTeX Font Info:    Font shape `OT1/zplTLF/m/n' will be
-(Font)              scaled to size 7.76001pt on input line 12.
+(Font)              scaled to size 7.76001pt on input line 18.
 LaTeX Font Info:    Font shape `OT1/zplTLF/m/n' will be
-(Font)              scaled to size 6.01399pt on input line 12.
+(Font)              scaled to size 6.01399pt on input line 18.
+Package marginnote Info: Margin note 11.2 is on absolute page 11 on input line 
+20.
+Package marginnote Info: right page because not two side mode on input line 20.
+
+Package marginnote Info: xpos seems to be 72.53856pt on input line 20.
+
+LaTeX Warning: Marginpar on page 1 moved.
+
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
@@ -3233,12 +3246,12 @@ LaTeX Font Info:    Font shape `OT1/zplTLF/m/n' will be
 \openout4 = `main.mw'.
 
 LaTeX Font Info:    Font shape `T1/zplLF/m/it' will be
-(Font)              scaled to size 7.76001pt on input line 22.
+(Font)              scaled to size 7.76001pt on input line 25.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.23 
+l.26 
      
 \openout4 = `main.mw'.
 
@@ -3246,10 +3259,10 @@ l.23
 
 
 
-] (./main.mw)
+ <./images//waffleburger.jpeg>] (./main.mw)
 \openout4 = `main.mw'.
 
-Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 28.
+Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 31.
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
@@ -3279,7 +3292,7 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 28.
  [2] (./main.mw)
 \openout4 = `main.mw'.
 
-Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 38.
+Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 41.
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
@@ -3304,7 +3317,7 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 38.
 
 \openout4 = `main.mw'.
 
-Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 40.
+Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 43.
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
@@ -3329,7 +3342,7 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 40.
 
 \openout4 = `main.mw'.
 
-Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 40.
+Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 43.
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
@@ -3354,7 +3367,7 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 40.
 
 \openout4 = `main.mw'.
 
-Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 40.
+Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 43.
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
@@ -3379,7 +3392,7 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 40.
 
 \openout4 = `main.mw'.
 
-Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 40.
+Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 43.
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
@@ -3419,23 +3432,21 @@ LaTeX Warning: Marginpar on page 3 moved.
 [3] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//unite.png, id=471, 513.92pt x 513.92pt>
+<images//unite.png, id=472, 513.92pt x 513.92pt>
 File: images//unite.png Graphic file (type png)
 <use images//unite.png>
-Package pdftex.def Info: images//unite.png  used on input line 59.
+Package pdftex.def Info: images//unite.png  used on input line 62.
 (pdftex.def)             Requested size: 139.5209pt x 139.5209pt.
-LaTeX Font Info:    Font shape `T1/zplLF/b/n' will be
-(Font)              scaled to size 7.76001pt on input line 60.
 Package marginnote Info: Margin note 14.1 is on absolute page 14 on input line 
-62.
-Package marginnote Info: right page because not two side mode on input line 62.
+65.
+Package marginnote Info: right page because not two side mode on input line 65.
 
-Package marginnote Info: xpos seems to be 72.53856pt on input line 62.
+Package marginnote Info: xpos seems to be 72.53856pt on input line 65.
 
 
 LaTeX Warning: Marginpar on page 4 moved.
 
-Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 64.
+Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 67.
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
@@ -3460,7 +3471,32 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 64.
 
 \openout4 = `main.mw'.
 
-Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 68.
+Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 71.
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 73.
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
@@ -3491,9 +3527,9 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 68.
 \openout4 = `main.mw'.
 
 LaTeX Font Info:    Font shape `T1/zplLF/m/n' will be
-(Font)              scaled to size 8.73001pt on input line 85.
+(Font)              scaled to size 8.73001pt on input line 90.
 LaTeX Font Info:    Font shape `OT1/zplTLF/m/n' will be
-(Font)              scaled to size 8.73001pt on input line 85.
+(Font)              scaled to size 8.73001pt on input line 90.
 \openout4 = `main.mw'.
 
  [5] (./main.mw)
@@ -3556,6 +3592,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--2
 
 \openout4 = `main.mw'.
 
+LaTeX Font Info:    Font shape `T1/zplLF/m/n' will be
+(Font)              scaled to size 7.08101pt on input line 13.
 Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 13.
 \openout4 = `main.mw'.
 
@@ -3610,7 +3648,7 @@ LaTeX Font Info:    Font shape `T1/fvm/b/n' will be
  [8] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//bored_programmer.jpg, id=551, 770.88pt x 770.88pt>
+<images//bored_programmer.jpg, id=553, 770.88pt x 770.88pt>
 File: images//bored_programmer.jpg Graphic file (type jpg)
 <use images//bored_programmer.jpg>
 Package pdftex.def Info: images//bored_programmer.jpg  used on input line 58.
@@ -3638,7 +3676,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 65--65
 [9 <./images//bored_programmer.jpg>] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//kasparov_fire.jpg, id=577, 770.88pt x 770.88pt>
+<images//kasparov_fire.jpg, id=579, 770.88pt x 770.88pt>
 File: images//kasparov_fire.jpg Graphic file (type jpg)
 <use images//kasparov_fire.jpg>
 Package pdftex.def Info: images//kasparov_fire.jpg  used on input line 78.
@@ -3690,7 +3728,7 @@ LaTeX Warning: Marginpar on page 10 moved.
 [10 <./images//kasparov_fire.jpg>] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//programmers_strike.png, id=595, 1122.1925pt x 1094.0875pt>
+<images//programmers_strike.png, id=597, 1122.1925pt x 1094.0875pt>
 File: images//programmers_strike.png Graphic file (type png)
 <use images//programmers_strike.png>
 Package pdftex.def Info: images//programmers_strike.png  used on input line 104
@@ -3705,7 +3743,7 @@ Package marginnote Info: xpos seems to be 72.53856pt on input line 107.
 
 LaTeX Warning: Marginpar on page 11 moved.
 
-<images//blackbox.jpg, id=596, 770.88pt x 770.88pt>
+<images//blackbox.jpg, id=598, 770.88pt x 770.88pt>
 File: images//blackbox.jpg Graphic file (type jpg)
 <use images//blackbox.jpg>
 Package pdftex.def Info: images//blackbox.jpg  used on input line 120.
@@ -3785,7 +3823,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--2
 
 \openout4 = `main.mw'.
 
-<images//knowledge.png, id=639, 513.92pt x 513.92pt>
+<images//knowledge.png, id=641, 513.92pt x 513.92pt>
 File: images//knowledge.png Graphic file (type png)
 <use images//knowledge.png>
 Package pdftex.def Info: images//knowledge.png  used on input line 15.
@@ -3805,7 +3843,7 @@ LaTeX Warning: Marginpar on page 13 moved.
  <./images//knowledge.png (PNG copy)>] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//OLSregression.png, id=657, 299.9205pt x 377.9721pt>
+<images//OLSregression.png, id=659, 299.9205pt x 377.9721pt>
 File: images//OLSregression.png Graphic file (type png)
 <use images//OLSregression.png>
 Package pdftex.def Info: images//OLSregression.png  used on input line 34.
@@ -3897,7 +3935,7 @@ LaTeX Warning: Marginpar on page 15 moved.
 
 LaTeX Warning: Marginpar on page 16 moved.
 
-<images//greenneuron.png, id=696, 513.92pt x 513.92pt>
+<images//greenneuron.png, id=698, 513.92pt x 513.92pt>
 File: images//greenneuron.png Graphic file (type png)
 <use images//greenneuron.png>
 Package pdftex.def Info: images//greenneuron.png  used on input line 115.
@@ -3969,7 +4007,7 @@ Overfull \hbox (9.85089pt too wide) in paragraph at lines 144--144
 \T1/fvm/m/n/8 #most-[]popular-[]technologies-[]misc-[]tech$[][] 
  []
 
-<images//trustworthysd.jpg, id=726, 770.88pt x 770.88pt>
+<images//trustworthysd.jpg, id=728, 770.88pt x 770.88pt>
 File: images//trustworthysd.jpg Graphic file (type jpg)
 <use images//trustworthysd.jpg>
 Package pdftex.def Info: images//trustworthysd.jpg  used on input line 151.
@@ -4021,7 +4059,7 @@ LaTeX Warning: Marginpar on page 19 moved.
 
 LaTeX Warning: Marginpar on page 19 moved.
 
-<images//predictive_keyboard.png, id=737, 395.4775pt x 265.99374pt>
+<images//predictive_keyboard.png, id=739, 395.4775pt x 265.99374pt>
 File: images//predictive_keyboard.png Graphic file (type png)
 <use images//predictive_keyboard.png>
 Package pdftex.def Info: images//predictive_keyboard.png  used on input line 19
@@ -4055,7 +4093,7 @@ Underfull \hbox (badness 1087) in paragraph at lines 198--198
 
 \openout4 = `main.mw'.
 
-<images//sciencechat.png, id=770, 513.92pt x 513.92pt>
+<images//sciencechat.png, id=772, 513.92pt x 513.92pt>
 File: images//sciencechat.png Graphic file (type png)
 <use images//sciencechat.png>
 Package pdftex.def Info: images//sciencechat.png  used on input line 210.
@@ -4170,7 +4208,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--2
  [][][][]\T1/zplLF/b/n/9 (+20) Transfer Learn-ing Ev-ery- 
  []
 
-<images//jobsweed.png, id=840, 513.92pt x 513.92pt>
+<images//jobsweed.png, id=842, 513.92pt x 513.92pt>
 File: images//jobsweed.png Graphic file (type png)
 <use images//jobsweed.png>
 Package pdftex.def Info: images//jobsweed.png  used on input line 26.
@@ -4190,7 +4228,7 @@ LaTeX Warning: Marginpar on page 23 moved.
  <./images//jobsweed.png (PNG copy)>] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//batman.png, id=853, 513.92pt x 513.92pt>
+<images//batman.png, id=855, 513.92pt x 513.92pt>
 File: images//batman.png Graphic file (type png)
 <use images//batman.png>
 Package pdftex.def Info: images//batman.png  used on input line 38.
@@ -4204,7 +4242,7 @@ Package marginnote Info: xpos seems to be 72.53856pt on input line 41.
 
 LaTeX Warning: Marginpar on page 24 moved.
 
-<images//drillart.png, id=854, 513.92pt x 513.92pt>
+<images//drillart.png, id=856, 513.92pt x 513.92pt>
 File: images//drillart.png Graphic file (type png)
 <use images//drillart.png>
 Package pdftex.def Info: images//drillart.png  used on input line 54.
@@ -4223,7 +4261,7 @@ LaTeX Warning: Marginpar on page 24 moved.
 (./main.mw)
 \openout4 = `main.mw'.
 
-<images//duchamp.jpg, id=861, 369.38pt x 482.80376pt>
+<images//duchamp.jpg, id=863, 369.38pt x 482.80376pt>
 File: images//duchamp.jpg Graphic file (type jpg)
 <use images//duchamp.jpg>
 Package pdftex.def Info: images//duchamp.jpg  used on input line 77.
@@ -4246,7 +4284,7 @@ LaTeX Warning: Marginpar on page 25 moved.
 [25 <./images//duchamp.jpg>] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//plastic.jpg, id=870, 770.88pt x 770.88pt>
+<images//plastic.jpg, id=872, 770.88pt x 770.88pt>
 File: images//plastic.jpg Graphic file (type jpg)
 <use images//plastic.jpg>
 Package pdftex.def Info: images//plastic.jpg  used on input line 94.
@@ -4329,7 +4367,7 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 154.
 
 \openout4 = `main.mw'.
 
-<images//getty.png, id=895, 2254.4225pt x 1379.1525pt>
+<images//getty.png, id=897, 2254.4225pt x 1379.1525pt>
 File: images//getty.png Graphic file (type png)
 <use images//getty.png>
 Package pdftex.def Info: images//getty.png  used on input line 167.
@@ -4441,16 +4479,16 @@ LaTeX Font Info:    Font shape `T1/zplLF/b/n' will be
  [33] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//fluid.png, id=1036, 513.92pt x 513.92pt>
+<images//fluid.png, id=1038, 513.92pt x 513.92pt>
 File: images//fluid.png Graphic file (type png)
 <use images//fluid.png>
-Package pdftex.def Info: images//fluid.png  used on input line 63.
+Package pdftex.def Info: images//fluid.png  used on input line 64.
 (pdftex.def)             Requested size: 139.5209pt x 139.5209pt.
 Package marginnote Info: Margin note 44.1 is on absolute page 44 on input line 
-66.
-Package marginnote Info: right page because not two side mode on input line 66.
+67.
+Package marginnote Info: right page because not two side mode on input line 67.
 
-Package marginnote Info: xpos seems to be 72.53856pt on input line 66.
+Package marginnote Info: xpos seems to be 72.53856pt on input line 67.
 
 
 LaTeX Warning: Marginpar on page 34 moved.
@@ -4460,16 +4498,16 @@ LaTeX Warning: Marginpar on page 34 moved.
 [34 <./images//fluid.png (PNG copy)>] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//shakebot.png, id=1046, 513.92pt x 513.92pt>
+<images//shakebot.png, id=1048, 513.92pt x 513.92pt>
 File: images//shakebot.png Graphic file (type png)
 <use images//shakebot.png>
-Package pdftex.def Info: images//shakebot.png  used on input line 87.
+Package pdftex.def Info: images//shakebot.png  used on input line 88.
 (pdftex.def)             Requested size: 139.5209pt x 139.5209pt.
 Package marginnote Info: Margin note 45.1 is on absolute page 45 on input line 
-90.
-Package marginnote Info: right page because not two side mode on input line 90.
+91.
+Package marginnote Info: right page because not two side mode on input line 91.
 
-Package marginnote Info: xpos seems to be 72.53856pt on input line 90.
+Package marginnote Info: xpos seems to be 72.53856pt on input line 91.
 
 
 LaTeX Warning: Marginpar on page 35 moved.
@@ -4479,16 +4517,16 @@ LaTeX Warning: Marginpar on page 35 moved.
 [35 <./images//shakebot.png (PNG copy)>] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//lithium.png, id=1057, 513.92pt x 513.92pt>
+<images//lithium.png, id=1059, 513.92pt x 513.92pt>
 File: images//lithium.png Graphic file (type png)
 <use images//lithium.png>
-Package pdftex.def Info: images//lithium.png  used on input line 109.
+Package pdftex.def Info: images//lithium.png  used on input line 110.
 (pdftex.def)             Requested size: 139.5209pt x 139.5209pt.
 Package marginnote Info: Margin note 46.1 is on absolute page 46 on input line 
-112.
-Package marginnote Info: right page because not two side mode on input line 112
+113.
+Package marginnote Info: right page because not two side mode on input line 113
 .
-Package marginnote Info: xpos seems to be 72.53856pt on input line 112.
+Package marginnote Info: xpos seems to be 72.53856pt on input line 113.
 
 
 LaTeX Warning: Marginpar on page 36 moved.
@@ -4501,13 +4539,13 @@ LaTeX Warning: Marginpar on page 36 moved.
 <images//chessmodelcard.png, id=1068, 513.92pt x 513.92pt>
 File: images//chessmodelcard.png Graphic file (type png)
 <use images//chessmodelcard.png>
-Package pdftex.def Info: images//chessmodelcard.png  used on input line 132.
+Package pdftex.def Info: images//chessmodelcard.png  used on input line 133.
 (pdftex.def)             Requested size: 139.5209pt x 139.5209pt.
 Package marginnote Info: Margin note 47.1 is on absolute page 47 on input line 
-135.
-Package marginnote Info: right page because not two side mode on input line 135
+136.
+Package marginnote Info: right page because not two side mode on input line 136
 .
-Package marginnote Info: xpos seems to be 72.53856pt on input line 135.
+Package marginnote Info: xpos seems to be 72.53856pt on input line 136.
 
 
 LaTeX Warning: Marginpar on page 37 moved.
@@ -4517,7 +4555,7 @@ LaTeX Warning: Marginpar on page 37 moved.
 [37 <./images//chessmodelcard.png (PNG copy)>] (./main.mw)
 \openout4 = `main.mw'.
 
-Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 151.
+Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 152.
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
@@ -4542,16 +4580,16 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 151.
 
 \openout4 = `main.mw'.
 
-<images//gobaby.png, id=1083, 513.92pt x 513.92pt>
+<images//gobaby.png, id=1082, 513.92pt x 513.92pt>
 File: images//gobaby.png Graphic file (type png)
 <use images//gobaby.png>
-Package pdftex.def Info: images//gobaby.png  used on input line 155.
+Package pdftex.def Info: images//gobaby.png  used on input line 156.
 (pdftex.def)             Requested size: 139.5209pt x 139.5209pt.
 Package marginnote Info: Margin note 48.1 is on absolute page 48 on input line 
-158.
-Package marginnote Info: right page because not two side mode on input line 158
+159.
+Package marginnote Info: right page because not two side mode on input line 159
 .
-Package marginnote Info: xpos seems to be 72.53856pt on input line 158.
+Package marginnote Info: xpos seems to be 72.53856pt on input line 159.
 
 
 LaTeX Warning: Marginpar on page 38 moved.
@@ -4561,16 +4599,16 @@ LaTeX Warning: Marginpar on page 38 moved.
 [38 <./images//gobaby.png (PNG copy)>] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//buffett.png, id=1092, 513.92pt x 513.92pt>
+<images//buffett.png, id=1093, 513.92pt x 513.92pt>
 File: images//buffett.png Graphic file (type png)
 <use images//buffett.png>
-Package pdftex.def Info: images//buffett.png  used on input line 179.
+Package pdftex.def Info: images//buffett.png  used on input line 180.
 (pdftex.def)             Requested size: 139.5209pt x 139.5209pt.
 Package marginnote Info: Margin note 49.1 is on absolute page 49 on input line 
-182.
-Package marginnote Info: right page because not two side mode on input line 182
+183.
+Package marginnote Info: right page because not two side mode on input line 183
 .
-Package marginnote Info: xpos seems to be 72.53856pt on input line 182.
+Package marginnote Info: xpos seems to be 72.53856pt on input line 183.
 
 
 LaTeX Warning: Marginpar on page 39 moved.
@@ -4580,16 +4618,16 @@ LaTeX Warning: Marginpar on page 39 moved.
 [39 <./images//buffett.png (PNG copy)>] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//nysebot.png, id=1104, 513.92pt x 513.92pt>
+<images//nysebot.png, id=1106, 513.92pt x 513.92pt>
 File: images//nysebot.png Graphic file (type png)
 <use images//nysebot.png>
-Package pdftex.def Info: images//nysebot.png  used on input line 196.
+Package pdftex.def Info: images//nysebot.png  used on input line 197.
 (pdftex.def)             Requested size: 139.5209pt x 139.5209pt.
 Package marginnote Info: Margin note 50.1 is on absolute page 50 on input line 
-199.
-Package marginnote Info: right page because not two side mode on input line 199
+200.
+Package marginnote Info: right page because not two side mode on input line 200
 .
-Package marginnote Info: xpos seems to be 72.53856pt on input line 199.
+Package marginnote Info: xpos seems to be 72.53856pt on input line 200.
 
 
 LaTeX Warning: Marginpar on page 40 moved.
@@ -4599,7 +4637,7 @@ LaTeX Warning: Marginpar on page 40 moved.
 [40 <./images//nysebot.png (PNG copy)>] (./main.mw)
 \openout4 = `main.mw'.
 
-Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 229.
+Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 230.
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
@@ -4629,38 +4667,13 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 229.
  [41] (./main.mw)
 \openout4 = `main.mw'.
 
-Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 246.
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
 \openout4 = `main.mw'.
 
  [42]
 (./main.mw)
 \openout4 = `main.mw'.
 
-Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 263.
+Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 247.
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
@@ -4690,7 +4703,7 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 263.
  [43] (./main.mw)
 \openout4 = `main.mw'.
 
-Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 279.
+Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 264.
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
@@ -4720,16 +4733,41 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 279.
  [44] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//couple.jpg, id=1160, 770.88pt x 770.88pt>
+Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 280.
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+<images//couple.jpg, id=1161, 770.88pt x 770.88pt>
 File: images//couple.jpg Graphic file (type jpg)
 <use images//couple.jpg>
-Package pdftex.def Info: images//couple.jpg  used on input line 289.
+Package pdftex.def Info: images//couple.jpg  used on input line 290.
 (pdftex.def)             Requested size: 139.51698pt x 139.51698pt.
 Package marginnote Info: Margin note 55.1 is on absolute page 55 on input line 
-292.
-Package marginnote Info: right page because not two side mode on input line 292
+293.
+Package marginnote Info: right page because not two side mode on input line 293
 .
-Package marginnote Info: xpos seems to be 72.53856pt on input line 292.
+Package marginnote Info: xpos seems to be 72.53856pt on input line 293.
 
 
 LaTeX Warning: Marginpar on page 45 moved.
@@ -4745,12 +4783,12 @@ LaTeX Warning: Marginpar on page 45 moved.
 \openout4 = `main.mw'.
 
 
-Underfull \hbox (badness 2384) in paragraph at lines 333--333
+Underfull \hbox (badness 2384) in paragraph at lines 334--334
 []\T1/zplLF/m/n/8 (+20) 1: This is called Moravec's Para-dox
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 333--333
+Underfull \hbox (badness 10000) in paragraph at lines 334--334
 [][]$\T1/fvm/m/n/8 https : / / en . wikipedia . org / wiki /
  []
 
@@ -4759,7 +4797,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 333--333
 [47] (./main.mw)
 \openout4 = `main.mw'.
 
-Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 350.
+Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 351.
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
@@ -4794,16 +4832,16 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 350.
  [49] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//fakenews.jpg, id=1215, 770.88pt x 770.88pt>
+<images//fakenews.jpg, id=1217, 770.88pt x 770.88pt>
 File: images//fakenews.jpg Graphic file (type jpg)
 <use images//fakenews.jpg>
-Package pdftex.def Info: images//fakenews.jpg  used on input line 370.
+Package pdftex.def Info: images//fakenews.jpg  used on input line 371.
 (pdftex.def)             Requested size: 139.51698pt x 139.51698pt.
 Package marginnote Info: Margin note 60.1 is on absolute page 60 on input line 
-373.
-Package marginnote Info: right page because not two side mode on input line 373
+374.
+Package marginnote Info: right page because not two side mode on input line 374
 .
-Package marginnote Info: xpos seems to be 72.53856pt on input line 373.
+Package marginnote Info: xpos seems to be 72.53856pt on input line 374.
 
 
 LaTeX Warning: Marginpar on page 50 moved.
@@ -4818,78 +4856,78 @@ LaTeX Warning: Marginpar on page 50 moved.
  [51] (./main.mw)
 \openout4 = `main.mw'.
 
-Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 419.
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
 \openout4 = `main.mw'.
 
  [52] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//berlin.jpg, id=1244, 770.88pt x 770.88pt>
+Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 420.
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+<images//berlin.jpg, id=1245, 770.88pt x 770.88pt>
 File: images//berlin.jpg Graphic file (type jpg)
 <use images//berlin.jpg>
-Package pdftex.def Info: images//berlin.jpg  used on input line 430.
+Package pdftex.def Info: images//berlin.jpg  used on input line 431.
 (pdftex.def)             Requested size: 139.51698pt x 139.51698pt.
 Package marginnote Info: Margin note 63.1 is on absolute page 63 on input line 
-433.
-Package marginnote Info: right page because not two side mode on input line 433
+434.
+Package marginnote Info: right page because not two side mode on input line 434
 .
-Package marginnote Info: xpos seems to be 72.53856pt on input line 433.
+Package marginnote Info: xpos seems to be 72.53856pt on input line 434.
 
 
 LaTeX Warning: Marginpar on page 53 moved.
 
-Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 440.
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
 \openout4 = `main.mw'.
 
 [53 <./images//berlin.jpg>] (./main.mw)
+\openout4 = `main.mw'.
+
+Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 441.
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
@@ -4897,16 +4935,16 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 440.
  [54] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//harvardgirls.png, id=1270, 513.92pt x 513.92pt>
+<images//harvardgirls.png, id=1269, 513.92pt x 513.92pt>
 File: images//harvardgirls.png Graphic file (type png)
 <use images//harvardgirls.png>
-Package pdftex.def Info: images//harvardgirls.png  used on input line 462.
+Package pdftex.def Info: images//harvardgirls.png  used on input line 463.
 (pdftex.def)             Requested size: 139.5209pt x 139.5209pt.
 Package marginnote Info: Margin note 65.1 is on absolute page 65 on input line 
-465.
-Package marginnote Info: right page because not two side mode on input line 465
+466.
+Package marginnote Info: right page because not two side mode on input line 466
 .
-Package marginnote Info: xpos seems to be 72.53856pt on input line 465.
+Package marginnote Info: xpos seems to be 72.53856pt on input line 466.
 
 
 LaTeX Warning: Marginpar on page 55 moved.
@@ -4921,40 +4959,46 @@ LaTeX Warning: Marginpar on page 55 moved.
  [56] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//socialcredit.png, id=1290, 513.92pt x 513.92pt>
+\openout4 = `main.mw'.
+
+
+[57] (./main.mw)
+\openout4 = `main.mw'.
+
+<images//socialcredit.png, id=1300, 513.92pt x 513.92pt>
 File: images//socialcredit.png Graphic file (type png)
 <use images//socialcredit.png>
-Package pdftex.def Info: images//socialcredit.png  used on input line 502.
-(pdftex.def)             Requested size: 139.5209pt x 139.5209pt.
-Package marginnote Info: Margin note 67.1 is on absolute page 67 on input line 
-505.
-Package marginnote Info: right page because not two side mode on input line 505
-.
-Package marginnote Info: xpos seems to be 72.53856pt on input line 505.
-
-
-LaTeX Warning: Marginpar on page 57 moved.
-
-\openout4 = `main.mw'.
-
-[57 <./images//socialcredit.png (PNG copy)>] (./main.mw)
-\openout4 = `main.mw'.
-
-<images//agi.png, id=1301, 513.92pt x 513.92pt>
-File: images//agi.png Graphic file (type png)
-<use images//agi.png>
-Package pdftex.def Info: images//agi.png  used on input line 521.
+Package pdftex.def Info: images//socialcredit.png  used on input line 503.
 (pdftex.def)             Requested size: 139.5209pt x 139.5209pt.
 Package marginnote Info: Margin note 68.1 is on absolute page 68 on input line 
-524.
-Package marginnote Info: right page because not two side mode on input line 524
+506.
+Package marginnote Info: right page because not two side mode on input line 506
 .
-Package marginnote Info: xpos seems to be 72.53856pt on input line 524.
+Package marginnote Info: xpos seems to be 72.53856pt on input line 506.
 
 
 LaTeX Warning: Marginpar on page 58 moved.
 
-Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 526.
+<images//agi.png, id=1301, 513.92pt x 513.92pt>
+File: images//agi.png Graphic file (type png)
+<use images//agi.png>
+Package pdftex.def Info: images//agi.png  used on input line 522.
+(pdftex.def)             Requested size: 139.5209pt x 139.5209pt.
+Package marginnote Info: Margin note 68.2 is on absolute page 68 on input line 
+525.
+Package marginnote Info: right page because not two side mode on input line 525
+.
+Package marginnote Info: xpos seems to be 72.53856pt on input line 525.
+
+LaTeX Warning: Marginpar on page 58 moved.
+
+\openout4 = `main.mw'.
+
+[58 <./images//socialcredit.png (PNG copy)> <./images//agi.png (PNG copy)>]
+(./main.mw)
+\openout4 = `main.mw'.
+
+Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 527.
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
@@ -4977,18 +5021,12 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 526.
 
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-[58 <./images//agi.png (PNG copy)>] (./main.mw)
 \openout4 = `main.mw'.
 
 ) (./chapters/chapter6.tex
 \openout4 = `main.mw'.
 
-
-[59] (./main.mw)
+ [59] (./main.mw)
 \openout4 = `main.mw'.
 
 
@@ -5378,6 +5416,10 @@ This document will not have a glossary.
 \openout4 = `main.mw'.
 
 [74] (./main.mw)
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
@@ -6401,11 +6443,11 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 59589 strings out of 478287
- 1172153 string characters out of 5849289
- 2378699 words of memory out of 5000000
- 75719 multiletter control sequences out of 15000+600000
- 601568 words of font info for 363 fonts, out of 8000000 for 9000
+ 59615 strings out of 478287
+ 1172856 string characters out of 5849289
+ 2378008 words of memory out of 5000000
+ 75749 multiletter control sequences out of 15000+600000
+ 601306 words of font info for 361 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  133i,20n,159p,10596b,2877s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-lf-pc.enc}{/usr/s
@@ -6422,10 +6464,10 @@ ve/texmf-dist/fonts/type1/public/txfonts/txsya.pfb></usr/share/texlive/texmf-di
 st/fonts/type1/public/newpx/zplb.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /public/newpx/zplr.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newpx/
 zplri.pfb>
-Output written on main.pdf (83 pages, 14409065 bytes).
+Output written on main.pdf (83 pages, 14550527 bytes).
 PDF statistics:
- 2006 PDF objects out of 2073 (max. 8388607)
- 1827 compressed objects within 19 object streams
- 453 named destinations out of 1000 (max. 500000)
- 54553 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 2013 PDF objects out of 2073 (max. 8388607)
+ 1833 compressed objects within 19 object streams
+ 451 named destinations out of 1000 (max. 500000)
+ 54558 words of extra memory for PDF output out of 61914 (max. 10000000)
 

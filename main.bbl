@@ -19,22 +19,54 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global}
-    \entry{finaieconomist}{misc}{}
+    \entry{dontfearterminator}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=8c086747d349c62dbab5279201b81cab}{%
+           family={Anthony\bibnamedelima Zador},
+           familyi={A\bibinitperiod\bibinitdelim Z\bibinitperiod},
+           given={Yann\bibnamedelima LeCun},
+           giveni={Y\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{8c086747d349c62dbab5279201b81cab}
+      \strng{fullhash}{8c086747d349c62dbab5279201b81cab}
+      \strng{bibnamehash}{8c086747d349c62dbab5279201b81cab}
+      \strng{authorbibnamehash}{8c086747d349c62dbab5279201b81cab}
+      \strng{authornamehash}{8c086747d349c62dbab5279201b81cab}
+      \strng{authorfullhash}{8c086747d349c62dbab5279201b81cab}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{howpublished}{\url{https://www.economist.com/finance-and-economics/2023/03/09/lessons-from-finances-experience-with-artificial-intelligence}}
-      \field{note}{(Accessed on 03/20/2023)}
-      \field{title}{Lessons from finance’s experience with artificial intelligence | The Economist}
-      \field{year}{2023}
+      \field{howpublished}{\url{https://blogs.scientificamerican.com/observations/dont-fear-the-terminator/}}
+      \field{month}{9}
+      \field{note}{(Accessed on 03/22/2023)}
+      \field{title}{Don't Fear the Terminator - Scientific American Blog Network}
+      \field{year}{2019}
     \endentry
     \entry{copyrighteconocmist}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=c67b3757f32daaf45967993f0c00cee8}{%
+           family={Economist},
+           familyi={E\bibinitperiod},
+           given={The},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{c67b3757f32daaf45967993f0c00cee8}
+      \strng{fullhash}{c67b3757f32daaf45967993f0c00cee8}
+      \strng{bibnamehash}{c67b3757f32daaf45967993f0c00cee8}
+      \strng{authorbibnamehash}{c67b3757f32daaf45967993f0c00cee8}
+      \strng{authornamehash}{c67b3757f32daaf45967993f0c00cee8}
+      \strng{authorfullhash}{c67b3757f32daaf45967993f0c00cee8}
+      \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://www.economist.com/business/2023/03/15/a-battle-royal-is-brewing-over-copyright-and-ai}}
+      \field{month}{3}
       \field{note}{(Accessed on 03/20/2023)}
       \field{title}{A battle royal is brewing over copyright and AI | The Economist}
+      \field{year}{2023}
     \endentry
     \entry{OGrady2015}{book}{}
       \name{author}{1}{}{%
@@ -92,44 +124,129 @@
       \field{year}{2023}
     \endentry
     \entry{lawmakersny}{misc}{}
+      \name{author}{2}{}{%
+        {{hash=3988f70ab782dbd66419ca663b7ffd1c}{%
+           family={Kang},
+           familyi={K\bibinitperiod},
+           given={Cecilia},
+           giveni={C\bibinitperiod}}}%
+        {{hash=229e6692ecc6fd5e59fbda5653075cf1}{%
+           family={Satariano},
+           familyi={S\bibinitperiod},
+           given={Adam},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{c862fbcbfbe537b3f2ceec195a3ea95e}
+      \strng{fullhash}{c862fbcbfbe537b3f2ceec195a3ea95e}
+      \strng{bibnamehash}{c862fbcbfbe537b3f2ceec195a3ea95e}
+      \strng{authorbibnamehash}{c862fbcbfbe537b3f2ceec195a3ea95e}
+      \strng{authornamehash}{c862fbcbfbe537b3f2ceec195a3ea95e}
+      \strng{authorfullhash}{c862fbcbfbe537b3f2ceec195a3ea95e}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://www.nytimes.com/2023/03/03/technology/artificial-intelligence-regulation-congress.html}}
+      \field{month}{3}
       \field{note}{(Accessed on 03/20/2023)}
       \field{title}{As A.I. Booms, Lawmakers Struggle to Understand the Technology - The New York Times}
+      \field{year}{2023}
     \endentry
     \entry{morningconsult}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=82a0b715612121b46e4e8fe2317dc3af}{%
+           family={Consult},
+           familyi={C\bibinitperiod},
+           given={Morning},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{82a0b715612121b46e4e8fe2317dc3af}
+      \strng{fullhash}{82a0b715612121b46e4e8fe2317dc3af}
+      \strng{bibnamehash}{82a0b715612121b46e4e8fe2317dc3af}
+      \strng{authorbibnamehash}{82a0b715612121b46e4e8fe2317dc3af}
+      \strng{authornamehash}{82a0b715612121b46e4e8fe2317dc3af}
+      \strng{authorfullhash}{82a0b715612121b46e4e8fe2317dc3af}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://morningconsult.com/2023/02/22/generative-ai-fans-public-trust/}}
+      \field{month}{2}
       \field{note}{(Accessed on 03/20/2023)}
       \field{title}{Generative AI Wins Some Early Fans But Is Missing Public Trust}
+      \field{year}{2023}
     \endentry
     \entry{monmouthai}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=25054cfa82beaa2089669e7e62e13423}{%
+           family={University},
+           familyi={U\bibinitperiod},
+           given={Monmouth},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{25054cfa82beaa2089669e7e62e13423}
+      \strng{fullhash}{25054cfa82beaa2089669e7e62e13423}
+      \strng{bibnamehash}{25054cfa82beaa2089669e7e62e13423}
+      \strng{authorbibnamehash}{25054cfa82beaa2089669e7e62e13423}
+      \strng{authornamehash}{25054cfa82beaa2089669e7e62e13423}
+      \strng{authorfullhash}{25054cfa82beaa2089669e7e62e13423}
       \field{sortinit}{3}
       \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://www.monmouth.edu/polling-institute/reports/monmouthpoll_us_021523/}}
+      \field{month}{2}
       \field{note}{(Accessed on 03/20/2023)}
-      \field{title}{Artificial Intelligence Use Prompts Concerns | Monmouth University Polling Institute | Monmouth University}
+      \field{title}{Artificial Intelligence Use Prompts Concerns}
+      \field{year}{2023}
     \endentry
     \entry{googlenerd}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=84728a46b0c1b87d43f298814804e37a}{%
+           family={Lemoine},
+           familyi={L\bibinitperiod},
+           given={Blake},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{84728a46b0c1b87d43f298814804e37a}
+      \strng{fullhash}{84728a46b0c1b87d43f298814804e37a}
+      \strng{bibnamehash}{84728a46b0c1b87d43f298814804e37a}
+      \strng{authorbibnamehash}{84728a46b0c1b87d43f298814804e37a}
+      \strng{authornamehash}{84728a46b0c1b87d43f298814804e37a}
+      \strng{authorfullhash}{84728a46b0c1b87d43f298814804e37a}
       \field{sortinit}{3}
       \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://www.newsweek.com/google-ai-blake-lemoine-bing-chatbot-sentient-1783340}}
+      \field{month}{2}
       \field{note}{(Accessed on 03/20/2023)}
       \field{title}{'I Worked on Google's AI. My Fears Are Coming True'}
+      \field{year}{2023}
     \endentry
     \entry{peopleusingAIhappy}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=32446d44de47fd1bae2745b4876b9b07}{%
+           family={Mollick},
+           familyi={M\bibinitperiod},
+           given={Ethan},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{32446d44de47fd1bae2745b4876b9b07}
+      \strng{fullhash}{32446d44de47fd1bae2745b4876b9b07}
+      \strng{bibnamehash}{32446d44de47fd1bae2745b4876b9b07}
+      \strng{authorbibnamehash}{32446d44de47fd1bae2745b4876b9b07}
+      \strng{authornamehash}{32446d44de47fd1bae2745b4876b9b07}
+      \strng{authorfullhash}{32446d44de47fd1bae2745b4876b9b07}
       \field{sortinit}{4}
       \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://oneusefulthing.substack.com/p/secret-cyborgs-the-present-disruption}}
+      \field{month}{3}
       \field{note}{(Accessed on 03/20/2023)}
       \field{title}{Secret Cyborgs: The Present Disruption in Three Papers}
+      \field{year}{2023}
     \endentry
     \entry{protopia}{misc}{}
       \name{author}{1}{}{%
@@ -155,6 +272,15 @@
       \field{title}{Forget Utopia. Ignore Dystopia. Embrace Protopia! - The New York Times}
       \field{year}{2023}
     \endentry
+    \entry{finaieconomist}{misc}{}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.economist.com/finance-and-economics/2023/03/09/lessons-from-finances-experience-with-artificial-intelligence}}
+      \field{note}{(Accessed on 03/20/2023)}
+      \field{title}{Lessons from finance’s experience with artificial intelligence | The Economist}
+      \field{year}{2023}
+    \endentry
     \entry{welsh2023}{misc}{}
       \name{author}{1}{}{%
         {{hash=076cf707817a3f8501c3ecc48b1b2268}{%
@@ -169,8 +295,8 @@
       \strng{authorbibnamehash}{076cf707817a3f8501c3ecc48b1b2268}
       \strng{authornamehash}{076cf707817a3f8501c3ecc48b1b2268}
       \strng{authorfullhash}{076cf707817a3f8501c3ecc48b1b2268}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{ACM}
@@ -211,8 +337,8 @@
       \strng{authorbibnamehash}{3f6a8cef9eeda200eefb4693bbfc9f41}
       \strng{authornamehash}{3f6a8cef9eeda200eefb4693bbfc9f41}
       \strng{authorfullhash}{3f6a8cef9eeda200eefb4693bbfc9f41}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Artificial Intelligence}
@@ -259,8 +385,8 @@
       \strng{authorbibnamehash}{9ffa9e48bcc6106e9734fda11e8878b4}
       \strng{authornamehash}{9ffa9e48bcc6106e9734fda11e8878b4}
       \strng{authorfullhash}{9ffa9e48bcc6106e9734fda11e8878b4}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Neural Networks are Decision Trees}
@@ -320,8 +446,8 @@
       \strng{authorbibnamehash}{ffd9bbb22f19f527ef2083421a5dfb09}
       \strng{authornamehash}{ffd9bbb22f19f527ef2083421a5dfb09}
       \strng{authorfullhash}{ffd9bbb22f19f527ef2083421a5dfb09}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{978-0-39363582-9}
@@ -392,8 +518,8 @@
       \strng{authorbibnamehash}{d8ee060ca87a8ecf0f21be92317d2ffe}
       \strng{authornamehash}{d8ee060ca87a8ecf0f21be92317d2ffe}
       \strng{authorfullhash}{5783cab60fdd889479e80c2719b80b15}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Extracting Training Data from Diffusion Models}
@@ -479,8 +605,8 @@
       \strng{authorbibnamehash}{3bf7f8aebb363db6c9b75651ad07d9c6}
       \strng{authornamehash}{3bf7f8aebb363db6c9b75651ad07d9c6}
       \strng{authorfullhash}{3bf7f8aebb363db6c9b75651ad07d9c6}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Think for yourself: Restoring common sense in an age of experts and artificial intelligence}
@@ -714,13 +840,28 @@
       \field{year}{2023}
     \endentry
     \entry{nees2021}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=48e0f24892b1a4b0965b2d38d65def74}{%
+           family={Panel},
+           familyi={P\bibinitperiod},
+           given={PAVE\bibnamedelima Virtual},
+           giveni={P\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \strng{namehash}{48e0f24892b1a4b0965b2d38d65def74}
+      \strng{fullhash}{48e0f24892b1a4b0965b2d38d65def74}
+      \strng{bibnamehash}{48e0f24892b1a4b0965b2d38d65def74}
+      \strng{authorbibnamehash}{48e0f24892b1a4b0965b2d38d65def74}
+      \strng{authornamehash}{48e0f24892b1a4b0965b2d38d65def74}
+      \strng{authorfullhash}{48e0f24892b1a4b0965b2d38d65def74}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://www.youtube.com/watch?v=45mJGYiqrxY}}
+      \field{month}{7}
       \field{note}{(Accessed on 02/16/2023)}
-      \field{title}{PAVE's Virtual Panel "When Humans Meet Automation: What the Research Tells Us" - Full Recording - YouTube}
-      \field{year}{2021}
+      \field{title}{"When Humans Meet Automation: What the Research Tells Us"}
+      \field{year}{2020}
     \endentry
     \entry{torchinsky_boeckmann_2019}{book}{}
       \name{author}{2}{}{%
@@ -781,12 +922,29 @@
       \field{year}{2023}
     \endentry
     \entry{nocarkids}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=c67b3757f32daaf45967993f0c00cee8}{%
+           family={Economist},
+           familyi={E\bibinitperiod},
+           given={The},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{c67b3757f32daaf45967993f0c00cee8}
+      \strng{fullhash}{c67b3757f32daaf45967993f0c00cee8}
+      \strng{bibnamehash}{c67b3757f32daaf45967993f0c00cee8}
+      \strng{authorbibnamehash}{c67b3757f32daaf45967993f0c00cee8}
+      \strng{authornamehash}{c67b3757f32daaf45967993f0c00cee8}
+      \strng{authorfullhash}{c67b3757f32daaf45967993f0c00cee8}
+      \field{extraname}{2}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://www.economist.com/international/2023/02/16/throughout-the-rich-world-the-young-are-falling-out-of-love-with-cars}}
+      \field{month}{2}
       \field{note}{(Accessed on 02/17/2023)}
-      \field{title}{Throughout the rich world, the young are falling out of love with cars | The Economist}
+      \field{title}{Throughout the rich world, the young are falling out of love with cars}
+      \field{year}{2023}
     \endentry
     \entry{aiwarfare}{misc}{}
       \field{sortinit}{1}

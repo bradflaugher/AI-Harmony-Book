@@ -4,7 +4,7 @@
 \contentsline {chapter}{Preface}{iii}{chapter*.2}%
 \contentsline {chapter}{\nonumberline Contents}{iv}{chapter*.3}%
 \contentsline {chapter}{Chapter Summaries}{vii}{chapter*.4}%
-\contentsline {chapter}{\numberline {1}The Artificial Intelligence Industrial Complex}{1}{chapter.1}%
+\contentsline {chapter}{\numberline {1}AI-Enabled Mass Destruction}{1}{chapter.1}%
 \etoc@startlocaltoc {2}
 \etoc@startlocaltoc {3}
 \contentsline {section}{\numberline {1.1}The AI Renaissance}{1}{section.1.1}%
@@ -17,8 +17,8 @@
 \contentsline {mtocsection}{\numberline {1.4}(Human and AI) Workers of The World, Unite!}{4}{section.1.4}%
 \contentsline {section}{\numberline {1.5}Is it The Future Yet?}{5}{section.1.5}%
 \contentsline {mtocsection}{\numberline {1.5}Is it The Future Yet?}{5}{section.1.5}%
-\contentsline {section}{\numberline {1.6}Key Takeaways}{5}{section.1.6}%
-\contentsline {mtocsection}{\numberline {1.6}Key Takeaways}{5}{section.1.6}%
+\contentsline {section}{\numberline {1.6}Key Takeaways}{6}{section.1.6}%
+\contentsline {mtocsection}{\numberline {1.6}Key Takeaways}{6}{section.1.6}%
 \contentsline {chapter}{\numberline {2}The End of Good Old-Fashioned Artificial Intelligence}{7}{chapter.2}%
 \etoc@startlocaltoc {4}
 \etoc@startlocaltoc {5}
@@ -141,8 +141,8 @@
 \contentsline {mtocsubsection}{\numberline {5.2.23}University Admissions}{54}{subsection.5.2.23}%
 \contentsline {subsection}{\numberline {5.2.24}Credit Score}{55}{subsection.5.2.24}%
 \contentsline {mtocsubsection}{\numberline {5.2.24}Credit Score}{55}{subsection.5.2.24}%
-\contentsline {subsection}{\numberline {5.2.25}Social Credit Score}{56}{subsection.5.2.25}%
-\contentsline {mtocsubsection}{\numberline {5.2.25}Social Credit Score}{56}{subsection.5.2.25}%
+\contentsline {subsection}{\numberline {5.2.25}Social Credit Score}{57}{subsection.5.2.25}%
+\contentsline {mtocsubsection}{\numberline {5.2.25}Social Credit Score}{57}{subsection.5.2.25}%
 \contentsline {subsection}{\numberline {5.2.26}AGI}{58}{subsection.5.2.26}%
 \contentsline {mtocsubsection}{\numberline {5.2.26}AGI}{58}{subsection.5.2.26}%
 \contentsline {section}{\numberline {5.3}Key Takeaways}{59}{section.5.3}%
@@ -207,4 +207,4 @@
 \contentsline {chapter}{\numberline {9}Errors and Omissions}{71}{chapter.9}%
 \etoc@startlocaltoc {18}
 \etoc@startlocaltoc {19}
-\contentsline {chapter}{\nonumberline Bibliography}{72}{chapter*.44}%
+\contentsline {chapter}{\nonumberline Bibliography}{72}{chapter*.45}%
