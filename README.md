@@ -13,16 +13,8 @@
 
 ## TODOs for AI Harmony
 
-* Chapter 1 Finish Outline, add Instapaper Articles
-* Only Fools, Horses and Computers? Work reference.
-* Add section on Protopia, Meritocracy and Harmony
-* Share Instapaper Articles and Reorg Plan on Patreon
-
-* Chapter 2 Chomsky move to sidenote
 * Remove References to Self-Driving, Skynet etc.. title
-
 * Chapter 5 add companies that failed, and open source versions of the model.
-* Finish adding cost and IP scores
 
 * Review [Stephanie's Notes](https://docs.google.com/document/d/1hxqyawww7Se_UzsjvAdkrmKq306LOyiypu3TzQg-1nM/edit#)
 * Create Pre-Order PDF in the store.bradflaugher.com once a draft is done.
