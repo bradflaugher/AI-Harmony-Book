@@ -111,99 +111,100 @@
 \contentsline {mtocsubsection}{\numberline {5.2.8}Stock Trading}{40}{subsection.5.2.8}%
 \contentsline {subsection}{\numberline {5.2.9}Horse Racing}{41}{subsection.5.2.9}%
 \contentsline {mtocsubsection}{\numberline {5.2.9}Horse Racing}{41}{subsection.5.2.9}%
-\contentsline {subsection}{\numberline {5.2.10}Sperm Counter}{41}{subsection.5.2.10}%
-\contentsline {mtocsubsection}{\numberline {5.2.10}Sperm Counter}{41}{subsection.5.2.10}%
-\contentsline {subsection}{\numberline {5.2.11}Handwriting Recognizer}{42}{subsection.5.2.11}%
-\contentsline {mtocsubsection}{\numberline {5.2.11}Handwriting Recognizer}{42}{subsection.5.2.11}%
-\contentsline {subsection}{\numberline {5.2.12}Drug Discovery}{43}{subsection.5.2.12}%
-\contentsline {mtocsubsection}{\numberline {5.2.12}Drug Discovery}{43}{subsection.5.2.12}%
-\contentsline {subsection}{\numberline {5.2.13}Autism}{45}{subsection.5.2.13}%
-\contentsline {mtocsubsection}{\numberline {5.2.13}Autism}{45}{subsection.5.2.13}%
-\contentsline {subsection}{\numberline {5.2.14}Online Dating}{46}{subsection.5.2.14}%
-\contentsline {mtocsubsection}{\numberline {5.2.14}Online Dating}{46}{subsection.5.2.14}%
-\contentsline {subsection}{\numberline {5.2.15}Online Advertising}{47}{subsection.5.2.15}%
-\contentsline {mtocsubsection}{\numberline {5.2.15}Online Advertising}{47}{subsection.5.2.15}%
-\contentsline {subsection}{\numberline {5.2.16}Tennis}{48}{subsection.5.2.16}%
-\contentsline {mtocsubsection}{\numberline {5.2.16}Tennis}{48}{subsection.5.2.16}%
-\contentsline {subsection}{\numberline {5.2.17}Hate Speech}{49}{subsection.5.2.17}%
-\contentsline {mtocsubsection}{\numberline {5.2.17}Hate Speech}{49}{subsection.5.2.17}%
-\contentsline {subsection}{\numberline {5.2.18}Fake News}{50}{subsection.5.2.18}%
-\contentsline {mtocsubsection}{\numberline {5.2.18}Fake News}{50}{subsection.5.2.18}%
-\contentsline {subsection}{\numberline {5.2.19}Legal Contracts}{51}{subsection.5.2.19}%
-\contentsline {mtocsubsection}{\numberline {5.2.19}Legal Contracts}{51}{subsection.5.2.19}%
-\contentsline {subsection}{\numberline {5.2.20}Facial Recognition}{53}{subsection.5.2.20}%
-\contentsline {mtocsubsection}{\numberline {5.2.20}Facial Recognition}{53}{subsection.5.2.20}%
-\contentsline {subsection}{\numberline {5.2.21}Smartwatches}{54}{subsection.5.2.21}%
-\contentsline {mtocsubsection}{\numberline {5.2.21}Smartwatches}{54}{subsection.5.2.21}%
-\contentsline {subsection}{\numberline {5.2.22}Threat Detection}{55}{subsection.5.2.22}%
-\contentsline {mtocsubsection}{\numberline {5.2.22}Threat Detection}{55}{subsection.5.2.22}%
-\contentsline {subsection}{\numberline {5.2.23}University Admissions}{56}{subsection.5.2.23}%
-\contentsline {mtocsubsection}{\numberline {5.2.23}University Admissions}{56}{subsection.5.2.23}%
-\contentsline {subsection}{\numberline {5.2.24}Credit Score}{57}{subsection.5.2.24}%
-\contentsline {mtocsubsection}{\numberline {5.2.24}Credit Score}{57}{subsection.5.2.24}%
-\contentsline {subsection}{\numberline {5.2.25}Social Credit Score}{59}{subsection.5.2.25}%
-\contentsline {mtocsubsection}{\numberline {5.2.25}Social Credit Score}{59}{subsection.5.2.25}%
-\contentsline {subsection}{\numberline {5.2.26}AGI}{60}{subsection.5.2.26}%
-\contentsline {mtocsubsection}{\numberline {5.2.26}AGI}{60}{subsection.5.2.26}%
-\contentsline {section}{\numberline {5.3}Key Takeaways}{61}{section.5.3}%
-\contentsline {mtocsection}{\numberline {5.3}Key Takeaways}{61}{section.5.3}%
-\contentsline {chapter}{\numberline {6}Self-Driving with Statistics}{63}{chapter.6}%
+\contentsline {subsection}{\numberline {5.2.10}Sperm Counter}{42}{subsection.5.2.10}%
+\contentsline {mtocsubsection}{\numberline {5.2.10}Sperm Counter}{42}{subsection.5.2.10}%
+\contentsline {subsection}{\numberline {5.2.11}Handwriting Recognizer}{43}{subsection.5.2.11}%
+\contentsline {mtocsubsection}{\numberline {5.2.11}Handwriting Recognizer}{43}{subsection.5.2.11}%
+\contentsline {subsection}{\numberline {5.2.12}Drug Discovery}{44}{subsection.5.2.12}%
+\contentsline {mtocsubsection}{\numberline {5.2.12}Drug Discovery}{44}{subsection.5.2.12}%
+\contentsline {subsection}{\numberline {5.2.13}Autism}{46}{subsection.5.2.13}%
+\contentsline {mtocsubsection}{\numberline {5.2.13}Autism}{46}{subsection.5.2.13}%
+\contentsline {subsection}{\numberline {5.2.14}Online Dating}{47}{subsection.5.2.14}%
+\contentsline {mtocsubsection}{\numberline {5.2.14}Online Dating}{47}{subsection.5.2.14}%
+\contentsline {subsection}{\numberline {5.2.15}Online Advertising}{48}{subsection.5.2.15}%
+\contentsline {mtocsubsection}{\numberline {5.2.15}Online Advertising}{48}{subsection.5.2.15}%
+\contentsline {subsection}{\numberline {5.2.16}Tennis}{49}{subsection.5.2.16}%
+\contentsline {mtocsubsection}{\numberline {5.2.16}Tennis}{49}{subsection.5.2.16}%
+\contentsline {subsection}{\numberline {5.2.17}Hate Speech}{50}{subsection.5.2.17}%
+\contentsline {mtocsubsection}{\numberline {5.2.17}Hate Speech}{50}{subsection.5.2.17}%
+\contentsline {subsection}{\numberline {5.2.18}Fake News}{51}{subsection.5.2.18}%
+\contentsline {mtocsubsection}{\numberline {5.2.18}Fake News}{51}{subsection.5.2.18}%
+\contentsline {subsection}{\numberline {5.2.19}Legal Contracts}{52}{subsection.5.2.19}%
+\contentsline {mtocsubsection}{\numberline {5.2.19}Legal Contracts}{52}{subsection.5.2.19}%
+\contentsline {subsection}{\numberline {5.2.20}Facial Recognition}{54}{subsection.5.2.20}%
+\contentsline {mtocsubsection}{\numberline {5.2.20}Facial Recognition}{54}{subsection.5.2.20}%
+\contentsline {subsection}{\numberline {5.2.21}Smartwatches}{55}{subsection.5.2.21}%
+\contentsline {mtocsubsection}{\numberline {5.2.21}Smartwatches}{55}{subsection.5.2.21}%
+\contentsline {subsection}{\numberline {5.2.22}Threat Detection}{56}{subsection.5.2.22}%
+\contentsline {mtocsubsection}{\numberline {5.2.22}Threat Detection}{56}{subsection.5.2.22}%
+\contentsline {subsection}{\numberline {5.2.23}University Admissions}{57}{subsection.5.2.23}%
+\contentsline {mtocsubsection}{\numberline {5.2.23}University Admissions}{57}{subsection.5.2.23}%
+\contentsline {subsection}{\numberline {5.2.24}Credit Score}{58}{subsection.5.2.24}%
+\contentsline {mtocsubsection}{\numberline {5.2.24}Credit Score}{58}{subsection.5.2.24}%
+\contentsline {subsection}{\numberline {5.2.25}Social Credit Score}{60}{subsection.5.2.25}%
+\contentsline {mtocsubsection}{\numberline {5.2.25}Social Credit Score}{60}{subsection.5.2.25}%
+\contentsline {subsection}{\numberline {5.2.26}AGI}{61}{subsection.5.2.26}%
+\contentsline {mtocsubsection}{\numberline {5.2.26}AGI}{61}{subsection.5.2.26}%
+\contentsline {section}{\numberline {5.3}Key Takeaways}{62}{section.5.3}%
+\contentsline {mtocsection}{\numberline {5.3}Key Takeaways}{62}{section.5.3}%
+\contentsline {chapter}{\numberline {6}Self-Driving with Statistics}{64}{chapter.6}%
 \etoc@startlocaltoc {12}
 \etoc@startlocaltoc {13}
-\contentsline {section}{\numberline {6.1}Self-Driving Horses}{63}{section.6.1}%
-\contentsline {mtocsection}{\numberline {6.1}Self-Driving Horses}{63}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Semi-Autonomy: A False Sense of Security}{63}{section.6.2}%
-\contentsline {mtocsection}{\numberline {6.2}Semi-Autonomy: A False Sense of Security}{63}{section.6.2}%
-\contentsline {section}{\numberline {6.3}Autopilot and Outsourcing Responsibility}{63}{section.6.3}%
-\contentsline {mtocsection}{\numberline {6.3}Autopilot and Outsourcing Responsibility}{63}{section.6.3}%
-\contentsline {section}{\numberline {6.4}Trolley Problems}{64}{section.6.4}%
-\contentsline {mtocsection}{\numberline {6.4}Trolley Problems}{64}{section.6.4}%
-\contentsline {section}{\numberline {6.5}Model Card}{64}{section.6.5}%
-\contentsline {mtocsection}{\numberline {6.5}Model Card}{64}{section.6.5}%
-\contentsline {section}{\numberline {6.6}Concept Drift (Reprise)}{65}{section.6.6}%
-\contentsline {mtocsection}{\numberline {6.6}Concept Drift (Reprise)}{65}{section.6.6}%
-\contentsline {section}{\numberline {6.7}Multicolinearity (Reprise)}{65}{section.6.7}%
-\contentsline {mtocsection}{\numberline {6.7}Multicolinearity (Reprise)}{65}{section.6.7}%
-\contentsline {section}{\numberline {6.8}Explaining The Unexplainable in Court}{66}{section.6.8}%
-\contentsline {mtocsection}{\numberline {6.8}Explaining The Unexplainable in Court}{66}{section.6.8}%
-\contentsline {section}{\numberline {6.9}NASA wouldn't launch it, why should we?}{66}{section.6.9}%
-\contentsline {mtocsection}{\numberline {6.9}NASA wouldn't launch it, why should we?}{66}{section.6.9}%
-\contentsline {section}{\numberline {6.10}A Train is a Self-Driving Car, Right?}{66}{section.6.10}%
-\contentsline {mtocsection}{\numberline {6.10}A Train is a Self-Driving Car, Right?}{66}{section.6.10}%
-\contentsline {chapter}{\numberline {7}Unplugging Skynet}{68}{chapter.7}%
+\contentsline {section}{\numberline {6.1}The Illusion of Self-Driving}{64}{section.6.1}%
+\contentsline {mtocsection}{\numberline {6.1}The Illusion of Self-Driving}{64}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Comparing Autopilot Systems}{64}{section.6.2}%
+\contentsline {mtocsection}{\numberline {6.2}Comparing Autopilot Systems}{64}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Ethics and the Self-Driving Dilemma}{64}{section.6.3}%
+\contentsline {mtocsection}{\numberline {6.3}Ethics and the Self-Driving Dilemma}{64}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Understanding Self-Driving Models}{64}{section.6.4}%
+\contentsline {mtocsection}{\numberline {6.4}Understanding Self-Driving Models}{64}{section.6.4}%
+\contentsline {section}{\numberline {6.5}Adapting to a Changing World}{65}{section.6.5}%
+\contentsline {mtocsection}{\numberline {6.5}Adapting to a Changing World}{65}{section.6.5}%
+\contentsline {section}{\numberline {6.6}The Limits of Deep Learning in Critical Systems}{65}{section.6.6}%
+\contentsline {mtocsection}{\numberline {6.6}The Limits of Deep Learning in Critical Systems}{65}{section.6.6}%
+\contentsline {section}{\numberline {6.7}Alternative Approaches to Automation}{65}{section.6.7}%
+\contentsline {mtocsection}{\numberline {6.7}Alternative Approaches to Automation}{65}{section.6.7}%
+\contentsline {section}{\numberline {6.8}The Future of Self-Driving Cars}{65}{section.6.8}%
+\contentsline {mtocsection}{\numberline {6.8}The Future of Self-Driving Cars}{65}{section.6.8}%
+\contentsline {chapter}{\numberline {7}Unplugging Skynet}{66}{chapter.7}%
 \etoc@startlocaltoc {14}
 \etoc@startlocaltoc {15}
-\contentsline {section}{\numberline {7.1}It's a Trap!}{68}{section.7.1}%
-\contentsline {mtocsection}{\numberline {7.1}It's a Trap!}{68}{section.7.1}%
-\contentsline {section}{\numberline {7.2}Guns Don't Kill People, People Kill People}{69}{section.7.2}%
-\contentsline {mtocsection}{\numberline {7.2}Guns Don't Kill People, People Kill People}{69}{section.7.2}%
-\contentsline {section}{\numberline {7.3}Useful Incompatability}{69}{section.7.3}%
-\contentsline {mtocsection}{\numberline {7.3}Useful Incompatability}{69}{section.7.3}%
-\contentsline {section}{\numberline {7.4}Training Data}{69}{section.7.4}%
-\contentsline {mtocsection}{\numberline {7.4}Training Data}{69}{section.7.4}%
-\contentsline {section}{\numberline {7.5}Checks and Balances}{70}{section.7.5}%
-\contentsline {mtocsection}{\numberline {7.5}Checks and Balances}{70}{section.7.5}%
-\contentsline {chapter}{\numberline {8}Revolutionary for Whom?}{71}{chapter.8}%
+\contentsline {section}{\numberline {7.1}The Perils of Early Autonomous Weapons}{66}{section.7.1}%
+\contentsline {mtocsection}{\numberline {7.1}The Perils of Early Autonomous Weapons}{66}{section.7.1}%
+\contentsline {section}{\numberline {7.2}The Fallacy of Autonomous Weapons Acting Independently}{66}{section.7.2}%
+\contentsline {mtocsection}{\numberline {7.2}The Fallacy of Autonomous Weapons Acting Independently}{66}{section.7.2}%
+\contentsline {section}{\numberline {7.3}Human Responsibility in Weaponized AI}{66}{section.7.3}%
+\contentsline {mtocsection}{\numberline {7.3}Human Responsibility in Weaponized AI}{66}{section.7.3}%
+\contentsline {section}{\numberline {7.4}The Inherent Flaws in Asimov's Three Laws of Robotics}{66}{section.7.4}%
+\contentsline {mtocsection}{\numberline {7.4}The Inherent Flaws in Asimov's Three Laws of Robotics}{66}{section.7.4}%
+\contentsline {section}{\numberline {7.5}AI in Warfare: Challenges and Concerns}{67}{section.7.5}%
+\contentsline {mtocsection}{\numberline {7.5}AI in Warfare: Challenges and Concerns}{67}{section.7.5}%
+\contentsline {section}{\numberline {7.6}The Role of Training Data in AI Decision-Making}{67}{section.7.6}%
+\contentsline {mtocsection}{\numberline {7.6}The Role of Training Data in AI Decision-Making}{67}{section.7.6}%
+\contentsline {section}{\numberline {7.7}Ensuring Safer Algorithmic Systems}{67}{section.7.7}%
+\contentsline {mtocsection}{\numberline {7.7}Ensuring Safer Algorithmic Systems}{67}{section.7.7}%
+\contentsline {chapter}{\numberline {8}Revolutionary for Whom?}{68}{chapter.8}%
 \etoc@startlocaltoc {16}
 \etoc@startlocaltoc {17}
-\contentsline {section}{\numberline {8.1}The Battle of the Assistants}{71}{section.8.1}%
-\contentsline {mtocsection}{\numberline {8.1}The Battle of the Assistants}{71}{section.8.1}%
-\contentsline {section}{\numberline {8.2}Employees That Are Better Than You}{71}{section.8.2}%
-\contentsline {mtocsection}{\numberline {8.2}Employees That Are Better Than You}{71}{section.8.2}%
-\contentsline {section}{\numberline {8.3}Slow on the Uptake}{71}{section.8.3}%
-\contentsline {mtocsection}{\numberline {8.3}Slow on the Uptake}{71}{section.8.3}%
-\contentsline {section}{\numberline {8.4}Free-Rider Problems}{71}{section.8.4}%
-\contentsline {mtocsection}{\numberline {8.4}Free-Rider Problems}{71}{section.8.4}%
-\contentsline {section}{\numberline {8.5}When You Can't Tell The Difference}{72}{section.8.5}%
-\contentsline {mtocsection}{\numberline {8.5}When You Can't Tell The Difference}{72}{section.8.5}%
-\contentsline {section}{\numberline {8.6}Thinking Fast and Slow}{72}{section.8.6}%
-\contentsline {mtocsection}{\numberline {8.6}Thinking Fast and Slow}{72}{section.8.6}%
-\contentsline {section}{\numberline {8.7}Dead Inside}{72}{section.8.7}%
-\contentsline {mtocsection}{\numberline {8.7}Dead Inside}{72}{section.8.7}%
-\contentsline {section}{\numberline {8.8}This Book is a Case Study}{72}{section.8.8}%
-\contentsline {mtocsection}{\numberline {8.8}This Book is a Case Study}{72}{section.8.8}%
-\contentsline {section}{\numberline {8.9}Managing Creative Destruction in Your Career}{73}{section.8.9}%
-\contentsline {mtocsection}{\numberline {8.9}Managing Creative Destruction in Your Career}{73}{section.8.9}%
-\contentsline {chapter}{\numberline {9}Errors and Omissions}{74}{chapter.9}%
+\contentsline {section}{\numberline {8.1}Comparing AI Assistants}{68}{section.8.1}%
+\contentsline {mtocsection}{\numberline {8.1}Comparing AI Assistants}{68}{section.8.1}%
+\contentsline {section}{\numberline {8.2}The AI Advantage in the Workplace}{68}{section.8.2}%
+\contentsline {mtocsection}{\numberline {8.2}The AI Advantage in the Workplace}{68}{section.8.2}%
+\contentsline {section}{\numberline {8.3}The Pace of AI Adoption}{68}{section.8.3}%
+\contentsline {mtocsection}{\numberline {8.3}The Pace of AI Adoption}{68}{section.8.3}%
+\contentsline {section}{\numberline {8.4}AI's Legal and Ethical Challenges}{68}{section.8.4}%
+\contentsline {mtocsection}{\numberline {8.4}AI's Legal and Ethical Challenges}{68}{section.8.4}%
+\contentsline {section}{\numberline {8.5}The Limitations of AI-generated Content}{68}{section.8.5}%
+\contentsline {mtocsection}{\numberline {8.5}The Limitations of AI-generated Content}{68}{section.8.5}%
+\contentsline {section}{\numberline {8.6}AI and Decision-making: Thinking Fast and Slow}{69}{section.8.6}%
+\contentsline {mtocsection}{\numberline {8.6}AI and Decision-making: Thinking Fast and Slow}{69}{section.8.6}%
+\contentsline {section}{\numberline {8.7}The Dangers of Predictable Routines}{69}{section.8.7}%
+\contentsline {mtocsection}{\numberline {8.7}The Dangers of Predictable Routines}{69}{section.8.7}%
+\contentsline {section}{\numberline {8.8}AI's Impact on Content Creation}{69}{section.8.8}%
+\contentsline {mtocsection}{\numberline {8.8}AI's Impact on Content Creation}{69}{section.8.8}%
+\contentsline {section}{\numberline {8.9}Navigating AI's Impact on Careers}{69}{section.8.9}%
+\contentsline {mtocsection}{\numberline {8.9}Navigating AI's Impact on Careers}{69}{section.8.9}%
+\contentsline {chapter}{\numberline {9}Errors and Omissions}{71}{chapter.9}%
 \etoc@startlocaltoc {18}
 \etoc@startlocaltoc {19}
+\contentsline {chapter}{\nonumberline Bibliography}{72}{chapter*.46}%

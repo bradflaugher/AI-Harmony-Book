@@ -4,127 +4,80 @@
 
 \textit{"We think of automation as a machine doing a task that a human used to do... you might think that means a human does nothing. But in fact there's abundant literature that shows the human is not incurring no workload, the human is now doing a different task and that task tends to be monitoring, a vigilance task, looking for rare events...that is a task that humans are not well-equipped to do." - Dr. Michael Nees, 2021} \cite{nees2021}
 
-\section{Self-Driving Horses}
 
-\section{Semi-Autonomy: A False Sense of Security}
+\section{The Illusion of Self-Driving}
 
-Talk about the levels 0-4, deep learning is a subsystem of these levels.
+From Self-Driving Horses to Autopilot Cars
 
-Semiautonomy is dumb because it feels autonomous, but the user is expected to take over at any time. This is the worst of both worlds. \cite{torchinskyboeckmann2019}
+Levels of Autonomy: Understanding the Gradient
 
-and this article \href{https://www.theautopian.com/newly-released-video-of-thanksgiving-day-tesla-full-self-driving-crash-demonstrates-the-fundamental-problem-of-semi-automated-driving-systems/}{Tesla Crash Illustrates Problem With Semi-Automated Driving} and \href{https://news.ycombinator.com/item?id=34347778}{comments}
+The Dangers of Semi-Autonomy
 
-Automatic braking good. Cruise control bad.
+Robot Take The Wheel \cite{torchinskyboeckmann2019}
 
-\section{Autopilot and Outsourcing Responsibility}
+Pileup Crash \cite{pileupcrash}
 
-Let's contrast the control systems of a plane and a Tesla.
+\section{Comparing Autopilot Systems}
 
-\begin{itemize}
-    \item Communication with a control tower:
-    \begin{itemize}
-        \item A plane on autopilot must communicate with a control tower for takeoff and landing instructions, as well as any changes to flight plans during the course of the flight.
-        \item A Tesla on autopilot does not require communication with a control tower since it operates on roads and highways.
-    \end{itemize}
-\item Filing a flight plan: 
-    \begin{itemize}
-        \item A plane on autopilot requires the pilot or the airline to file a flight plan with the relevant authorities before takeoff. The flight plan includes information such as the planned route, altitude, speed, and estimated time of arrival.
-        \item A Tesla on autopilot does not require a flight plan as it operates on pre-determined roadways and highways. \sidenote{Write about the tradeoff of autonomy and freedom. You can have a self driving car, but it needs to file a flight plan}
-    \end{itemize}
+Airplanes vs. Teslas: Similarities and Differences
 
-\item Navigation: 
-    \begin{itemize}
-        \item A plane on autopilot relies on sophisticated navigation systems, such as GPS and Inertial Navigation Systems (INS), to navigate through the air. These systems are designed to account for factors such as wind speed, altitude, and direction of travel.
-        \item A Tesla on autopilot relies on a combination of GPS, sensors, and cameras to navigate on roads and highways. The system is designed to detect obstacles, traffic signals, and road signs to determine the appropriate route and speed.
-    \end{itemize}
+Communication and Coordination with External Systems
 
-\item Takeoff and landing: 
-    \begin{itemize}
-        \item A plane on autopilot can take off and land automatically, but typically requires human intervention during critical phases of the flight. For example, the pilot may take control during takeoff and landing to ensure a smooth landing and takeoff.
-        \item A Tesla on autopilot cannot take off and land since it is designed to operate on roads and highways.
-    \end{itemize}
+Monitoring and Human Intervention in Autopilot Systems
 
-\item Monitoring: 
-    \begin{itemize}
-        \item A plane on autopilot requires constant monitoring by the pilot and the crew to ensure that the system is functioning correctly and that the flight is proceeding as planned.
-        \item A Tesla on autopilot requires monitoring by the driver to ensure that the system is functioning correctly and that the vehicle is traveling safely.
-    \end{itemize}
-\end{itemize}
+\section{Ethics and the Self-Driving Dilemma}
+
+The Trolley Problem and Autonomous Decision-Making
+
+Outsourcing Responsibility: Legal and Moral Considerations
+
+\section{Understanding Self-Driving Models}
+
+Model Cards for Autonomous Vehicles
+
+Evaluating Performance: Metrics and Real-World Testing
+
+Common Myths and Misunderstandings
+
+\section{Adapting to a Changing World}
+
+Concept Drift: The Challenge of Ever-Changing Environments
+
+Urban Design: Retrofitting Cities for Self-Driving Cars
+
+The Impact of New Technologies and Trends on Models
+
+OTA Crash \cite{otacrash}
 
 
-\section{Trolley Problems}
+\section{The Limits of Deep Learning in Critical Systems}
 
-\section{Model Card}
-
-Description:
-The Fully Self-Driving Cars is a type of machine learning model that's designed to control the movement of a vehicle in a way that's safe, efficient, and reliable. It can be trained on a large dataset of real-world driving scenarios, including data from sensors such as cameras, radar, and lidar, to learn how to make decisions about acceleration, braking, and steering. The model can then be used to control a self-driving car in a variety of driving scenarios, including city driving, highway driving, and navigating complex intersections.
-
-Training Data:
-The Fully Self-Driving Cars is typically trained on a large dataset of real-world driving scenarios, which can include data from a variety of sources, such as simulation, real-world testing, and other sources. The size and quality of the training data will impact the performance of the model, so it's important to use a diverse and representative dataset that accurately represents the range of driving scenarios that the model will encounter.
-
-Evaluation:
-The performance of the Fully Self-Driving Cars can be evaluated using a variety of metrics, such as accuracy, precision, recall, and F1 score. These metrics can be used to compare different models and to track the progress of a model as it's trained on more data. Additionally, the model can be tested in real-world scenarios, such as on-road testing, to assess its ability to control a self-driving car in a safe and reliable manner.
-
-Use Cases:
-The Fully Self-Driving Cars has a number of potential use cases, including:
-
-Providing a safe and reliable form of transportation for individuals and communities
-Reducing the number of accidents and fatalities caused by human error
-Improving traffic flow and reducing congestion in cities
-Enhancing mobility for individuals who are unable to drive, such as the elderly or disabled
-Limits and Risks:
-Like any machine learning model, the Fully Self-Driving Cars has limitations and risks. One of the main limitations is that it may not always make accurate decisions, and may cause accidents or other harm if it fails to correctly interpret or respond to driving scenarios. Additionally, the model may be biased towards certain driving scenarios or conditions if the training data is not representative of the range of driving scenarios that the model will encounter.
-
-Common Myths or Misunderstandings:
-There are a few common myths or misunderstandings about the Fully Self-Driving Cars. One myth is that the model can always drive safely and reliably, when in reality it can only make decisions based on the information it was trained on and may fail to correctly interpret or respond to driving scenarios. Another myth is that the model can replace human drivers and will eliminate the need for human intervention in driving, when in reality it is intended to support and enhance human driving, and may still require human intervention in certain scenarios.
-
-\section{Concept Drift (Reprise)}
-
-Talk about the mid-west and west as cities built for cars, specifically pittsburgh and phoenix. Contrast with London and even Philadelphia, little streets etc.. cities that were not built for cars will need to be rebuilt.
-
-Also talk about how new cars, sign types, changes in fashion, bicyles etc... will all affect model performance.
-
-https://fortune.com/2023/02/16/tesla-recalls-all-362758-vehicles-with-full-self-driving-beta-may-cause-crashes-ota-software-update-elon-musk/
-
-\section{Multicolinearity (Reprise)}
+Multicollinearity and Sensitivity to Noise
 
 \sidenote{You can't get your self-driving car dirty either, it'll mess up those sensors.}
 
-\section{Explaining The Unexplainable in Court}
+Explainability and Accountability in Court
 
-\textit{"Limitations and Pitfalls of Explainable and Interpretable Methods}
+Trustworthy ML O'Reilly \cite{trustworthyml}
 
-\textit{Before diving into the exact methods for interpreting and explaining models, let's take a look at some of the pitfalls of these methods.}
+The Case for Inherently Interpretable Models
 
-\textit{First off, if you need to make high-stakes decisions, make sure to use inherently interpretable models\sidenote{This sentence is very important, they are saying DO NOT USE DEEP LEARNING TECHNIQUES FOR CRITICAL DECISION MAKING. This is wild, we are already using these models everywhere, it's like asking people not to use computers.... TODO EXPAND ON THIS.}. These are models such as decision trees that are more readily converted to output explanations.}
 
-\textit{Before choosing a method, you need to be absolutely clear about what you want out of it. Are you trying to understand the nature of the data procurement process? How a decision was made? How the model works on a fundamental level? Some tools might be appropriate for some of these goals but not others.}
+\section{Alternative Approaches to Automation}
 
-\textit{If your goal is to make sense of the data generation process, this is only possible if you know that your model already generalizes well to unseen data.}
+From Self-Driving Forklifts to Moving Shelves
 
-\textit{Decision interpretability can be misleading. It highlights things like correlations, but doesn’t go into the level of causal detail that causal inference does. Remember that correlation does not (always) imply causation.}
+The Role of Vehicle-to-Vehicle Communication
 
-\textit{WARNING}
-\textit{Spurious correlations can result in inaccurate interpretations even with advanced interpretability methods like saliency methods and attention-based methods.}
+Remote Control and Supervised Autonomy
 
-\textit{Tools such as feature importance usually estimate mean values, but one should beware the error bars on those means and take stock of the confidence intervals.}
 
-\textit{A lot of machine learning involves working with extremely high-dimensional spaces. There's no way around it: high-dimensional data and feature spaces are hard to make sense of without grouping the data or features together first.}
+\section{The Future of Self-Driving Cars}
 
-\textit{Even if you do find important features in those matrices, remember that this does not imply causality (we've said this before and we'll say it again)."} \cite{trustworthyml}
+Investment and Adoption Trends
 
-\section{NASA wouldn't launch it, why should we?}
+OpenPilot \cite{openpilot}
 
-Talk about DSMs and how if object recognition is a critical system, it's not good enough to launch with.
+The Shift in Transportation Preferences
 
-\section{A Train is a Self-Driving Car, Right?}
-
-Discuss how the problem space has changed in warehousing, we don't actually have self-driving forklifts, we have moving shelves.
-
-Talk about the path towards full automation, cars talking to each other and allowed to be remote controlled, cite the turnover rate for vehicles.
-
-Maybe talk about elon musk and manufacturing.
-
-Talk about how it's easy to steal after the fact... and how it's and odd investment to make. \url{https://github.com/commaai/openpilot}
-
-Kids don't like cars anyway.... \sidecite{nocarkids}
+The Balance Between Autonomy and Regulation
