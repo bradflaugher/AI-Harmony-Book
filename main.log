@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.2.13)  23 MAR 2023 15:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.2.13)  24 MAR 2023 13:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2407,15 +2407,7 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
- (./main.bbl
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Kahneman2011
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-)
+ (./main.bbl)
 Package biblatex Info: Reference section=0 on input line 94.
 Package biblatex Info: Reference segment=0 on input line 94.
 Package scrhack Info: undefining \float@addtolists on input line 94.
@@ -2451,7 +2443,7 @@ Package pdftex.def Info: cover.pdf , page1 used on input line 103.
 (pdftex.def)             Requested size: 514.47931pt x 794.08763pt.
 \openout4 = `main.mw'.
 
- [1
+[1
 
 
  <./cover.pdf>] (./main.mw)
@@ -3200,7 +3192,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--2
 
 \openout4 = `main.mw'.
 
-<images//purplehair.jpg, id=431, 770.88pt x 770.88pt>
+
+LaTeX Warning: Citation 'dontfearterminator' on page 1 undefined on input line 
+5.
+
+<images//purplehair.jpg, id=427, 770.88pt x 770.88pt>
 File: images//purplehair.jpg Graphic file (type jpg)
 <use images//purplehair.jpg>
 Package pdftex.def Info: images//purplehair.jpg  used on input line 17.
@@ -3225,28 +3221,18 @@ LaTeX Warning: Marginpar on page 1 moved.
 
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
+
+LaTeX Warning: Citation 'copyrighteconocmist' on page 1 undefined on input line
+ 25.
 
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
+LaTeX Warning: Citation 'copyrighteconocmist' on page 1 undefined on input line
+ 25.
 
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-LaTeX Font Info:    Font shape `T1/zplLF/m/it' will be
-(Font)              scaled to size 7.76001pt on input line 25.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
@@ -3262,7 +3248,7 @@ l.26
  <./images//purplehair.jpg>] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//waffleburger.jpeg, id=446, 770.88pt x 770.88pt>
+<images//waffleburger.jpeg, id=438, 770.88pt x 770.88pt>
 File: images//waffleburger.jpeg Graphic file (type jpg)
 <use images//waffleburger.jpeg>
 Package pdftex.def Info: images//waffleburger.jpeg  used on input line 30.
@@ -3281,25 +3267,15 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 37.
 
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
+
+LaTeX Warning: Citation 'OGrady2015' on page 2 undefined on input line 37.
 
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
+LaTeX Warning: Citation 'OGrady2015' on page 2 undefined on input line 37.
 
 \openout4 = `main.mw'.
 
@@ -3311,132 +3287,76 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 47.
 
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
+
+
+LaTeX Warning: Citation 'andreesenunemp' on page 3 undefined on input line 47.
 
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
+LaTeX Warning: Citation 'andreesenunemp' on page 3 undefined on input line 47.
 
 Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 49.
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
+
+LaTeX Warning: Citation 'lawmakersny' on page 3 undefined on input line 49.
 
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
+LaTeX Warning: Citation 'lawmakersny' on page 3 undefined on input line 49.
 
 Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 49.
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
+
+LaTeX Warning: Citation 'morningconsult' on page 3 undefined on input line 49.
 
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
+LaTeX Warning: Citation 'morningconsult' on page 3 undefined on input line 49.
 
 Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 49.
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
+
+LaTeX Warning: Citation 'monmouthai' on page 3 undefined on input line 49.
 
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
+LaTeX Warning: Citation 'monmouthai' on page 3 undefined on input line 49.
 
 Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 49.
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
+LaTeX Warning: Citation 'googlenerd' on page 3 undefined on input line 49.
 
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
 
 
-
-LaTeX Warning: Marginpar on page 3 moved.
-
-
-LaTeX Warning: Marginpar on page 3 moved.
+LaTeX Warning: Citation 'googlenerd' on page 3 undefined on input line 49.
 
 
 LaTeX Warning: Marginpar on page 3 moved.
@@ -3446,7 +3366,7 @@ LaTeX Warning: Marginpar on page 3 moved.
 [3] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//unite.png, id=476, 513.92pt x 513.92pt>
+<images//unite.png, id=450, 513.92pt x 513.92pt>
 File: images//unite.png Graphic file (type png)
 <use images//unite.png>
 Package pdftex.def Info: images//unite.png  used on input line 68.
@@ -3465,75 +3385,47 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 73.
 
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
+
+LaTeX Warning: Citation 'peopleusingAIhappy' on page 4 undefined on input line 
+73.
 
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
+LaTeX Warning: Citation 'peopleusingAIhappy' on page 4 undefined on input line 
+73.
 
 Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 77.
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
+
+LaTeX Warning: Citation 'protopia' on page 4 undefined on input line 77.
 
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
+LaTeX Warning: Citation 'protopia' on page 4 undefined on input line 77.
 
 Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 79.
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
+
+LaTeX Warning: Citation 'finaieconomist' on page 4 undefined on input line 79.
 
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
+LaTeX Warning: Citation 'finaieconomist' on page 4 undefined on input line 79.
 
 \openout4 = `main.mw'.
 
@@ -3545,41 +3437,34 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 85.
 
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
+
+
+LaTeX Warning: Citation 'newyorkerChatGPTBlurry' on page 5 undefined on input l
+ine 85.
 
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
+
+LaTeX Warning: Citation 'newyorkerChatGPTBlurry' on page 5 undefined on input l
+ine 85.
 
 \openout4 = `main.mw'.
 
+[5] (./main.mw)
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
- [5] (./main.mw)
-\openout4 = `main.mw'.
-
-<images//mitexcel.jpg, id=499, 770.88pt x 770.88pt>
+<images//mitexcel.jpg, id=461, 770.88pt x 770.88pt>
 File: images//mitexcel.jpg Graphic file (type jpg)
 <use images//mitexcel.jpg>
-Package pdftex.def Info: images//mitexcel.jpg  used on input line 96.
+Package pdftex.def Info: images//mitexcel.jpg  used on input line 98.
 (pdftex.def)             Requested size: 139.51698pt x 139.51698pt.
 Package marginnote Info: Margin note 16.1 is on absolute page 16 on input line 
-99.
-Package marginnote Info: right page because not two side mode on input line 99.
-
-Package marginnote Info: xpos seems to be 72.53856pt on input line 99.
+101.
+Package marginnote Info: right page because not two side mode on input line 101
+.
+Package marginnote Info: xpos seems to be 72.53856pt on input line 101.
 
 
 LaTeX Warning: Marginpar on page 6 moved.
@@ -3639,6 +3524,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--2
 
 \openout4 = `main.mw'.
 
+
+LaTeX Warning: Citation 'welsh2023' on page 7 undefined on input line 5.
+
 LaTeX Font Info:    Font shape `T1/zplLF/m/n' will be
 (Font)              scaled to size 7.08101pt on input line 13.
 Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 13.
@@ -3646,25 +3534,15 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 13.
 
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
+
+LaTeX Warning: Citation 'rich_2009' on page 7 undefined on input line 13.
 
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
+LaTeX Warning: Citation 'rich_2009' on page 7 undefined on input line 13.
 
 
 LaTeX Warning: Marginpar on page 7 moved.
@@ -3686,7 +3564,7 @@ LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
 (Font)              scaled to size 7.65005pt on input line 24.
 LaTeX Font Info:    Font shape `T1/fvm/b/n' will be
 (Font)              scaled to size 7.65005pt on input line 25.
-<images//bored_programmer.jpg, id=552, 770.88pt x 770.88pt>
+<images//bored_programmer.jpg, id=509, 770.88pt x 770.88pt>
 File: images//bored_programmer.jpg Graphic file (type jpg)
 <use images//bored_programmer.jpg>
 Package pdftex.def Info: images//bored_programmer.jpg  used on input line 46.
@@ -3714,7 +3592,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 53--53
 [8 <./images//bored_programmer.jpg>] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//kasparov_fire.jpg, id=578, 770.88pt x 770.88pt>
+<images//kasparov_fire.jpg, id=534, 770.88pt x 770.88pt>
 File: images//kasparov_fire.jpg Graphic file (type jpg)
 <use images//kasparov_fire.jpg>
 Package pdftex.def Info: images//kasparov_fire.jpg  used on input line 66.
@@ -3763,7 +3641,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 79--79
 [9 <./images//kasparov_fire.jpg>] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//programmers_strike.png, id=593, 1122.1925pt x 1094.0875pt>
+<images//programmers_strike.png, id=550, 1122.1925pt x 1094.0875pt>
 File: images//programmers_strike.png Graphic file (type png)
 <use images//programmers_strike.png>
 Package pdftex.def Info: images//programmers_strike.png  used on input line 92.
@@ -3783,7 +3661,7 @@ LaTeX Warning: Marginpar on page 10 moved.
 [10 <./images//programmers_strike.png>] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//blackbox.jpg, id=603, 770.88pt x 770.88pt>
+<images//blackbox.jpg, id=560, 770.88pt x 770.88pt>
 File: images//blackbox.jpg Graphic file (type jpg)
 <use images//blackbox.jpg>
 Package pdftex.def Info: images//blackbox.jpg  used on input line 108.
@@ -3797,6 +3675,8 @@ Package marginnote Info: xpos seems to be 72.53856pt on input line 111.
 
 LaTeX Warning: Marginpar on page 11 moved.
 
+LaTeX Font Info:    Font shape `T1/zplLF/m/it' will be
+(Font)              scaled to size 7.76001pt on input line 123.
 ) (./chapters/chapter3.tex
 \openout4 = `main.mw'.
 
@@ -3858,7 +3738,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--2
 
 \openout4 = `main.mw'.
 
-<images//knowledge.png, id=640, 513.92pt x 513.92pt>
+
+LaTeX Warning: Citation 'hawkins2022' on page 12 undefined on input line 5.
+
+<images//knowledge.png, id=596, 513.92pt x 513.92pt>
 File: images//knowledge.png Graphic file (type png)
 <use images//knowledge.png>
 Package pdftex.def Info: images//knowledge.png  used on input line 15.
@@ -3878,7 +3761,7 @@ LaTeX Warning: Marginpar on page 12 moved.
  <./images//knowledge.png (PNG copy)>] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//OLSregression.png, id=658, 299.9205pt x 377.9721pt>
+<images//OLSregression.png, id=613, 299.9205pt x 377.9721pt>
 File: images//OLSregression.png Graphic file (type png)
 <use images//OLSregression.png>
 Package pdftex.def Info: images//OLSregression.png  used on input line 34.
@@ -3911,28 +3794,15 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 42.
 
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
+LaTeX Warning: Citation 'Aytekin' on page 13 undefined on input line 42.
 
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
 
 
-LaTeX Warning: Marginpar on page 13 moved.
+LaTeX Warning: Citation 'Aytekin' on page 13 undefined on input line 42.
 
 \openout4 = `main.mw'.
 
@@ -3966,7 +3836,7 @@ LaTeX Warning: Marginpar on page 16 moved.
 [16] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//trustworthysd.jpg, id=709, 770.88pt x 770.88pt>
+<images//trustworthysd.jpg, id=661, 770.88pt x 770.88pt>
 File: images//trustworthysd.jpg Graphic file (type jpg)
 <use images//trustworthysd.jpg>
 Package pdftex.def Info: images//trustworthysd.jpg  used on input line 128.
@@ -3984,9 +3854,15 @@ LaTeX Warning: Marginpar on page 17 moved.
 
 \openout4 = `main.mw'.
 
+
+LaTeX Warning: Citation 'chollet2022' on page 17 undefined on input line 133.
+
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
+
+
+LaTeX Warning: Citation 'chollet2022' on page 17 undefined on input line 136.
 
 \openout4 = `main.mw'.
 
@@ -4008,7 +3884,7 @@ LaTeX Warning: Marginpar on page 18 moved.
 
 LaTeX Warning: Marginpar on page 18 moved.
 
-<images//predictive_keyboard.png, id=719, 395.4775pt x 265.99374pt>
+<images//predictive_keyboard.png, id=668, 395.4775pt x 265.99374pt>
 File: images//predictive_keyboard.png Graphic file (type png)
 <use images//predictive_keyboard.png>
 Package pdftex.def Info: images//predictive_keyboard.png  used on input line 17
@@ -4041,7 +3917,11 @@ Underfull \hbox (badness 1087) in paragraph at lines 178--178
 
 \openout4 = `main.mw'.
 
-<images//sciencechat.png, id=751, 513.92pt x 513.92pt>
+
+
+LaTeX Warning: Citation 'chollet2022' on page 19 undefined on input line 185.
+
+<images//sciencechat.png, id=699, 513.92pt x 513.92pt>
 File: images//sciencechat.png Graphic file (type png)
 <use images//sciencechat.png>
 Package pdftex.def Info: images//sciencechat.png  used on input line 190.
@@ -4051,7 +3931,6 @@ Package marginnote Info: Margin note 29.1 is on absolute page 29 on input line
 Package marginnote Info: right page because not two side mode on input line 193
 .
 Package marginnote Info: xpos seems to be 72.53856pt on input line 193.
-
 
 LaTeX Warning: Marginpar on page 19 moved.
 
@@ -4157,7 +4036,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--2
  [][][][]\T1/zplLF/b/n/9 (+20) Transfer Learn-ing Ev-ery- 
  []
 
-<images//jobsweed.png, id=820, 513.92pt x 513.92pt>
+<images//jobsweed.png, id=767, 513.92pt x 513.92pt>
 File: images//jobsweed.png Graphic file (type png)
 <use images//jobsweed.png>
 Package pdftex.def Info: images//jobsweed.png  used on input line 26.
@@ -4177,7 +4056,7 @@ LaTeX Warning: Marginpar on page 22 moved.
  <./images//jobsweed.png (PNG copy)>] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//batman.png, id=834, 513.92pt x 513.92pt>
+<images//batman.png, id=782, 513.92pt x 513.92pt>
 File: images//batman.png Graphic file (type png)
 <use images//batman.png>
 Package pdftex.def Info: images//batman.png  used on input line 38.
@@ -4191,7 +4070,7 @@ Package marginnote Info: xpos seems to be 72.53856pt on input line 41.
 
 LaTeX Warning: Marginpar on page 23 moved.
 
-<images//drillart.png, id=835, 513.92pt x 513.92pt>
+<images//drillart.png, id=783, 513.92pt x 513.92pt>
 File: images//drillart.png Graphic file (type png)
 <use images//drillart.png>
 Package pdftex.def Info: images//drillart.png  used on input line 54.
@@ -4210,7 +4089,7 @@ LaTeX Warning: Marginpar on page 23 moved.
 (./main.mw)
 \openout4 = `main.mw'.
 
-<images//duchamp.jpg, id=842, 369.38pt x 482.80376pt>
+<images//duchamp.jpg, id=790, 369.38pt x 482.80376pt>
 File: images//duchamp.jpg Graphic file (type jpg)
 <use images//duchamp.jpg>
 Package pdftex.def Info: images//duchamp.jpg  used on input line 77.
@@ -4233,7 +4112,7 @@ LaTeX Warning: Marginpar on page 24 moved.
 [24 <./images//duchamp.jpg>] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//plastic.jpg, id=851, 770.88pt x 770.88pt>
+<images//plastic.jpg, id=799, 770.88pt x 770.88pt>
 File: images//plastic.jpg Graphic file (type jpg)
 <use images//plastic.jpg>
 Package pdftex.def Info: images//plastic.jpg  used on input line 94.
@@ -4257,29 +4136,22 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 115.
 
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
+
+
+LaTeX Warning: Citation 'Christian2020' on page 26 undefined on input line 115.
+
 
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
+
+LaTeX Warning: Citation 'Christian2020' on page 26 undefined on input line 115.
+
 
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
- [26] (./main.mw)
+[26] (./main.mw)
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
@@ -4292,31 +4164,25 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 154.
 
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
+
+
+LaTeX Warning: Citation 'Carlini2023' on page 28 undefined on input line 154.
 
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
+
+LaTeX Warning: Citation 'Carlini2023' on page 28 undefined on input line 154.
 
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
+LaTeX Warning: Citation 'getty' on page 28 undefined on input line 162.
 
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-<images//getty.png, id=874, 2254.4225pt x 1379.1525pt>
+<images//getty.png, id=816, 2254.4225pt x 1379.1525pt>
 File: images//getty.png Graphic file (type png)
 <use images//getty.png>
 Package pdftex.def Info: images//getty.png  used on input line 167.
@@ -4326,7 +4192,6 @@ Package marginnote Info: Margin note 38.1 is on absolute page 38 on input line
 Package marginnote Info: right page because not two side mode on input line 170
 .
 Package marginnote Info: xpos seems to be 72.53856pt on input line 170.
-
 
 LaTeX Warning: Marginpar on page 28 moved.
 
@@ -4340,58 +4205,46 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 180.
 
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
+
+
+LaTeX Warning: Citation 'kasparov2005' on page 29 undefined on input line 180.
 
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
+LaTeX Warning: Citation 'kasparov2005' on page 29 undefined on input line 180.
 
 Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 184.
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
+
+LaTeX Warning: Citation 'mansharamani2020' on page 29 undefined on input line 1
+84.
 
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
+
+LaTeX Warning: Citation 'mansharamani2020' on page 29 undefined on input line 1
+84.
+
+
+Overfull \hbox (35.70026pt too wide) in paragraph at lines 184--185
+\T1/zplLF/m/n/10 (-20) blindly trust AI, but we can use it to in-spire and chal
+-lenge us.[[]] 
+ []
 
 \openout4 = `main.mw'.
 
+[29] (./main.mw)
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
- [29] (./main.mw)
-\openout4 = `main.mw'.
-
-)
-(./chapters/chapter5.tex
+) (./chapters/chapter5.tex
 \openout4 = `main.mw'.
 
  [30] (./main.mw)
@@ -4416,6 +4269,9 @@ LaTeX Font Info:    Font shape `T1/zplLF/b/n' will be
 
 \openout4 = `main.mw'.
 
+
+LaTeX Warning: Citation 'procrustes' on page 31 undefined on input line 21.
+
 \openout4 = `main.mw'.
 
 [31
@@ -4428,7 +4284,7 @@ LaTeX Font Info:    Font shape `T1/zplLF/b/n' will be
  [32] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//fluid.png, id=1017, 513.92pt x 513.92pt>
+<images//fluid.png, id=948, 513.92pt x 513.92pt>
 File: images//fluid.png Graphic file (type png)
 <use images//fluid.png>
 Package pdftex.def Info: images//fluid.png  used on input line 63.
@@ -4447,7 +4303,7 @@ LaTeX Warning: Marginpar on page 33 moved.
 [33 <./images//fluid.png (PNG copy)>] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//shakebot.png, id=1026, 513.92pt x 513.92pt>
+<images//shakebot.png, id=957, 513.92pt x 513.92pt>
 File: images//shakebot.png Graphic file (type png)
 <use images//shakebot.png>
 Package pdftex.def Info: images//shakebot.png  used on input line 90.
@@ -4466,7 +4322,7 @@ LaTeX Warning: Marginpar on page 34 moved.
 [34 <./images//shakebot.png (PNG copy)>] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//lithium.png, id=1038, 513.92pt x 513.92pt>
+<images//lithium.png, id=969, 513.92pt x 513.92pt>
 File: images//lithium.png Graphic file (type png)
 <use images//lithium.png>
 Package pdftex.def Info: images//lithium.png  used on input line 115.
@@ -4485,7 +4341,7 @@ LaTeX Warning: Marginpar on page 35 moved.
 [35 <./images//lithium.png (PNG copy)>] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//chessmodelcard.png, id=1047, 513.92pt x 513.92pt>
+<images//chessmodelcard.png, id=979, 513.92pt x 513.92pt>
 File: images//chessmodelcard.png Graphic file (type png)
 <use images//chessmodelcard.png>
 Package pdftex.def Info: images//chessmodelcard.png  used on input line 141.
@@ -4509,32 +4365,23 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 160.
 
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
+
+
+LaTeX Warning: Citation 'sillygo' on page 37 undefined on input line 160.
 
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
+
+LaTeX Warning: Citation 'sillygo' on page 37 undefined on input line 160.
 
 \openout4 = `main.mw'.
 
+[37] (./main.mw)
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
- [37] (./main.mw)
-\openout4 = `main.mw'.
-
-<images//gobaby.png, id=1068, 513.92pt x 513.92pt>
+<images//gobaby.png, id=998, 513.92pt x 513.92pt>
 File: images//gobaby.png Graphic file (type png)
 <use images//gobaby.png>
 Package pdftex.def Info: images//gobaby.png  used on input line 167.
@@ -4553,7 +4400,7 @@ LaTeX Warning: Marginpar on page 38 moved.
 [38 <./images//gobaby.png (PNG copy)>] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//buffett.png, id=1080, 513.92pt x 513.92pt>
+<images//buffett.png, id=1009, 513.92pt x 513.92pt>
 File: images//buffett.png Graphic file (type png)
 <use images//buffett.png>
 Package pdftex.def Info: images//buffett.png  used on input line 194.
@@ -4572,7 +4419,7 @@ LaTeX Warning: Marginpar on page 39 moved.
 [39 <./images//buffett.png (PNG copy)>] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//nysebot.png, id=1088, 513.92pt x 513.92pt>
+<images//nysebot.png, id=1017, 513.92pt x 513.92pt>
 File: images//nysebot.png Graphic file (type png)
 <use images//nysebot.png>
 Package pdftex.def Info: images//nysebot.png  used on input line 214.
@@ -4601,30 +4448,20 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 250.
 
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
+
+
+LaTeX Warning: Citation 'skindark' on page 42 undefined on input line 250.
 
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
+
+LaTeX Warning: Citation 'skindark' on page 42 undefined on input line 250.
 
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
- [42]
-(./main.mw)
+[42] (./main.mw)
 \openout4 = `main.mw'.
 
 Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 270.
@@ -4632,29 +4469,20 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 270.
 
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
+
+
+LaTeX Warning: Citation 'innocence' on page 43 undefined on input line 270.
 
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
+
+LaTeX Warning: Citation 'innocence' on page 43 undefined on input line 270.
 
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
- [43] (./main.mw)
+[43] (./main.mw)
 \openout4 = `main.mw'.
 
 Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 290.
@@ -4662,29 +4490,20 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 290.
 
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
+
+
+LaTeX Warning: Citation 'ptliver' on page 44 undefined on input line 290.
 
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
+
+LaTeX Warning: Citation 'ptliver' on page 44 undefined on input line 290.
 
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
- [44] (./main.mw)
+[44] (./main.mw)
 \openout4 = `main.mw'.
 
 Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 309.
@@ -4692,32 +4511,23 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 309.
 
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
+
+
+LaTeX Warning: Citation 'cacmautism' on page 45 undefined on input line 309.
 
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
+
+LaTeX Warning: Citation 'cacmautism' on page 45 undefined on input line 309.
 
 \openout4 = `main.mw'.
 
+[45] (./main.mw)
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
- [45] (./main.mw)
-\openout4 = `main.mw'.
-
-<images//couple.jpg, id=1150, 770.88pt x 770.88pt>
+<images//couple.jpg, id=1067, 770.88pt x 770.88pt>
 File: images//couple.jpg Graphic file (type jpg)
 <use images//couple.jpg>
 Package pdftex.def Info: images//couple.jpg  used on input line 322.
@@ -4766,57 +4576,38 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 391.
 
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
+
+
+LaTeX Warning: Citation 'wokeai' on page 50 undefined on input line 391.
 
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
+LaTeX Warning: Citation 'wokeai' on page 50 undefined on input line 391.
 
 Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 394.
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
+
+LaTeX Warning: Citation 'fbaccenture' on page 50 undefined on input line 394.
 
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
+
+LaTeX Warning: Citation 'fbaccenture' on page 50 undefined on input line 394.
 
 \openout4 = `main.mw'.
 
+[50] (./main.mw)
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
- [50] (./main.mw)
-\openout4 = `main.mw'.
-
-<images//fakenews.jpg, id=1204, 770.88pt x 770.88pt>
+<images//fakenews.jpg, id=1116, 770.88pt x 770.88pt>
 File: images//fakenews.jpg Graphic file (type jpg)
 <use images//fakenews.jpg>
 Package pdftex.def Info: images//fakenews.jpg  used on input line 417.
@@ -4850,33 +4641,23 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 472.
 
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
+
+
+LaTeX Warning: Citation 'nyt911' on page 54 undefined on input line 472.
 
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
+
+LaTeX Warning: Citation 'nyt911' on page 54 undefined on input line 472.
 
 \openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
 
 [54] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//berlin.jpg, id=1240, 770.88pt x 770.88pt>
+<images//berlin.jpg, id=1149, 770.88pt x 770.88pt>
 File: images//berlin.jpg Graphic file (type jpg)
 <use images//berlin.jpg>
 Package pdftex.def Info: images//berlin.jpg  used on input line 486.
@@ -4900,32 +4681,23 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 496.
 
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
+
+
+LaTeX Warning: Citation 'darpabot' on page 56 undefined on input line 496.
 
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
+
+LaTeX Warning: Citation 'darpabot' on page 56 undefined on input line 496.
 
 \openout4 = `main.mw'.
 
+[56] (./main.mw)
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
- [56] (./main.mw)
-\openout4 = `main.mw'.
-
-<images//harvardgirls.png, id=1264, 513.92pt x 513.92pt>
+<images//harvardgirls.png, id=1169, 513.92pt x 513.92pt>
 File: images//harvardgirls.png Graphic file (type png)
 <use images//harvardgirls.png>
 Package pdftex.def Info: images//harvardgirls.png  used on input line 524.
@@ -4955,7 +4727,7 @@ LaTeX Warning: Marginpar on page 57 moved.
 [59] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//socialcredit.png, id=1296, 513.92pt x 513.92pt>
+<images//socialcredit.png, id=1202, 513.92pt x 513.92pt>
 File: images//socialcredit.png Graphic file (type png)
 <use images//socialcredit.png>
 Package pdftex.def Info: images//socialcredit.png  used on input line 570.
@@ -4974,7 +4746,7 @@ LaTeX Warning: Marginpar on page 60 moved.
 [60 <./images//socialcredit.png (PNG copy)>] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//agi.png, id=1303, 513.92pt x 513.92pt>
+<images//agi.png, id=1209, 513.92pt x 513.92pt>
 File: images//agi.png Graphic file (type png)
 <use images//agi.png>
 Package pdftex.def Info: images//agi.png  used on input line 589.
@@ -4993,25 +4765,15 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 594.
 
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
+
+LaTeX Warning: Citation 'openaimisuse' on page 61 undefined on input line 594.
 
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
+LaTeX Warning: Citation 'openaimisuse' on page 61 undefined on input line 594.
 
 \openout4 = `main.mw'.
 
@@ -5060,9 +4822,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--2
 
 \openout4 = `main.mw'.
 
+
+LaTeX Warning: Citation 'nees2021' on page 63 undefined on input line 5.
+
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
+
+
+LaTeX Warning: Citation 'torchinsky_boeckmann_2019' on page 63 undefined on inp
+ut line 13.
 
 LaTeX Font Info:    Trying to load font information for TS1+zplLF on input line
  26.
@@ -5103,9 +4872,14 @@ Overfull \hbox (8.92125pt too wide) in paragraph at lines 87--88
 
 \openout4 = `main.mw'.
 
+
+
+LaTeX Warning: Citation 'trustworthyml' on page 66 undefined on input line 114.
+
+
 \openout4 = `main.mw'.
 
- [66] (./main.mw)
+[66] (./main.mw)
 \openout4 = `main.mw'.
 
 Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 130.
@@ -5113,25 +4887,16 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 130.
 
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
+
+
+LaTeX Warning: Citation 'nocarkids' on page 67 undefined on input line 130.
 
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
+LaTeX Warning: Citation 'nocarkids' on page 67 undefined on input line 130.
 
 ) (./chapters/chapter7.tex
 \openout4 = `main.mw'.
@@ -5154,6 +4919,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--2
 
 \openout4 = `main.mw'.
 
+
+LaTeX Warning: Citation 'hawkins2022' on page 68 undefined on input line 5.
+
 \openout4 = `main.mw'.
 
 [68
@@ -5166,25 +4934,16 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 43.
 
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
+
+
+LaTeX Warning: Citation 'aiwarfare' on page 69 undefined on input line 43.
 
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
+LaTeX Warning: Citation 'aiwarfare' on page 69 undefined on input line 43.
 
 
 Overfull \hbox (113.21104pt too wide) in paragraph at lines 54--55
@@ -5228,9 +4987,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--2
 
 \openout4 = `main.mw'.
 
+
+LaTeX Warning: Citation 'Keynes2012' on page 71 undefined on input line 5.
+
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
+
+
+LaTeX Warning: Citation 'Lecarre' on page 71 undefined on input line 7.
 
 
 Overfull \hbox (89.60587pt too wide) in paragraph at lines 13--14
@@ -5243,25 +5008,15 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 17.
 
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
+
+LaTeX Warning: Citation 'KrohnTED' on page 71 undefined on input line 17.
 
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
+LaTeX Warning: Citation 'KrohnTED' on page 71 undefined on input line 17.
 
 
 Overfull \hbox (155.92638pt too wide) in paragraph at lines 21--22
@@ -5297,6 +5052,9 @@ Overfull \hbox (46.65576pt too wide) in paragraph at lines 35--36
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
+
+
+LaTeX Warning: Citation 'marcus2023' on page 72 undefined on input line 39.
 
 \openout4 = `main.mw'.
 
@@ -5382,27 +5140,8 @@ Package marginnote Info: xpos seems to be 72.53856pt on input line 2.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-chapter without number
-LaTeX Font Info:    Font shape `T1/zplLF/m/sc' will be
-(Font)              scaled to size 9.70001pt on input line 255.
-Package microtype Info: Character `029' is missing
-(microtype)             in font `T1/zplLF/m/sc/10'.
-(microtype)             Ignoring protrusion settings for this character.
-\openout4 = `main.mw'.
 
-[75
-
-
-
-
-] (./main.mw)
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
- [76] (./main.mw)
-\openout4 = `main.mw'.
-
+LaTeX Warning: Empty bibliography on input line 255.
 
 
 Package glossaries Warning: No \printglossary or \printglossaries found. 
@@ -5411,7 +5150,6 @@ This document will not have a glossary.
 
 \openout4 = `main.mw'.
 
-[77] (./main.mw)
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
@@ -5582,15 +5320,7 @@ This document will not have a glossary.
 
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
- (./main.aux
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
+(./main.aux
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
@@ -6428,6 +6158,14 @@ This document will not have a glossary.
 \openout4 = `main.mw'.
 
 )
+
+LaTeX Warning: There were undefined references.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                main
+(biblatex)                and rerun LaTeX afterwards.
+
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
@@ -6447,31 +6185,30 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 59642 strings out of 478287
- 1173591 string characters out of 5849289
- 2378336 words of memory out of 5000000
- 75779 multiletter control sequences out of 15000+600000
- 601306 words of font info for 361 fonts, out of 8000000 for 9000
+ 59158 strings out of 478287
+ 1162054 string characters out of 5849289
+ 2373803 words of memory out of 5000000
+ 75378 multiletter control sequences out of 15000+600000
+ 596083 words of font info for 345 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 133i,20n,159p,10596b,2877s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-lf-pc.enc}{/usr/s
-hare/texlive/texmf-dist/fonts/enc/dvips/newpx/zpl_OsF.enc}{/usr/share/texlive/t
-exmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texlive/texmf-dist/fonts/enc/
-dvips/newtx/ntx-ecth-tlf.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/new
-tx/ntx-ec-lf.enc}{/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ec.enc}</usr/shar
-e/texlive/texmf-dist/fonts/type1/public/newpx/NewPXMI.pfb></usr/share/texlive/t
-exmf-dist/fonts/type1/public/bera/fvmb8a.pfb></usr/share/texlive/texmf-dist/fon
-ts/type1/public/bera/fvmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
-ic/newpx/pxmiaX.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newpx/pxs
-ys.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qhvb.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/txfonts/txsya.pfb></usr/share/texlive/texmf-di
-st/fonts/type1/public/newpx/zplb.pfb></usr/share/texlive/texmf-dist/fonts/type1
-/public/newpx/zplr.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newpx/
-zplri.pfb>
-Output written on main.pdf (86 pages, 14242597 bytes).
+ 133i,20n,159p,10596b,2393s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/newpx/zpl_OsF.enc}{/usr/share/
+texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texlive/texmf-dist/f
+onts/enc/dvips/newtx/ntx-ecth-tlf.enc}{/usr/share/texlive/texmf-dist/fonts/enc/
+dvips/newtx/ntx-ec-lf.enc}{/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ec.enc}<
+/usr/share/texlive/texmf-dist/fonts/type1/public/newpx/NewPXMI.pfb></usr/share/
+texlive/texmf-dist/fonts/type1/public/bera/fvmb8a.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/public/bera/fvmr8a.pfb></usr/share/texlive/texmf-dist/fonts/t
+ype1/public/newpx/pxmiaX.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
+newpx/pxsys.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qhvb.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/public/txfonts/txsya.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/public/newpx/zplb.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/public/newpx/zplr.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
+ic/newpx/zplri.pfb>
+Output written on main.pdf (83 pages, 14217024 bytes).
 PDF statistics:
- 2017 PDF objects out of 2073 (max. 8388607)
- 1833 compressed objects within 19 object streams
- 442 named destinations out of 1000 (max. 500000)
- 54563 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 1752 PDF objects out of 2073 (max. 8388607)
+ 1575 compressed objects within 16 object streams
+ 396 named destinations out of 1000 (max. 500000)
+ 52507 words of extra memory for PDF output out of 61914 (max. 10000000)
 
