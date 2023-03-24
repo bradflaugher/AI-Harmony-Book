@@ -2546,9 +2546,11 @@
     <bcf:citekey order="181">saferalgorithmicsystems</bcf:citekey>
     <bcf:citekey order="182">Keynes2012</bcf:citekey>
     <bcf:citekey order="183">Lecarre</bcf:citekey>
-    <bcf:citekey order="184">KrohnTED</bcf:citekey>
-    <bcf:citekey order="185">marcus2023</bcf:citekey>
-    <bcf:citekey order="186">Kahneman2011</bcf:citekey>
+    <bcf:citekey order="184">procrustes</bcf:citekey>
+    <bcf:citekey order="185">newyorkerChatGPTBlurry</bcf:citekey>
+    <bcf:citekey order="186">marcus2023</bcf:citekey>
+    <bcf:citekey order="187">KrohnTED</bcf:citekey>
+    <bcf:citekey order="188">procrustes</bcf:citekey>
     <bcf:citekeycount count="1">dontfearterminator</bcf:citekeycount>
     <bcf:citekeycount count="3">copyrighteconocmist</bcf:citekeycount>
     <bcf:citekeycount count="3">OGrady2015</bcf:citekeycount>
@@ -2560,7 +2562,7 @@
     <bcf:citekeycount count="3">peopleusingAIhappy</bcf:citekeycount>
     <bcf:citekeycount count="3">protopia</bcf:citekeycount>
     <bcf:citekeycount count="3">finaieconomist</bcf:citekeycount>
-    <bcf:citekeycount count="3">newyorkerChatGPTBlurry</bcf:citekeycount>
+    <bcf:citekeycount count="4">newyorkerChatGPTBlurry</bcf:citekeycount>
     <bcf:citekeycount count="1">welsh2023</bcf:citekeycount>
     <bcf:citekeycount count="3">rich_2009</bcf:citekeycount>
     <bcf:citekeycount count="2">hawkins2022</bcf:citekeycount>
@@ -2571,7 +2573,7 @@
     <bcf:citekeycount count="1">getty</bcf:citekeycount>
     <bcf:citekeycount count="3">kasparov2005</bcf:citekeycount>
     <bcf:citekeycount count="3">mansharamani2020</bcf:citekeycount>
-    <bcf:citekeycount count="1">procrustes</bcf:citekeycount>
+    <bcf:citekeycount count="3">procrustes</bcf:citekeycount>
     <bcf:citekeycount count="3">sillygo</bcf:citekeycount>
     <bcf:citekeycount count="3">skindark</bcf:citekeycount>
     <bcf:citekeycount count="3">innocence</bcf:citekeycount>
@@ -2594,9 +2596,8 @@
     <bcf:citekeycount count="1">saferalgorithmicsystems</bcf:citekeycount>
     <bcf:citekeycount count="1">Keynes2012</bcf:citekeycount>
     <bcf:citekeycount count="1">Lecarre</bcf:citekeycount>
-    <bcf:citekeycount count="1">KrohnTED</bcf:citekeycount>
     <bcf:citekeycount count="1">marcus2023</bcf:citekeycount>
-    <bcf:citekeycount count="0">Kahneman2011</bcf:citekeycount>
+    <bcf:citekeycount count="1">KrohnTED</bcf:citekeycount>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">

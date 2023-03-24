@@ -186,25 +186,21 @@
 \contentsline {chapter}{\numberline {8}Revolutionary for Whom?}{68}{chapter.8}%
 \etoc@startlocaltoc {16}
 \etoc@startlocaltoc {17}
-\contentsline {section}{\numberline {8.1}Comparing AI Assistants}{68}{section.8.1}%
-\contentsline {mtocsection}{\numberline {8.1}Comparing AI Assistants}{68}{section.8.1}%
+\contentsline {section}{\numberline {8.1}Assistance from Assistants}{68}{section.8.1}%
+\contentsline {mtocsection}{\numberline {8.1}Assistance from Assistants}{68}{section.8.1}%
 \contentsline {section}{\numberline {8.2}The AI Advantage in the Workplace}{68}{section.8.2}%
 \contentsline {mtocsection}{\numberline {8.2}The AI Advantage in the Workplace}{68}{section.8.2}%
-\contentsline {section}{\numberline {8.3}The Pace of AI Adoption}{68}{section.8.3}%
-\contentsline {mtocsection}{\numberline {8.3}The Pace of AI Adoption}{68}{section.8.3}%
-\contentsline {section}{\numberline {8.4}AI's Legal and Ethical Challenges}{68}{section.8.4}%
-\contentsline {mtocsection}{\numberline {8.4}AI's Legal and Ethical Challenges}{68}{section.8.4}%
-\contentsline {section}{\numberline {8.5}The Limitations of AI-generated Content}{68}{section.8.5}%
-\contentsline {mtocsection}{\numberline {8.5}The Limitations of AI-generated Content}{68}{section.8.5}%
-\contentsline {section}{\numberline {8.6}AI and Decision-making: Thinking Fast and Slow}{69}{section.8.6}%
-\contentsline {mtocsection}{\numberline {8.6}AI and Decision-making: Thinking Fast and Slow}{69}{section.8.6}%
-\contentsline {section}{\numberline {8.7}The Dangers of Predictable Routines}{69}{section.8.7}%
-\contentsline {mtocsection}{\numberline {8.7}The Dangers of Predictable Routines}{69}{section.8.7}%
-\contentsline {section}{\numberline {8.8}AI's Impact on Content Creation}{69}{section.8.8}%
-\contentsline {mtocsection}{\numberline {8.8}AI's Impact on Content Creation}{69}{section.8.8}%
-\contentsline {section}{\numberline {8.9}Navigating AI's Impact on Careers}{69}{section.8.9}%
-\contentsline {mtocsection}{\numberline {8.9}Navigating AI's Impact on Careers}{69}{section.8.9}%
-\contentsline {chapter}{\numberline {9}Errors and Omissions}{71}{chapter.9}%
+\contentsline {section}{\numberline {8.3}The Limitations of AI-generated Content}{68}{section.8.3}%
+\contentsline {mtocsection}{\numberline {8.3}The Limitations of AI-generated Content}{68}{section.8.3}%
+\contentsline {section}{\numberline {8.4}The "Organic Content" Market}{69}{section.8.4}%
+\contentsline {mtocsection}{\numberline {8.4}The "Organic Content" Market}{69}{section.8.4}%
+\contentsline {section}{\numberline {8.5}A Framework for Navigating AI's Impact on Careers}{69}{section.8.5}%
+\contentsline {mtocsection}{\numberline {8.5}A Framework for Navigating AI's Impact on Careers}{69}{section.8.5}%
+\contentsline {section}{\numberline {8.6}Worse, but still on top}{69}{section.8.6}%
+\contentsline {mtocsection}{\numberline {8.6}Worse, but still on top}{69}{section.8.6}%
+\contentsline {section}{\numberline {8.7}Dead Inside}{69}{section.8.7}%
+\contentsline {mtocsection}{\numberline {8.7}Dead Inside}{69}{section.8.7}%
+\contentsline {chapter}{\numberline {9}Errors and Omissions}{70}{chapter.9}%
 \etoc@startlocaltoc {18}
 \etoc@startlocaltoc {19}
-\contentsline {chapter}{\nonumberline Bibliography}{72}{chapter*.46}%
+\contentsline {chapter}{\nonumberline Bibliography}{71}{chapter*.46}%
