@@ -13,9 +13,7 @@
 
 ## TODOs for AI Harmony
 
-* Fix references in chapter 8
 * Write chapter 6
-* Remove References to Self-Driving, Skynet etc.. title
 
 * Review [Stephanie's Notes](https://docs.google.com/document/d/1hxqyawww7Se_UzsjvAdkrmKq306LOyiypu3TzQg-1nM/edit#)
 * Create Pre-Order PDF in the store.bradflaugher.com once a draft is done.

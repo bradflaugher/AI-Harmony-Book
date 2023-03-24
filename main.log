@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.2.13)  24 MAR 2023 16:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.2.13)  24 MAR 2023 16:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2154,13 +2154,13 @@ File: setspace.hak 2021/11/13 v3.35 KOMA-Script scrhack part (hacking package s
 etspace)
 ))
 LaTeX Font Info:    Trying to load font information for T1+zplLF on input line 
-94.
+93.
 
 (/usr/share/texlive/texmf-dist/tex/latex/newpx/t1zpllf.fd
 File: t1zpllf.fd 2021/05/25 v1.0 font definition file for T1/zpl/LF
 )
 LaTeX Font Info:    Font shape `T1/zplLF/m/n' will be
-(Font)              scaled to size 9.70001pt on input line 94.
+(Font)              scaled to size 9.70001pt on input line 93.
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
@@ -2168,55 +2168,55 @@ Package csquotes Info: Redefining alias 'default' -> 'english'.
  (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/npxmi/m/it on input line 94.
+LaTeX Font Info:    Checking defaults for OML/npxmi/m/it on input line 93.
 LaTeX Font Info:    Trying to load font information for OML+npxmi on input line
- 94.
+ 93.
 
 (/usr/share/texlive/texmf-dist/tex/latex/newpx/omlnpxmi.fd
 File: omlnpxmi.fd 2013/03/21 Fontinst v1.933 font definitions for OML/npxmi.
 )
-LaTeX Font Info:    ... okay on input line 94.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 94.
-LaTeX Font Info:    ... okay on input line 94.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 94.
-LaTeX Font Info:    ... okay on input line 94.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 94.
-LaTeX Font Info:    ... okay on input line 94.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 94.
-LaTeX Font Info:    ... okay on input line 94.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 94.
-LaTeX Font Info:    ... okay on input line 94.
-LaTeX Font Info:    Checking defaults for U/npxexa/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for U/npxexa/m/n on input line 93.
 LaTeX Font Info:    Trying to load font information for U+npxexa on input line 
-94.
+93.
 
 (/usr/share/texlive/texmf-dist/tex/latex/newpx/unpxexa.fd
 File: unpxexa.fd 2013/03/24 Fontinst v1.933 font definitions for U/npxexa.
 )
-LaTeX Font Info:    ... okay on input line 94.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 94.
-LaTeX Font Info:    ... okay on input line 94.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 94.
-LaTeX Font Info:    ... okay on input line 94.
-LaTeX Font Info:    Checking defaults for LMS/npxsy/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for LMS/npxsy/m/n on input line 93.
 LaTeX Font Info:    Trying to load font information for LMS+npxsy on input line
- 94.
+ 93.
 
 (/usr/share/texlive/texmf-dist/tex/latex/newpx/lmsnpxsy.fd
 File: lmsnpxsy.fd 2016/07/04 Fontinst v1.933 font definitions for LMS/npxsy.
 )
-LaTeX Font Info:    ... okay on input line 94.
-LaTeX Font Info:    Checking defaults for LMX/npxexx/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for LMX/npxexx/m/n on input line 93.
 LaTeX Font Info:    Trying to load font information for LMX+npxexx on input lin
-e 94.
+e 93.
 
 (/usr/share/texlive/texmf-dist/tex/latex/newpx/lmxnpxexx.fd
 File: lmxnpxexx.fd 2016/07/04 Fontinst v1.933 font definitions for LMX/npxexx.
 )
-LaTeX Font Info:    ... okay on input line 94.
-Package scrbase Info: activating english \contentsname on input line 94.
-Package scrbase Info: activating english \listfigurename on input line 94.
-Package scrbase Info: activating english \listtablename on input line 94.
+LaTeX Font Info:    ... okay on input line 93.
+Package scrbase Info: activating english \contentsname on input line 93.
+Package scrbase Info: activating english \listfigurename on input line 93.
+Package scrbase Info: activating english \listtablename on input line 93.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -2306,18 +2306,18 @@ e
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \microtypecontext on input line 94.
-Package microtype Info: Applying patch `item' on input line 94.
-Package microtype Info: Applying patch `toc' on input line 94.
-Package microtype Info: Applying patch `eqnum' on input line 94.
-Package microtype Info: Applying patch `footnote' on input line 94.
+LaTeX Info: Redefining \microtypecontext on input line 93.
+Package microtype Info: Applying patch `item' on input line 93.
+Package microtype Info: Applying patch `toc' on input line 93.
+Package microtype Info: Applying patch `eqnum' on input line 93.
+Package microtype Info: Applying patch `footnote' on input line 93.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 94.
+LaTeX Info: Redefining \showhyphens on input line 93.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -2342,7 +2342,7 @@ Package caption Info: rotating package is loaded.
 Package caption Info: supertabular package is loaded.
 Package caption Info: End \AtBeginDocument code.
 \@sidenotes@extrawidth=\skip302
-Package hyperref Info: Link coloring ON on input line 94.
+Package hyperref Info: Link coloring ON on input line 93.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
@@ -2356,10 +2356,10 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 \c@section@level=\count587
 LaTeX Info: Redefining \Ref on input line 520.
 )
-LaTeX Info: Redefining \ref on input line 94.
-LaTeX Info: Redefining \pageref on input line 94.
-LaTeX Info: Redefining \nameref on input line 94.
-LaTeX Info: Redefining \Ref on input line 94.
+LaTeX Info: Redefining \ref on input line 93.
+LaTeX Info: Redefining \pageref on input line 93.
+LaTeX Info: Redefining \nameref on input line 93.
+LaTeX Info: Redefining \Ref on input line 93.
 \c@lstlisting=\count588
 
 (/usr/share/texlive/texmf-dist/tex/latex/floatrow/fr-longtable.sty
@@ -2416,38 +2416,38 @@ Package biblatex Warning: The following entry could not be found
 (biblatex)                LaTeX afterwards.
 
 )
-Package biblatex Info: Reference section=0 on input line 94.
-Package biblatex Info: Reference segment=0 on input line 94.
-Package scrhack Info: undefining \float@addtolists on input line 94.
+Package biblatex Info: Reference section=0 on input line 93.
+Package biblatex Info: Reference segment=0 on input line 93.
+Package scrhack Info: undefining \float@addtolists on input line 93.
 <cover.pdf, id=7, 365.6862pt x 564.42871pt>
 File: cover.pdf Graphic file (type pdf)
 <use cover.pdf>
-Package pdftex.def Info: cover.pdf  used on input line 103.
+Package pdftex.def Info: cover.pdf  used on input line 102.
 (pdftex.def)             Requested size: 312.98859pt x 483.09108pt.
 File: cover.pdf Graphic file (type pdf)
 <use cover.pdf>
-Package pdftex.def Info: cover.pdf  used on input line 103.
+Package pdftex.def Info: cover.pdf  used on input line 102.
 (pdftex.def)             Requested size: 312.98859pt x 483.09108pt.
 <cover.pdf, id=10, page=1, 365.6862pt x 564.42871pt>
 File: cover.pdf Graphic file (type pdf)
 <use cover.pdf, page 1>
-Package pdftex.def Info: cover.pdf , page1 used on input line 103.
+Package pdftex.def Info: cover.pdf , page1 used on input line 102.
 (pdftex.def)             Requested size: 365.6853pt x 564.42732pt.
 File: cover.pdf Graphic file (type pdf)
 <use cover.pdf, page 1>
-Package pdftex.def Info: cover.pdf , page1 used on input line 103.
+Package pdftex.def Info: cover.pdf , page1 used on input line 102.
 (pdftex.def)             Requested size: 514.47931pt x 794.08763pt.
 File: cover.pdf Graphic file (type pdf)
 <use cover.pdf, page 1>
-Package pdftex.def Info: cover.pdf , page1 used on input line 103.
+Package pdftex.def Info: cover.pdf , page1 used on input line 102.
 (pdftex.def)             Requested size: 514.47931pt x 794.08763pt.
 File: cover.pdf Graphic file (type pdf)
 <use cover.pdf, page 1>
-Package pdftex.def Info: cover.pdf , page1 used on input line 103.
+Package pdftex.def Info: cover.pdf , page1 used on input line 102.
 (pdftex.def)             Requested size: 514.47931pt x 794.08763pt.
 File: cover.pdf Graphic file (type pdf)
 <use cover.pdf, page 1>
-Package pdftex.def Info: cover.pdf , page1 used on input line 103.
+Package pdftex.def Info: cover.pdf , page1 used on input line 102.
 (pdftex.def)             Requested size: 514.47931pt x 794.08763pt.
 \openout4 = `main.mw'.
 
@@ -2946,41 +2946,41 @@ Package pdftex.def Info: cover.pdf , page1 used on input line 103.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    Trying to load font information for T1+qhv on input line 17
-6.
+5.
  (/usr/share/texmf/tex/latex/tex-gyre/t1qhv.fd
 File: t1qhv.fd 2009/09/25 v1.2 font definition file for T1/qhv
 )
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
-(Font)              scaled to size 9.02084pt on input line 176.
+(Font)              scaled to size 9.02084pt on input line 175.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `qhv' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
-(Font)              scaled to size 9.02084pt on input line 176.
+(Font)              scaled to size 9.02084pt on input line 175.
 LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
-(Font)              scaled to size 18.70923pt on input line 176.
+(Font)              scaled to size 18.70923pt on input line 175.
 LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
-(Font)              scaled to size 10.82501pt on input line 176.
+(Font)              scaled to size 10.82501pt on input line 175.
 LaTeX Font Info:    Font shape `T1/zplLF/m/n' will be
-(Font)              scaled to size 13.968pt on input line 176.
+(Font)              scaled to size 13.968pt on input line 175.
 LaTeX Font Info:    Trying to load font information for OT1+zplTLF on input lin
-e 176.
+e 175.
 
 (/usr/share/texlive/texmf-dist/tex/latex/newpx/ot1zpltlf.fd
 File: ot1zpltlf.fd 2021/05/25 v1.0 font definition file for OT1/zpl/TLF
 )
 LaTeX Font Info:    Font shape `OT1/zplTLF/m/n' will be
-(Font)              scaled to size 13.968pt on input line 176.
+(Font)              scaled to size 13.968pt on input line 175.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `zplTLF' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `OT1/zplTLF/m/n' will be
-(Font)              scaled to size 10.18501pt on input line 176.
+(Font)              scaled to size 10.18501pt on input line 175.
 LaTeX Font Info:    Font shape `OT1/zplTLF/m/n' will be
-(Font)              scaled to size 7.663pt on input line 176.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 176
+(Font)              scaled to size 7.663pt on input line 175.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 175
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
@@ -2989,7 +2989,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 176
+LaTeX Font Info:    Trying to load font information for U+msb on input line 175
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -2999,19 +2999,19 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Trying to load font information for U+npxmia on input line 
-176.
+175.
 
 (/usr/share/texlive/texmf-dist/tex/latex/newpx/unpxmia.fd
 File: unpxmia.fd 2013/03/24 Fontinst v1.933 font definitions for U/npxmia.
 )
 LaTeX Font Info:    Trying to load font information for U+npxsym on input line 
-176.
+175.
 
 (/usr/share/texlive/texmf-dist/tex/latex/newpx/unpxsym.fd
 File: unpxsym.fd 2015/03/21 Fontinst v1.933 font definitions for U/npxsym.
 )
 LaTeX Font Info:    Trying to load font information for U+npxsyc on input line 
-176.
+175.
 
 (/usr/share/texlive/texmf-dist/tex/latex/newpx/unpxsyc.fd
 File: unpxsyc.fd 2013/03/24 Fontinst v1.933 font definitions for U/npxsyc.
@@ -3019,7 +3019,7 @@ File: unpxsyc.fd 2013/03/24 Fontinst v1.933 font definitions for U/npxsyc.
 <images//publogo.png, id=45, 813.0375pt x 813.0375pt>
 File: images//publogo.png Graphic file (type png)
 <use images//publogo.png>
-Package pdftex.def Info: images//publogo.png  used on input line 176.
+Package pdftex.def Info: images//publogo.png  used on input line 175.
 (pdftex.def)             Requested size: 140.74536pt x 140.74536pt.
 \openout4 = `main.mw'.
 
@@ -3033,7 +3033,7 @@ Package pdftex.def Info: images//publogo.png  used on input line 176.
 \openout4 = `main.mw'.
 
 Package marginnote Info: Using workaround for absolute page number on input lin
-e 176.
+e 175.
 
 (./chapters/qr.tex
 chapter without number
@@ -3096,9 +3096,9 @@ LaTeX Font Info:    Font shape `T1/zplLF/m/it' will be
 \openout4 = `main.mw'.
 
 Package tocbasic Info: character protrusion at toc deactivated on input line 20
-9.
+8.
 LaTeX Font Info:    Font shape `T1/zplLF/b/n' will be
-(Font)              scaled to size 9.70001pt on input line 209.
+(Font)              scaled to size 9.70001pt on input line 208.
 \openout4 = `main.mw'.
 
 [4
@@ -3200,7 +3200,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--2
 
 \openout4 = `main.mw'.
 
-<images//purplehair.jpg, id=425, 770.88pt x 770.88pt>
+<images//purplehair.jpg, id=422, 770.88pt x 770.88pt>
 File: images//purplehair.jpg Graphic file (type jpg)
 <use images//purplehair.jpg>
 Package pdftex.def Info: images//purplehair.jpg  used on input line 17.
@@ -3262,7 +3262,7 @@ l.26
  <./images//purplehair.jpg>] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//waffleburger.jpeg, id=439, 770.88pt x 770.88pt>
+<images//waffleburger.jpeg, id=436, 770.88pt x 770.88pt>
 File: images//waffleburger.jpeg Graphic file (type jpg)
 <use images//waffleburger.jpeg>
 Package pdftex.def Info: images//waffleburger.jpeg  used on input line 30.
@@ -3446,7 +3446,7 @@ LaTeX Warning: Marginpar on page 3 moved.
 [3] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//unite.png, id=470, 513.92pt x 513.92pt>
+<images//unite.png, id=467, 513.92pt x 513.92pt>
 File: images//unite.png Graphic file (type png)
 <use images//unite.png>
 Package pdftex.def Info: images//unite.png  used on input line 68.
@@ -3565,24 +3565,24 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 85.
 
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
-
- [5] (./main.mw)
-\openout4 = `main.mw'.
-
-<images//mitexcel.jpg, id=493, 770.88pt x 770.88pt>
+<images//mitexcel.jpg, id=484, 770.88pt x 770.88pt>
 File: images//mitexcel.jpg Graphic file (type jpg)
 <use images//mitexcel.jpg>
-Package pdftex.def Info: images//mitexcel.jpg  used on input line 98.
+Package pdftex.def Info: images//mitexcel.jpg  used on input line 94.
 (pdftex.def)             Requested size: 139.51698pt x 139.51698pt.
-Package marginnote Info: Margin note 16.1 is on absolute page 16 on input line 
-101.
-Package marginnote Info: right page because not two side mode on input line 101
-.
-Package marginnote Info: xpos seems to be 72.53856pt on input line 101.
+Package marginnote Info: Margin note 15.1 is on absolute page 15 on input line 
+97.
+Package marginnote Info: right page because not two side mode on input line 97.
+
+Package marginnote Info: xpos seems to be 72.53856pt on input line 97.
 
 
-LaTeX Warning: Marginpar on page 6 moved.
+LaTeX Warning: Marginpar on page 5 moved.
+
+\openout4 = `main.mw'.
+
+[5 <./images//mitexcel.jpg>] (./main.mw)
+\openout4 = `main.mw'.
 
 LaTeX Font Info:    Font shape `T1/zplLF/m/n' will be
 (Font)              scaled to size 8.73001pt on input line 108.
@@ -3591,7 +3591,8 @@ LaTeX Font Info:    Font shape `OT1/zplTLF/m/n' will be
 ) (./chapters/chapter2.tex
 \openout4 = `main.mw'.
 
- [6 <./images//mitexcel.jpg>] (./main.mw)
+ [6]
+(./main.mw)
 \openout4 = `main.mw'.
 
 
@@ -3686,7 +3687,7 @@ LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
 (Font)              scaled to size 7.65005pt on input line 24.
 LaTeX Font Info:    Font shape `T1/fvm/b/n' will be
 (Font)              scaled to size 7.65005pt on input line 25.
-<images//bored_programmer.jpg, id=546, 770.88pt x 770.88pt>
+<images//bored_programmer.jpg, id=543, 770.88pt x 770.88pt>
 File: images//bored_programmer.jpg Graphic file (type jpg)
 <use images//bored_programmer.jpg>
 Package pdftex.def Info: images//bored_programmer.jpg  used on input line 46.
@@ -3714,7 +3715,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 53--53
 [8 <./images//bored_programmer.jpg>] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//kasparov_fire.jpg, id=572, 770.88pt x 770.88pt>
+<images//kasparov_fire.jpg, id=569, 770.88pt x 770.88pt>
 File: images//kasparov_fire.jpg Graphic file (type jpg)
 <use images//kasparov_fire.jpg>
 Package pdftex.def Info: images//kasparov_fire.jpg  used on input line 66.
@@ -3763,7 +3764,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 79--79
 [9 <./images//kasparov_fire.jpg>] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//programmers_strike.png, id=587, 1122.1925pt x 1094.0875pt>
+<images//programmers_strike.png, id=584, 1122.1925pt x 1094.0875pt>
 File: images//programmers_strike.png Graphic file (type png)
 <use images//programmers_strike.png>
 Package pdftex.def Info: images//programmers_strike.png  used on input line 92.
@@ -3783,16 +3784,16 @@ LaTeX Warning: Marginpar on page 10 moved.
 [10 <./images//programmers_strike.png>] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//blackbox.jpg, id=597, 770.88pt x 770.88pt>
+<images//blackbox.jpg, id=594, 770.88pt x 770.88pt>
 File: images//blackbox.jpg Graphic file (type jpg)
 <use images//blackbox.jpg>
-Package pdftex.def Info: images//blackbox.jpg  used on input line 108.
+Package pdftex.def Info: images//blackbox.jpg  used on input line 110.
 (pdftex.def)             Requested size: 139.51698pt x 139.51698pt.
 Package marginnote Info: Margin note 21.1 is on absolute page 21 on input line 
-111.
-Package marginnote Info: right page because not two side mode on input line 111
+113.
+Package marginnote Info: right page because not two side mode on input line 113
 .
-Package marginnote Info: xpos seems to be 72.53856pt on input line 111.
+Package marginnote Info: xpos seems to be 72.53856pt on input line 113.
 
 
 LaTeX Warning: Marginpar on page 11 moved.
@@ -3858,7 +3859,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--2
 
 \openout4 = `main.mw'.
 
-<images//knowledge.png, id=634, 513.92pt x 513.92pt>
+<images//knowledge.png, id=631, 513.92pt x 513.92pt>
 File: images//knowledge.png Graphic file (type png)
 <use images//knowledge.png>
 Package pdftex.def Info: images//knowledge.png  used on input line 15.
@@ -3878,7 +3879,7 @@ LaTeX Warning: Marginpar on page 12 moved.
  <./images//knowledge.png (PNG copy)>] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//OLSregression.png, id=652, 299.9205pt x 377.9721pt>
+<images//OLSregression.png, id=649, 299.9205pt x 377.9721pt>
 File: images//OLSregression.png Graphic file (type png)
 <use images//OLSregression.png>
 Package pdftex.def Info: images//OLSregression.png  used on input line 34.
@@ -3966,7 +3967,7 @@ LaTeX Warning: Marginpar on page 16 moved.
 [16] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//trustworthysd.jpg, id=703, 770.88pt x 770.88pt>
+<images//trustworthysd.jpg, id=700, 770.88pt x 770.88pt>
 File: images//trustworthysd.jpg Graphic file (type jpg)
 <use images//trustworthysd.jpg>
 Package pdftex.def Info: images//trustworthysd.jpg  used on input line 128.
@@ -4008,7 +4009,7 @@ LaTeX Warning: Marginpar on page 18 moved.
 
 LaTeX Warning: Marginpar on page 18 moved.
 
-<images//predictive_keyboard.png, id=713, 395.4775pt x 265.99374pt>
+<images//predictive_keyboard.png, id=710, 395.4775pt x 265.99374pt>
 File: images//predictive_keyboard.png Graphic file (type png)
 <use images//predictive_keyboard.png>
 Package pdftex.def Info: images//predictive_keyboard.png  used on input line 17
@@ -4041,7 +4042,7 @@ Underfull \hbox (badness 1087) in paragraph at lines 178--178
 
 \openout4 = `main.mw'.
 
-<images//sciencechat.png, id=745, 513.92pt x 513.92pt>
+<images//sciencechat.png, id=742, 513.92pt x 513.92pt>
 File: images//sciencechat.png Graphic file (type png)
 <use images//sciencechat.png>
 Package pdftex.def Info: images//sciencechat.png  used on input line 190.
@@ -4128,41 +4129,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 209--209
 
 
 chapter 4.
-Package marginnote Info: Margin note 32.1 is on absolute page 32 on input line 
-2.
-Package marginnote Info: right page because not two side mode on input line 2.
-Package marginnote Info: xpos seems to be 72.53856pt on input line 2.
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
- [][][][]\T1/zplLF/b/n/9 (+20) Creative Uses of Power 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
- [][][][]\T1/zplLF/b/n/9 (+20) Garbage In, New Per-spec- 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
- [][][][]\T1/zplLF/b/n/9 (+20) Concept Drift and the End 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
- [][][][]\T1/zplLF/b/n/9 (+20) The Im-pos-si-bil-ity of Fair- 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
- [][][][]\T1/zplLF/b/n/9 (+20) Transfer Learn-ing Ev-ery- 
- []
-
-<images//jobsweed.png, id=814, 513.92pt x 513.92pt>
+<images//jobsweed.png, id=781, 513.92pt x 513.92pt>
 File: images//jobsweed.png Graphic file (type png)
 <use images//jobsweed.png>
 Package pdftex.def Info: images//jobsweed.png  used on input line 26.
 (pdftex.def)             Requested size: 139.5209pt x 139.5209pt.
-Package marginnote Info: Margin note 32.2 is on absolute page 32 on input line 
+Package marginnote Info: Margin note 32.1 is on absolute page 32 on input line 
 29.
 Package marginnote Info: right page because not two side mode on input line 29.
 
@@ -4177,7 +4149,7 @@ LaTeX Warning: Marginpar on page 22 moved.
  <./images//jobsweed.png (PNG copy)>] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//batman.png, id=828, 513.92pt x 513.92pt>
+<images//batman.png, id=788, 513.92pt x 513.92pt>
 File: images//batman.png Graphic file (type png)
 <use images//batman.png>
 Package pdftex.def Info: images//batman.png  used on input line 38.
@@ -4191,7 +4163,7 @@ Package marginnote Info: xpos seems to be 72.53856pt on input line 41.
 
 LaTeX Warning: Marginpar on page 23 moved.
 
-<images//drillart.png, id=829, 513.92pt x 513.92pt>
+<images//drillart.png, id=789, 513.92pt x 513.92pt>
 File: images//drillart.png Graphic file (type png)
 <use images//drillart.png>
 Package pdftex.def Info: images//drillart.png  used on input line 54.
@@ -4210,21 +4182,21 @@ LaTeX Warning: Marginpar on page 23 moved.
 (./main.mw)
 \openout4 = `main.mw'.
 
-<images//duchamp.jpg, id=836, 369.38pt x 482.80376pt>
+<images//duchamp.jpg, id=796, 369.38pt x 482.80376pt>
 File: images//duchamp.jpg Graphic file (type jpg)
 <use images//duchamp.jpg>
-Package pdftex.def Info: images//duchamp.jpg  used on input line 77.
+Package pdftex.def Info: images//duchamp.jpg  used on input line 75.
 (pdftex.def)             Requested size: 139.5204pt x 182.36229pt.
 
-Underfull \hbox (badness 3884) in paragraph at lines 78--78
+Underfull \hbox (badness 3884) in paragraph at lines 76--76
 \T1/zplLF/m/n/8 (+20) tain". A uri-nal that blew peo-ples
  []
 
 Package marginnote Info: Margin note 34.1 is on absolute page 34 on input line 
-80.
-Package marginnote Info: right page because not two side mode on input line 80.
+78.
+Package marginnote Info: right page because not two side mode on input line 78.
 
-Package marginnote Info: xpos seems to be 72.53856pt on input line 80.
+Package marginnote Info: xpos seems to be 72.53856pt on input line 78.
 
 LaTeX Warning: Marginpar on page 24 moved.
 
@@ -4233,48 +4205,48 @@ LaTeX Warning: Marginpar on page 24 moved.
 [24 <./images//duchamp.jpg>] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//plastic.jpg, id=845, 770.88pt x 770.88pt>
+<images//plastic.jpg, id=805, 770.88pt x 770.88pt>
 File: images//plastic.jpg Graphic file (type jpg)
 <use images//plastic.jpg>
-Package pdftex.def Info: images//plastic.jpg  used on input line 94.
+Package pdftex.def Info: images//plastic.jpg  used on input line 92.
 (pdftex.def)             Requested size: 139.51698pt x 139.51698pt.
 Package marginnote Info: Margin note 35.1 is on absolute page 35 on input line 
-97.
-Package marginnote Info: right page because not two side mode on input line 97.
+95.
+Package marginnote Info: right page because not two side mode on input line 95.
 
-Package marginnote Info: xpos seems to be 72.53856pt on input line 97.
+Package marginnote Info: xpos seems to be 72.53856pt on input line 95.
 
 
 LaTeX Warning: Marginpar on page 25 moved.
 
+Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 113.
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
 \openout4 = `main.mw'.
 
 [25 <./images//plastic.jpg>] (./main.mw)
-\openout4 = `main.mw'.
-
-Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 115.
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
@@ -4282,85 +4254,85 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 115.
  [26] (./main.mw)
 \openout4 = `main.mw'.
 
+Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 152.
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
 \openout4 = `main.mw'.
 
  [27] (./main.mw)
 \openout4 = `main.mw'.
 
-Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 154.
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-<images//getty.png, id=868, 2254.4225pt x 1379.1525pt>
+<images//getty.png, id=828, 2254.4225pt x 1379.1525pt>
 File: images//getty.png Graphic file (type png)
 <use images//getty.png>
-Package pdftex.def Info: images//getty.png  used on input line 167.
+Package pdftex.def Info: images//getty.png  used on input line 165.
 (pdftex.def)             Requested size: 139.49068pt x 85.334pt.
 Package marginnote Info: Margin note 38.1 is on absolute page 38 on input line 
-170.
-Package marginnote Info: right page because not two side mode on input line 170
+168.
+Package marginnote Info: right page because not two side mode on input line 168
 .
-Package marginnote Info: xpos seems to be 72.53856pt on input line 170.
+Package marginnote Info: xpos seems to be 72.53856pt on input line 168.
 
 
 LaTeX Warning: Marginpar on page 28 moved.
+
+Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 178.
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
 
 [28 <./images//getty.png>] (./main.mw)
 \openout4 = `main.mw'.
 
-Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 180.
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 184.
+Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 182.
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
@@ -4428,7 +4400,7 @@ LaTeX Font Info:    Font shape `T1/zplLF/b/n' will be
  [32] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//fluid.png, id=1011, 513.92pt x 513.92pt>
+<images//fluid.png, id=970, 513.92pt x 513.92pt>
 File: images//fluid.png Graphic file (type png)
 <use images//fluid.png>
 Package pdftex.def Info: images//fluid.png  used on input line 63.
@@ -4447,7 +4419,7 @@ LaTeX Warning: Marginpar on page 33 moved.
 [33 <./images//fluid.png (PNG copy)>] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//shakebot.png, id=1020, 513.92pt x 513.92pt>
+<images//shakebot.png, id=979, 513.92pt x 513.92pt>
 File: images//shakebot.png Graphic file (type png)
 <use images//shakebot.png>
 Package pdftex.def Info: images//shakebot.png  used on input line 90.
@@ -4466,7 +4438,7 @@ LaTeX Warning: Marginpar on page 34 moved.
 [34 <./images//shakebot.png (PNG copy)>] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//lithium.png, id=1032, 513.92pt x 513.92pt>
+<images//lithium.png, id=991, 513.92pt x 513.92pt>
 File: images//lithium.png Graphic file (type png)
 <use images//lithium.png>
 Package pdftex.def Info: images//lithium.png  used on input line 115.
@@ -4485,7 +4457,7 @@ LaTeX Warning: Marginpar on page 35 moved.
 [35 <./images//lithium.png (PNG copy)>] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//chessmodelcard.png, id=1041, 513.92pt x 513.92pt>
+<images//chessmodelcard.png, id=1001, 513.92pt x 513.92pt>
 File: images//chessmodelcard.png Graphic file (type png)
 <use images//chessmodelcard.png>
 Package pdftex.def Info: images//chessmodelcard.png  used on input line 141.
@@ -4504,56 +4476,56 @@ LaTeX Warning: Marginpar on page 36 moved.
 [36 <./images//chessmodelcard.png (PNG copy)>] (./main.mw)
 \openout4 = `main.mw'.
 
-Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 160.
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
- [37] (./main.mw)
-\openout4 = `main.mw'.
-
-<images//gobaby.png, id=1062, 513.92pt x 513.92pt>
+<images//gobaby.png, id=1011, 513.92pt x 513.92pt>
 File: images//gobaby.png Graphic file (type png)
 <use images//gobaby.png>
-Package pdftex.def Info: images//gobaby.png  used on input line 167.
+Package pdftex.def Info: images//gobaby.png  used on input line 153.
 (pdftex.def)             Requested size: 139.5209pt x 139.5209pt.
-Package marginnote Info: Margin note 48.1 is on absolute page 48 on input line 
-170.
-Package marginnote Info: right page because not two side mode on input line 170
+Package marginnote Info: Margin note 47.1 is on absolute page 47 on input line 
+156.
+Package marginnote Info: right page because not two side mode on input line 156
 .
-Package marginnote Info: xpos seems to be 72.53856pt on input line 170.
+Package marginnote Info: xpos seems to be 72.53856pt on input line 156.
 
 
-LaTeX Warning: Marginpar on page 38 moved.
+LaTeX Warning: Marginpar on page 37 moved.
+
+Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 165.
+\openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
 
-[38 <./images//gobaby.png (PNG copy)>] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//buffett.png, id=1074, 513.92pt x 513.92pt>
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+[37 <./images//gobaby.png (PNG copy)>] (./main.mw)
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+ [38] (./main.mw)
+\openout4 = `main.mw'.
+
+<images//buffett.png, id=1034, 513.92pt x 513.92pt>
 File: images//buffett.png Graphic file (type png)
 <use images//buffett.png>
 Package pdftex.def Info: images//buffett.png  used on input line 194.
@@ -4572,7 +4544,7 @@ LaTeX Warning: Marginpar on page 39 moved.
 [39 <./images//buffett.png (PNG copy)>] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//nysebot.png, id=1082, 513.92pt x 513.92pt>
+<images//nysebot.png, id=1042, 513.92pt x 513.92pt>
 File: images//nysebot.png Graphic file (type png)
 <use images//nysebot.png>
 Package pdftex.def Info: images//nysebot.png  used on input line 214.
@@ -4591,7 +4563,7 @@ LaTeX Warning: Marginpar on page 40 moved.
 [40 <./images//nysebot.png (PNG copy)>] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//horserace.jpg, id=1094, 770.88pt x 770.88pt>
+<images//horserace.jpg, id=1054, 770.88pt x 770.88pt>
 File: images//horserace.jpg Graphic file (type jpg)
 <use images//horserace.jpg>
 Package pdftex.def Info: images//horserace.jpg  used on input line 245.
@@ -4736,7 +4708,7 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 331.
  [46] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//couple.jpg, id=1154, 770.88pt x 770.88pt>
+<images//couple.jpg, id=1114, 770.88pt x 770.88pt>
 File: images//couple.jpg Graphic file (type jpg)
 <use images//couple.jpg>
 Package pdftex.def Info: images//couple.jpg  used on input line 344.
@@ -4835,7 +4807,7 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 416.
  [51] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//fakenews.jpg, id=1207, 770.88pt x 770.88pt>
+<images//fakenews.jpg, id=1167, 770.88pt x 770.88pt>
 File: images//fakenews.jpg Graphic file (type jpg)
 <use images//fakenews.jpg>
 Package pdftex.def Info: images//fakenews.jpg  used on input line 439.
@@ -4895,7 +4867,7 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 494.
 [55] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//berlin.jpg, id=1243, 770.88pt x 770.88pt>
+<images//berlin.jpg, id=1202, 770.88pt x 770.88pt>
 File: images//berlin.jpg Graphic file (type jpg)
 <use images//berlin.jpg>
 Package pdftex.def Info: images//berlin.jpg  used on input line 508.
@@ -4944,7 +4916,7 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 518.
  [57] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//harvardgirls.png, id=1267, 513.92pt x 513.92pt>
+<images//harvardgirls.png, id=1227, 513.92pt x 513.92pt>
 File: images//harvardgirls.png Graphic file (type png)
 <use images//harvardgirls.png>
 Package pdftex.def Info: images//harvardgirls.png  used on input line 546.
@@ -4974,7 +4946,7 @@ LaTeX Warning: Marginpar on page 58 moved.
 [60] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//socialcredit.png, id=1299, 513.92pt x 513.92pt>
+<images//socialcredit.png, id=1259, 513.92pt x 513.92pt>
 File: images//socialcredit.png Graphic file (type png)
 <use images//socialcredit.png>
 Package pdftex.def Info: images//socialcredit.png  used on input line 592.
@@ -5018,7 +4990,7 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 611.
 
 \openout4 = `main.mw'.
 
-<images//agi.png, id=1310, 513.92pt x 513.92pt>
+<images//agi.png, id=1270, 513.92pt x 513.92pt>
 File: images//agi.png Graphic file (type png)
 <use images//agi.png>
 Package pdftex.def Info: images//agi.png  used on input line 614.
@@ -5057,11 +5029,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--2
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 2--2
- [][][][]\T1/zplLF/b/n/9 (+20) Ethics and the Self-Driving 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
  [][][][]\T1/zplLF/b/n/9 (+20) Understanding Self-Driving 
  []
 
@@ -5075,15 +5042,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--2
  [][][][]\T1/zplLF/b/n/9 (+9) The Lim-its of Deep Learn-ing 
  []
 
+\openout4 = `main.mw'.
 
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
- [][][][]\T1/zplLF/b/n/9 (+20) Alternative Ap-proaches to 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
- [][][][]\T1/zplLF/b/n/9 (+20) The Fu-ture of Self-Driving 
- []
+\openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
 
@@ -5102,10 +5063,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--2
 [64
 
 ] (./main.mw)
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
@@ -5182,18 +5139,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--2
 \openout4 = `main.mw'.
 
 
-LaTeX Warning: Citation 'syntheticmedia' on page 66 undefined on input line 21.
+LaTeX Warning: Citation 'syntheticmedia' on page 66 undefined on input line 23.
 
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
 
 [66
 
 ] (./main.mw)
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
@@ -5326,7 +5283,7 @@ Package marginnote Info: xpos seems to be 72.53856pt on input line 2.
 
 chapter without number
 LaTeX Font Info:    Font shape `T1/zplLF/m/sc' will be
-(Font)              scaled to size 9.70001pt on input line 255.
+(Font)              scaled to size 9.70001pt on input line 254.
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/zplLF/m/sc/10'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -5348,7 +5305,7 @@ Package microtype Info: Character `029' is missing
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Lecarre' on input line 255.
+(biblatex)                at entry 'Lecarre' on input line 254.
 
 
 Package glossaries Warning: No \printglossary or \printglossaries found. 
@@ -6357,22 +6314,6 @@ This document will not have a glossary.
 
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
 )
 \openout4 = `main.mw'.
 
@@ -6393,10 +6334,10 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 59632 strings out of 478287
- 1173940 string characters out of 5849289
- 2378996 words of memory out of 5000000
- 75789 multiletter control sequences out of 15000+600000
+ 59627 strings out of 478287
+ 1173885 string characters out of 5849289
+ 2378780 words of memory out of 5000000
+ 75787 multiletter control sequences out of 15000+600000
  600686 words of font info for 357 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  133i,20n,159p,10596b,2877s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -6413,10 +6354,10 @@ sr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txsya.pfb></usr/share/te
 xlive/texmf-dist/fonts/type1/public/newpx/zplb.pfb></usr/share/texlive/texmf-di
 st/fonts/type1/public/newpx/zplr.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /public/newpx/zplri.pfb>
-Output written on main.pdf (82 pages, 14341718 bytes).
+Output written on main.pdf (82 pages, 14339304 bytes).
 PDF statistics:
- 1995 PDF objects out of 2073 (max. 8388607)
- 1815 compressed objects within 19 object streams
- 440 named destinations out of 1000 (max. 500000)
- 52504 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 1944 PDF objects out of 2073 (max. 8388607)
+ 1765 compressed objects within 18 object streams
+ 437 named destinations out of 1000 (max. 500000)
+ 52496 words of extra memory for PDF output out of 61914 (max. 10000000)
 

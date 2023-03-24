@@ -952,6 +952,28 @@
       \field{title}{{N}ewly {R}eleased {V}ideo {O}f {T}hanksgiving {D}ay {T}esla {F}ull {S}elf-{D}riving {C}rash {D}emonstrates {T}he {F}undamental {P}roblem {O}f {S}emi-{A}utomated {D}riving {S}ystems}
       \field{year}{2022}
     \endentry
+    \entry{openpilot}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=139e75a1f6915bf00f8a5fd72a77ef66}{%
+           family={Team},
+           familyi={T\bibinitperiod},
+           given={OpenPilot},
+           giveni={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{139e75a1f6915bf00f8a5fd72a77ef66}
+      \strng{fullhash}{139e75a1f6915bf00f8a5fd72a77ef66}
+      \strng{bibnamehash}{139e75a1f6915bf00f8a5fd72a77ef66}
+      \strng{authorbibnamehash}{139e75a1f6915bf00f8a5fd72a77ef66}
+      \strng{authornamehash}{139e75a1f6915bf00f8a5fd72a77ef66}
+      \strng{authorfullhash}{139e75a1f6915bf00f8a5fd72a77ef66}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://github.com/commaai/openpilot}}
+      \field{title}{{G}it{H}ub - commaai/openpilot: openpilot is an open source driver assistance system. openpilot performs the functions of {A}utomated {L}ane {C}entering and {A}daptive {C}ruise {C}ontrol for over 200 supported car makes and models.}
+      \field{year}{2023}
+    \endentry
     \entry{otacrash}{misc}{}
       \name{author}{2}{}{%
         {{hash=4aef3da4aa2227c8ee55eb9c16857547}{%
@@ -1005,28 +1027,6 @@
       \field{howpublished}{\url{https://learning.oreilly.com/library/view/practicing-trustworthy-machine/9781098120269/ch03.html}}
       \field{month}{2}
       \field{title}{Practicing Trustworthy Machine Learning}
-      \field{year}{2023}
-    \endentry
-    \entry{openpilot}{misc}{}
-      \name{author}{1}{}{%
-        {{hash=139e75a1f6915bf00f8a5fd72a77ef66}{%
-           family={Team},
-           familyi={T\bibinitperiod},
-           given={OpenPilot},
-           giveni={O\bibinitperiod}}}%
-      }
-      \strng{namehash}{139e75a1f6915bf00f8a5fd72a77ef66}
-      \strng{fullhash}{139e75a1f6915bf00f8a5fd72a77ef66}
-      \strng{bibnamehash}{139e75a1f6915bf00f8a5fd72a77ef66}
-      \strng{authorbibnamehash}{139e75a1f6915bf00f8a5fd72a77ef66}
-      \strng{authornamehash}{139e75a1f6915bf00f8a5fd72a77ef66}
-      \strng{authorfullhash}{139e75a1f6915bf00f8a5fd72a77ef66}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{\url{https://github.com/commaai/openpilot}}
-      \field{title}{{G}it{H}ub - commaai/openpilot: openpilot is an open source driver assistance system. openpilot performs the functions of {A}utomated {L}ane {C}entering and {A}daptive {C}ruise {C}ontrol for over 200 supported car makes and models.}
       \field{year}{2023}
     \endentry
     \entry{cunkonearth}{misc}{}
