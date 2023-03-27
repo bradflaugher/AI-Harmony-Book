@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.2.13)  24 MAR 2023 16:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.2.13)  27 MAR 2023 14:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -3200,7 +3200,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--2
 
 \openout4 = `main.mw'.
 
-<images//purplehair.jpg, id=422, 770.88pt x 770.88pt>
+<images//purplehair.jpg, id=419, 770.88pt x 770.88pt>
 File: images//purplehair.jpg Graphic file (type jpg)
 <use images//purplehair.jpg>
 Package pdftex.def Info: images//purplehair.jpg  used on input line 17.
@@ -3262,7 +3262,7 @@ l.26
  <./images//purplehair.jpg>] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//waffleburger.jpeg, id=436, 770.88pt x 770.88pt>
+<images//waffleburger.jpeg, id=433, 770.88pt x 770.88pt>
 File: images//waffleburger.jpeg Graphic file (type jpg)
 <use images//waffleburger.jpeg>
 Package pdftex.def Info: images//waffleburger.jpeg  used on input line 30.
@@ -3446,7 +3446,7 @@ LaTeX Warning: Marginpar on page 3 moved.
 [3] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//unite.png, id=467, 513.92pt x 513.92pt>
+<images//unite.png, id=464, 513.92pt x 513.92pt>
 File: images//unite.png Graphic file (type png)
 <use images//unite.png>
 Package pdftex.def Info: images//unite.png  used on input line 68.
@@ -3565,7 +3565,7 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 85.
 
 \openout4 = `main.mw'.
 
-<images//mitexcel.jpg, id=484, 770.88pt x 770.88pt>
+<images//mitexcel.jpg, id=481, 770.88pt x 770.88pt>
 File: images//mitexcel.jpg Graphic file (type jpg)
 <use images//mitexcel.jpg>
 Package pdftex.def Info: images//mitexcel.jpg  used on input line 94.
@@ -3687,7 +3687,7 @@ LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
 (Font)              scaled to size 7.65005pt on input line 24.
 LaTeX Font Info:    Font shape `T1/fvm/b/n' will be
 (Font)              scaled to size 7.65005pt on input line 25.
-<images//bored_programmer.jpg, id=543, 770.88pt x 770.88pt>
+<images//bored_programmer.jpg, id=540, 770.88pt x 770.88pt>
 File: images//bored_programmer.jpg Graphic file (type jpg)
 <use images//bored_programmer.jpg>
 Package pdftex.def Info: images//bored_programmer.jpg  used on input line 46.
@@ -3715,7 +3715,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 53--53
 [8 <./images//bored_programmer.jpg>] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//kasparov_fire.jpg, id=569, 770.88pt x 770.88pt>
+<images//kasparov_fire.jpg, id=566, 770.88pt x 770.88pt>
 File: images//kasparov_fire.jpg Graphic file (type jpg)
 <use images//kasparov_fire.jpg>
 Package pdftex.def Info: images//kasparov_fire.jpg  used on input line 66.
@@ -3764,7 +3764,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 79--79
 [9 <./images//kasparov_fire.jpg>] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//programmers_strike.png, id=584, 1122.1925pt x 1094.0875pt>
+<images//programmers_strike.png, id=581, 1122.1925pt x 1094.0875pt>
 File: images//programmers_strike.png Graphic file (type png)
 <use images//programmers_strike.png>
 Package pdftex.def Info: images//programmers_strike.png  used on input line 92.
@@ -3784,7 +3784,7 @@ LaTeX Warning: Marginpar on page 10 moved.
 [10 <./images//programmers_strike.png>] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//blackbox.jpg, id=594, 770.88pt x 770.88pt>
+<images//blackbox.jpg, id=591, 770.88pt x 770.88pt>
 File: images//blackbox.jpg Graphic file (type jpg)
 <use images//blackbox.jpg>
 Package pdftex.def Info: images//blackbox.jpg  used on input line 110.
@@ -3859,7 +3859,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--2
 
 \openout4 = `main.mw'.
 
-<images//knowledge.png, id=631, 513.92pt x 513.92pt>
+<images//knowledge.png, id=628, 513.92pt x 513.92pt>
 File: images//knowledge.png Graphic file (type png)
 <use images//knowledge.png>
 Package pdftex.def Info: images//knowledge.png  used on input line 15.
@@ -3879,7 +3879,7 @@ LaTeX Warning: Marginpar on page 12 moved.
  <./images//knowledge.png (PNG copy)>] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//OLSregression.png, id=649, 299.9205pt x 377.9721pt>
+<images//OLSregression.png, id=646, 299.9205pt x 377.9721pt>
 File: images//OLSregression.png Graphic file (type png)
 <use images//OLSregression.png>
 Package pdftex.def Info: images//OLSregression.png  used on input line 34.
@@ -3967,7 +3967,7 @@ LaTeX Warning: Marginpar on page 16 moved.
 [16] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//trustworthysd.jpg, id=700, 770.88pt x 770.88pt>
+<images//trustworthysd.jpg, id=697, 770.88pt x 770.88pt>
 File: images//trustworthysd.jpg Graphic file (type jpg)
 <use images//trustworthysd.jpg>
 Package pdftex.def Info: images//trustworthysd.jpg  used on input line 128.
@@ -4009,7 +4009,7 @@ LaTeX Warning: Marginpar on page 18 moved.
 
 LaTeX Warning: Marginpar on page 18 moved.
 
-<images//predictive_keyboard.png, id=710, 395.4775pt x 265.99374pt>
+<images//predictive_keyboard.png, id=707, 395.4775pt x 265.99374pt>
 File: images//predictive_keyboard.png Graphic file (type png)
 <use images//predictive_keyboard.png>
 Package pdftex.def Info: images//predictive_keyboard.png  used on input line 17
@@ -4042,7 +4042,7 @@ Underfull \hbox (badness 1087) in paragraph at lines 178--178
 
 \openout4 = `main.mw'.
 
-<images//sciencechat.png, id=742, 513.92pt x 513.92pt>
+<images//sciencechat.png, id=739, 513.92pt x 513.92pt>
 File: images//sciencechat.png Graphic file (type png)
 <use images//sciencechat.png>
 Package pdftex.def Info: images//sciencechat.png  used on input line 190.
@@ -4129,7 +4129,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 209--209
 
 
 chapter 4.
-<images//jobsweed.png, id=781, 513.92pt x 513.92pt>
+<images//jobsweed.png, id=778, 513.92pt x 513.92pt>
 File: images//jobsweed.png Graphic file (type png)
 <use images//jobsweed.png>
 Package pdftex.def Info: images//jobsweed.png  used on input line 26.
@@ -4149,7 +4149,7 @@ LaTeX Warning: Marginpar on page 22 moved.
  <./images//jobsweed.png (PNG copy)>] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//batman.png, id=788, 513.92pt x 513.92pt>
+<images//batman.png, id=785, 513.92pt x 513.92pt>
 File: images//batman.png Graphic file (type png)
 <use images//batman.png>
 Package pdftex.def Info: images//batman.png  used on input line 38.
@@ -4163,7 +4163,7 @@ Package marginnote Info: xpos seems to be 72.53856pt on input line 41.
 
 LaTeX Warning: Marginpar on page 23 moved.
 
-<images//drillart.png, id=789, 513.92pt x 513.92pt>
+<images//drillart.png, id=786, 513.92pt x 513.92pt>
 File: images//drillart.png Graphic file (type png)
 <use images//drillart.png>
 Package pdftex.def Info: images//drillart.png  used on input line 54.
@@ -4182,7 +4182,7 @@ LaTeX Warning: Marginpar on page 23 moved.
 (./main.mw)
 \openout4 = `main.mw'.
 
-<images//duchamp.jpg, id=796, 369.38pt x 482.80376pt>
+<images//duchamp.jpg, id=793, 369.38pt x 482.80376pt>
 File: images//duchamp.jpg Graphic file (type jpg)
 <use images//duchamp.jpg>
 Package pdftex.def Info: images//duchamp.jpg  used on input line 75.
@@ -4205,7 +4205,7 @@ LaTeX Warning: Marginpar on page 24 moved.
 [24 <./images//duchamp.jpg>] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//plastic.jpg, id=805, 770.88pt x 770.88pt>
+<images//plastic.jpg, id=802, 770.88pt x 770.88pt>
 File: images//plastic.jpg Graphic file (type jpg)
 <use images//plastic.jpg>
 Package pdftex.def Info: images//plastic.jpg  used on input line 92.
@@ -4288,7 +4288,7 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 152.
 
 \openout4 = `main.mw'.
 
-<images//getty.png, id=828, 2254.4225pt x 1379.1525pt>
+<images//getty.png, id=825, 2254.4225pt x 1379.1525pt>
 File: images//getty.png Graphic file (type png)
 <use images//getty.png>
 Package pdftex.def Info: images//getty.png  used on input line 165.
@@ -4400,7 +4400,7 @@ LaTeX Font Info:    Font shape `T1/zplLF/b/n' will be
  [32] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//fluid.png, id=970, 513.92pt x 513.92pt>
+<images//fluid.png, id=967, 513.92pt x 513.92pt>
 File: images//fluid.png Graphic file (type png)
 <use images//fluid.png>
 Package pdftex.def Info: images//fluid.png  used on input line 63.
@@ -4419,7 +4419,7 @@ LaTeX Warning: Marginpar on page 33 moved.
 [33 <./images//fluid.png (PNG copy)>] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//shakebot.png, id=979, 513.92pt x 513.92pt>
+<images//shakebot.png, id=976, 513.92pt x 513.92pt>
 File: images//shakebot.png Graphic file (type png)
 <use images//shakebot.png>
 Package pdftex.def Info: images//shakebot.png  used on input line 90.
@@ -4438,7 +4438,7 @@ LaTeX Warning: Marginpar on page 34 moved.
 [34 <./images//shakebot.png (PNG copy)>] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//lithium.png, id=991, 513.92pt x 513.92pt>
+<images//lithium.png, id=988, 513.92pt x 513.92pt>
 File: images//lithium.png Graphic file (type png)
 <use images//lithium.png>
 Package pdftex.def Info: images//lithium.png  used on input line 115.
@@ -4457,7 +4457,7 @@ LaTeX Warning: Marginpar on page 35 moved.
 [35 <./images//lithium.png (PNG copy)>] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//chessmodelcard.png, id=1001, 513.92pt x 513.92pt>
+<images//chessmodelcard.png, id=998, 513.92pt x 513.92pt>
 File: images//chessmodelcard.png Graphic file (type png)
 <use images//chessmodelcard.png>
 Package pdftex.def Info: images//chessmodelcard.png  used on input line 141.
@@ -4476,7 +4476,7 @@ LaTeX Warning: Marginpar on page 36 moved.
 [36 <./images//chessmodelcard.png (PNG copy)>] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//gobaby.png, id=1011, 513.92pt x 513.92pt>
+<images//gobaby.png, id=1008, 513.92pt x 513.92pt>
 File: images//gobaby.png Graphic file (type png)
 <use images//gobaby.png>
 Package pdftex.def Info: images//gobaby.png  used on input line 153.
@@ -4525,7 +4525,7 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 165.
  [38] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//buffett.png, id=1034, 513.92pt x 513.92pt>
+<images//buffett.png, id=1031, 513.92pt x 513.92pt>
 File: images//buffett.png Graphic file (type png)
 <use images//buffett.png>
 Package pdftex.def Info: images//buffett.png  used on input line 194.
@@ -4544,7 +4544,7 @@ LaTeX Warning: Marginpar on page 39 moved.
 [39 <./images//buffett.png (PNG copy)>] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//nysebot.png, id=1042, 513.92pt x 513.92pt>
+<images//nysebot.png, id=1039, 513.92pt x 513.92pt>
 File: images//nysebot.png Graphic file (type png)
 <use images//nysebot.png>
 Package pdftex.def Info: images//nysebot.png  used on input line 214.
@@ -4563,7 +4563,7 @@ LaTeX Warning: Marginpar on page 40 moved.
 [40 <./images//nysebot.png (PNG copy)>] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//horserace.jpg, id=1054, 770.88pt x 770.88pt>
+<images//horserace.jpg, id=1051, 770.88pt x 770.88pt>
 File: images//horserace.jpg Graphic file (type jpg)
 <use images//horserace.jpg>
 Package pdftex.def Info: images//horserace.jpg  used on input line 245.
@@ -4708,7 +4708,7 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 331.
  [46] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//couple.jpg, id=1114, 770.88pt x 770.88pt>
+<images//couple.jpg, id=1111, 770.88pt x 770.88pt>
 File: images//couple.jpg Graphic file (type jpg)
 <use images//couple.jpg>
 Package pdftex.def Info: images//couple.jpg  used on input line 344.
@@ -4807,7 +4807,7 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 416.
  [51] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//fakenews.jpg, id=1167, 770.88pt x 770.88pt>
+<images//fakenews.jpg, id=1164, 770.88pt x 770.88pt>
 File: images//fakenews.jpg Graphic file (type jpg)
 <use images//fakenews.jpg>
 Package pdftex.def Info: images//fakenews.jpg  used on input line 439.
@@ -4867,7 +4867,7 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 494.
 [55] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//berlin.jpg, id=1202, 770.88pt x 770.88pt>
+<images//berlin.jpg, id=1199, 770.88pt x 770.88pt>
 File: images//berlin.jpg Graphic file (type jpg)
 <use images//berlin.jpg>
 Package pdftex.def Info: images//berlin.jpg  used on input line 508.
@@ -4916,7 +4916,7 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 518.
  [57] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//harvardgirls.png, id=1227, 513.92pt x 513.92pt>
+<images//harvardgirls.png, id=1224, 513.92pt x 513.92pt>
 File: images//harvardgirls.png Graphic file (type png)
 <use images//harvardgirls.png>
 Package pdftex.def Info: images//harvardgirls.png  used on input line 546.
@@ -4946,7 +4946,7 @@ LaTeX Warning: Marginpar on page 58 moved.
 [60] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//socialcredit.png, id=1259, 513.92pt x 513.92pt>
+<images//socialcredit.png, id=1256, 513.92pt x 513.92pt>
 File: images//socialcredit.png Graphic file (type png)
 <use images//socialcredit.png>
 Package pdftex.def Info: images//socialcredit.png  used on input line 592.
@@ -4990,7 +4990,7 @@ Package biblatex Info: Redefining '\kaobiblio@sidecite' on input line 611.
 
 \openout4 = `main.mw'.
 
-<images//agi.png, id=1270, 513.92pt x 513.92pt>
+<images//agi.png, id=1267, 513.92pt x 513.92pt>
 File: images//agi.png Graphic file (type png)
 <use images//agi.png>
 Package pdftex.def Info: images//agi.png  used on input line 614.
@@ -5024,23 +5024,17 @@ Package marginnote Info: right page because not two side mode on input line 2.
 Package marginnote Info: xpos seems to be 72.53856pt on input line 2.
 
 Underfull \hbox (badness 10000) in paragraph at lines 2--2
+ [][][][]\T1/zplLF/b/n/9 (+20) The Dan-gers of Semi- 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
  [][][][]\T1/zplLF/b/n/9 (+20) Comparing Au-topi-lot Sys- 
  []
 
+\openout4 = `main.mw'.
 
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
- [][][][]\T1/zplLF/b/n/9 (+20) Understanding Self-Driving 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
- [][][][]\T1/zplLF/b/n/9 (+20) Adapting to a Chang-ing 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--2
- [][][][]\T1/zplLF/b/n/9 (+9) The Lim-its of Deep Learn-ing 
- []
+\openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
 
@@ -5063,10 +5057,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--2
 [64
 
 ] (./main.mw)
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
@@ -6306,14 +6296,6 @@ This document will not have a glossary.
 
 \openout4 = `main.mw'.
 
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
-\openout4 = `main.mw'.
-
 )
 \openout4 = `main.mw'.
 
@@ -6334,11 +6316,11 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 59627 strings out of 478287
- 1173885 string characters out of 5849289
- 2378780 words of memory out of 5000000
- 75787 multiletter control sequences out of 15000+600000
- 600686 words of font info for 357 fonts, out of 8000000 for 9000
+ 59623 strings out of 478287
+ 1173836 string characters out of 5849289
+ 2378566 words of memory out of 5000000
+ 75786 multiletter control sequences out of 15000+600000
+ 600601 words of font info for 356 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  133i,20n,159p,10596b,2877s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-lf-pc.enc}{/usr/s
@@ -6354,10 +6336,10 @@ sr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txsya.pfb></usr/share/te
 xlive/texmf-dist/fonts/type1/public/newpx/zplb.pfb></usr/share/texlive/texmf-di
 st/fonts/type1/public/newpx/zplr.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /public/newpx/zplri.pfb>
-Output written on main.pdf (82 pages, 14339304 bytes).
+Output written on main.pdf (82 pages, 14339101 bytes).
 PDF statistics:
- 1944 PDF objects out of 2073 (max. 8388607)
- 1765 compressed objects within 18 object streams
- 437 named destinations out of 1000 (max. 500000)
- 52496 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 1933 PDF objects out of 2073 (max. 8388607)
+ 1754 compressed objects within 18 object streams
+ 436 named destinations out of 1000 (max. 500000)
+ 52488 words of extra memory for PDF output out of 61914 (max. 10000000)
 

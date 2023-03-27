@@ -148,20 +148,18 @@
 \contentsline {chapter}{\numberline {6}Self-Driving with Statistics}{64}{chapter.6}%
 \etoc@startlocaltoc {10}
 \etoc@startlocaltoc {11}
-\contentsline {section}{\numberline {6.1}The Illusion of Self-Driving}{64}{section.6.1}%
-\contentsline {mtocsection}{\numberline {6.1}The Illusion of Self-Driving}{64}{section.6.1}%
+\contentsline {section}{\numberline {6.1}The Dangers of Semi-Autonomy}{64}{section.6.1}%
+\contentsline {mtocsection}{\numberline {6.1}The Dangers of Semi-Autonomy}{64}{section.6.1}%
 \contentsline {section}{\numberline {6.2}Comparing Autopilot Systems}{64}{section.6.2}%
 \contentsline {mtocsection}{\numberline {6.2}Comparing Autopilot Systems}{64}{section.6.2}%
 \contentsline {section}{\numberline {6.3}Who Should The Car Kill?}{64}{section.6.3}%
 \contentsline {mtocsection}{\numberline {6.3}Who Should The Car Kill?}{64}{section.6.3}%
-\contentsline {section}{\numberline {6.4}Understanding Self-Driving Models}{64}{section.6.4}%
-\contentsline {mtocsection}{\numberline {6.4}Understanding Self-Driving Models}{64}{section.6.4}%
-\contentsline {section}{\numberline {6.5}Adapting to a Changing World}{65}{section.6.5}%
-\contentsline {mtocsection}{\numberline {6.5}Adapting to a Changing World}{65}{section.6.5}%
-\contentsline {section}{\numberline {6.6}The Limits of Deep Learning in Critical Systems}{65}{section.6.6}%
-\contentsline {mtocsection}{\numberline {6.6}The Limits of Deep Learning in Critical Systems}{65}{section.6.6}%
-\contentsline {section}{\numberline {6.7}Alternative Approaches}{65}{section.6.7}%
-\contentsline {mtocsection}{\numberline {6.7}Alternative Approaches}{65}{section.6.7}%
+\contentsline {section}{\numberline {6.4}Driving Infrastruture}{64}{section.6.4}%
+\contentsline {mtocsection}{\numberline {6.4}Driving Infrastruture}{64}{section.6.4}%
+\contentsline {section}{\numberline {6.5}See You In Court!}{65}{section.6.5}%
+\contentsline {mtocsection}{\numberline {6.5}See You In Court!}{65}{section.6.5}%
+\contentsline {section}{\numberline {6.6}Alternative Approaches}{65}{section.6.6}%
+\contentsline {mtocsection}{\numberline {6.6}Alternative Approaches}{65}{section.6.6}%
 \contentsline {chapter}{\numberline {7}Unplugging Skynet}{66}{chapter.7}%
 \etoc@startlocaltoc {12}
 \etoc@startlocaltoc {13}
