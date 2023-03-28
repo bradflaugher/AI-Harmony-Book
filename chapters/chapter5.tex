@@ -4,7 +4,7 @@
 
 \section{Introduction}
 
-This chapter is a dissection of every important model I could think of, and many that I have built myself. If our goal is to understand and critique AI models, then we need to understand the models themselves. I know of no better way to understand than to take models apart then rebuild them. In the first three chapters you learned all of the key topics you need to do a high-level dissection (if you haven't read the first three chapters please go back and do that). 
+This chapter is a dissection of every important model I could think of, and many that I have built myself. If our goal is to understand and critique AI models, then we need to understand the models themselves. I know of no better way to understand than to take models apart then rebuild them. In the first four chapters you learned all of the key topics you need to do a high-level dissection (if you haven't read the first four chapters please go back and do that). 
 
 To facilitate this dissection I am going to use a tool called a \textbf{model card}. Model cards are a way to document the capabilities and limitations of your AI model. They are a useful tool for understanding your model, and for communicating its capabilities and limitations to others. Google (see \url{https://modelcards.withgoogle.com/face-detection}), Huggingface and even small makers of AI models produce model cards to help educate their users and developers, and as you can imagine no one reads them. 
 
@@ -13,8 +13,6 @@ In this chapter I am going to create and add commentary to model cards for many 
 Note that I'll introduce these models in a very particular order. I'll also save the hairiest models (full-self driving and Skynet) their own chapters for a deeper discussion. Try and follow along in the order that I lay out here, but only until you get bored. Once you are bored and can forecast my criticisisms, you can skip around with impunity.
 
 I'm happy to add future dissections or model cards to this chapter, so if you have a favorite model that you'd like to see dissection of, please let me know by emailing \href{mailto:brad@bradflaugher.com}{brad@bradflaugher.com}.
-
-TODO Explain cost, quality and IP protection scores.
 
 \subsection{Sucker Traps to Note When Analyzing Models}
 
@@ -456,7 +454,7 @@ There are a few common myths or misunderstandings about the Shakespearean Text G
     \item \textbf{Common Myths or Misunderstandings:} There are a few common myths or misunderstandings about the Contract Review Bot. One myth is that the model can always accurately review contracts and identify potential issues, when in reality it can only provide a prediction based on the information it was trained on and may miss important issues. Another myth is that the model can replace human expertise and judgement in contract review, when in reality it is intended to support and enhance human decision-making processes. Again we find \hyperref[sec:drift]{concept drift} being a potential issue here, although maybe less so if logical legal language changes more slowly than other written text. The model may still not pick up on the latest legal hacks that are snuck into contracts unless explicitly trained on data to recognize them.  
     \item \textbf{Quality Grade:} A-
     \item \textbf{Cost to Create:} \$100,000+
-    \item \textbf{Creator's Note:} I love this model, many legal contracts are in the public domain, as are judgements relating to them. Making this model, and copying it is very cheap considering how powerful the resulting model would be. Legal text is made carefully (in general) and is often very verbose and thorough, which is a scenarion for a machine learning problem.  
+    \item \textbf{Creator's Note:} I love this model, many legal contracts are in the public domain, as are judgements relating to them. Making this model, and copying it is very cheap considering how powerful the resulting model would be. Legal text is made carefully (in general) and is often very verbose and thorough, which is a perfect scenario for a machine learning problem.  
 \end{itemize}
 
 \subsection{Facial Recognition}
