@@ -19,7 +19,9 @@ Also talk about how FOSS creates a software paradox Software paradox, FOSS shrin
 
 note about commodity software. Maintenance Cost, Training Cost, Licencsing Cost, Switching etc... if you time it right you pay less for training and 0 for licensing and switching.  Most companies never pay for switching or training and go bust as soon as they realize those costs. Right to repair software. FSF
 
+# Buy vs Build vs Steal/Copy
 
+Buy vs build is a false choice, there is a third option that is frequently the best, Steal/Copy and participate in a FOSS development cycle that provides much of the features of Buy, without the cost, and the customization of build without the full time-load of building from scratch.
 
 
 # Security
