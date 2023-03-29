@@ -13,9 +13,9 @@
 
 ## TODOs for AI Harmony
 
-* Heavily edit chapter 6
-* Write Chapter 7
-* Write Chapter 8
+* "Write" Chapter 8
+* Heavily edit chapter 6 and 7
+* Add sidenotes and photos to Chapters 6-8
 * Review [Stephanie's Notes](https://docs.google.com/document/d/1hxqyawww7Se_UzsjvAdkrmKq306LOyiypu3TzQg-1nM/edit#)
 * Create Pre-Order PDF in the store.bradflaugher.com once a draft is done.
 

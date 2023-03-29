@@ -1029,6 +1029,42 @@
       \field{title}{Practicing Trustworthy Machine Learning}
       \field{year}{2023}
     \endentry
+    \entry{KrohnTED}{misc}{}
+      \list{publisher}{1}{%
+        {TED}%
+      }
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{title}{{Jon Krohn}}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.jonkrohn.com/posts/2022/10/7/tedx-talk-how-neuroscience-inspires-ai-breakthroughs-that-will-change-the-world
+      \endverb
+      \verb{url}
+      \verb https://www.jonkrohn.com/posts/2022/10/7/tedx-talk-how-neuroscience-inspires-ai-breakthroughs-that-will-change-the-world
+      \endverb
+    \endentry
+    \entry{saferalgorithmicsystems}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=0d8f980802951b40c8fa9e3d5de6d587}{%
+           family={ACM},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{0d8f980802951b40c8fa9e3d5de6d587}
+      \strng{fullhash}{0d8f980802951b40c8fa9e3d5de6d587}
+      \strng{bibnamehash}{0d8f980802951b40c8fa9e3d5de6d587}
+      \strng{authorbibnamehash}{0d8f980802951b40c8fa9e3d5de6d587}
+      \strng{authornamehash}{0d8f980802951b40c8fa9e3d5de6d587}
+      \strng{authorfullhash}{0d8f980802951b40c8fa9e3d5de6d587}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.acm.org/media-center/2023/january/techbrief-safer-algorithmic-systems}}
+      \field{title}{{A}{C}{M} {T}ech{B}rief: {P}olicies for {S}afer {A}lgorithmic {S}ystems {U}rgently {N}eeded}
+      \field{year}{2023}
+    \endentry
     \entry{cunkonearth}{misc}{}
       \name{author}{1}{}{%
         {{hash=170b1d363bd8516fbf3a3eb05d4faff6}{%
@@ -1071,26 +1107,6 @@
       \field{howpublished}{\url{https://www.economist.com/business/2023/02/16/ai-wielding-tech-firms-are-giving-a-new-shape-to-modern-warfare}}
       \field{month}{2}
       \field{title}{AI-wielding tech firms are giving a new shape to modern warfare | The Economist}
-      \field{year}{2023}
-    \endentry
-    \entry{saferalgorithmicsystems}{misc}{}
-      \name{author}{1}{}{%
-        {{hash=0d8f980802951b40c8fa9e3d5de6d587}{%
-           family={ACM},
-           familyi={A\bibinitperiod}}}%
-      }
-      \strng{namehash}{0d8f980802951b40c8fa9e3d5de6d587}
-      \strng{fullhash}{0d8f980802951b40c8fa9e3d5de6d587}
-      \strng{bibnamehash}{0d8f980802951b40c8fa9e3d5de6d587}
-      \strng{authorbibnamehash}{0d8f980802951b40c8fa9e3d5de6d587}
-      \strng{authornamehash}{0d8f980802951b40c8fa9e3d5de6d587}
-      \strng{authorfullhash}{0d8f980802951b40c8fa9e3d5de6d587}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{\url{https://www.acm.org/media-center/2023/january/techbrief-safer-algorithmic-systems}}
-      \field{title}{{A}{C}{M} {T}ech{B}rief: {P}olicies for {S}afer {A}lgorithmic {S}ystems {U}rgently {N}eeded}
       \field{year}{2023}
     \endentry
     \entry{Keynes2012}{book}{}
@@ -1182,24 +1198,7 @@
       \verb https://cacm.acm.org/blogs/blog-cacm/268376-is-chatgpt-really-a-code-red-for-google-search/fulltext
       \endverb
     \endentry
-    \entry{KrohnTED}{misc}{}
-      \list{publisher}{1}{%
-        {TED}%
-      }
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labeltitlesource}{title}
-      \field{title}{{Jon Krohn}}
-      \field{year}{2022}
-      \verb{urlraw}
-      \verb https://www.jonkrohn.com/posts/2022/10/7/tedx-talk-how-neuroscience-inspires-ai-breakthroughs-that-will-change-the-world
-      \endverb
-      \verb{url}
-      \verb https://www.jonkrohn.com/posts/2022/10/7/tedx-talk-how-neuroscience-inspires-ai-breakthroughs-that-will-change-the-world
-      \endverb
-    \endentry
   \enddatalist
-  \missing{syntheticmedia}
 \endrefsection
 \endinput
 

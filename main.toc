@@ -154,10 +154,6 @@
 \contentsline {mtocsection}{\numberline {6.2}Comparing Autopilot Systems}{65}{section.6.2}%
 \contentsline {section}{\numberline {6.3}Who Should The Car Kill?}{66}{section.6.3}%
 \contentsline {mtocsection}{\numberline {6.3}Who Should The Car Kill?}{66}{section.6.3}%
-\contentsline {subsection}{\numberline {6.3.1}The Trolley Problem and Autonomous Decision-Making}{66}{subsection.6.3.1}%
-\contentsline {mtocsubsection}{\numberline {6.3.1}The Trolley Problem and Autonomous Decision-Making}{66}{subsection.6.3.1}%
-\contentsline {subsection}{\numberline {6.3.2}Outsourcing Responsibility: Legal and Moral Considerations}{66}{subsection.6.3.2}%
-\contentsline {mtocsubsection}{\numberline {6.3.2}Outsourcing Responsibility: Legal and Moral Considerations}{66}{subsection.6.3.2}%
 \contentsline {section}{\numberline {6.4}Driving Infrastructure}{67}{section.6.4}%
 \contentsline {mtocsection}{\numberline {6.4}Driving Infrastructure}{67}{section.6.4}%
 \contentsline {section}{\numberline {6.5}See You In Court!}{68}{section.6.5}%
@@ -169,38 +165,36 @@
 \contentsline {chapter}{\numberline {7}Unplugging Skynet}{71}{chapter.7}%
 \etoc@startlocaltoc {12}
 \etoc@startlocaltoc {13}
-\contentsline {section}{\numberline {7.1}The Perils of Early Autonomous Weapons}{71}{section.7.1}%
-\contentsline {mtocsection}{\numberline {7.1}The Perils of Early Autonomous Weapons}{71}{section.7.1}%
-\contentsline {section}{\numberline {7.2}The Fallacy of Autonomous Weapons Acting Independently}{71}{section.7.2}%
-\contentsline {mtocsection}{\numberline {7.2}The Fallacy of Autonomous Weapons Acting Independently}{71}{section.7.2}%
-\contentsline {section}{\numberline {7.3}Human Responsibility in Weaponized AI}{71}{section.7.3}%
-\contentsline {mtocsection}{\numberline {7.3}Human Responsibility in Weaponized AI}{71}{section.7.3}%
-\contentsline {section}{\numberline {7.4}The Inherent Flaws in Asimov's Three Laws of Robotics}{71}{section.7.4}%
-\contentsline {mtocsection}{\numberline {7.4}The Inherent Flaws in Asimov's Three Laws of Robotics}{71}{section.7.4}%
-\contentsline {section}{\numberline {7.5}AI in Warfare: Challenges and Concerns}{72}{section.7.5}%
-\contentsline {mtocsection}{\numberline {7.5}AI in Warfare: Challenges and Concerns}{72}{section.7.5}%
-\contentsline {section}{\numberline {7.6}The Role of Training Data in AI Decision-Making}{72}{section.7.6}%
-\contentsline {mtocsection}{\numberline {7.6}The Role of Training Data in AI Decision-Making}{72}{section.7.6}%
-\contentsline {section}{\numberline {7.7}Ensuring Safer Algorithmic Systems}{72}{section.7.7}%
-\contentsline {mtocsection}{\numberline {7.7}Ensuring Safer Algorithmic Systems}{72}{section.7.7}%
-\contentsline {chapter}{\numberline {8}Revolutionary for Whom?}{73}{chapter.8}%
+\contentsline {section}{\numberline {7.1}Landmines Everywhere}{71}{section.7.1}%
+\contentsline {mtocsection}{\numberline {7.1}Landmines Everywhere}{71}{section.7.1}%
+\contentsline {section}{\numberline {7.2}The Autonomous Weapons Fallacy}{72}{section.7.2}%
+\contentsline {mtocsection}{\numberline {7.2}The Autonomous Weapons Fallacy}{72}{section.7.2}%
+\contentsline {section}{\numberline {7.3}Where's the Off Button?}{73}{section.7.3}%
+\contentsline {mtocsection}{\numberline {7.3}Where's the Off Button?}{73}{section.7.3}%
+\contentsline {section}{\numberline {7.4}You Can't Handle The Truth!}{74}{section.7.4}%
+\contentsline {mtocsection}{\numberline {7.4}You Can't Handle The Truth!}{74}{section.7.4}%
+\contentsline {section}{\numberline {7.5}AI Doesn't Kill People, People Kill People}{75}{section.7.5}%
+\contentsline {mtocsection}{\numberline {7.5}AI Doesn't Kill People, People Kill People}{75}{section.7.5}%
+\contentsline {section}{\numberline {7.6}Key Takeaways}{75}{section.7.6}%
+\contentsline {mtocsection}{\numberline {7.6}Key Takeaways}{75}{section.7.6}%
+\contentsline {chapter}{\numberline {8}Revolutionary for Whom?}{77}{chapter.8}%
 \etoc@startlocaltoc {14}
 \etoc@startlocaltoc {15}
-\contentsline {section}{\numberline {8.1}Assistance from Assistants}{73}{section.8.1}%
-\contentsline {mtocsection}{\numberline {8.1}Assistance from Assistants}{73}{section.8.1}%
-\contentsline {section}{\numberline {8.2}The AI Advantage in the Workplace}{73}{section.8.2}%
-\contentsline {mtocsection}{\numberline {8.2}The AI Advantage in the Workplace}{73}{section.8.2}%
-\contentsline {section}{\numberline {8.3}The Limitations of AI-generated Content}{73}{section.8.3}%
-\contentsline {mtocsection}{\numberline {8.3}The Limitations of AI-generated Content}{73}{section.8.3}%
-\contentsline {section}{\numberline {8.4}The "Organic Content" Market}{74}{section.8.4}%
-\contentsline {mtocsection}{\numberline {8.4}The "Organic Content" Market}{74}{section.8.4}%
-\contentsline {section}{\numberline {8.5}A Framework for Navigating AI's Impact on Careers}{74}{section.8.5}%
-\contentsline {mtocsection}{\numberline {8.5}A Framework for Navigating AI's Impact on Careers}{74}{section.8.5}%
-\contentsline {section}{\numberline {8.6}Worse, but still on top}{74}{section.8.6}%
-\contentsline {mtocsection}{\numberline {8.6}Worse, but still on top}{74}{section.8.6}%
-\contentsline {section}{\numberline {8.7}Dead Inside}{74}{section.8.7}%
-\contentsline {mtocsection}{\numberline {8.7}Dead Inside}{74}{section.8.7}%
-\contentsline {chapter}{\numberline {9}Errors and Omissions}{75}{chapter.9}%
+\contentsline {section}{\numberline {8.1}Assistance from Assistants}{77}{section.8.1}%
+\contentsline {mtocsection}{\numberline {8.1}Assistance from Assistants}{77}{section.8.1}%
+\contentsline {section}{\numberline {8.2}The AI Advantage in the Workplace}{77}{section.8.2}%
+\contentsline {mtocsection}{\numberline {8.2}The AI Advantage in the Workplace}{77}{section.8.2}%
+\contentsline {section}{\numberline {8.3}The Limitations of AI-generated Content}{77}{section.8.3}%
+\contentsline {mtocsection}{\numberline {8.3}The Limitations of AI-generated Content}{77}{section.8.3}%
+\contentsline {section}{\numberline {8.4}The "Organic Content" Market}{78}{section.8.4}%
+\contentsline {mtocsection}{\numberline {8.4}The "Organic Content" Market}{78}{section.8.4}%
+\contentsline {section}{\numberline {8.5}A Framework for Navigating AI's Impact on Careers}{78}{section.8.5}%
+\contentsline {mtocsection}{\numberline {8.5}A Framework for Navigating AI's Impact on Careers}{78}{section.8.5}%
+\contentsline {section}{\numberline {8.6}Worse, but still on top}{78}{section.8.6}%
+\contentsline {mtocsection}{\numberline {8.6}Worse, but still on top}{78}{section.8.6}%
+\contentsline {section}{\numberline {8.7}Dead Inside}{78}{section.8.7}%
+\contentsline {mtocsection}{\numberline {8.7}Dead Inside}{78}{section.8.7}%
+\contentsline {chapter}{\numberline {9}Errors and Omissions}{79}{chapter.9}%
 \etoc@startlocaltoc {16}
 \etoc@startlocaltoc {17}
-\contentsline {chapter}{\nonumberline Bibliography}{76}{chapter*.46}%
+\contentsline {chapter}{\nonumberline Bibliography}{80}{chapter*.46}%
