@@ -182,19 +182,33 @@
 \etoc@startlocaltoc {15}
 \contentsline {section}{\numberline {8.1}Assistance from Assistants}{77}{section.8.1}%
 \contentsline {mtocsection}{\numberline {8.1}Assistance from Assistants}{77}{section.8.1}%
-\contentsline {section}{\numberline {8.2}The AI Advantage in the Workplace}{77}{section.8.2}%
-\contentsline {mtocsection}{\numberline {8.2}The AI Advantage in the Workplace}{77}{section.8.2}%
-\contentsline {section}{\numberline {8.3}The Limitations of AI-generated Content}{77}{section.8.3}%
-\contentsline {mtocsection}{\numberline {8.3}The Limitations of AI-generated Content}{77}{section.8.3}%
-\contentsline {section}{\numberline {8.4}The "Organic Content" Market}{78}{section.8.4}%
-\contentsline {mtocsection}{\numberline {8.4}The "Organic Content" Market}{78}{section.8.4}%
-\contentsline {section}{\numberline {8.5}A Framework for Navigating AI's Impact on Careers}{78}{section.8.5}%
-\contentsline {mtocsection}{\numberline {8.5}A Framework for Navigating AI's Impact on Careers}{78}{section.8.5}%
-\contentsline {section}{\numberline {8.6}Worse, but still on top}{78}{section.8.6}%
-\contentsline {mtocsection}{\numberline {8.6}Worse, but still on top}{78}{section.8.6}%
-\contentsline {section}{\numberline {8.7}Dead Inside}{78}{section.8.7}%
-\contentsline {mtocsection}{\numberline {8.7}Dead Inside}{78}{section.8.7}%
-\contentsline {chapter}{\numberline {9}Errors and Omissions}{79}{chapter.9}%
+\contentsline {section}{\numberline {8.2}The Limitations of AI-generated Content}{78}{section.8.2}%
+\contentsline {mtocsection}{\numberline {8.2}The Limitations of AI-generated Content}{78}{section.8.2}%
+\contentsline {section}{\numberline {8.3}The AI Advantage in the Workplace}{79}{section.8.3}%
+\contentsline {mtocsection}{\numberline {8.3}The AI Advantage in the Workplace}{79}{section.8.3}%
+\contentsline {section}{\numberline {8.4}A Framework for Navigating AI's Impact on Careers}{80}{section.8.4}%
+\contentsline {mtocsection}{\numberline {8.4}A Framework for Navigating AI's Impact on Careers}{80}{section.8.4}%
+\contentsline {subsection}{\numberline {8.4.1}1. Assess the Landscape}{80}{subsection.8.4.1}%
+\contentsline {mtocsubsection}{\numberline {8.4.1}1. Assess the Landscape}{80}{subsection.8.4.1}%
+\contentsline {subsection}{\numberline {8.4.2}2. Embrace AI as a Collaborator}{80}{subsection.8.4.2}%
+\contentsline {mtocsubsection}{\numberline {8.4.2}2. Embrace AI as a Collaborator}{80}{subsection.8.4.2}%
+\contentsline {subsection}{\numberline {8.4.3}3. Adapt and Upskill}{81}{subsection.8.4.3}%
+\contentsline {mtocsubsection}{\numberline {8.4.3}3. Adapt and Upskill}{81}{subsection.8.4.3}%
+\contentsline {subsection}{\numberline {8.4.4}4. Shape the Future of Work}{81}{subsection.8.4.4}%
+\contentsline {mtocsubsection}{\numberline {8.4.4}4. Shape the Future of Work}{81}{subsection.8.4.4}%
+\contentsline {section}{\numberline {8.5}Dead Inside}{81}{section.8.5}%
+\contentsline {mtocsection}{\numberline {8.5}Dead Inside}{81}{section.8.5}%
+\contentsline {section}{\numberline {8.6}Go Forth and Procreate, Let The Calculators Multiply!}{82}{section.8.6}%
+\contentsline {mtocsection}{\numberline {8.6}Go Forth and Procreate, Let The Calculators Multiply!}{82}{section.8.6}%
+\contentsline {subsection}{\numberline {8.6.1}Should we let machines flood our information channels with propaganda and untruth?}{82}{subsection.8.6.1}%
+\contentsline {mtocsubsection}{\numberline {8.6.1}Should we let machines flood our information channels with propaganda and untruth?}{82}{subsection.8.6.1}%
+\contentsline {subsection}{\numberline {8.6.2}Should we automate away all the jobs, including the fulfilling ones?}{82}{subsection.8.6.2}%
+\contentsline {mtocsubsection}{\numberline {8.6.2}Should we automate away all the jobs, including the fulfilling ones?}{82}{subsection.8.6.2}%
+\contentsline {subsection}{\numberline {8.6.3}Should we develop nonhuman minds that might eventually outnumber, outsmart, obsolete and replace us?}{82}{subsection.8.6.3}%
+\contentsline {mtocsubsection}{\numberline {8.6.3}Should we develop nonhuman minds that might eventually outnumber, outsmart, obsolete and replace us?}{82}{subsection.8.6.3}%
+\contentsline {subsection}{\numberline {8.6.4}Should we risk loss of control of our civilization?}{83}{subsection.8.6.4}%
+\contentsline {mtocsubsection}{\numberline {8.6.4}Should we risk loss of control of our civilization?}{83}{subsection.8.6.4}%
+\contentsline {chapter}{\numberline {9}Errors and Omissions}{84}{chapter.9}%
 \etoc@startlocaltoc {16}
 \etoc@startlocaltoc {17}
-\contentsline {chapter}{\nonumberline Bibliography}{80}{chapter*.46}%
+\contentsline {chapter}{\nonumberline Bibliography}{85}{chapter*.46}%

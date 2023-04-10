@@ -1198,6 +1198,34 @@
       \verb https://cacm.acm.org/blogs/blog-cacm/268376-is-chatgpt-really-a-code-red-for-google-search/fulltext
       \endverb
     \endentry
+    \entry{dumbestletter}{misc}{}
+      \name{author}{2}{}{%
+        {{hash=ad83d3b5295d60541495722f55074b27}{%
+           family={Elon\bibnamedelima Musk},
+           familyi={E\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Steve\bibnamedelima Wozniak},
+           giveni={S\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=b244b4277337ac1c96e9d1efe020b6fd}{%
+           family={1},
+           familyi={1\bibinitperiod},
+           given={000+\bibnamedelima others},
+           giveni={0\bibinitperiod\bibinitdelim o\bibinitperiod}}}%
+      }
+      \strng{namehash}{f4bad06d58963aaec32646b8779eb2c8}
+      \strng{fullhash}{f4bad06d58963aaec32646b8779eb2c8}
+      \strng{bibnamehash}{f4bad06d58963aaec32646b8779eb2c8}
+      \strng{authorbibnamehash}{f4bad06d58963aaec32646b8779eb2c8}
+      \strng{authornamehash}{f4bad06d58963aaec32646b8779eb2c8}
+      \strng{authorfullhash}{f4bad06d58963aaec32646b8779eb2c8}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://futureoflife.org/open-letter/pause-giant-ai-experiments/}}
+      \field{note}{[Accessed 29-Mar-2023]}
+      \field{title}{{P}ause {G}iant {A}{I} {E}xperiments: {A}n {O}pen {L}etter - {F}uture of {L}ife {I}nstitute}
+      \field{year}{2023}
+    \endentry
   \enddatalist
 \endrefsection
 \endinput

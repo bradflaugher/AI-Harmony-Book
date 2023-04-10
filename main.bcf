@@ -2555,8 +2555,8 @@
     <bcf:citekey order="190">procrustes</bcf:citekey>
     <bcf:citekey order="191">newyorkerChatGPTBlurry</bcf:citekey>
     <bcf:citekey order="192">marcus2023</bcf:citekey>
-    <bcf:citekey order="193">KrohnTED</bcf:citekey>
-    <bcf:citekey order="194">procrustes</bcf:citekey>
+    <bcf:citekey order="193">procrustes</bcf:citekey>
+    <bcf:citekey order="194">dumbestletter</bcf:citekey>
     <bcf:citekeycount count="2">dontfearterminator</bcf:citekeycount>
     <bcf:citekeycount count="3">copyrighteconocmist</bcf:citekeycount>
     <bcf:citekeycount count="3">OGrady2015</bcf:citekeycount>
@@ -2596,13 +2596,14 @@
     <bcf:citekeycount count="1">openpilot</bcf:citekeycount>
     <bcf:citekeycount count="1">otacrash</bcf:citekeycount>
     <bcf:citekeycount count="1">trustworthyml</bcf:citekeycount>
-    <bcf:citekeycount count="4">KrohnTED</bcf:citekeycount>
+    <bcf:citekeycount count="3">KrohnTED</bcf:citekeycount>
     <bcf:citekeycount count="1">saferalgorithmicsystems</bcf:citekeycount>
     <bcf:citekeycount count="1">cunkonearth</bcf:citekeycount>
     <bcf:citekeycount count="1">aiwarfare</bcf:citekeycount>
     <bcf:citekeycount count="1">Keynes2012</bcf:citekeycount>
     <bcf:citekeycount count="1">Lecarre</bcf:citekeycount>
     <bcf:citekeycount count="1">marcus2023</bcf:citekeycount>
+    <bcf:citekeycount count="1">dumbestletter</bcf:citekeycount>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">
