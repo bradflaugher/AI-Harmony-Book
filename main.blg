@@ -1,24 +1,24 @@
 [0] Config.pm:307> INFO - This is Biber 2.17
 [0] Config.pm:310> INFO - Logfile is 'main.blg'
-[44] biber:340> INFO - === Tue Apr 11, 2023, 09:37:24
-[51] Biber.pm:418> INFO - Reading 'main.bcf'
-[92] Biber.pm:972> INFO - Found 47 citekeys in bib section 0
-[100] Biber.pm:4383> INFO - Processing section 0
+[44] biber:340> INFO - === Tue Apr 11, 2023, 13:29:25
+[52] Biber.pm:418> INFO - Reading 'main.bcf'
+[93] Biber.pm:972> INFO - Found 47 citekeys in bib section 0
+[101] Biber.pm:4383> INFO - Processing section 0
 [106] Biber.pm:4574> INFO - Looking for bibtex file 'main.bib' for section 0
-[107] bibtex.pm:1713> INFO - LaTeX decoding ...
-[138] bibtex.pm:1518> INFO - Found BibTeX data source 'main.bib'
-[281] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[108] bibtex.pm:1713> INFO - LaTeX decoding ...
+[139] bibtex.pm:1518> INFO - Found BibTeX data source 'main.bib'
 [281] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[281] Biber.pm:4203> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
-[281] Biber.pm:4209> INFO - No sort tailoring available for locale 'en-US'
-[296] bbl.pm:654> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[306] bbl.pm:757> INFO - Output to main.bbl
-[306] Biber.pm:130> WARN - legacy month field 'September' in entry 'dontfearterminator' is not an integer - this will probably not sort properly.
-[306] Biber.pm:130> WARN - legacy month field 'March' in entry 'copyrighteconocmist' is not an integer - this will probably not sort properly.
-[306] Biber.pm:130> WARN - legacy month field 'March' in entry 'andreesenunemp' is not an integer - this will probably not sort properly.
-[306] Biber.pm:130> WARN - legacy month field 'March' in entry 'lawmakersny' is not an integer - this will probably not sort properly.
-[306] Biber.pm:130> WARN - legacy month field 'February' in entry 'morningconsult' is not an integer - this will probably not sort properly.
-[306] Biber.pm:130> WARN - legacy month field 'February' in entry 'monmouthai' is not an integer - this will probably not sort properly.
+[282] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[282] Biber.pm:4203> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[282] Biber.pm:4209> INFO - No sort tailoring available for locale 'en-US'
+[297] bbl.pm:654> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[307] bbl.pm:757> INFO - Output to main.bbl
+[307] Biber.pm:130> WARN - legacy month field 'September' in entry 'dontfearterminator' is not an integer - this will probably not sort properly.
+[307] Biber.pm:130> WARN - legacy month field 'March' in entry 'copyrighteconocmist' is not an integer - this will probably not sort properly.
+[307] Biber.pm:130> WARN - legacy month field 'March' in entry 'andreesenunemp' is not an integer - this will probably not sort properly.
+[307] Biber.pm:130> WARN - legacy month field 'March' in entry 'lawmakersny' is not an integer - this will probably not sort properly.
+[307] Biber.pm:130> WARN - legacy month field 'February' in entry 'morningconsult' is not an integer - this will probably not sort properly.
+[307] Biber.pm:130> WARN - legacy month field 'February' in entry 'monmouthai' is not an integer - this will probably not sort properly.
 [307] Biber.pm:130> WARN - legacy month field 'February' in entry 'googlenerd' is not an integer - this will probably not sort properly.
 [307] Biber.pm:130> WARN - legacy month field 'March' in entry 'peopleusingAIhappy' is not an integer - this will probably not sort properly.
 [307] Biber.pm:130> WARN - legacy month field 'March' in entry 'protopia' is not an integer - this will probably not sort properly.
@@ -26,21 +26,21 @@
 [307] Biber.pm:130> WARN - legacy month field 'February' in entry 'getty' is not an integer - this will probably not sort properly.
 [307] Biber.pm:130> WARN - legacy month field 'Mar' in entry 'kasparov2005' is not an integer - this will probably not sort properly.
 [307] Biber.pm:130> WARN - legacy month field 'October' in entry 'procrustes' is not an integer - this will probably not sort properly.
-[307] Biber.pm:130> WARN - legacy month field 'November' in entry 'sillygo' is not an integer - this will probably not sort properly.
-[307] Biber.pm:130> WARN - legacy month field 'November' in entry 'skindark' is not an integer - this will probably not sort properly.
-[307] Biber.pm:130> WARN - legacy month field 'February' in entry 'innocence' is not an integer - this will probably not sort properly.
-[307] Biber.pm:130> WARN - legacy month field 'January' in entry 'ptliver' is not an integer - this will probably not sort properly.
-[307] Biber.pm:130> WARN - legacy month field 'February' in entry 'cacmautism' is not an integer - this will probably not sort properly.
-[307] Biber.pm:130> WARN - legacy month field 'February' in entry 'wokeai' is not an integer - this will probably not sort properly.
-[307] Biber.pm:130> WARN - legacy month field 'February' in entry 'nyt911' is not an integer - this will probably not sort properly.
-[307] Biber.pm:130> WARN - legacy month field 'January' in entry 'darpabot' is not an integer - this will probably not sort properly.
-[307] Biber.pm:130> WARN - legacy month field 'January' in entry 'openaimisuse' is not an integer - this will probably not sort properly.
-[307] Biber.pm:130> WARN - legacy month field 'July' in entry 'nees2021' is not an integer - this will probably not sort properly.
-[307] Biber.pm:130> WARN - legacy month field 'February' in entry 'trustworthyml' is not an integer - this will probably not sort properly.
-[307] Biber.pm:130> WARN - legacy month field 'February' in entry 'aiwarfare' is not an integer - this will probably not sort properly.
-[307] Biber.pm:130> WARN - legacy month field 'December' in entry 'Keynes2012' is not an integer - this will probably not sort properly.
-[307] Biber.pm:130> WARN - legacy month field '"June"' in entry 'Lecarre' is not an integer - this will probably not sort properly.
-[307] Biber.pm:130> WARN - legacy year field '2011"' in entry 'Lecarre' is not an integer - this will probably not sort properly.
-[307] Biber.pm:130> WARN - legacy month field 'Jan' in entry 'marcus2023' is not an integer - this will probably not sort properly.
-[307] Biber.pm:130> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[307] Biber.pm:132> INFO - WARNINGS: 30
+[308] Biber.pm:130> WARN - legacy month field 'November' in entry 'sillygo' is not an integer - this will probably not sort properly.
+[308] Biber.pm:130> WARN - legacy month field 'November' in entry 'skindark' is not an integer - this will probably not sort properly.
+[308] Biber.pm:130> WARN - legacy month field 'February' in entry 'innocence' is not an integer - this will probably not sort properly.
+[308] Biber.pm:130> WARN - legacy month field 'January' in entry 'ptliver' is not an integer - this will probably not sort properly.
+[308] Biber.pm:130> WARN - legacy month field 'February' in entry 'cacmautism' is not an integer - this will probably not sort properly.
+[308] Biber.pm:130> WARN - legacy month field 'February' in entry 'wokeai' is not an integer - this will probably not sort properly.
+[308] Biber.pm:130> WARN - legacy month field 'February' in entry 'nyt911' is not an integer - this will probably not sort properly.
+[308] Biber.pm:130> WARN - legacy month field 'January' in entry 'darpabot' is not an integer - this will probably not sort properly.
+[308] Biber.pm:130> WARN - legacy month field 'January' in entry 'openaimisuse' is not an integer - this will probably not sort properly.
+[308] Biber.pm:130> WARN - legacy month field 'July' in entry 'nees2021' is not an integer - this will probably not sort properly.
+[308] Biber.pm:130> WARN - legacy month field 'February' in entry 'trustworthyml' is not an integer - this will probably not sort properly.
+[308] Biber.pm:130> WARN - legacy month field 'February' in entry 'aiwarfare' is not an integer - this will probably not sort properly.
+[308] Biber.pm:130> WARN - legacy month field 'December' in entry 'Keynes2012' is not an integer - this will probably not sort properly.
+[308] Biber.pm:130> WARN - legacy month field '"June"' in entry 'Lecarre' is not an integer - this will probably not sort properly.
+[308] Biber.pm:130> WARN - legacy year field '2011"' in entry 'Lecarre' is not an integer - this will probably not sort properly.
+[308] Biber.pm:130> WARN - legacy month field 'Jan' in entry 'marcus2023' is not an integer - this will probably not sort properly.
+[308] Biber.pm:130> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[308] Biber.pm:132> INFO - WARNINGS: 30
