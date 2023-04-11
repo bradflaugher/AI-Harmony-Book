@@ -13,7 +13,13 @@ One might be tempted to compare these self-driving cars to our trusty equine fri
 
 The National Highway Traffic Safety Administration (NHTSA) has devised a six-level classification system to describe vehicle autonomy, ranging from Level 0 (no automation) to Level 5 (full automation). Most commercially available vehicles today hover between Levels 2 and 3, providing advanced driver assistance but requiring constant human oversight. This semi-autonomous state can lull drivers into a false sense of security, prompting them to disengage from the driving task in a manner that might have been acceptable during the days of horse-drawn carriages but is decidedly dangerous in the modern era.
 
-In his book "Robot Take the Wheel," author Jason Torchinsky offers a compelling argument against semi-autonomy, dubbing it "stupid" in a section bearing the same name. Torchinsky highlights the impracticality of expecting a driver who has relinquished control to a semi-autonomous system to suddenly take over in a moment of crisis. Manufacturer warnings, while intended to encourage drivers to stay attentive, often go unheeded, creating a precarious situation where those behind the wheel are ill-prepared to intervene when the technology falters.\cite{torchinskyboeckmann2019}
+\begin{marginfigure}[-5.5cm]
+        \includegraphics{asleep}
+        \caption{"style a person in a business suit asleep at the wheel of a car AP" made with Stable Diffusion 2.1}
+        \labfig{asleep}
+\end{marginfigure}
+
+In his book "Robot Take the Wheel," author Jason Torchinsky offers a compelling argument against semi-autonomy, dubbing it "stupid" in a section bearing the same name. Torchinsky highlights the impracticality of expecting a driver who has relinquished control to a semi-autonomous system to suddenly take over in a moment of crisis. Manufacturer warnings, while intended to encourage drivers to stay attentive, often go unheeded, creating a precarious situation where those behind the wheel are ill-prepared to intervene when the technology falters.\sidecite{torchinskyboeckmann2019}
 
 The world of transportation extends beyond the realm of four-wheeled automobiles. The skies above host a veritable ballet of commercial aircraft, which rely on sophisticated autopilot systems to ferry passengers and cargo across vast distances. These systems differ in important ways from automobile autopilot and have significantly different infrastructure (not to mention terrain, or lack thereof).In aviation, autopilots demand constant monitoring and communication between the pilot, the aircraft, and air traffic control. In many ways, the intricacies and collaboration required for safe air travel can serve as a model for understanding the complexities of developing and implementing truly autonomous ground vehicles.
 
@@ -26,6 +32,12 @@ Commercial airplanes, for example, are equipped with highly sophisticated autopi
 One critical aspect of aircraft autopilot systems is the need for seamless communication and coordination with external systems, such as air traffic control (ATC) and other aircraft. This level of coordination ensures that each plane maintains a safe distance from others, follows established routes, and adheres to ATC instructions.
 
 On the other hand, vehicles like Teslas currently have limited means of communication with external systems, relying instead on onboard sensors and mapping data to navigate the environment. As autonomous vehicle technology advances, however, it is anticipated that vehicle-to-vehicle (V2V) and vehicle-to-infrastructure (V2I) communication will become increasingly important for coordinating traffic flow and maintaining safety.
+
+\begin{marginfigure}[-5.5cm]
+        \includegraphics{pilot}
+        \caption{"a robot pilot at the helm of a commercial airliner, being served by a human flight attendant" made with Stable Diffusion 2.1}
+        \labfig{pilot}
+\end{marginfigure}
 
 Despite the advanced nature of aircraft autopilot systems, pilots are still required to maintain a constant vigil, monitoring the system and intervening when necessary. This level of human oversight is not only mandated by regulations but also reinforced through rigorous training and the understanding that even the most advanced systems can fail.
 
@@ -43,6 +55,12 @@ The advent of autonomous vehicles raises complex questions about responsibility 
 
 One potential approach is to establish a new legal framework that recognizes the unique nature of autonomous vehicles, assigning responsibility based on factors such as the level of autonomy, the specific circumstances of an accident, and the degree of human oversight. This would likely involve a combination of civil and criminal liability, as well as new insurance models to address the changing landscape of risk.
 
+\begin{marginfigure}[-5.5cm]
+        \includegraphics{trolley}
+        \caption{"mdjrny-v4 A humorous, cartoonish illustration of an autonomous vehicle facing the classic trolley problem 8k" made with Stable Diffusion 2.1}
+        \labfig{trolley}
+\end{marginfigure}
+
 From a moral standpoint, the delegation of life-or-death decisions to machines raises profound questions about the nature of human agency and the limits of technological progress. As we continue to develop and deploy autonomous vehicles, it is crucial to engage in a broader societal conversation about the values and principles that should guide these advancements, ensuring that they serve the greater good while respecting individual rights and dignity.
 
 The development of autonomous vehicles presents not only technological challenges but also complex ethical, legal, and moral dilemmas. By confronting these issues head-on, we can work towards a future where self-driving cars operate in harmony with human society, guided by shared values and a collective vision of progress.
@@ -51,13 +69,19 @@ The development of autonomous vehicles presents not only technological challenge
 
 As we delve deeper into the world of autonomous vehicles, it is essential to consider the broader infrastructure that supports these technologies. In this section, we will explore the challenges and opportunities related to maps, roads, sensors, software, and communications, shedding light on the complexities involved in creating a seamless, harmonious driving experience.
 
-Maps play a crucial role in enabling autonomous vehicles to navigate their surroundings. However, one of the most significant challenges in map creation and maintenance is the concept drift – the ever-changing nature of our environments. Roads are altered, new construction projects arise, and traffic patterns shift. These changes can render maps outdated or inaccurate, as evidenced by the pileup crash cited in reference \cite{pileupcrash}, where a self-driving car's reliance on outdated map data contributed to the accident.
+Maps play a crucial role in enabling autonomous vehicles to navigate their surroundings. However, one of the most significant challenges in map creation and maintenance is the concept drift – the ever-changing nature of our environments. Roads are altered, new construction projects arise, and traffic patterns shift. These changes can render maps outdated or inaccurate, as evidenced by the pileup crash cited in reference \sidecite{pileupcrash}, where a self-driving car's reliance on outdated map data contributed to the accident.
 
 Roads and urban design are equally important when considering the infrastructure necessary for self-driving cars. Retrofitting cities to accommodate autonomous vehicles may involve the creation of dedicated lanes, the installation of new traffic signals, and the adaptation of pedestrian spaces to ensure the safe coexistence of humans and machines. These changes will require collaboration between urban planners, transportation experts, and policymakers to ensure that cities evolve in a manner that supports the widespread adoption of self-driving cars.
 
 Sensors are the eyes and ears of autonomous vehicles, allowing them to perceive and interpret their surroundings. However, these sensors are not infallible – they can be impaired by dirt, debris, and other environmental factors. A dirty sensor can compromise a self-driving car's ability to function safely, emphasizing the need for regular maintenance and cleaning to ensure optimal performance.
 
-Software plays a central role in the operation of autonomous vehicles, with platforms like OpenPilot \cite{openpilot} leading the way in developing advanced driver assistance systems. However, questions surrounding the inspection, regulation, and potential bankruptcy of software providers must be addressed. Additionally, the risk of software failures, as demonstrated in the over-the-air (OTA) crash cited in reference \cite{otacrash}, highlights the need for robust safety mechanisms and regulatory oversight.
+Software plays a central role in the operation of autonomous vehicles, and while you might think that this software is all proprietary, there are many completely open source platforms like OpenPilot \cite{openpilot} leading the way in developing advanced driver assistance systems. However, questions surrounding the inspection, regulation, and potential bankruptcy of software providers must be addressed. Additionally, the risk of software failures, as demonstrated in the over-the-air (OTA) crash cited in reference \cite{otacrash}, highlights the need for robust safety mechanisms and regulatory oversight.
+
+\begin{marginfigure}[-5.5cm]
+        \includegraphics{mustang}
+        \caption{"A steampunk scifi highway with a Tesla Model X driving next to a 1961 Ford Mustang" made with Stable Diffusion 2.1}
+        \labfig{mustang}
+\end{marginfigure}
 
 Finally, communication is a vital aspect of autonomous driving infrastructure. Autonomous vehicles must be capable of communicating not only with other cars but also with people, animals, and various elements of the environment. The emergence of new technologies and trends, such as vehicle-to-vehicle (V2V) and vehicle-to-infrastructure (V2I) communication, has the potential to revolutionize the way self-driving cars interact with their surroundings. However, these advances also bring new challenges in terms of privacy, security, and standardization.
 
@@ -69,9 +93,17 @@ As autonomous vehicles become more prevalent, it is inevitable that their integr
 
 Multicollinearity and mathematical chaos introduce an element of uncertainty in the performance of autonomous vehicles. As multiple, highly correlated variables affect the behavior of self-driving cars, determining the cause of a specific event can be difficult. This problem is exacerbated by the chaotic nature of the systems involved, where small changes in initial conditions can lead to vastly different outcomes. These factors can make it challenging to attribute responsibility in the event of an accident, particularly when attempting to disentangle the contributions of various components, such as hardware, software, and environmental factors.
 
+\begin{marginfigure}[-5.5cm]
+        \includegraphics{robotcourt}
+        \caption{"A courtroom sketch of a robot shrugging at the witness stand" made with Stable Diffusion 2.1}
+        \labfig{robotcourt}
+\end{marginfigure}
+
 Explainability and accountability are critical concerns when presenting autonomous vehicle-related cases in court. If the decision-making processes of self-driving cars are inscrutable or difficult to understand, it becomes challenging to determine who or what is at fault in a given situation. This lack of transparency can impede the legal process and erode public trust in autonomous vehicle technology.
 
-One potential solution to these challenges is the development of trustworthy machine learning, as described in reference \cite{trustworthyml}. By teaching developers to build models that are reliable, interpretable, and robust, we can create autonomous vehicles that are more easily understood and evaluated in legal proceedings. This approach prioritizes transparency and accountability, ensuring that the underlying algorithms driving these vehicles can be scrutinized and their decisions explained. \sidenote{Explain how trustworthyML and neural netwoks do not get along, it requires us to use less-fancy technology for the sake of explainability, but if neural networks are also decision trees, you can run into the same problem, where theoretically the model is fully explainable, but it has 20,000,000 lines of rules or code, making it funtionally just as big of a mess to explain in court.}
+One potential solution to these challenges is the development of trustworthy machine learning, as described in Trustworthy ML\sidecite{trustworthyml}. By teaching developers to build models that are reliable, interpretable, and robust, we can create autonomous vehicles that are more easily understood and evaluated in legal proceedings. This approach prioritizes transparency and accountability, ensuring that the underlying algorithms driving these vehicles can be scrutinized and their decisions explained. 
+
+In order to achieve explainability in artificial intelligence, it may be necessary to reconsider the recent advancements in deep neural networks. While these networks have demonstrated impressive performance, their opacity can make it difficult to understand how decisions are being made. This is where less advanced technology may have an advantage, as it allows for more transparency in the decision-making process. However, even with less advanced models such as decision trees, there is still the potential for complexity to create challenges in explainability. While theoretically fully explainable, decision trees can become cumbersome when they contain millions of lines of rules or code. As a result, they can be just as difficult to explain in a court of law as more advanced neural networks.
 
 Inherently interpretable models further reinforce the case for transparency and accountability in autonomous vehicles. By developing machine learning models that are not only accurate but also readily interpretable, we can facilitate a more straightforward assessment of responsibility in the event of an accident. This clarity can help build public trust in the technology while also streamlining the legal process when disputes arise.
 
@@ -82,6 +114,12 @@ As we explore the future of autonomous vehicles, it is crucial to consider alter
 One alternative approach involves reimagining self-driving cars as a form of "train" that operates in dedicated lanes. By constructing special lanes for autonomous vehicles, we can essentially put these cars "on rails," enabling them to function more like a train. This approach would not only enhance the safety and efficiency of autonomous vehicles but also provide a glimpse into the potential infrastructural and regulatory frameworks necessary for their success.
 
 In the realm of logistics and warehousing, the lack of self-driving forklifts offers an interesting lesson. Instead of focusing on automating forklifts, warehouses have implemented moving shelves, essentially flipping the problem on its head to achieve a more efficient solution. This example highlights the importance of rethinking traditional approaches to autonomy and searching for innovative ways to streamline various aspects of our economy.
+
+\begin{marginfigure}[-5.5cm]
+        \includegraphics{trains}
+        \caption{"trains going down the highway next to cars, bicycles and scooters" made with Stable Diffusion 2.1}
+        \labfig{trains}
+\end{marginfigure}
 
 Building on these ideas, we can explore other unconventional approaches that challenge the status quo of autonomous vehicles. One possibility is the development of platooning systems, in which multiple vehicles travel in close proximity, communicating with one another to maintain safety and optimize traffic flow. This approach could harness the advantages of vehicle-to-vehicle communication while reducing the need for extensive infrastructure modifications.
 

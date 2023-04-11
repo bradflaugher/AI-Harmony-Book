@@ -67,28 +67,28 @@
 %----------------------------------------------------------------------------------------
 %       FORMATTING KILLERS!!!!!!
 %----------------------------------------------------------------------------------------
-%% Remove sidenotes and shit to easily edit in word
-%\renewcommand{\sidenote}[1]{}
-%\renewcommand{\sidecite}[1]{\cite{#1}} % Use \cite instead of \sidecite since you are removing margins
-%\renewcommand{\setchapterpreamble}[1]{}
-%\renewcommand{\includepdf}[1]{}
-%\renewcommand{\labfig}[1]{}
-%\renewcommand{\margintoc}[1]{}
+% Remove sidenotes and shit to easily edit in word
+\renewcommand{\sidenote}[1]{}
+\renewcommand{\sidecite}[1]{\cite{#1}} % Use \cite instead of \sidecite since you are removing margins
+\renewcommand{\setchapterpreamble}[1]{}
+\renewcommand{\includepdf}[1]{}
+\renewcommand{\labfig}[1]{}
+\renewcommand{\margintoc}[1]{}
 
-%\usepackage{xparse}
-%\RenewDocumentCommand{\includegraphics}{O{}m}{}
-%\RenewDocumentEnvironment{marginfigure}{O{}}{\begin{figure}[h!]\setlength{\linewidth}{0pt}}{\end{figure}}
+\usepackage{xparse}
+\RenewDocumentCommand{\includegraphics}{O{}m}{}
+\RenewDocumentEnvironment{marginfigure}{O{}}{\begin{figure}[h!]\setlength{\linewidth}{0pt}}{\end{figure}}
 
-%\renewcommand{\marginlayout}{
-%    \newgeometry{
-%        top=27.4mm,             % height of the top margin
-%        bottom=27.4mm,          % height of the bottom margin
-%        inner=24.8mm,           % width of the inner margin
-%        textwidth=164.6mm,        % width of the text
-%        marginparsep=0mm,     % width between text and margin
-%        marginparwidth=0mm,  % width of the margin
-%    }
-%}
+\renewcommand{\marginlayout}{
+    \newgeometry{
+        top=27.4mm,             % height of the top margin
+        bottom=27.4mm,          % height of the bottom margin
+        inner=24.8mm,           % width of the inner margin
+        textwidth=164.6mm,        % width of the text
+        marginparsep=0mm,     % width between text and margin
+        marginparwidth=0mm,  % width of the margin
+    }
+}
 
 \begin{document}
 
