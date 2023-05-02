@@ -10,13 +10,13 @@ The knowledge representation problem in AI is the challenge of how to formally r
 
 Deep learning techniques handle knowledge representation differently than traditional symbolic AI methods. Unlike symbolic AI, which relies on explicit and hand-coded representations of knowledge, deep learning techniques learn to represent knowledge implicitly through the use of neural networks.
 
-
+\begin{pdf}
 \begin{marginfigure}[-5.5cm]
         \includegraphics{knowledge}
         \caption{"mdjrny-v4 a disembodied computer being force-fed data like a duck looking somewhat like a sci-fi character 8k" made with Mann-E}
         \labfig{marginknowledge}
 \end{marginfigure}
-
+\end{pdf}
 
 In deep learning, knowledge is represented in the form of the weights of the neural network. These weights are learned through training on a large dataset and they capture the underlying relationships and patterns in the data. The neural network can then use these learned weights to make predictions, classifications or generate new data.
 
@@ -30,12 +30,13 @@ A neural network can be mathematically equivalent to a regression or a decision 
 
 A neural network is a machine learning model composed of layers of interconnected artificial neurons, which are designed to process and analyze data. They can be used for a wide range of tasks, such as image and speech recognition, natural language processing, and prediction.
 
+\begin{pdf}
 \begin{marginfigure}[-5.5cm]
 	\includegraphics{OLSregression}
         \caption{A simple linear regression, the red points are the training data, and the blue line is the regression line. If you don't understand this please read \url{https://en.wikipedia.org/wiki/Regression_analysis}}
         \labfig{olsregression}
 \end{marginfigure}
-
+\end{pdf}
 
 A regression is a statistical method used to predict a continuous variable based on one or more input features. A linear regression, for example, is a simple neural network with one input layer, one output layer and no hidden layers. In this case, the weights of the network are the coefficients of the linear equation and the network is equivalent to a linear regression model.
 
@@ -90,13 +91,6 @@ In the first section of this chapter we introduced the idea that a simple neural
 
 In practice, a neural network trained on a gaming PC from 2023 can easily have millons of trainable parameters. A simple image classifier used to classify handwritten digits might have 60,000 parameters which is about the number the model used by Yann LeCun and company in the 1990s. Bleeding-edge deep neural networks are trained on large GPU farms and have have billions of trainable parameters. More parameters gives the models tremendous power to recognize complex patterns, but also makes any practical attempt at explaining their inner-workings impossible.  
 
-%\begin{marginfigure}[-5.5cm]
-%        \includegraphics{greenneuron}
-%        \caption{"mdjrny-v4 layers and layers of neurons looking like a gooey lasagna, but the data has green blood 8k" made with Mann-E}
-%        \labfig{marginneuron}
-%\end{marginfigure}
-
-
 When a neural network has a million (or more) trainable parameters and deep layers of neurons\sidenote{In case you are wondering, the human brain has about 86 billion neurons that do the "thinking". Physical neurons are more complicated than the neurons used in deep learning and have supporting structures like astrocytes that do some computation as well. \url{https://en.wikipedia.org/wiki/Astrocyte}}, it can be difficult to explain to a human what each of those parameters represents or how they contribute to the overall function of the network. This is because the interactions between the different layers and neurons can be complex and non-linear, making it challenging to understand the specific role of each parameter. The parameters  model complex interactions between the inputs, making it difficult to understand their specific function. Furthermore, in deep neural networks, the high number of layers can lead to high level of abstraction, meaning that the individual neurons and their weights have little interpretability.
 
 When a neural network has many interacting parameters, it can lead to mathematical chaos \sidenote{Mathematical chaos is a real thing, it refers to the behavior of certain dynamic systems that are highly sensitive to initial conditions. This sensitivity leads to seemingly random and unpredictable behavior, even though the underlying equations governing the system are deterministic (meaning they are transparent and known to us). \url{https://en.wikipedia.org/wiki/Chaos_theory} }, which is a phenomenon where small changes in the initial conditions of the network can lead to vastly different outputs. This is because the interactions between the large number of parameters can create non-linear relationships that are sensitive to small changes. This can make it difficult to predict the behavior of the network, as small changes in the input or the parameters can lead to unexpected and seemingly random outputs.\sidenote{Chaotic outputs in a large deterministic system are OK in many domains, and there are controls that can be put in place to keep AI "safe" but deep learning by itself will not produce those controls.}
@@ -124,11 +118,13 @@ The Universal Machine Learning Workflow is an important chapter in a technical g
 
 Before Chollet gets into the details of model building, he chooses to begin with a note on ethics: 
 
+\begin{pdf}
 \begin{marginfigure}[-5.5cm]
         \includegraphics{trustworthysd}
         \caption{"the face of a trustworthy person" made with Stable Diffusion 2.1. (Hey, it's a white lady!)}
         \labfig{trustworthysd}
 \end{marginfigure}
+\end{pdf}
 
 \textit{"You may sometimes be offered ethically dubious projects, such as “building an AI that rates the trustworthiness of someone from a picture of their face.” First of all, the validity of the project is in doubt: it isn’t clear why trustworthiness would be reflected on someone’s face. Second, such a task opens the door to all kinds of ethical problems. Collecting a dataset for this task would amount to recording the biases and prejudices of the people who label the pictures. The models you would train on such data would merely encode these same biases into a black-box algorithm that would give them a thin veneer of legitimacy. In a largely tech-illiterate society like ours, “the AI algorithm said this person cannot be trusted” strangely appears to carry more weight and objectivity than “John Smith said this person cannot be trusted,” despite the former being a learned approximation of the latter. Your model would be laundering and operationalizing at scale the worst aspects of human judgement, with negative effects on the lives of real people.} \cite{chollet2022}
 
@@ -167,11 +163,13 @@ In defining the task, machine learning engineers are often given impossible prob
 
 I will discuss Large Language Models later, but they all do the same thing. They predict the next words in a sentence, just like the keyboard on your iPhone. They come up with amazing text but by fundamentally understanding what they are predicting you gain insight into their limitations. They are also all trained on the text publicly available on the internet, this includes scientific sources, but also fan-fiction and anime, so the idea that a model trained on this data could be relied on to predict anything truthful is preposterous. 
 
+\begin{pdf}
 \begin{marginfigure}[-5.5cm]
         \includegraphics{predictive_keyboard}
         \caption{Fundamentally LLMs are using the same techniques as a predictive keyboard on your phone. This is why Yann Lecun says even though they are impressive some like ChatGPT are not particularly innovative. \url{https://www.youtube.com/watch?v=ULbpPHjiSBg}}
         \labfig{predictivekey}
 \end{marginfigure}
+\end{pdf}
 
 Many models work like magic and many users assume models are predicting the future, when they are really correlating based on their past data. Even simple models of creditworthiness might have as similar problem. While building a creditworthiness model for a bank, due to lack of data a machine learning engineer might (on purpose or inadvertently) create a model that predicts whether someone is a smoker instead of whether they are creditworthy. Because smoking and poverty are correlated, maybe the model "works", but it doesn't do what stakeholders think it does. 
 
@@ -186,11 +184,13 @@ Setting expectations is another hellscape of misaligned incentives.\sidenote{The
 
 One does not need to be a psychologist to understand that these conversations almost never happen. The workflow of machine learning is universal, we are all doing fancy regressions and we all deal with the same wild expectations, bad data and misalignment with business.
 
+\begin{pdf}
 \begin{marginfigure}[-5.5cm]
         \includegraphics{sciencechat}
         \caption{"mdjrny-v4 a handsome businessperson explaining the business context to a scientist wearing a white coat over coffee 8k" made with Mann-E}
         \labfig{sciencechat}
 \end{marginfigure}
+\end{pdf}
 
 \section{A Machine Learning Engineer is a Data Janitor}
 \labsec{janitor}

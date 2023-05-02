@@ -6,9 +6,9 @@
 % For pdf ebook use twoside=false below, and remove much of the front matter
 
 % For hard-cover:
-% use twoside=true below
 % add page breaks to the pdf (look for blank.pdf)
 % add secondtitle page
+% Maybe change paper size? https://tex.stackexchange.com/questions/569994/how-do-i-set-margins-to-meet-kdp-requirements
 
 \documentclass[
     letterpaper, % Page size
@@ -50,6 +50,10 @@
 \usepackage{kaorefs}
 \graphicspath{{examples/documentation/images/}{images/}} % Paths in which to look for images
 
+
+% Load comment package to temporarily remove stuff for formatting
+\usepackage{comment}
+
 \makeindex[columns=3, title=Alphabetical Index, intoc] % Make LaTeX produce the files required to compile the index
 
 \makeglossaries % Make LaTeX produce the files required to compile the glossary
@@ -66,17 +70,20 @@
 %       FORMATTING KILLERS!!!!!!
 %----------------------------------------------------------------------------------------
 % Remove sidenotes and shit to easily edit in word
+
+% You might need to redefine this if you get an error from the comment setup 
+\includecomment{doc}
+\excludecomment{pdf}
+
+\begin{doc}
 \renewcommand{\sidenote}[1]{}
 \renewcommand{\sidecite}[1]{\cite{#1}} % Use \cite instead of \sidecite since you are removing margins
 \renewcommand{\setchapterpreamble}[1]{}
 \renewcommand{\includepdf}[1]{}
 \renewcommand{\labfig}[1]{}
-\renewcommand{\caption}[1]{}
 \renewcommand{\margintoc}[1]{}
 
 \usepackage{xparse}
-\RenewDocumentCommand{\includegraphics}{O{}m}{}
-\RenewDocumentEnvironment{marginfigure}{O{}}{\begin{figure}[h!]\setlength{\linewidth}{0pt}}{\end{figure}}
 
 \renewcommand{\marginlayout}{
     \newgeometry{
@@ -88,10 +95,12 @@
         marginparwidth=0mm,  % width of the margin
     }
 }
+\end{doc}
 
 \begin{document}
 
 
+\captionsetup{labelformat=empty}
 %----------------------------------------------------------------------------------------
 %       FRONT COVER
 %----------------------------------------------------------------------------------------
@@ -226,7 +235,14 @@
 %----------------------------------------------------------------------------------------
 
 \mainmatter % Denotes the start of the main document content, resets page numbering and uses arabic numbers
+
+\begin{doc}
+\setchapterstyle{plain}
+\end{doc}
+
+\begin{pdf}
 \setchapterstyle{kao} % Choose the default chapter heading style
+\end{pdf}
 
 \input{chapters/chapter1.tex}  
 \input{chapters/chapter2.tex}
@@ -236,7 +252,10 @@
 \input{chapters/chapter6.tex} 
 \input{chapters/chapter7.tex} 
 \input{chapters/chapter8.tex}
+
+\begin{pdf}
 \input{chapters/omissions.tex} 
+\end{pdf}
 
 %----------------------------------------------------------------------------------------
 

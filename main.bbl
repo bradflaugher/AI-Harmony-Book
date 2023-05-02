@@ -930,77 +930,6 @@
       \field{title}{Robot, take the wheel: The road to autonomous cars and the lost art of driving}
       \field{year}{2019}
     \endentry
-    \entry{pileupcrash}{misc}{}
-      \name{author}{1}{}{%
-        {{hash=9dd644e99ab2be5996fee8807ccf33f7}{%
-           family={Torchinsky},
-           familyi={T\bibinitperiod},
-           given={Jason},
-           giveni={J\bibinitperiod}}}%
-      }
-      \strng{namehash}{9dd644e99ab2be5996fee8807ccf33f7}
-      \strng{fullhash}{9dd644e99ab2be5996fee8807ccf33f7}
-      \strng{bibnamehash}{9dd644e99ab2be5996fee8807ccf33f7}
-      \strng{authorbibnamehash}{9dd644e99ab2be5996fee8807ccf33f7}
-      \strng{authornamehash}{9dd644e99ab2be5996fee8807ccf33f7}
-      \strng{authorfullhash}{9dd644e99ab2be5996fee8807ccf33f7}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{\url{https://www.theautopian.com/newly-released-video-of-thanksgiving-day-tesla-full-self-driving-crash-demonstrates-the-fundamental-problem-of-semi-automated-driving-systems/}}
-      \field{title}{{N}ewly {R}eleased {V}ideo {O}f {T}hanksgiving {D}ay {T}esla {F}ull {S}elf-{D}riving {C}rash {D}emonstrates {T}he {F}undamental {P}roblem {O}f {S}emi-{A}utomated {D}riving {S}ystems}
-      \field{year}{2022}
-    \endentry
-    \entry{openpilot}{misc}{}
-      \name{author}{1}{}{%
-        {{hash=139e75a1f6915bf00f8a5fd72a77ef66}{%
-           family={Team},
-           familyi={T\bibinitperiod},
-           given={OpenPilot},
-           giveni={O\bibinitperiod}}}%
-      }
-      \strng{namehash}{139e75a1f6915bf00f8a5fd72a77ef66}
-      \strng{fullhash}{139e75a1f6915bf00f8a5fd72a77ef66}
-      \strng{bibnamehash}{139e75a1f6915bf00f8a5fd72a77ef66}
-      \strng{authorbibnamehash}{139e75a1f6915bf00f8a5fd72a77ef66}
-      \strng{authornamehash}{139e75a1f6915bf00f8a5fd72a77ef66}
-      \strng{authorfullhash}{139e75a1f6915bf00f8a5fd72a77ef66}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{\url{https://github.com/commaai/openpilot}}
-      \field{title}{{G}it{H}ub - commaai/openpilot: openpilot is an open source driver assistance system. openpilot performs the functions of {A}utomated {L}ane {C}entering and {A}daptive {C}ruise {C}ontrol for over 200 supported car makes and models.}
-      \field{year}{2023}
-    \endentry
-    \entry{otacrash}{misc}{}
-      \name{author}{2}{}{%
-        {{hash=4aef3da4aa2227c8ee55eb9c16857547}{%
-           family={Nick\bibnamedelima Lichtenberg},
-           familyi={N\bibinitperiod\bibinitdelim L\bibinitperiod},
-           given={Tom\bibnamedelima Krishner},
-           giveni={T\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
-        {{hash=e314cec0032bbf4d7a813d4ceb6b514b}{%
-           family={Press},
-           familyi={P\bibinitperiod},
-           given={The\bibnamedelima Associated},
-           giveni={T\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-      }
-      \strng{namehash}{ba7abb3d42d93dafbd747347de30119b}
-      \strng{fullhash}{ba7abb3d42d93dafbd747347de30119b}
-      \strng{bibnamehash}{ba7abb3d42d93dafbd747347de30119b}
-      \strng{authorbibnamehash}{ba7abb3d42d93dafbd747347de30119b}
-      \strng{authornamehash}{ba7abb3d42d93dafbd747347de30119b}
-      \strng{authorfullhash}{ba7abb3d42d93dafbd747347de30119b}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{\url{https://fortune.com/2023/02/16/tesla-recalls-all-362758-vehicles-with-full-self-driving-beta-may-cause-crashes-ota-software-update-elon-musk/}}
-      \field{title}{{T}esla recalls all 362,758 vehicles with {F}ull {S}elf-{D}riving {B}eta because it 'may cause crashes'}
-      \field{year}{2023}
-    \endentry
     \entry{trustworthyml}{misc}{}
       \name{author}{2}{}{%
         {{hash=2d98a42845fa3491e561b73f78496aff}{%
@@ -1020,8 +949,8 @@
       \strng{authorbibnamehash}{71bcd1988b4e9560d37152b82a59eb1f}
       \strng{authornamehash}{71bcd1988b4e9560d37152b82a59eb1f}
       \strng{authorfullhash}{71bcd1988b4e9560d37152b82a59eb1f}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://learning.oreilly.com/library/view/practicing-trustworthy-machine/9781098120269/ch03.html}}
@@ -1183,8 +1112,8 @@
       \strng{authorbibnamehash}{199868cb9a5ee49454615e31ec8cc1ae}
       \strng{authornamehash}{199868cb9a5ee49454615e31ec8cc1ae}
       \strng{authorfullhash}{199868cb9a5ee49454615e31ec8cc1ae}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{ACM}

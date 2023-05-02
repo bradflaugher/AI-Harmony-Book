@@ -22,11 +22,13 @@
 
 Machine learning models use data (from the past) to discover rules and make classifications. Because of the way they are constructed these classifications, suggestions, artworks are by definition derivative or "having parts that originate from another source". I won't get into a philosophical discussion on what the nature of creativity is, but it's worth considering how using deep learning models biases us towards the past, but also could give us insights from other domains. 
 
+\begin{pdf}
 \begin{marginfigure}[-5.5cm]
         \includegraphics{jobsweed}
         \caption{"mdjrny-v4 Steve Jobs Smoking weed with Bob Marley 8k" made with Mann-E. It's 100\% derivative, but it's art too (I guess).}
         \labfig{jobsweed}
 \end{marginfigure}
+\end{pdf}
 
 It can be argued that creativity is simply the combination of existing works. This is because many new ideas and innovations are often inspired by and built upon existing concepts. For example, a new form of music may be created by combining elements from different genres. Similarly, a new technology may be created by combining and improving upon existing technologies.
 
@@ -34,11 +36,13 @@ It can also be argued that creativity involves much more than just combining exi
 
 Deeep learning models of speech, when heavily used, may slow down the evolution of language. AI art models may slow down "progress" in art, whatever that means. Deep learning models of disease trained on data from 1980 may be irrelevant to today's diseases. That said these same models may give us interesting insights in new domains, models trained on beautiful paintings may be put to use in a new domain (like designing beautiful interiors) and that model could give new insight to interior designers, models of the interaction of ants could be put to use in designing cities and so on and so forth. AI cuts many ways, it makes us faster but makes us more reliant on the past, models can be used across domains but should be used intentionally and transparently when possible. Each use opens up a new world of possibilities for users, and sometimes a new headache for intellectual property lawyers. We'll discuss all of these topics in this chapter.
 
+\begin{pdf}
 \begin{marginfigure}[-5.5cm]
         \includegraphics{batman}
         \caption{"Batman dressed as a cowboy" made with Mann-E. It's 100\% derivative as well, but better than any Google image searches I did. It looks amazing! I also might get sued if I use it even though the creators of Mann-E tell me I have the rights to it.}
         \labfig{batman}
 \end{marginfigure}
+\end{pdf}
 
 \section{Creative Uses of Power Tools}
 
@@ -50,11 +54,13 @@ Modern AI is a complex system of algorithms, data, and analytics that can be use
 
 A power drill is also a complex deterministic system. The user input is limited to the type of drill bit, the speed of the drill, and the direction of the drill. The output is determined by these inputs, as the drill will only drill in the direction and speed determined by the user. The user also has to choose the correct drill bit to ensure the drill can do the job correctly and safely.
 
+\begin{pdf}
 \begin{marginfigure}[-5.5cm]
         \includegraphics{drillart}
         \caption{"mdjrny-v4 a mikita drill being used in an artist's studio to make a colorful artwork 8k" made with Mann-E}
         \labfig{drillart}
 \end{marginfigure}
+\end{pdf}
 
 Both modern deep learning models and a power drill are complex but ultimately deterministic systems. The user input, however limited it may be, ultimately controls the output of the system. Both systems require a user to understand how to use them and to make the correct input to get the desired output.
 
@@ -71,11 +77,13 @@ So, let's separate AI's decision making into two extremes; \textit{Creative Deci
 
 For creative tasks, it generally doesn't matter that a deep learning model is unscientific or trained on a lopsided dataset. An informed user of AI knows this and can account for that in their decision making, especially when engaging in creative decision making. The situation becomes problematic once we allow deep learning models to engage in critical decision making by themselves. 
 
+\begin{pdf}
 \begin{marginfigure}[-5.5cm]
         \includegraphics{duchamp}
         \caption{Marcel Duchamp's "Fountain". A urinal that blew peoples minds \url{https://www.tate.org.uk/art/artworks/duchamp-fountain-t07573}.}
         \labfig{duchamp}
 \end{marginfigure}
+\end{pdf}
 
 Generative models will come up with amazing (but derivative) works of art, But, they will never "change the game". A model of sculpture trained on past sculptures in 1917 will never come up with Marcel Duchamp's "Fountain". There is a term that machine learning engineers use for this, when the rules of the game are changed, it's called "Concept Drift".
 
@@ -88,11 +96,13 @@ The frequency with which a deep learning model needs to be retrained to mitigate
 
 For some applications with relatively stable data distributions, retraining the model once every few months or even once per year may be sufficient. However, in other applications where the data is changing rapidly, it may be necessary to retrain the model more frequently, such as once per week or even once per day.
 
+\begin{pdf}
 \begin{marginfigure}[-5.5cm]
         \includegraphics{plastic}
         \caption{"Plastic surgery gone wrong" made with Stable Diffusion. Imagine a model that classifies images as "human face" or "not human face", and imagine that model was trained on images of human faces before 1900, maybe you would not be surprised if you gave it a picture of a human face that had a lot of cosmetic surgery done to it, and that model might say "this is not a human face", the idea of what a human face is has changed over time this is called "concept drift".}
         \labfig{plastic}
 \end{marginfigure}
+\end{pdf}
 
 Ultimately, the frequency of retraining will depend on the specific requirements of the application, and the trade-off between the cost of retraining and the potential cost of incorrect predictions. In general, it's recommended to monitor the performance of the model over time and to retrain it as needed to ensure that it remains accurate and relevant.
 
@@ -160,12 +170,13 @@ To avoid this creators of deep learning models have the following tools at their
 \item Release the Kraken: StabilityAI's Stable Diffusion model was released as open source software, they still managed to get sued \cite{getty}, but they basically said, "this model was trained on all copyrighted and copylefted images on the web, sometimes it'll generate stuff that violates copyright law, but we are in Germany and will give this thing away for free to the public, and see how Getty Images, photographers and graphic designers of the world handle it... good luck!". 
 \end{itemize}
 
-
+\begin{pdf}
 \begin{marginfigure}[-5.5cm]
         \includegraphics{getty}
         \caption{"man 30s talking to a doctor" Getty Images and Stable Diffusion comparison. Is Stable Diffusion creating something new here or spitting out it's training data? Is training a model like this fair use? I don't know, have fun lawyers! Note rights to each Getty photo runs around \$450, and Stable Diffusion is free to use, and they give users the rights to the model output. The Kraken has been released!}
         \labfig{getty}
 \end{marginfigure}
+\end{pdf}
 
 These techniques can help to reduce the risk of having deep learning models reproduce the training data and cause intellectual property disputes, but there is no way to completely eliminate these risks, they are simply side-effects of the method of machine learning that we are doing nowadays. If you are an IP lawyer and need an expert witness, I'm your man \href{mailto:brad@bradflaugher.com}{brad@bradflaugher.com}.
 
