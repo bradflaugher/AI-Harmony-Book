@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.2)  2 MAY 2023 09:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.2)  2 MAY 2023 11:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2114,12 +2114,12 @@ Writing index file main.idx
 \glo@main@file=\write23
 \openout4 = `main.glo'.
 
-Package glossaries Info: Writing glossary file main.glo on input line 58.
+Package glossaries Info: Writing glossary file main.glo on input line 59.
 (./glossary.tex)
 \@nomenclaturefile=\write24
 \openout4 = `main.nlo'.
 
-Package nomencl Info: Writing nomenclature file main.nlo on input line 61.
+Package nomencl Info: Writing nomenclature file main.nlo on input line 62.
  Include comment 'doc' Excluding comment 'pdf'
 Including 'doc' comment.
 \openout4 = `comment.cut'.
@@ -2240,13 +2240,13 @@ File: setspace.hak 2021/11/13 v3.35 KOMA-Script scrhack part (hacking package s
 etspace)
 ))
 LaTeX Font Info:    Trying to load font information for T1+zplLF on input line 
-99.
+100.
 
 (/usr/share/texlive/texmf-dist/tex/latex/newpx/t1zpllf.fd
 File: t1zpllf.fd 2021/05/25 v1.0 font definition file for T1/zpl/LF
 )
 LaTeX Font Info:    Font shape `T1/zplLF/m/n' will be
-(Font)              scaled to size 9.70001pt on input line 99.
+(Font)              scaled to size 9.70001pt on input line 100.
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
@@ -2254,55 +2254,55 @@ Package csquotes Info: Redefining alias 'default' -> 'english'.
  (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/npxmi/m/it on input line 99.
+LaTeX Font Info:    Checking defaults for OML/npxmi/m/it on input line 100.
 LaTeX Font Info:    Trying to load font information for OML+npxmi on input line
- 99.
+ 100.
 
 (/usr/share/texlive/texmf-dist/tex/latex/newpx/omlnpxmi.fd
 File: omlnpxmi.fd 2013/03/21 Fontinst v1.933 font definitions for OML/npxmi.
 )
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for U/npxexa/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for U/npxexa/m/n on input line 100.
 LaTeX Font Info:    Trying to load font information for U+npxexa on input line 
-99.
+100.
 
 (/usr/share/texlive/texmf-dist/tex/latex/newpx/unpxexa.fd
 File: unpxexa.fd 2013/03/24 Fontinst v1.933 font definitions for U/npxexa.
 )
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 99.
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for LMS/npxsy/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for LMS/npxsy/m/n on input line 100.
 LaTeX Font Info:    Trying to load font information for LMS+npxsy on input line
- 99.
+ 100.
 
 (/usr/share/texlive/texmf-dist/tex/latex/newpx/lmsnpxsy.fd
 File: lmsnpxsy.fd 2016/07/04 Fontinst v1.933 font definitions for LMS/npxsy.
 )
-LaTeX Font Info:    ... okay on input line 99.
-LaTeX Font Info:    Checking defaults for LMX/npxexx/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for LMX/npxexx/m/n on input line 100.
 LaTeX Font Info:    Trying to load font information for LMX+npxexx on input lin
-e 99.
+e 100.
 
 (/usr/share/texlive/texmf-dist/tex/latex/newpx/lmxnpxexx.fd
 File: lmxnpxexx.fd 2016/07/04 Fontinst v1.933 font definitions for LMX/npxexx.
 )
-LaTeX Font Info:    ... okay on input line 99.
-Package scrbase Info: activating english \contentsname on input line 99.
-Package scrbase Info: activating english \listfigurename on input line 99.
-Package scrbase Info: activating english \listtablename on input line 99.
+LaTeX Font Info:    ... okay on input line 100.
+Package scrbase Info: activating english \contentsname on input line 100.
+Package scrbase Info: activating english \listfigurename on input line 100.
+Package scrbase Info: activating english \listtablename on input line 100.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -2392,18 +2392,18 @@ e
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \microtypecontext on input line 99.
-Package microtype Info: Applying patch `item' on input line 99.
-Package microtype Info: Applying patch `toc' on input line 99.
-Package microtype Info: Applying patch `eqnum' on input line 99.
-Package microtype Info: Applying patch `footnote' on input line 99.
+LaTeX Info: Redefining \microtypecontext on input line 100.
+Package microtype Info: Applying patch `item' on input line 100.
+Package microtype Info: Applying patch `toc' on input line 100.
+Package microtype Info: Applying patch `eqnum' on input line 100.
+Package microtype Info: Applying patch `footnote' on input line 100.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 99.
+LaTeX Info: Redefining \showhyphens on input line 100.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -2428,7 +2428,7 @@ Package caption Info: rotating package is loaded.
 Package caption Info: supertabular package is loaded.
 Package caption Info: End \AtBeginDocument code.
 \@sidenotes@extrawidth=\skip302
-Package hyperref Info: Link coloring ON on input line 99.
+Package hyperref Info: Link coloring ON on input line 100.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
@@ -2442,10 +2442,10 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 \c@section@level=\count587
 LaTeX Info: Redefining \Ref on input line 520.
 )
-LaTeX Info: Redefining \ref on input line 99.
-LaTeX Info: Redefining \pageref on input line 99.
-LaTeX Info: Redefining \nameref on input line 99.
-LaTeX Info: Redefining \Ref on input line 99.
+LaTeX Info: Redefining \ref on input line 100.
+LaTeX Info: Redefining \pageref on input line 100.
+LaTeX Info: Redefining \nameref on input line 100.
+LaTeX Info: Redefining \Ref on input line 100.
 \c@lstlisting=\count588
 
 (/usr/share/texlive/texmf-dist/tex/latex/floatrow/fr-longtable.sty
@@ -2480,7 +2480,7 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 Package todonotes Warning: The length marginparwidth is less than 2cm and will 
 most likely cause issues with the appearance of inserted todonotes. The issue c
 an be solved by adding a line like \setlength {\marginparwidth }{2cm} prior to 
-loading the todonotes package. on input line 99.
+loading the todonotes package. on input line 100.
 
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
@@ -2499,9 +2499,9 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
  (./main.bbl)
-Package biblatex Info: Reference section=0 on input line 99.
-Package biblatex Info: Reference segment=0 on input line 99.
-Package scrhack Info: undefining \float@addtolists on input line 99.
+Package biblatex Info: Reference section=0 on input line 100.
+Package biblatex Info: Reference segment=0 on input line 100.
+Package scrhack Info: undefining \float@addtolists on input line 100.
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: custom
@@ -2535,41 +2535,41 @@ Package scrhack Info: undefining \float@addtolists on input line 99.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    Trying to load font information for T1+qhv on input line 18
-2.
+3.
 (/usr/share/texmf/tex/latex/tex-gyre/t1qhv.fd
 File: t1qhv.fd 2009/09/25 v1.2 font definition file for T1/qhv
 )
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
-(Font)              scaled to size 9.02084pt on input line 182.
+(Font)              scaled to size 9.02084pt on input line 183.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `qhv' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
-(Font)              scaled to size 9.02084pt on input line 182.
+(Font)              scaled to size 9.02084pt on input line 183.
 LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
-(Font)              scaled to size 18.70923pt on input line 182.
+(Font)              scaled to size 18.70923pt on input line 183.
 LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
-(Font)              scaled to size 10.82501pt on input line 182.
+(Font)              scaled to size 10.82501pt on input line 183.
 LaTeX Font Info:    Font shape `T1/zplLF/m/n' will be
-(Font)              scaled to size 13.968pt on input line 182.
+(Font)              scaled to size 13.968pt on input line 183.
 LaTeX Font Info:    Trying to load font information for OT1+zplTLF on input lin
-e 182.
+e 183.
 
 (/usr/share/texlive/texmf-dist/tex/latex/newpx/ot1zpltlf.fd
 File: ot1zpltlf.fd 2021/05/25 v1.0 font definition file for OT1/zpl/TLF
 )
 LaTeX Font Info:    Font shape `OT1/zplTLF/m/n' will be
-(Font)              scaled to size 13.968pt on input line 182.
+(Font)              scaled to size 13.968pt on input line 183.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `zplTLF' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `OT1/zplTLF/m/n' will be
-(Font)              scaled to size 10.18501pt on input line 182.
+(Font)              scaled to size 10.18501pt on input line 183.
 LaTeX Font Info:    Font shape `OT1/zplTLF/m/n' will be
-(Font)              scaled to size 7.663pt on input line 182.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 182
+(Font)              scaled to size 7.663pt on input line 183.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 183
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
@@ -2578,7 +2578,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 182
+LaTeX Font Info:    Trying to load font information for U+msb on input line 183
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -2588,19 +2588,19 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Trying to load font information for U+npxmia on input line 
-182.
+183.
 
 (/usr/share/texlive/texmf-dist/tex/latex/newpx/unpxmia.fd
 File: unpxmia.fd 2013/03/24 Fontinst v1.933 font definitions for U/npxmia.
 )
 LaTeX Font Info:    Trying to load font information for U+npxsym on input line 
-182.
+183.
 
 (/usr/share/texlive/texmf-dist/tex/latex/newpx/unpxsym.fd
 File: unpxsym.fd 2015/03/21 Fontinst v1.933 font definitions for U/npxsym.
 )
 LaTeX Font Info:    Trying to load font information for U+npxsyc on input line 
-182.
+183.
 
 (/usr/share/texlive/texmf-dist/tex/latex/newpx/unpxsyc.fd
 File: unpxsyc.fd 2013/03/24 Fontinst v1.933 font definitions for U/npxsyc.
@@ -2608,7 +2608,7 @@ File: unpxsyc.fd 2013/03/24 Fontinst v1.933 font definitions for U/npxsyc.
 <images//publogo.png, id=7, 813.0375pt x 813.0375pt>
 File: images//publogo.png Graphic file (type png)
 <use images//publogo.png>
-Package pdftex.def Info: images//publogo.png  used on input line 182.
+Package pdftex.def Info: images//publogo.png  used on input line 183.
 (pdftex.def)             Requested size: 140.74536pt x 140.74536pt.
 \openout4 = `main.mw'.
 
@@ -3079,14 +3079,40 @@ Package pdftex.def Info: images//publogo.png  used on input line 182.
 
 \openout4 = `main.xdy'.
 
+LaTeX Font Info:    Font shape `T1/zplLF/m/it' will be
+(Font)              scaled to size 13.968pt on input line 183.
+\openout4 = `main.mw'.
 
-(./chapters/qr.tex
-chapter without number
+ [2
+
+]
+(./main.mw)
+\openout4 = `main.mw'.
+
+ (./chapters/acknowledgements.tex
 LaTeX Font Info:    Font shape `T1/zplLF/m/n' will be
 (Font)              scaled to size 20.11783pt on input line 2.
 LaTeX Font Info:    Font shape `T1/zplLF/b/n' will be
 (Font)              scaled to size 20.11783pt on input line 2.
-<images//qrcode.png, id=20, 721.69624pt x 712.6625pt>
+) (./chapters/qr.tex
+LaTeX Font Info:    Font shape `T1/zplLF/m/sl' will be
+(Font)              scaled to size 9.70001pt on input line 2.
+\openout4 = `main.mw'.
+
+ [3
+
+
+
+] (./main.mw)
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
+
+chapter without number
+<images//qrcode.png, id=31, 721.69624pt x 712.6625pt>
 File: images//qrcode.png Graphic file (type png)
 <use images//qrcode.png>
 Package pdftex.def Info: images//qrcode.png  used on input line 18.
@@ -3110,11 +3136,9 @@ LaTeX Font Info:    Font shape `OT1/zplTLF/m/n' will be
 (Font)              scaled to size 5.335pt on input line 20.
 )
 (./chapters/preface.tex
-LaTeX Font Info:    Font shape `T1/zplLF/m/sl' will be
-(Font)              scaled to size 9.70001pt on input line 2.
 \openout4 = `main.mw'.
 
- [2
+ [4
 
  <./images//qrcode.png>] (./main.mw)
 \openout4 = `main.mw'.
@@ -3131,7 +3155,7 @@ LaTeX Font Info:    Font shape `T1/zplLF/m/it' will be
 
 \openout4 = `main.mw'.
 
- [3
+ [5
 
 ] (./main.mw)
 \openout4 = `main.mw'.
@@ -3141,25 +3165,25 @@ LaTeX Font Info:    Font shape `T1/zplLF/m/it' will be
 \openout4 = `main.mw'.
 
 Package tocbasic Info: character protrusion at toc deactivated on input line 21
-5.
+6.
 LaTeX Font Info:    Font shape `T1/zplLF/b/n' will be
-(Font)              scaled to size 9.70001pt on input line 215.
+(Font)              scaled to size 9.70001pt on input line 216.
 \openout4 = `main.mw'.
 
-[4
+[6
 
 ] (./main.mw)
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
 
- [5] (./main.mw)
+ [7] (./main.mw)
 \openout4 = `main.mw'.
 
  (./chapters/summary.tex
 \openout4 = `main.mw'.
 
- [6] (./main.mw)
+ [8] (./main.mw)
 \openout4 = `main.mw'.
 
 LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
@@ -3169,7 +3193,7 @@ LaTeX Font Info:    Font shape `T1/zplLF/b/n' will be
 \openout4 = `main.mw'.
 
 
-[7
+[9
 
 ] (./main.mw)
 \openout4 = `main.mw'.
@@ -3177,7 +3201,7 @@ LaTeX Font Info:    Font shape `T1/zplLF/b/n' will be
 )
 \openout4 = `main.mw'.
 
- [8] (./main.mw)
+ [10] (./main.mw)
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
@@ -3375,251 +3399,15 @@ Excluding 'pdf' comment.
 ] (./main.mw)
 \openout4 = `main.mw'.
 
-LaTeX Font Info:    Font shape `T1/zplLF/m/n' will be
-(Font)              scaled to size 7.76001pt on input line 33.
-<images//OLSregression.png, id=470, 299.9205pt x 377.9721pt>
-File: images//OLSregression.png Graphic file (type png)
-<use images//OLSregression.png>
-Package pdftex.def Info: images//OLSregression.png  used on input line 34.
-(pdftex.def)             Requested size: 0.0pt x 0.0pt.
-LaTeX Font Info:    Font shape `T1/zplLF/b/n' will be
-(Font)              scaled to size 7.76001pt on input line 35.
-LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
-(Font)              scaled to size 6.80005pt on input line 35.
-LaTeX Font Info:    Font shape `OT1/zplTLF/m/n' will be
-(Font)              scaled to size 7.76001pt on input line 35.
-LaTeX Font Info:    Font shape `OT1/zplTLF/m/n' will be
-(Font)              scaled to size 6.01399pt on input line 35.
-
-Overfull \hbox (5.31125pt too wide) in paragraph at lines 35--35
-[][][][][][]\T1/zplLF/m/n/8 (-20) A
- []
-
-
-Overfull \hbox (13.3967pt too wide) in paragraph at lines 35--35
-\T1/zplLF/m/n/8 (-20) sim-
- []
-
-
-Overfull \hbox (10.42618pt too wide) in paragraph at lines 35--35
-\T1/zplLF/m/n/8 (-20) ple
- []
-
-
-Overfull \hbox (10.0962pt too wide) in paragraph at lines 35--35
-\T1/zplLF/m/n/8 (-20) lin-
- []
-
-
-Overfull \hbox (10.2938pt too wide) in paragraph at lines 35--35
-\T1/zplLF/m/n/8 (-20) ear
- []
-
-
-Overfull \hbox (7.89082pt too wide) in paragraph at lines 35--35
-\T1/zplLF/m/n/8 (-20) re-
- []
-
-
-Overfull \hbox (15.45992pt too wide) in paragraph at lines 35--35
-\T1/zplLF/m/n/8 (-20) gres-
- []
-
-
-Overfull \hbox (14.94682pt too wide) in paragraph at lines 35--35
-\T1/zplLF/m/n/8 (-20) sion,
- []
-
-
-Overfull \hbox (10.66423pt too wide) in paragraph at lines 35--35
-\T1/zplLF/m/n/8 (-20) the
- []
-
-
-Overfull \hbox (11.29312pt too wide) in paragraph at lines 35--35
-\T1/zplLF/m/n/8 (-20) red
- []
-
-
-Overfull \hbox (21.06526pt too wide) in paragraph at lines 35--35
-\T1/zplLF/m/n/8 (-20) points
- []
-
-
-Overfull \hbox (10.44899pt too wide) in paragraph at lines 35--35
-\T1/zplLF/m/n/8 (-20) are
- []
-
-
-Overfull \hbox (10.66423pt too wide) in paragraph at lines 35--35
-\T1/zplLF/m/n/8 (-20) the
- []
-
-
-Overfull \hbox (17.05225pt too wide) in paragraph at lines 35--35
-\T1/zplLF/m/n/8 (-20) train-
- []
-
-
-Overfull \hbox (10.86725pt too wide) in paragraph at lines 35--35
-\T1/zplLF/m/n/8 (-20) ing
- []
-
-
-Overfull \hbox (15.66168pt too wide) in paragraph at lines 35--35
-\T1/zplLF/m/n/8 (-20) data,
- []
-
-
-Overfull \hbox (12.87491pt too wide) in paragraph at lines 35--35
-\T1/zplLF/m/n/8 (-20) and
- []
-
-
-Overfull \hbox (10.66423pt too wide) in paragraph at lines 35--35
-\T1/zplLF/m/n/8 (-20) the
- []
-
-
-Overfull \hbox (14.64684pt too wide) in paragraph at lines 35--35
-\T1/zplLF/m/n/8 (-20) blue
- []
-
-
-Overfull \hbox (12.49467pt too wide) in paragraph at lines 35--35
-\T1/zplLF/m/n/8 (-20) line
- []
-
-
-Overfull \hbox (5.43742pt too wide) in paragraph at lines 35--35
-\T1/zplLF/m/n/8 (-20) is
- []
-
-
-Overfull \hbox (10.66423pt too wide) in paragraph at lines 35--35
-\T1/zplLF/m/n/8 (-20) the
- []
-
-
-Overfull \hbox (7.89082pt too wide) in paragraph at lines 35--35
-\T1/zplLF/m/n/8 (-20) re-
- []
-
-
-Overfull \hbox (15.45992pt too wide) in paragraph at lines 35--35
-\T1/zplLF/m/n/8 (-20) gres-
- []
-
-
-Overfull \hbox (14.01563pt too wide) in paragraph at lines 35--35
-\T1/zplLF/m/n/8 (-20) sion
- []
-
-
-Overfull \hbox (13.03787pt too wide) in paragraph at lines 35--35
-\T1/zplLF/m/n/8 (-20) line.
- []
-
-
-Overfull \hbox (5.0952pt too wide) in paragraph at lines 35--35
-\T1/zplLF/m/n/8 (-20) If
- []
-
-
-Overfull \hbox (12.69458pt too wide) in paragraph at lines 35--35
-\T1/zplLF/m/n/8 (-20) you
- []
-
-
-Overfull \hbox (17.3524pt too wide) in paragraph at lines 35--35
-\T1/zplLF/m/n/8 (-20) don't
- []
-
-
-Overfull \hbox (10.2559pt too wide) in paragraph at lines 35--35
-\T1/zplLF/m/n/8 (-20) un-
- []
-
-
-Overfull \hbox (12.30455pt too wide) in paragraph at lines 35--35
-\T1/zplLF/m/n/8 (-20) der-
- []
-
-
-Overfull \hbox (18.46208pt too wide) in paragraph at lines 35--35
-\T1/zplLF/m/n/8 (-20) stand
- []
-
-
-Overfull \hbox (12.45895pt too wide) in paragraph at lines 35--35
-\T1/zplLF/m/n/8 (-20) this
- []
-
-
-Overfull \hbox (21.0957pt too wide) in paragraph at lines 35--35
-\T1/zplLF/m/n/8 (-20) please
- []
-
-
-Overfull \hbox (15.09552pt too wide) in paragraph at lines 35--35
-\T1/zplLF/m/n/8 (-20) read
- []
-
-
-Overfull \hbox (22.51495pt too wide) in paragraph at lines 35--35
-[][]$\T1/fvm/m/n/8 https :
- []
-
-
-Overfull \hbox (6.96324pt too wide) in paragraph at lines 35--35
-\T1/fvm/m/n/8 / /
- []
-
-
-Overfull \hbox (9.41806pt too wide) in paragraph at lines 35--35
-\T1/fvm/m/n/8 en .
- []
-
-
-Overfull \hbox (37.86946pt too wide) in paragraph at lines 35--35
-\T1/fvm/m/n/8 wikipedia .
- []
-
-
-Overfull \hbox (15.5585pt too wide) in paragraph at lines 35--35
-\T1/fvm/m/n/8 org /
- []
-
-
-Overfull \hbox (19.44814pt too wide) in paragraph at lines 35--35
-\T1/fvm/m/n/8 wiki /
- []
-
-
-Overfull \hbox (44.6219pt too wide) in paragraph at lines 35--35
-\T1/fvm/m/n/8 Regression _
- []
-
-
-Overfull \hbox (32.74902pt too wide) in paragraph at lines 35--35
-\T1/fvm/m/n/8 analysis$[][] 
- []
-
-Package marginnote Info: Margin note 19.1 is on absolute page 19 on input line 
-37.
-Package marginnote Info: right page because not two side mode on input line 37.
-
-Package marginnote Info: xpos seems to be 70.56284pt on input line 37.
-
-LaTeX Warning: Marginpar on page 11 moved.
-
+ Excluding 'pdf' comment.
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
 
-[11 <./images//OLSregression.png>] (./main.mw)
+ [11]
+(./main.mw)
 \openout4 = `main.mw'.
 
 \openout4 = `main.mw'.
@@ -3643,7 +3431,8 @@ LaTeX Warning: Marginpar on page 11 moved.
 
 \openout4 = `main.mw'.
 
- [14] (./main.mw)
+ [14]
+(./main.mw)
 \openout4 = `main.mw'.
 
  Excluding 'pdf' comment.
@@ -3651,8 +3440,7 @@ LaTeX Warning: Marginpar on page 11 moved.
 
 \openout4 = `main.mw'.
 
-
-Excluding 'pdf' comment.
+ Excluding 'pdf' comment.
 \openout4 = `main.mw'.
 
  [15] (./main.mw)
@@ -3660,11 +3448,11 @@ Excluding 'pdf' comment.
 
 \openout4 = `main.mw'.
 
- [16] (./main.mw)
+
+[16] (./main.mw)
 \openout4 = `main.mw'.
 
-)
-(./chapters/chapter4.tex
+) (./chapters/chapter4.tex
 \openout4 = `main.mw'.
 
  [17] (./main.mw)
@@ -3925,218 +3713,10 @@ Excluding 'pdf' comment.
  [47] (./main.mw)
 \openout4 = `main.mw'.
 
-<images//agi.png, id=822, 513.92pt x 513.92pt>
-File: images//agi.png Graphic file (type png)
-<use images//agi.png>
-Package pdftex.def Info: images//agi.png  used on input line 642.
-(pdftex.def)             Requested size: 0.0pt x 0.0pt.
-
-Overfull \hbox (28.51564pt too wide) in paragraph at lines 643--643
-[][][][][][]\T1/zplLF/m/n/8 (-20) "mdjrny-
- []
-
-
-Overfull \hbox (7.76387pt too wide) in paragraph at lines 643--643
-\T1/zplLF/m/n/8 (-20) v4
- []
-
-
-Overfull \hbox (3.8024pt too wide) in paragraph at lines 643--643
-\T1/zplLF/m/n/8 (-20) a
- []
-
-
-Overfull \hbox (12.2285pt too wide) in paragraph at lines 643--643
-\T1/zplLF/m/n/8 (-20) per-
- []
-
-
-Overfull \hbox (11.80263pt too wide) in paragraph at lines 643--643
-\T1/zplLF/m/n/8 (-20) son
- []
-
-
-Overfull \hbox (12.87491pt too wide) in paragraph at lines 643--643
-\T1/zplLF/m/n/8 (-20) and
- []
-
-
-Overfull \hbox (8.22838pt too wide) in paragraph at lines 643--643
-\T1/zplLF/m/n/8 (-20) an
- []
-
-
-Overfull \hbox (7.81772pt too wide) in paragraph at lines 643--643
-\T1/zplLF/m/n/8 (-20) ar-
- []
-
-
-Overfull \hbox (5.93639pt too wide) in paragraph at lines 643--643
-\T1/zplLF/m/n/8 (-20) ti-
- []
-
-
-Overfull \hbox (5.84512pt too wide) in paragraph at lines 643--643
-\T1/zplLF/m/n/8 (-20) fi-
- []
-
-
-Overfull \hbox (17.6349pt too wide) in paragraph at lines 643--643
-\T1/zplLF/m/n/8 (-20) cially
- []
-
-
-Overfull \hbox (7.88321pt too wide) in paragraph at lines 643--643
-\T1/zplLF/m/n/8 (-20) in-
- []
-
-
-Overfull \hbox (9.57909pt too wide) in paragraph at lines 643--643
-\T1/zplLF/m/n/8 (-20) tel-
- []
-
-
-Overfull \hbox (5.67023pt too wide) in paragraph at lines 643--643
-\T1/zplLF/m/n/8 (-20) li-
- []
-
-
-Overfull \hbox (14.6209pt too wide) in paragraph at lines 643--643
-\T1/zplLF/m/n/8 (-20) gent
- []
-
-
-Overfull \hbox (17.87653pt too wide) in paragraph at lines 643--643
-\T1/zplLF/m/n/8 (-20) robot
- []
-
-
-Overfull \hbox (7.02682pt too wide) in paragraph at lines 643--643
-\T1/zplLF/m/n/8 (-20) as
- []
-
-
-Overfull \hbox (3.8024pt too wide) in paragraph at lines 643--643
-\T1/zplLF/m/n/8 (-20) a
- []
-
-
-Overfull \hbox (13.35867pt too wide) in paragraph at lines 643--643
-\T1/zplLF/m/n/8 (-20) cou-
- []
-
-
-Overfull \hbox (10.42618pt too wide) in paragraph at lines 643--643
-\T1/zplLF/m/n/8 (-20) ple
- []
-
-
-Overfull \hbox (15.48041pt too wide) in paragraph at lines 643--643
-\T1/zplLF/m/n/8 (-20) skip-
- []
-
-
-Overfull \hbox (15.43773pt too wide) in paragraph at lines 643--643
-\T1/zplLF/m/n/8 (-20) ping
- []
-
-
-Overfull \hbox (27.41759pt too wide) in paragraph at lines 643--643
-\T1/zplLF/m/n/8 (-20) through
- []
-
-
-Overfull \hbox (3.8024pt too wide) in paragraph at lines 643--643
-\T1/zplLF/m/n/8 (-20) a
- []
-
-
-Overfull \hbox (15.10312pt too wide) in paragraph at lines 643--643
-\T1/zplLF/m/n/8 (-20) field
- []
-
-
-Overfull \hbox (6.68462pt too wide) in paragraph at lines 643--643
-\T1/zplLF/m/n/8 (-20) of
- []
-
-
-Overfull \hbox (19.28575pt too wide) in paragraph at lines 643--643
-\T1/zplLF/m/n/8 (-20) tulips
- []
-
-
-Overfull \hbox (12.87491pt too wide) in paragraph at lines 643--643
-\T1/zplLF/m/n/8 (-20) and
- []
-
-
-Overfull \hbox (15.6097pt too wide) in paragraph at lines 643--643
-\T1/zplLF/m/n/8 (-20) smil-
- []
-
-
-Overfull \hbox (10.86725pt too wide) in paragraph at lines 643--643
-\T1/zplLF/m/n/8 (-20) ing
- []
-
-
-Overfull \hbox (10.95851pt too wide) in paragraph at lines 643--643
-\T1/zplLF/m/n/8 (-20) 8k"
- []
-
-
-Overfull \hbox (18.80667pt too wide) in paragraph at lines 643--643
-\T1/zplLF/m/n/8 (-20) made
- []
-
-
-Overfull \hbox (15.25099pt too wide) in paragraph at lines 643--643
-\T1/zplLF/m/n/8 (-20) with
- []
-
-
-Overfull \hbox (11.36308pt too wide) in paragraph at lines 643--643
-\T1/zplLF/m/n/8 (-20) Sta-
- []
-
-
-Overfull \hbox (10.06114pt too wide) in paragraph at lines 643--643
-\T1/zplLF/m/n/8 (-20) ble
- []
-
-
-Overfull \hbox (11.87575pt too wide) in paragraph at lines 643--643
-\T1/zplLF/m/n/8 (-20) Dif-
- []
-
-
-Overfull \hbox (8.36232pt too wide) in paragraph at lines 643--643
-\T1/zplLF/m/n/8 (-20) fu-
- []
-
-
-Overfull \hbox (14.01563pt too wide) in paragraph at lines 643--643
-\T1/zplLF/m/n/8 (-20) sion
- []
-
-
-Overfull \hbox (8.81845pt too wide) in paragraph at lines 643--643
-\T1/zplLF/m/n/8 (-20) 2.1 
- []
-
-Package marginnote Info: Margin note 56.1 is on absolute page 56 on input line 
-645.
-Package marginnote Info: right page because not two side mode on input line 645
-.
-Package marginnote Info: xpos seems to be 70.56284pt on input line 645.
-
-LaTeX Warning: Marginpar on page 48 moved.
-
-) (./chapters/chapter6.tex
+ Excluding 'pdf' comment.) (./chapters/chapter6.tex
 \openout4 = `main.mw'.
 
- [48 <./images//agi.png (PNG copy)>] (./main.mw)
+ [48] (./main.mw)
 \openout4 = `main.mw'.
 
 
@@ -4344,7 +3924,7 @@ Excluding 'pdf' comment.
 
 chapter without number
 LaTeX Font Info:    Font shape `T1/zplLF/m/sc' will be
-(Font)              scaled to size 9.70001pt on input line 271.
+(Font)              scaled to size 9.70001pt on input line 272.
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/zplLF/m/sc/10'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -4366,7 +3946,7 @@ Package microtype Info: Character `029' is missing
 
 
 Package biblatex Warning: Month out of range or not an integer
-(biblatex)                at entry 'Lecarre' on input line 271.
+(biblatex)                at entry 'Lecarre' on input line 272.
 
 
 Package glossaries Warning: No \printglossary or \printglossaries found. 
@@ -5351,6 +4931,10 @@ This document will not have a glossary.
 
 \openout4 = `main.mw'.
 
+\openout4 = `main.mw'.
+
+\openout4 = `main.mw'.
+
 )
 \openout4 = `main.mw'.
 
@@ -5371,11 +4955,11 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 58870 strings out of 478287
- 1159261 string characters out of 5849290
- 2346408 words of memory out of 5000000
- 75254 multiletter control sequences out of 15000+600000
- 583397 words of font info for 294 fonts, out of 8000000 for 9000
+ 58801 strings out of 478287
+ 1157888 string characters out of 5849290
+ 2346416 words of memory out of 5000000
+ 75182 multiletter control sequences out of 15000+600000
+ 571328 words of font info for 269 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  133i,20n,159p,10596b,2332s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-lf-pc.enc}{/usr/s
@@ -5388,10 +4972,10 @@ s/type1/public/tex-gyre/qhvb.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
 lic/txfonts/txsya.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newpx/z
 plb.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newpx/zplr.pfb></usr/
 share/texlive/texmf-dist/fonts/type1/public/newpx/zplri.pfb>
-Output written on main.pdf (74 pages, 1058668 bytes).
+Output written on main.pdf (76 pages, 561139 bytes).
 PDF statistics:
- 1382 PDF objects out of 1440 (max. 8388607)
- 1271 compressed objects within 13 object streams
- 342 named destinations out of 1000 (max. 500000)
- 46161 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 1384 PDF objects out of 1440 (max. 8388607)
+ 1274 compressed objects within 13 object streams
+ 343 named destinations out of 1000 (max. 500000)
+ 42575 words of extra memory for PDF output out of 42996 (max. 10000000)
 

@@ -1,9 +1,10 @@
 \@ifundefined {etoctocstyle}{\let \etoc@startlocaltoc \@gobble \let \etoc@settocdepth \@gobble \let \etoc@depthtag \@gobble \let \etoc@setlocaltop \@gobble }{}
 \babel@toc {english}{}\relax
-\contentsline {chapter}{\nonumberline Draft Note}{ii}{chapter*.1}%
-\contentsline {chapter}{Preface}{iii}{chapter*.2}%
-\contentsline {chapter}{\nonumberline Contents}{iv}{chapter*.3}%
-\contentsline {chapter}{Chapter Summaries}{vii}{chapter*.4}%
+\contentsline {chapter}{Acknowledgements}{iii}{chapter*.1}%
+\contentsline {chapter}{\nonumberline Draft Note}{iv}{chapter*.2}%
+\contentsline {chapter}{Preface}{v}{chapter*.3}%
+\contentsline {chapter}{\nonumberline Contents}{vi}{chapter*.4}%
+\contentsline {chapter}{Chapter Summaries}{ix}{chapter*.5}%
 \contentsline {chapter}{\numberline {1}AI-Enabled Mass Destruction}{1}{chapter.1}%
 \contentsline {section}{\numberline {1.1}The AI Renaissance}{1}{section.1.1}%
 \contentsline {mtocsection}{\numberline {1.1}The AI Renaissance}{1}{section.1.1}%
@@ -196,4 +197,4 @@
 \contentsline {mtocsubsection}{\numberline {8.7.4}Should we risk loss of control of our civilization?}{63}{subsection.8.7.4}%
 \contentsline {section}{\numberline {8.8}Key Takeaways}{63}{section.8.8}%
 \contentsline {mtocsection}{\numberline {8.8}Key Takeaways}{63}{section.8.8}%
-\contentsline {chapter}{\nonumberline Bibliography}{64}{chapter*.15}%
+\contentsline {chapter}{\nonumberline Bibliography}{64}{chapter*.14}%
