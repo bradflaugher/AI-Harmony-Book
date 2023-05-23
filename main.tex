@@ -1,15 +1,21 @@
 %----------------------------------------------------------------------------------------
 %   AI Harmony	
 %----------------------------------------------------------------------------------------
-% go to FORMATTING KILLERS then open resulting pdf at https://smallpdf.com/pdf-to-word to convert to word
-% Edit line 71 to change from doc to pdf version
-% For pdf ebook use twoside=false below, and remove much of the front matter
+
+% For PDF do the following
+% Edit around line 71 to change include pdf version
+% Edit around line 14 twoside=true below
+
+% For KDP/Kindle/doc do the following
+% Edit around line 71 to change include doc to pdf version
+% Edit around line 14 twoside=false below
+% open resulting pdf at https://smallpdf.com/pdf-to-word to convert to word
 
 
 \documentclass[
     letterpaper, % Page size
     fontsize=10pt, % Base font size
-    twoside=true, % Use different layouts for even and odd pages (in particular, if twoside=true, the margin column will be always on the outside)
+    twoside=false, % Use different layouts for even and odd pages (in particular, if twoside=true, the margin column will be always on the outside)
 	%open=any, % If twoside=true, uncomment this to force new chapters to start on any page, not only on right (odd) pages
 	%chapterentrydots=true, % Uncomment to output dots from the chapter name to the page number in the table of contents
 	numbers=noenddot, % Comment to output dots after chapter numbers; the most common values for this option are: enddot, noenddot and auto (see the KOMAScript documentation for an in-depth explanation)
@@ -68,8 +74,8 @@
 % Remove sidenotes and shit to easily edit in word
 
 % You might need to redefine this if you get an error from the comment setup 
-\excludecomment{doc}
-\includecomment{pdf}
+\includecomment{doc}
+\excludecomment{pdf}
 
 \begin{doc}
 \renewcommand{\sidenote}[1]{}
