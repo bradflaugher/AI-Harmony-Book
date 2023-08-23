@@ -1,5 +1,9 @@
 # Book Megaproject 
 
+## TODO for AI Harmony V2
+Add this paper to "Garbage in, new perspective out" https://mackinstitute.wharton.upenn.edu/2023/new-working-paper-finds-chatgpt-a-better-innovation-ideator-than-mba-students/
+
+
 ## Containerized bookmaker
 
 * install podman
