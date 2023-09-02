@@ -21,11 +21,13 @@ Visit [https://aiharmony.info](https://aiharmony.info) to explore a range of pur
 1. install [podman](https://podman.io/)
 2. ```cd``` to project folder
 3. ```sh runpodman.sh```
+4. the book will be output in the file ```main.pdf```
 
 ### Option 3: Compile Using Local TexLive Installation 🖥️
 
-* install texlive (on debian-based GNU/Linux distros) with ```sudo apt install texlive-full```
-* run ```sh makebook.sh``` to compile
+1. install texlive (on debian-based GNU/Linux distros) with ```sudo apt install texlive-full```
+2. run ```sh makebook.sh``` to compile
+4. the book will be output in the file ```main.pdf```
 
 ## Key Files and Folders 📂
 
