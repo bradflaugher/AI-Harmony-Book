@@ -14,7 +14,7 @@ Get a pdf copy of AI Harmony via one of the following options:
 
 ### Option 1: Buy a Copy 🛍️
 
-Visit [https://aiharmony.info](https://aiharmony.info) to explore our range of purchasing options and own your very own copy of AI Harmony.
+Visit [https://aiharmony.info](https://aiharmony.info) to explore a range of purchasing options: DRM-Free ```.pdf```s, Kindle, and printed hardcover editions are all available.
 
 ### Option 2: Compile via a ```podman``` Container (Recommended) 🚀
 
