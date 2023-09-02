@@ -2,7 +2,7 @@
 
 The source text and LaTeX formatting for AI Harmony by [Brad Flaugher](https://bradflaugher.com)
 
-![AI Harmony cover](./Cover.png)
+<img src="Cover.png" alt="Description" width="200" height="200">
 
 ## Buying or Compiling Your Own PDF Copy 📄
 
