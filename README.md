@@ -12,48 +12,48 @@ The pdf copy of the book has many fancy formatting options enabled, see the prev
 
 Get a pdf copy of AI Harmony via one of the following options:
 
-### Option 1: Buy a Copy 🛍️
+## Option 1: Buy a Copy 🛍️
 
 Visit [https://aiharmony.info](https://aiharmony.info) to explore a range of purchasing options: DRM-Free ```.pdf```s, Kindle, and printed hardcover editions are all available.
 
-### Option 2: Compile via a ```podman``` Container (Recommended) 🚀
+## Option 2: Compile via a ```podman``` Container (Recommended) 🚀
 
 1. install [podman](https://podman.io/)
 2. ```cd``` to project folder
 3. ```sh runpodman.sh```
 4. the book will be output in the file ```main.pdf```
 
-### Option 3: Compile Using Local TexLive Installation 🖥️
+## Option 3: Compile Using Local TexLive Installation 🖥️
 
 1. install texlive (on debian-based GNU/Linux distros) with ```sudo apt install texlive-full```
 2. run ```sh makebook.sh``` to compile
 4. the book will be output in the file ```main.pdf```
 
-## Key Files and Folders 📂
+# Key Files and Folders 📂
 
 * `chapters`: the text of the book (with margin notes) 
 * `images`: AI-generated images that adorn the margins
 * `main.tex`: formatting LaTeX code
 * `main.bib`: the bibliography
 
-## Formatting help, advice for your own book
+# Formatting help, advice for your own book
 
 Refer to the [Kaobook project](https://github.com/fmarotta/kaobook), upon which AI Harmony is based.
 
-## Supporting the Author
+# Supporting the Author
 
 * 📚 [Buy a book (and leave a review please ⭐⭐⭐⭐⭐)](https://aiharmony.info)
 * 👕 [Buy a T-Shirt](https://store.bradflaugher.com/)
 * 💵 [Make a Donation via Coinbase](https://commerce.coinbase.com/checkout/ea43ea82-2708-4562-966b-bf30800ec592)
 * 🫶  [Join Brad's Patreon and get AI Analyisis, Career Support, Ebooks and Merch](https://www.patreon.com/bradflaugher)
 
-## Contributing and TODOs
+# Contributing and TODOs
 
 If you'd like to contribute a chapter, revisions or whatever you like, you can email Brad at [brad@bradflaugher.com](mailto:brad@bradflaugher.com) or just submit a PR.
 
 If you'd like to see what I am working on for the second edition see [TODO.md](./TODO.md).
 
-## Copyright and GPL Notice ©️
+# Copyright and GPL Notice ©️
 
 "AI Harmony" Copyright 2023 Brad Flaugher
 
