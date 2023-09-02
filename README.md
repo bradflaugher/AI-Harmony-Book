@@ -34,6 +34,7 @@ Visit [https://aiharmony.info](https://aiharmony.info) to explore a range of pur
 * `chapters`: the text of the book (with margin notes) 
 * `images`: AI-generated images that adorn the margins
 * `main.tex`: formatting LaTeX code
+* `main.bib`: the bibliography
 
 ## Formatting help, advice for your own book
 
