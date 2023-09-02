@@ -47,6 +47,12 @@ Refer to the [Kaobook project](https://github.com/fmarotta/kaobook), upon which 
 * 💵 [Make a Donation via Coinbase](https://commerce.coinbase.com/checkout/ea43ea82-2708-4562-966b-bf30800ec592)
 * 🫶  [Join Brad's Patreon and get AI Analyisis, Career Support, Ebooks and Merch](https://www.patreon.com/bradflaugher)
 
+## Contributing and TODOs
+
+If you'd like to contribute a chapter, revisions or whatever you like, you can email Brad at [brad@bradflaugher.com](mailto:brad@bradflaugher.com) or just submit a PR.
+
+If you'd like to see what I am working on for the second edition see [TODO.md](./TODO.md).
+
 ## Copyright and GPL Notice ©️
 
 "AI Harmony" Copyright 2023 Brad Flaugher
