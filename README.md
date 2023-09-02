@@ -4,7 +4,7 @@ The source text and LaTeX formatting for AI Harmony by [Brad Flaugher](https://b
 
 <img src="Cover.png" alt="Description" width="200" height="200">
 
-## Buying or Compiling Your Own PDF Copy 📄
+# Buying or Compiling Your Own PDF Copy 📄
 
 The pdf copy of the book has many fancy formatting options enabled, see the preview below.
 
