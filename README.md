@@ -37,6 +37,13 @@ Visit [https://aiharmony.info](https://aiharmony.info) to explore a range of pur
 
 Refer to the [Kaobook project](https://github.com/fmarotta/kaobook), upon which AI Harmony is based.
 
+## Supporting the Author
+
+* 📚 [Buy a book (and leave a review please ⭐⭐⭐⭐⭐)](https://aiharmony.info)
+* 👕 [Buy a T-Shirt](https://store.bradflaugher.com/)
+* 💵 [Make a Donation via Coinbase](https://commerce.coinbase.com/checkout/ea43ea82-2708-4562-966b-bf30800ec592)
+* 🫶 [Support us on Patreon and get AI Analyisis, Career Support, Ebooks and Merch](https://www.patreon.com/bradflaugher)
+
 ## Copyright and GPL Notice ©️
 
 "AI Harmony" Copyright 2023 Brad Flaugher
