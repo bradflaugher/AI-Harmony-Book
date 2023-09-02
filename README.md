@@ -1,10 +1,7 @@
-# Book Megaproject 
-
-## TODO for AI Harmony V2
-Add this paper to "Garbage in, new perspective out" https://mackinstitute.wharton.upenn.edu/2023/new-working-paper-finds-chatgpt-a-better-innovation-ideator-than-mba-students/
+# AI Harmony
 
 
-## Containerized bookmaker
+## Compile the book
 
 * install podman
 * ```cd``` to project folder
@@ -12,15 +9,18 @@ Add this paper to "Garbage in, new perspective out" https://mackinstitute.wharto
 
 ## Running locally
 
-* install texlive on ubuntu with ```sudo apt install texlive-full```
+* install texlive (on debian-based GNU/Linux distros) with ```sudo apt install texlive-full```
 * run ```sh makebook.sh``` to compile
 
-## TODOs for AI Harmony
+## Copyright and GPL Notice
 
-* Review [Stephanie's Notes](https://docs.google.com/document/d/1hxqyawww7Se_UzsjvAdkrmKq306LOyiypu3TzQg-1nM/edit#)
-* Create Pre-Order PDF in the store.bradflaugher.com once a draft is done.
+"AI Harmony" Copyright 2023 Brad Flaugher
 
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
-## TODOs for new book
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 
-* See ```etc/outlines``` and copy this repo to make new books
+## Kaobook
+
+The kaobook class, consisting of kaobook.cls, kaohandt.cls, and kao.def are licensed under the LaTeX Project Public License. The kaobook project can be found at [https://github.com/fmarotta/kaobook](https://github.com/fmarotta/kaobook)
+
