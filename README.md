@@ -4,7 +4,11 @@ The source text and LaTeX formatting for AI Harmony by [Brad Flaugher](https://b
 
 ![AI Harmony cover](./Cover.png)
 
-## Attaining Your PDF Copy 📄
+## Buying or Compiling Your Own PDF Copy 📄
+
+The pdf copy of the book has many fancy formatting options enabled, see the preview below.
+
+![pdf example](./preview.png)
 
 Get a pdf copy of AI Harmony via one of the following options:
 
@@ -31,7 +35,8 @@ Visit [https://aiharmony.info](https://aiharmony.info) to explore our range of p
 
 ## Formatting help, advice for your own book
 
-Refer to the [Kaobook project](https://github.com/fmarotta/kaobook), upon which AI Harmony draws is based.
+Refer to the [Kaobook project](https://github.com/fmarotta/kaobook), upon which AI Harmony is based.
+
 ## Copyright and GPL Notice ©️
 
 "AI Harmony" Copyright 2023 Brad Flaugher
