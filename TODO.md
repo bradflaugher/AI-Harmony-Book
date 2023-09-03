@@ -7,6 +7,7 @@
 * [ ] Fix Barnes and Noble Vendor/Banking Info
 * [ ] Launch Amazon Hardcover
 * [ ] Add B&N to bradflaugher.com
+* [ ] Share book repo with FSF
 
 ## By Sep 19
 * [ ] Daily Patreon/Linkedin Posts
