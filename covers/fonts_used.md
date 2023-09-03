@@ -1,4 +1,4 @@
-Archivo Black
-Josefin Sans
-Oswald
-Futura
+* Archivo Black
+* Josefin Sans
+* Oswald
+* Futura
