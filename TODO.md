@@ -6,13 +6,12 @@
 * [ ] Add Jerrod's Quote to book page
 * [ ] Fix Barnes and Noble Vendor/Banking Info
 * [ ] Launch Amazon Hardcover
-* [ ] Add B&N to bradflaugher.com
-* [ ] Share book repo with FSF
-* [ ] Ask ppl to write reviews. [https://www.amazon.com/dp/B0CGMD389G](https://www.amazon.com/dp/B0CGMD389G)
+* [ ] Add B&N link to bradflaugher.com
 
 ## By Sep 19
 * [ ] Daily Patreon/Linkedin Posts
 * [ ] Save Copy of Book for Vita
+* [ ] Ask ppl to write reviews. [https://www.amazon.com/dp/B0CGMD389G](https://www.amazon.com/dp/B0CGMD389G)
 
 ## By Oct 1 
 * [ ] Audiobook Review from Dan Bernard
