@@ -2,13 +2,13 @@
 
 ## By Sep 12
 * [ ] Record video for amazon page of author talk
-* [ ] Get followers to write reviews... Jeff and Anne-Marie, SoHye etc... [https://www.amazon.com/dp/B0CGMD389G](https://www.amazon.com/dp/B0CGMD389G)
 * [ ] Does CMYK or Standard cover work better? it's currently CMYK, change if needed.
 * [ ] Add Jerrod's Quote to book page
 * [ ] Fix Barnes and Noble Vendor/Banking Info
 * [ ] Launch Amazon Hardcover
 * [ ] Add B&N to bradflaugher.com
 * [ ] Share book repo with FSF
+* [ ] Ask ppl to write reviews. [https://www.amazon.com/dp/B0CGMD389G](https://www.amazon.com/dp/B0CGMD389G)
 
 ## By Sep 19
 * [ ] Daily Patreon/Linkedin Posts
