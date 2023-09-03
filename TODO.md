@@ -1,8 +1,6 @@
 # TODO
 
 ## Launch
-* [ ] Fix Back Cover "Brad Has Cultivated..." weird line break.
-* [ ] Order more proofs (15 more)
 * [ ] Add Jerrod's Quote
 
 ## Book Marketing Text
