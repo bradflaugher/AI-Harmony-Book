@@ -1,9 +1,15 @@
 # TODO
 
-## Launch
+## By Sep 12
 * [ ] Add Jerrod's Quote
 * [ ] Fix Barnes and Noble Vendor/Banking Info
 * [ ] Launch Amazon Hardcover
+* [ ] Add B&N to bradflaugher.com
+
+## By Sep 19
+* [ ] Daily Patreon/Linkedin Posts
+
+## By Oct 1 
 * [ ] Audiobook Review from Dan Bernard
 * [ ] Audiobook Upload by Pierucci
 * [ ] Payment for Melanie for Upload Formatting
