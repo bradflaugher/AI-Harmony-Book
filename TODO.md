@@ -11,6 +11,7 @@
 
 ## By Sep 19
 * [ ] Daily Patreon/Linkedin Posts
+* [ ] Save Copy of Book for Vita
 
 ## By Oct 1 
 * [ ] Audiobook Review from Dan Bernard
