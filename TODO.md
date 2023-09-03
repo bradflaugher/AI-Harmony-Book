@@ -1,6 +1,7 @@
 # TODO
 
 ## By Sep 12
+* [ ] Order fourth batch of proofs, CMYK
 * [ ] Does CMYK or Standard cover work better? it's currently CMYK, change if needed.
 * [ ] Add Jerrod's Quote to book page
 * [ ] Fix Barnes and Noble Vendor/Banking Info
