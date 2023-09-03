@@ -2,6 +2,7 @@
 
 ## By Sep 12
 * [ ] Order fourth batch of proofs, CMYK
+* [ ] Get followers to write reviews... Jeff and Anne-Marie, SoHye etc... [https://www.amazon.com/dp/B0CGMD389G](https://www.amazon.com/dp/B0CGMD389G)
 * [ ] Does CMYK or Standard cover work better? it's currently CMYK, change if needed.
 * [ ] Add Jerrod's Quote to book page
 * [ ] Fix Barnes and Noble Vendor/Banking Info
