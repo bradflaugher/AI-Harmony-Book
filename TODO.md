@@ -2,6 +2,11 @@
 
 ## Launch
 * [ ] Add Jerrod's Quote
+* [ ] Fix Barnes and Noble Vendor/Banking Info
+* [ ] Launch Amazon Hardcover
+* [ ] Audiobook Review from Dan Bernard
+* [ ] Audiobook Upload by Pierucci
+* [ ] Payment for Melanie for Upload Formatting
 
 ## Book Marketing Text
 
