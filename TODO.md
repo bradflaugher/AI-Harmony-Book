@@ -1,7 +1,8 @@
 # TODO
 
 ## By Sep 12
-* [ ] Add Jerrod's Quote
+* [ ] Does CMYK or Standard cover work better? it's currently CMYK, change if needed.
+* [ ] Add Jerrod's Quote to book page
 * [ ] Fix Barnes and Noble Vendor/Banking Info
 * [ ] Launch Amazon Hardcover
 * [ ] Add B&N to bradflaugher.com
