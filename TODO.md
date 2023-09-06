@@ -12,6 +12,7 @@
 * [ ] Daily Patreon/Linkedin Posts
 * [ ] Save Copy of Book for Vita
 * [ ] Ask ppl to write reviews. [https://www.amazon.com/dp/B0CGMD389G](https://www.amazon.com/dp/B0CGMD389G)
+* [ ] Request book at Penn, kirstien@wharton.upenn.edu
 
 ## By Oct 1 
 * [ ] Audiobook Review from Dan Bernard
