@@ -1,12 +1,14 @@
 # TODO
 
+## Waiting on Others
+* [ ] Fix Barnes and Noble Vendor/Banking Info
+* [ ] Add B&N link to bradflaugher.com
+
 ## By Sep 12
 * [ ] Record video for amazon page of author talk
 * [ ] Does CMYK or Standard cover work better? it's currently CMYK, change if needed.
 * [ ] Add Jerrod's Quote to book page
-* [ ] Fix Barnes and Noble Vendor/Banking Info
 * [ ] Launch Amazon Hardcover
-* [ ] Add B&N link to bradflaugher.com
 
 ## By Sep 19
 * [ ] Daily Patreon/Linkedin Posts
