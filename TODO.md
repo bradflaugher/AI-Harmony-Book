@@ -39,29 +39,8 @@ Learn more about this author at bradflaugher.com
 
 ## Post-Launch Marketing Posts
 - Unstoppable Hacker AI
-    - Topic theme: Artificial intelligence and cybersecurity
-    - Keyword research: hacker AI, AI hacking, AI security, AI cyberattack, AI defense
-    - Blog post title: How to Protect Your Data from Unstoppable Hacker AI
-    - Scheduled date: August 21, 2023
-
 - The Wizard of Oz, and Why Every Piece of Software Will Get Better, But Also Cheaper
-    - Topic theme: Software development and innovation
-    - Keyword research: software quality, software cost, software innovation, software evolution, software wizardry
-    - Blog post title: The Wizard of Oz Effect: How Software Gets Better and Cheaper Over Time
-    - Scheduled date: August 28, 2023
-
 - Even the Best Language Models Can't Play 20 Questions
-    - Topic theme: Natural language processing and limitations
-    - Keyword research: language models, 20 questions, NLP challenges, NLP tasks, NLP evaluation
-    - Blog post title: Why Even the Best Language 
-Models Fail at Playing 20 Questions
-    - Scheduled date: September 4, 2023
-
-- Book Announcement
-    - Topic theme: Book launch and marketing
-    - Keyword research: book announcement, book launch, book marketing, book title, book author
-    - Blog post title: Announcing My New Book: Unstoppable Hacker AI (and How to Stop It)
-    - Scheduled date: September 14, 2023
 
 # Library Talks
 * Penn Alumni Section at B&N and Talk
