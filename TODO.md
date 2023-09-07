@@ -21,7 +21,7 @@
 * [ ] Audiobook Upload by Pierucci
 * [ ] Payment for Melanie for Upload Formatting
 
-## Book Marketing Text
+# Book Marketing Text
 
 ```
 “This book helps making sense of how the field of AI has emerged from narrow technical applications to where it stands today. I very much appreciate its freshness and writing style.”
@@ -37,7 +37,7 @@
 Learn more about this author at bradflaugher.com
 ```
 
-## Post-Launch Marketing Posts
+# Post-Launch Marketing Posts
 - Unstoppable Hacker AI
 - The Wizard of Oz, and Why Every Piece of Software Will Get Better, But Also Cheaper
 - Even the Best Language Models Can't Play 20 Questions
@@ -49,5 +49,5 @@ Learn more about this author at bradflaugher.com
 * Ogunquit Library Talk
 
 
-## 2nd Edition
+# 2nd Edition
 * "Garbage In -> New Perspective Out" add [this study from Christian](https://mackinstitute.wharton.upenn.edu/2023/new-working-paper-finds-chatgpt-a-better-innovation-ideator-than-mba-students/)
