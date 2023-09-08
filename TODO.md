@@ -8,7 +8,8 @@
 * [ ] Record video for amazon page of author talk
 * [ ] Does CMYK or Standard cover work better? it's currently CMYK, change if needed.
 * [ ] Add Jerrod's Quote to book page
-* [ ] Launch Amazon Hardcover
+* [ ] Launch Amazon Hardcover.
+* [ ] Apple Books?
 
 ## By Sep 19
 * [ ] Daily Patreon/Linkedin Posts
