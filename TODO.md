@@ -15,6 +15,7 @@
 * [ ] Save Copy of Book for Vita
 * [ ] Ask ppl to write reviews. [https://www.amazon.com/dp/B0CGMD389G](https://www.amazon.com/dp/B0CGMD389G)
 * [ ] Request book at Penn email Mia Wells kirstien@wharton.upenn.edu
+* [ ] Email Margaret at Santore
 
 ## By Oct 1 
 * [ ] Audiobook Review from Dan Bernard
