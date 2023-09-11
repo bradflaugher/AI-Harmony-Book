@@ -1,20 +1,17 @@
 # TODO
 
-## Waiting on Others
+## By Sep 19
+* [ ] Daily Patreon/Linkedin Posts
+* [ ] Ask 30 per day to write reviews. [https://www.amazon.com/dp/B0CGMD389G](https://www.amazon.com/dp/B0CGMD389G)
 * [ ] Fix Barnes and Noble Vendor/Banking Info
 * [ ] Add B&N link to bradflaugher.com
 
-## On Sep 12
-* [ ] Launch Amazon Hardcover.
-* [ ] Record video for amazon page of author talk
-
-## By Sep 19
-* [ ] Daily Patreon/Linkedin Posts
-* [ ] Save Copy of Book for Vita
-* [ ] Send 2 to Elaine
-* [ ] Ask 30 per day to write reviews. [https://www.amazon.com/dp/B0CGMD389G](https://www.amazon.com/dp/B0CGMD389G)
+### Books to Give
 * [ ] Request book at Penn email Mia Wells kirstien@wharton.upenn.edu
 * [ ] Email Margaret at Santore TriandafyllisM@freelibrary.org
+* [ ] Save Copy of Book for Vita
+* [ ] Send 2 to Elaine
+
 
 ## By Oct 1 
 * [ ] Audiobook Review from Dan Bernard
