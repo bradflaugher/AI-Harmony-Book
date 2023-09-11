@@ -5,9 +5,8 @@
 * [ ] Add B&N link to bradflaugher.com
 
 ## On Sep 12
-* [ ] Record video for amazon page of author talk
-* [ ] Add Jerrod's Quote to book page
 * [ ] Launch Amazon Hardcover.
+* [ ] Record video for amazon page of author talk
 
 ## By Sep 19
 * [ ] Daily Patreon/Linkedin Posts
@@ -30,6 +29,9 @@
 
 "You really did show that you know and understand what we taught you."
 - Tim Leunig, Economic History Department Chair, The London School of Economics and Political Science
+
+"'AI Harmony' provides much needed nomenclature and tangible examples that bring the value of rules-based programming and deep learning into real-world context. Attempting to simplify the far-reaching impact that AI is having (and will continue to have) on the world is no easy feat; Brad manages to capture the art and science of the AI revolution with quick wit, and a deep sense of care for humanity."
+- Jerrod Howlett, Principal Analytics and Data Science, YouTube
 
 "An enlightening journey through the intricacies of AI's evolution, this book masterfully navigates the past, present, and future of artificial intelligence. It's a must-read for both enthusiasts and newcomers to the field.”
 - Dan Hoevel, Director of Fundraising and Investor Relations, Silver Lake
