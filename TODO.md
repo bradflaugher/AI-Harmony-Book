@@ -3,8 +3,6 @@
 ## By Sep 19
 * [ ] Daily Patreon/Linkedin Posts
 * [ ] Ask 30 per day to write reviews. [https://www.amazon.com/dp/B0CGMD389G](https://www.amazon.com/dp/B0CGMD389G)
-* [ ] Fix Barnes and Noble Vendor/Banking Info
-* [ ] Add B&N link to bradflaugher.com
 
 ### Books to Give
 * [ ] Request book at Penn email Mia Wells kirstien@wharton.upenn.edu
@@ -12,8 +10,8 @@
 * [ ] Save Copy of Book for Vita
 * [ ] Send 2 to Elaine
 
-
 ## By Oct 1 
+* [ ] Add B&N link to bradflaugher.com
 * [ ] Audiobook Review from Dan Bernard
 * [ ] Audiobook Upload by Pierucci
 * [ ] Payment for Melanie for Upload Formatting
