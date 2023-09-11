@@ -10,6 +10,7 @@
 * [ ] Add Jerrod's Quote to book page
 * [ ] Launch Amazon Hardcover.
 * [ ] Apple Books?
+* [ ] Imperial Library
 
 ## By Sep 19
 * [ ] Daily Patreon/Linkedin Posts
