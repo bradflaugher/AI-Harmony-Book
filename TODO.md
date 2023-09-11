@@ -51,7 +51,7 @@ Learn more about this author at bradflaugher.com
 * "Garbage In -> New Perspective Out" add [this study from Christian](https://mackinstitute.wharton.upenn.edu/2023/new-working-paper-finds-chatgpt-a-better-innovation-ideator-than-mba-students/)
 
 # Typos
--pg27 double period end of first paragraph in Chap2.1
--pg48 missing “17” percent on first bullet 
--pg89 no closed quote on last sentence under Common Myths 
--pg94 double numbers under “Use cases”
+- pg27 double period end of first paragraph in Chap2.1
+- pg48 missing “17” percent on first bullet 
+- pg89 no closed quote on last sentence under Common Myths 
+- pg94 double numbers under “Use cases”
