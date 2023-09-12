@@ -8,7 +8,6 @@
 ### Books to Give
 * [ ] Request book at Penn email Mia Wells kirstien@wharton.upenn.edu
 * [ ] Email Margaret at Santore TriandafyllisM@freelibrary.org
-* [ ] Save Copy of Book for Vita
       
 ## By Oct 1 
 * [ ] Add B&N link to bradflaugher.com
