@@ -2,6 +2,7 @@
 
 ## By Sep 19
 * [ ] Daily Patreon/Linkedin Posts
+* [ ] Amazon ad campaign
 * [ ] Ask 30 per day to write reviews. [https://www.amazon.com/dp/B0CGMD389G](https://www.amazon.com/dp/B0CGMD389G)
 
 ### Books to Give
