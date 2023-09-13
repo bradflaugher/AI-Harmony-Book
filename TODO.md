@@ -5,10 +5,6 @@
 * [ ] Unstoppable Hacker AI
 * [ ] The Wizard of Oz, and Why Every Piece of Software Will Get Better, But Also Cheaper
 * [ ] Even the Best Language Models Can't Play 20 Questions
-
-### Books to Give
-* [ ] Request book at Penn email Mia Wells kirstien@wharton.upenn.edu
-* [ ] Email Margaret at Santore TriandafyllisM@freelibrary.org
       
 ## By Oct 1 
 * [ ] Add B&N link to bradflaugher.com
