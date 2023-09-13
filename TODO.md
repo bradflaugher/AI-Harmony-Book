@@ -3,7 +3,7 @@
 ## By Sep 19
 * [ ] Daily Patreon/Linkedin Posts
 * [ ] Check Amazon ad campaign
-* [ ] Ask 30 per day to write reviews. [https://www.amazon.com/dp/B0CGMD389G](https://www.amazon.com/dp/B0CGMD389G)
+* [ ] Ask 30 per day to buy. [https://www.amazon.com/dp/B0CGMD389G](https://www.amazon.com/dp/B0CGMD389G)
 
 ### Books to Give
 * [ ] Request book at Penn email Mia Wells kirstien@wharton.upenn.edu
