@@ -1,9 +1,10 @@
 # TODO
 
 ## By Sep 19
-* [ ] Daily Patreon/Linkedin Posts
 * [ ] Check Amazon ad campaign
-* [ ] Ask 30 per day to buy. [https://www.amazon.com/dp/B0CGMD389G](https://www.amazon.com/dp/B0CGMD389G)
+* [ ] Unstoppable Hacker AI
+* [ ] The Wizard of Oz, and Why Every Piece of Software Will Get Better, But Also Cheaper
+* [ ] Even the Best Language Models Can't Play 20 Questions
 
 ### Books to Give
 * [ ] Request book at Penn email Mia Wells kirstien@wharton.upenn.edu
@@ -33,11 +34,6 @@
 "AI Harmony" delves into the transformative power and limitations of artificial intelligence (AI) in today's world. The book distinguishes between rules-based programming and deep learning, highlighting the importance of high-quality data for training deep learning models. It explores the challenges of understanding and controlling AI systems, and offers case studies illustrating their practical applications. The book also discusses the use of AI in self-driving cars and its implications for future transportation. Addressing common fears about AI domination, it emphasizes the need for embracing AI and integrating it into our society while focusing on human strengths and implementing policies to mitigate economic disruption.
 Learn more about this author at bradflaugher.com
 ```
-
-# Post-Launch Marketing Posts
-- Unstoppable Hacker AI
-- The Wizard of Oz, and Why Every Piece of Software Will Get Better, But Also Cheaper
-- Even the Best Language Models Can't Play 20 Questions
 
 # Library Talks
 * Penn Alumni Section at B&N and Talk
