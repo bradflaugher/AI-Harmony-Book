@@ -31,13 +31,6 @@
 Learn more about this author at bradflaugher.com
 ```
 
-# Library Talks
-* Penn Alumni Section at B&N and Talk
-* Anathaeum Talk
-* Santore Library Talk
-* Ogunquit Library Talk
-
-
 # 2nd Edition
 * "Garbage In -> New Perspective Out" add [this study from Christian](https://mackinstitute.wharton.upenn.edu/2023/new-working-paper-finds-chatgpt-a-better-innovation-ideator-than-mba-students/)
 
