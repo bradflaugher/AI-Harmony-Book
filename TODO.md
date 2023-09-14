@@ -8,6 +8,7 @@
       
 ## By Oct 1 
 * [ ] Add B&N link to bradflaugher.com
+* [ ] Ask Penn B&N to carry
 * [ ] Audiobook Review from Dan Bernard
 * [ ] Audiobook Upload by Pierucci
 * [ ] Payment for Melanie for Upload Formatting
