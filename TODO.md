@@ -13,25 +13,6 @@
 * [ ] Audiobook Upload by Pierucci
 * [ ] Payment for Melanie for Upload Formatting
 
-# Book Marketing Text
-
-```
-“This book helps making sense of how the field of AI has emerged from narrow technical applications to where it stands today. I very much appreciate its freshness and writing style.”
-- Christian Terwiesch, Wharton School Professor of Operations, Information and Decisions
-
-"You really did show that you know and understand what we taught you."
-- Tim Leunig, Economic History Department Chair, The London School of Economics and Political Science
-
-"'AI Harmony' provides much needed nomenclature and tangible examples that bring the value of rules-based programming and deep learning into real-world context. Attempting to simplify the far-reaching impact that AI is having (and will continue to have) on the world is no easy feat; Brad manages to capture the art and science of the AI revolution with quick wit, and a deep sense of care for humanity."
-- Jerrod Howlett, Principal Analytics and Data Science, YouTube
-
-"An enlightening journey through the intricacies of AI's evolution, this book masterfully navigates the past, present, and future of artificial intelligence. It's a must-read for both enthusiasts and newcomers to the field.”
-- Dan Hoevel, Director of Fundraising and Investor Relations, Silver Lake
-
-"AI Harmony" delves into the transformative power and limitations of artificial intelligence (AI) in today's world. The book distinguishes between rules-based programming and deep learning, highlighting the importance of high-quality data for training deep learning models. It explores the challenges of understanding and controlling AI systems, and offers case studies illustrating their practical applications. The book also discusses the use of AI in self-driving cars and its implications for future transportation. Addressing common fears about AI domination, it emphasizes the need for embracing AI and integrating it into our society while focusing on human strengths and implementing policies to mitigate economic disruption.
-Learn more about this author at bradflaugher.com
-```
-
 # 2nd Edition
 * "Garbage In -> New Perspective Out" add [this study from Christian](https://mackinstitute.wharton.upenn.edu/2023/new-working-paper-finds-chatgpt-a-better-innovation-ideator-than-mba-students/)
 
