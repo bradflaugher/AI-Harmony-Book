@@ -1,10 +1,4 @@
 # TODO
-
-## By Sep 19
-* [ ] Check Amazon ad campaign
-* [ ] Unstoppable Hacker AI
-* [ ] The Wizard of Oz, and Why Every Piece of Software Will Get Better, But Also Cheaper
-* [ ] Even the Best Language Models Can't Play 20 Questions
       
 ## By Oct 1 
 * [ ] Add B&N link to bradflaugher.com
