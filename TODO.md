@@ -9,3 +9,5 @@
 - pg48 missing “17” percent on first bullet 
 - pg89 no closed quote on last sentence under Common Myths 
 - pg94 double numbers under “Use cases”
+- Dummy Variable section slim down
+- Always capitalize "Big Data" and AI?
