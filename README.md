@@ -10,13 +10,9 @@ The pdf copy of the book has many fancy formatting options enabled, see the prev
 
 ![pdf example](./preview.png)
 
-Get a pdf copy of AI Harmony via one of the following options:
+Get a free pdf copy of AI Harmony via one of the following steps:
 
-## Option 1: Buy a Copy 🛍️
-
-Visit [https://aiharmony.info](https://aiharmony.info) to explore a range of purchasing options: DRM-Free ```.pdf```s, Kindle, and printed hardcover editions are all available.
-
-## Option 2: Compile via a ```podman``` Container (Recommended) 🚀
+## Option 1: Compile the pdf via a ```podman``` Container 🚀
 
 1. install [podman](https://podman.io/)
 2. ```cd``` to project folder
@@ -42,10 +38,7 @@ Refer to the [Kaobook project](https://github.com/fmarotta/kaobook), upon which 
 
 # Supporting the Author
 
-* 📚 [Buy a book (and leave a review please ⭐⭐⭐⭐⭐)](https://aiharmony.info)
-* 👕 [Buy a T-Shirt](https://store.bradflaugher.com/)
 * 💵 [Make a Donation via Coinbase](https://commerce.coinbase.com/checkout/ea43ea82-2708-4562-966b-bf30800ec592)
-* 🫶  [Join Brad's Patreon and get AI Analyisis, Career Support, Ebooks and Merch](https://www.patreon.com/bradflaugher)
 
 # Contributing and TODOs
 
