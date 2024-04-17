@@ -19,7 +19,7 @@ Get a free pdf copy of AI Harmony via one of the following steps:
 3. ```bash runpodman.sh```
 4. the book will be output in the file ```main.pdf```
 
-## Option 3: Compile Using Local TexLive Installation 🖥️
+## Option 2: Compile Using Local TexLive Installation 🖥️
 
 1. install texlive (on debian-based GNU/Linux distros) with ```sudo apt install texlive-full```
 2. run ```bash makebook.sh``` to compile
