@@ -10,16 +10,19 @@ The pdf copy of the book has many fancy formatting options enabled, see the prev
 
 ![pdf example](./preview.png)
 
-Get a free pdf copy of AI Harmony via one of the following steps:
+Get a free copy of AI Harmony via one of the following steps:
 
-## Option 1: Compile the pdf via a ```podman``` Container 🚀
+## Option 1: Download an epub, pdf or the audiobook from the releases page
+See [Releases](https://github.com/predbrad/AI-Harmony-Book/releases)
+
+## Option 2: Compile the pdf via a ```podman``` Container 🚀
 
 1. install [podman](https://podman.io/)
 2. ```cd``` to project folder
 3. ```bash runpodman.sh```
 4. the book will be output in the file ```main.pdf```
 
-## Option 2: Compile Using Local TexLive Installation 🖥️
+## Option 3: Compile Using Local TexLive Installation 🖥️
 
 1. install texlive (on debian-based GNU/Linux distros) with ```sudo apt install texlive-full```
 2. run ```bash makebook.sh``` to compile
