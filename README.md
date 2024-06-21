@@ -4,16 +4,17 @@ The source text and LaTeX formatting for AI Harmony by [Brad Flaugher](https://b
 
 <img src="./covers/BradFlaugher-Audiobook.png" alt="Description" width="200" height="200">
 
-# Compiling Your Own PDF Copy 📄
+# Getting a copy of AI Harmony
 
 The pdf copy of the book has many fancy formatting options enabled, see the preview below.
 
 ![pdf example](./preview.png)
 
-Get a free copy of AI Harmony via one of the following steps:
+Get a copy of AI Harmony via one of the following steps:
 
-## Option 1: Download an epub, pdf or the audiobook from the releases page
-See [Releases](https://github.com/predbrad/AI-Harmony-Book/releases)
+## Option 1: Download an epub, pdf or the audiobook
+* To get it for free see [releases](https://github.com/predbrad/AI-Harmony-Book/releases)
+* If you'd like to pay Amazon (and a little bit to the Author) see <a href="https://www.amazon.com/dp/B0CGMD389G">Amazon.com</a> or <a href="https://www.audible.com/pd/AI-Harmony-Audiobook/B0CM7F483F">Audible.com</a>.
 
 ## Option 2: Compile the pdf via a ```podman``` Container 🚀
 
