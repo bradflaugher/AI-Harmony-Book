@@ -40,10 +40,6 @@ Get a copy of AI Harmony via one of the following steps:
 
 Refer to the [Kaobook project](https://github.com/fmarotta/kaobook), upon which AI Harmony is based.
 
-# Supporting the Author
-
-* 💵 [Make a Donation via Coinbase](https://commerce.coinbase.com/checkout/ea43ea82-2708-4562-966b-bf30800ec592)
-
 # Contributing and TODOs
 
 If you'd like to contribute a chapter, revisions or whatever you like, you can email Brad at [brad@bradflaugher.com](mailto:brad@bradflaugher.com) or just submit a PR.
