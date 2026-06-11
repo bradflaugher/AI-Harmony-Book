@@ -56,6 +56,16 @@
 % Load comment package to temporarily remove stuff for formatting
 \usepackage{comment}
 
+%----------------------------------------------------------------------------------------
+%       FABLE EDITION ANNOTATIONS
+%----------------------------------------------------------------------------------------
+% Margin notes added for the 2026 "Fable Edition" update. The original 2023 text is
+% preserved wherever possible; hindsight lives in the margins.
+\definecolor{fableblue}{RGB}{25,75,140}
+\NewDocumentCommand{\fablenote}{ O{0pt} +m }{%
+    \marginnote[#1]{\textcolor{fableblue}{\textbf{2026 update:}}\enskip #2}%
+}
+
 \makeindex[columns=3, title=Alphabetical Index, intoc] % Make LaTeX produce the files required to compile the index
 
 \makeglossaries % Make LaTeX produce the files required to compile the glossary
@@ -78,6 +88,7 @@
 \includecomment{pdf}
 
 \begin{doc}
+\RenewDocumentCommand{\fablenote}{ O{0pt} +m }{}
 \renewcommand{\sidenote}[1]{}
 \renewcommand{\sidecite}[1]{\cite{#1}} % Use \cite instead of \sidecite since you are removing margins
 \renewcommand{\setchapterpreamble}[1]{}
@@ -122,7 +133,7 @@
 
 \author[Brad Flaugher]{Brad Flaugher}
 
-\date{}
+\date{The Fable Edition \textperiodcentered{} Revised \& Updated \textperiodcentered{} 2026}
 
 \publishers{\includegraphics[width=0.3\textwidth]{publogo}}
 
@@ -153,12 +164,18 @@
 
 \makeatletter
 \lowertitleback{
-    \textcopyright 2023 Brad Flaugher
-    
+    \textcopyright 2023, 2026 Brad Flaugher
+
     All Rights Reserved
 
     \medskip
-    
+
+    \noindent First Edition published May 2023
+
+    \noindent The Fable Edition (revised and updated) published June 2026
+
+    \medskip
+
     \noindent Hardcover \textbf{ISBN:978-1-956257-82-3} 
     
     \noindent eBook \textbf{ISBN:978-1-956257-81-6} 
@@ -194,6 +211,9 @@
 \input{chapters/qr.tex}
 \index{qr}
 \end{pdf}
+
+\input{chapters/fable_preface.tex}
+\index{fable preface}
 
 \input{chapters/preface.tex}
 \index{preface}
