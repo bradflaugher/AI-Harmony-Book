@@ -18,7 +18,7 @@ We’ll discuss this history and a few examples from the "early days" of AI to h
 
 When we "teach" a computer to perform a task by explicitly writing down all of the rules of that task, we are really codifying human understanding\sidenote{Programming this way makes some software development totally boring, I almost switched my major in college to math after considering what a life would look like manually writing rules for handling "edge cases" for the rest of my natural life.}. When we codify human understanding, we write down every rule that we know explicitly. For small tasks, we can do this with 100 percent accuracy, and only minor headaches on the part of the software developer.
 
-For example, let's write a boring function to tell you the number of days for a given month.\fablenote{Matt Welsh's epigraph at the start of this chapter is the prediction that aged best in this book. In 2023 I called the headline clickbait; by 2026, autonomous coding agents write a large share of the world's new code, software engineering is the largest commercial use of language models, and the corrections in this very edition were drafted by one. The boring function below may be the last code in this book a human ever writes by hand.}
+For example, let's write a boring function to tell you the number of days for a given month.
 
 \begin{lstlisting}[language=Python,style=kaolstplain,linewidth=1.5\textwidth]
 def days_in_month(year, month):
@@ -55,7 +55,7 @@ AI has traditionally operated by explicitly codifying human knowledge into machi
 
 However, recent advances in AI have largely ignored the knowledge representation problem and instead have focused on using statistical techniques and neural networks to automatically learn patterns and relationships in data. This approach, known as "deep learning," involves training large neural networks on vast amounts of data, allowing the AI system to make educated classifications and transformations of data without explicit human guidance.
 
-Deep learning has proven to be highly effective in a variety of applications, such as image and speech recognition, and has contributed to the rapid progress we have seen in AI in recent years. However, the reliance on large amounts of data and the lack of transparency in these models can make it difficult to understand how they are making decisions, which can be a concern in certain applications (especially Self-Driving and National Defense, see chapters 6 and 7).
+Deep learning has proven to be highly effective in a variety of applications, such as image and speech recognition, and has contributed to the rapid progress we have seen in AI in recent years. However, the reliance on large amounts of data and the lack of transparency in these models can make it difficult to understand how they are making decisions, which can be a concern in certain applications (especially Self-Driving and National Defense, see chapters 6 and 7).\fablenote[-1.2cm]{Matt Welsh's epigraph at the start of this chapter aged best of anything in this book. In 2023 I called the headline clickbait; by 2026 coding agents write a large share of the world's new code --- including this edition's corrections. The days-in-month function above may be the last code here a human ever writes by hand.}
 
 \section{IBM Tries Every Possible Chess Move}
 
