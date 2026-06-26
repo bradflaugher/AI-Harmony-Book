@@ -47,13 +47,11 @@ If you'd like to contribute a chapter, revisions or whatever you like, you can e
 
 If you'd like to see what I am working on for the second edition see [TODO.md](./TODO.md).
 
-# Copyright and GPL Notice ©️
+# Copyright and License ©️
 
 "AI Harmony" Copyright 2023, 2026 Brad Flaugher
 
-This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
-
-This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+Licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ## Kaobook Acknowledgment 📖
 
