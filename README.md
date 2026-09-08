@@ -41,11 +41,9 @@ Get a copy of AI Harmony via one of the following steps:
 
 Refer to the [Kaobook project](https://github.com/fmarotta/kaobook), upon which AI Harmony is based.
 
-# Contributing and TODOs
+# Contributing
 
 If you'd like to contribute a chapter, revisions or whatever you like, you can email Brad at [brad@bradflaugher.com](mailto:brad@bradflaugher.com) or just submit a PR.
-
-If you'd like to see what I am working on for the second edition see [TODO.md](./TODO.md).
 
 # Copyright and License ©️
 
